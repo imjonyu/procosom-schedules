@@ -1,0 +1,100 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260205T032500Z
+SUMMARY:D: Tinderellas c. Coyotes Urbains
+UID:5831992bc0ffaeec8bd612baa7a6c6bc
+URL:http://www.procosom.com//feuille-pointage.php?match=7598
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260319T022500Z
+SUMMARY:D: Trappeurs c. Coyotes Urbains
+UID:ec2d11677260f20b19e289a556b020d5
+URL:http://www.procosom.com//feuille-pointage.php?match=7723
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260219T012500Z
+SUMMARY:D: Coyotes Urbains c. Présidents
+UID:52725efb35da6b7ec032792273b8045f
+URL:http://www.procosom.com//feuille-pointage.php?match=7637
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260226T012500Z
+SUMMARY:D: Coyotes Urbains c. P'tite Ékip
+UID:cc00e8e19d67f9c9270919648bcbdad0
+URL:http://www.procosom.com//feuille-pointage.php?match=7658
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260305T032500Z
+SUMMARY:D: Bouchons de la Baleine c. Coyotes Urbains
+UID:f06b595729bb42958ab248bbe018e23a
+URL:http://www.procosom.com//feuille-pointage.php?match=7682
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260211T002500Z
+SUMMARY:D: Coyotes Urbains c. Pylons
+UID:47d66cb6b11f4213ad80ff99dfa7642a
+URL:http://www.procosom.com//feuille-pointage.php?match=7608
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260402T012500Z
+SUMMARY:D: Tribunal c. Coyotes Urbains
+UID:d8ef6a5595580be8df72269fc04f2dca
+URL:http://www.procosom.com//feuille-pointage.php?match=7761
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260122T002500Z
+SUMMARY:D: P'tite Ékip c. Coyotes Urbains
+UID:1abe086d9bf6829824029d3ba44db6a6
+URL:http://www.procosom.com//feuille-pointage.php?match=7552
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260416T022500Z
+SUMMARY:D: Punished c. Coyotes Urbains
+UID:aa6605e580e68ab62f50cbc8a0b10086
+URL:http://www.procosom.com//feuille-pointage.php?match=7802
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260128T022500Z
+SUMMARY:D: Coyotes Urbains c. Tinderellas
+UID:4302fc6ac2b6763236c6841416ac0a69
+URL:http://www.procosom.com//feuille-pointage.php?match=7569
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260422T002500Z
+SUMMARY:D: Coyotes Urbains c. Présidents
+UID:cd4f2d7e1926957708d29f3089e87d2a
+URL:http://www.procosom.com//feuille-pointage.php?match=7812
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260409T002500Z
+SUMMARY:D: Coyotes Urbains c. LumberJack
+UID:3094ac1edc7d91b02f5b71a7d6036d34
+URL:http://www.procosom.com//feuille-pointage.php?match=7779
+END:VEVENT
+END:VCALENDAR

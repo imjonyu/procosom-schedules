@@ -1,0 +1,100 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260116T002500Z
+SUMMARY:A: Jeunes Professionnels c. Puissant Escadron
+UID:5ac2c99b6ab44f18e0957a5a232f13e8
+URL:http://www.procosom.com//feuille-pointage.php?match=7538
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260227T002500Z
+SUMMARY:A: Jeunes Professionnels c. Puissant Escadron
+UID:e4dc3900fcb4be10f81e17dfb5cb0887
+URL:http://www.procosom.com//feuille-pointage.php?match=7663
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260416T002500Z
+SUMMARY:A: TTC Club c. Puissant Escadron
+UID:6998d0712b87f95ecaf73e322a89cf4f
+URL:http://www.procosom.com//feuille-pointage.php?match=7798
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260327T012500Z
+SUMMARY:A: Golden Kales c. Puissant Escadron
+UID:957087460f72ce658ab66f660f554df6
+URL:http://www.procosom.com//feuille-pointage.php?match=7748
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260218T022500Z
+SUMMARY:A: Sags c. Puissant Escadron
+UID:74e730d1dc5a2947d21b7bc97ac05a9e
+URL:http://www.procosom.com//feuille-pointage.php?match=7633
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260401T232500Z
+SUMMARY:A: Puissant Escadron c. Mighty Ducks
+UID:835844c87b08e43f5c714668c34c0e6b
+URL:http://www.procosom.com//feuille-pointage.php?match=7757
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260122T032500Z
+SUMMARY:A: Puissant Escadron c. Mighty Ducks
+UID:b5e3dae1dcc2cd367f9cce2cf6f06bc0
+URL:http://www.procosom.com//feuille-pointage.php?match=7558
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260305T012500Z
+SUMMARY:A: Puissant Escadron c. Mighty Ducks
+UID:8478a75e0a49306728b51931c897cb9f
+URL:http://www.procosom.com//feuille-pointage.php?match=7679
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260205T022500Z
+SUMMARY:A: Sags c. Puissant Escadron
+UID:4bbc83fb37b9234bf7c4aa8fce30fa66
+URL:http://www.procosom.com//feuille-pointage.php?match=7597
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260211T022500Z
+SUMMARY:A: Puissant Escadron c. Barking Dogs
+UID:39dbd8ad80b6ad2f474863b2ad3e2661
+URL:http://www.procosom.com//feuille-pointage.php?match=7612
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260421T232500Z
+SUMMARY:A: Puissant Escadron c. Sags
+UID:2c9062d2e60e2d1a04daf294eafa92b5
+URL:http://www.procosom.com//feuille-pointage.php?match=7810
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260318T002500Z
+SUMMARY:A: Puissant Escadron c. Barking Dogs
+UID:77ee6d5a7683b3343cde9975a3d7cc09
+URL:http://www.procosom.com//feuille-pointage.php?match=7713
+END:VEVENT
+END:VCALENDAR

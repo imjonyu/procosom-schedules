@@ -1,0 +1,100 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260114T002500Z
+SUMMARY:B: Chums de Palettes c. Front de Libération du Cosom
+UID:b9ea2eab95beaea73a46e785fb9a39a1
+URL:http://www.procosom.com//feuille-pointage.php?match=7524
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260408T232500Z
+SUMMARY:B: Golden Kales HC c. Chums de Palettes
+UID:81d05951f996c9f048d87342842dbbf8
+URL:http://www.procosom.com//feuille-pointage.php?match=7777
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260402T232500Z
+SUMMARY:B: Chums de Palettes c. TDC Sélections
+UID:500f865a863015045d02bbb675745488
+URL:http://www.procosom.com//feuille-pointage.php?match=7764
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260324T232500Z
+SUMMARY:B: Chums de Palettes c. Rois Lions
+UID:c90be4d599037a76a1c294e520228a2b
+URL:http://www.procosom.com//feuille-pointage.php?match=7731
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260410T002500Z
+SUMMARY:B: Chums de Palettes c. Achigans
+UID:57e68a8df66c8b92eea5a3abd77311c9
+URL:http://www.procosom.com//feuille-pointage.php?match=7785
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260121T012500Z
+SUMMARY:B: Quebec Beavers c. Chums de Palettes
+UID:7db7e868d3fd707c93f898409dff032f
+URL:http://www.procosom.com//feuille-pointage.php?match=7547
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260218T022500Z
+SUMMARY:B: Chums de Palettes c. Deadly Moogly
+UID:f521bd2d181733dd613633fa6b0ae556
+URL:http://www.procosom.com//feuille-pointage.php?match=7632
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260129T032500Z
+SUMMARY:B: Chums de Palettes c. Mouettes
+UID:6228147c8c80953ed51d4bf64933cce3
+URL:http://www.procosom.com//feuille-pointage.php?match=7578
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260423T022500Z
+SUMMARY:B: Quebec Beavers c. Chums de Palettes
+UID:837832c4044d6ba8b9fc674aaf05f556
+URL:http://www.procosom.com//feuille-pointage.php?match=7823
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260206T022500Z
+SUMMARY:B: Chuck Norris c. Chums de Palettes
+UID:0c0a1e7786cb7f1effa7f263c0db9037
+URL:http://www.procosom.com//feuille-pointage.php?match=7604
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260313T012500Z
+SUMMARY:B: Achigans c. Chums de Palettes
+UID:d8f72329f5a136ee9025e5317967c557
+URL:http://www.procosom.com//feuille-pointage.php?match=7708
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260226T002500Z
+SUMMARY:B: Golden Kales HC c. Chums de Palettes
+UID:46c6873476a12fb8cf5ead36525e5f1b
+URL:http://www.procosom.com//feuille-pointage.php?match=7656
+END:VEVENT
+END:VCALENDAR

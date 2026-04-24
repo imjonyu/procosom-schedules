@@ -1,0 +1,100 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260325T012500Z
+SUMMARY:C: Jagrbombs c. Mêlés Noirs
+UID:adbd014c3699ffe56cbc866e31e68c62
+URL:http://www.procosom.com//feuille-pointage.php?match=7732
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260123T032500Z
+SUMMARY:C: Jagrbombs c. Wolfpack
+UID:dcffe3be692f152a373c71cb5ca32998
+URL:http://www.procosom.com//feuille-pointage.php?match=7564
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260421T232500Z
+SUMMARY:C: Sauce AC c. Jagrbombs
+UID:70387a0826a434cb9fa0eae677d092c7
+URL:http://www.procosom.com//feuille-pointage.php?match=7811
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260408T012500Z
+SUMMARY:C: Ballebuzards c. Jagrbombs
+UID:5b5f5e8edee7631c2e48692ace613bbb
+URL:http://www.procosom.com//feuille-pointage.php?match=7775
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260114T012500Z
+SUMMARY:C: Momentums c. Jagrbombs
+UID:60f62737c5226627d7df90b3fff4aa36
+URL:http://www.procosom.com//feuille-pointage.php?match=7526
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260313T002500Z
+SUMMARY:C: Wolfpack c. Jagrbombs
+UID:dfaf279f22a981859fedec4f1dd80b82
+URL:http://www.procosom.com//feuille-pointage.php?match=7706
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260206T012500Z
+SUMMARY:C: Jagrbombs c. Evil Sticks
+UID:48dfd7ef70127c1330e39389224b7290
+URL:http://www.procosom.com//feuille-pointage.php?match=7602
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260306T022500Z
+SUMMARY:C: Jagrbombs c. Bâton dans les Roues
+UID:1755eebf731ad291b26461365f57f0d1
+URL:http://www.procosom.com//feuille-pointage.php?match=7688
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260220T022500Z
+SUMMARY:C: Jagrbombs c. Gros Matous
+UID:ada7f966fe0f757bd0ee5ec9e19eabb6
+URL:http://www.procosom.com//feuille-pointage.php?match=7645
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260403T002500Z
+SUMMARY:C: Jagrbombs c. Bon Boys de Croquetteville
+UID:024fd48a1fad78d4d06b7f9077e184ac
+URL:http://www.procosom.com//feuille-pointage.php?match=7766
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260227T022500Z
+SUMMARY:C: Scie-Hawks c. Jagrbombs
+UID:7672d6a609f0618690ad3e83b93d9390
+URL:http://www.procosom.com//feuille-pointage.php?match=7667
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260130T032500Z
+SUMMARY:C: Top Shotta 2.0 c. Jagrbombs
+UID:9b1d581d95da67e7a09de8a87e328e41
+URL:http://www.procosom.com//feuille-pointage.php?match=7585
+END:VEVENT
+END:VCALENDAR

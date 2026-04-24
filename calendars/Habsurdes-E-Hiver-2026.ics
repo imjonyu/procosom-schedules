@@ -1,0 +1,100 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260305T032500Z
+SUMMARY:E: Gros Chefs Bandits c. Habsurdes
+UID:4eea8969d6b182cae5f1e042ab9e3a9b
+URL:http://www.procosom.com//feuille-pointage.php?match=7683
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260409T022500Z
+SUMMARY:E: Habsurdes c. Cosmiques
+UID:e8b333953226a67b019799e0b11e7229
+URL:http://www.procosom.com//feuille-pointage.php?match=7783
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260114T022500Z
+SUMMARY:E: Grouin Grouin c. Habsurdes
+UID:78a20fe112918bb724d17f65438ddd9f
+URL:http://www.procosom.com//feuille-pointage.php?match=7528
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260402T002500Z
+SUMMARY:E: Habsurdes c. Grouin Grouin
+UID:2a7cbbaed8adce62608631928ffbb40c
+URL:http://www.procosom.com//feuille-pointage.php?match=7759
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260212T022500Z
+SUMMARY:E: Invincibles c. Habsurdes
+UID:0c25ea53d7304fa2ec7fa61c6e233c61
+URL:http://www.procosom.com//feuille-pointage.php?match=7617
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260204T002500Z
+SUMMARY:E: Grainezky c. Habsurdes
+UID:fad3fb3115e2d688dcaa84bc86ccc12c
+URL:http://www.procosom.com//feuille-pointage.php?match=7586
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260415T012500Z
+SUMMARY:E: Cosmiques c. Habsurdes
+UID:be3610438c028ead8250199fc752b97c
+URL:http://www.procosom.com//feuille-pointage.php?match=7795
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260326T002500Z
+SUMMARY:E: Punks de l'Enfer c. Habsurdes
+UID:956a0a94950682782fc100e24464ac6d
+URL:http://www.procosom.com//feuille-pointage.php?match=7738
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260410T022500Z
+SUMMARY:E: Habsurdes c. TDC
+UID:d5696642aac1b1569672fb0a248374c9
+URL:http://www.procosom.com//feuille-pointage.php?match=7703
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260218T002500Z
+SUMMARY:E: Habsurdes c. Cougars
+UID:302397081d2dc17078b552d984e3ee01
+URL:http://www.procosom.com//feuille-pointage.php?match=7629
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260128T002500Z
+SUMMARY:E: Habsurdes c. Cougars
+UID:7548711510573f5e1e7e73e491249e8b
+URL:http://www.procosom.com//feuille-pointage.php?match=7565
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260318T232500Z
+SUMMARY:E: Habsurdes c. Black Mad Squirrels
+UID:d1f8800bf1d87616712cba61c800c4c3
+URL:http://www.procosom.com//feuille-pointage.php?match=7717
+END:VEVENT
+END:VCALENDAR

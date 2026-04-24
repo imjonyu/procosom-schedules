@@ -1,0 +1,100 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260220T022500Z
+SUMMARY:D: Trappeurs c. Punished
+UID:7c5008c6d1639a30fc30d813cffcfac3
+URL:http://www.procosom.com//feuille-pointage.php?match=7646
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260313T022500Z
+SUMMARY:D: Trappeurs c. Bouchons de la Baleine
+UID:c757b8a93f12e466973297b9b46e5b41
+URL:http://www.procosom.com//feuille-pointage.php?match=7709
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260306T022500Z
+SUMMARY:D: Tinderellas c. Trappeurs
+UID:c667d9dbdc12d9fc0ad9b47fe82c1a65
+URL:http://www.procosom.com//feuille-pointage.php?match=7687
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260114T012500Z
+SUMMARY:D: Présidents c. Trappeurs
+UID:6dc953fb1c074f4e742065f30f352b07
+URL:http://www.procosom.com//feuille-pointage.php?match=7527
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260402T022500Z
+SUMMARY:D: P'tite Ékip c. Trappeurs
+UID:c72df606173836b39b4cbc7877f606fe
+URL:http://www.procosom.com//feuille-pointage.php?match=7763
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260319T022500Z
+SUMMARY:D: Trappeurs c. Coyotes Urbains
+UID:ec2d11677260f20b19e289a556b020d5
+URL:http://www.procosom.com//feuille-pointage.php?match=7723
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260130T002500Z
+SUMMARY:D: Tribunal c. Trappeurs
+UID:9066bc8f26a7f2696dfd4c58aaa66bed
+URL:http://www.procosom.com//feuille-pointage.php?match=7579
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260407T232500Z
+SUMMARY:D: Pylons c. Trappeurs
+UID:c14c6b1c7b55a654d61f5b992d803109
+URL:http://www.procosom.com//feuille-pointage.php?match=7770
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260213T032500Z
+SUMMARY:D: Trappeurs c. Tinderellas
+UID:0147178cd6222546295135acb2f07d1c
+URL:http://www.procosom.com//feuille-pointage.php?match=7626
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260325T012500Z
+SUMMARY:D: LumberJack c. Trappeurs
+UID:efbb2d1c14f69d62c7c5b7372e614341
+URL:http://www.procosom.com//feuille-pointage.php?match=7735
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260423T002500Z
+SUMMARY:D: Trappeurs c. LumberJack
+UID:f9e375a7e53bece91c4e9b1893c16c90
+URL:http://www.procosom.com//feuille-pointage.php?match=7818
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260204T032500Z
+SUMMARY:D: Trappeurs c. Pylons
+UID:c381c2b31deaf2957425113c14cd2606
+URL:http://www.procosom.com//feuille-pointage.php?match=7592
+END:VEVENT
+END:VCALENDAR
