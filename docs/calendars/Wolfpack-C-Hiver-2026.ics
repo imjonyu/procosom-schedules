@@ -1,0 +1,99 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260320T012500Z
+SUMMARY:C: Evil Sticks c. Wolfpack
+UID:d7186f9abaf5e139edc4b1363ff25286
+URL:http://www.procosom.com//feuille-pointage.php?match=7728
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260417T002500Z
+SUMMARY:C: Wolfpack c. Bâton dans les Roues
+UID:738783382d48c6f2a2ca030c95f197f5
+URL:http://www.procosom.com//feuille-pointage.php?match=7805
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260123T032500Z
+SUMMARY:C: Jagrbombs c. Wolfpack
+UID:dcffe3be692f152a373c71cb5ca32998
+URL:http://www.procosom.com//feuille-pointage.php?match=7564
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260115T012500Z
+SUMMARY:C: Wolfpack c. Ballebuzards
+UID:da55444e83a06cdb3f10849abfb49d69
+URL:http://www.procosom.com//feuille-pointage.php?match=7533
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260410T022500Z
+SUMMARY:C: Top Shotta 2.0 c. Wolfpack
+UID:9934f950fce0a356eb944707ee63732e
+URL:http://www.procosom.com//feuille-pointage.php?match=7789
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260219T012500Z
+SUMMARY:C: CocoCrazys c. Wolfpack
+UID:a11b8f1386af7066a28e3c3c5ad7cfb0
+URL:http://www.procosom.com//feuille-pointage.php?match=7636
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260227T022500Z
+SUMMARY:C: Gros Matous c. Wolfpack
+UID:43aaea03e93d43b88b54034b5eb473eb
+URL:http://www.procosom.com//feuille-pointage.php?match=7666
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260205T012500Z
+SUMMARY:C: Wolfpack c. Goats
+UID:cba812e44856cf1ed8245d9e143b9d23
+URL:http://www.procosom.com//feuille-pointage.php?match=7595
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260313T002500Z
+SUMMARY:C: Wolfpack c. Jagrbombs
+UID:dfaf279f22a981859fedec4f1dd80b82
+URL:http://www.procosom.com//feuille-pointage.php?match=7706
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260327T002500Z
+SUMMARY:C: Wolfpack c. Evil Sticks
+UID:82f47907509a9f82e9b2f9155d975e20
+URL:http://www.procosom.com//feuille-pointage.php?match=7746
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260424T002500Z
+SUMMARY:C: Scie-Hawks c. Wolfpack
+UID:954aec09dced5046d33a3a6791b0ae42
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260130T012500Z
+SUMMARY:C: Wolfpack c. Bon Boys de Croquetteville
+UID:9e6113710da4633eca4c1a0f01071533
+URL:http://www.procosom.com//feuille-pointage.php?match=7580
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,100 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260304T002500Z
+SUMMARY:E: Cougars c. Punks de l'Enfer
+UID:1626e453cf0269286dadb2f9f6928461
+URL:http://www.procosom.com//feuille-pointage.php?match=7671
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260423T002500Z
+SUMMARY:E: Cougars c. Gros Chefs Bandits
+UID:1b6d389f4ed099a3979053aefa354762
+URL:http://www.procosom.com//feuille-pointage.php?match=7819
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260121T022500Z
+SUMMARY:E: Cosmiques c. Cougars
+UID:7d38ed0079cbb045b13f9a8c2429ccc9
+URL:http://www.procosom.com//feuille-pointage.php?match=7549
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260325T022500Z
+SUMMARY:E: Grouin Grouin c. Cougars
+UID:497e9603551d9edf7bef288f426c3733
+URL:http://www.procosom.com//feuille-pointage.php?match=7736
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260211T002500Z
+SUMMARY:E: Cougars c. Grainezky
+UID:85ae8f6bc09ca1e94af3b1491abd1e34
+URL:http://www.procosom.com//feuille-pointage.php?match=7607
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260310T232500Z
+SUMMARY:E: Cougars c. Black Mad Squirrels
+UID:67370aeb7f0e5321d4df97aece39f582
+URL:http://www.procosom.com//feuille-pointage.php?match=7691
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260115T012500Z
+SUMMARY:E: Cougars c. TDC
+UID:7551b0fc309c8d27edde616041f7bd7c
+URL:http://www.procosom.com//feuille-pointage.php?match=7532
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260408T022500Z
+SUMMARY:E: Cougars c. Invincibles
+UID:cae25b91832774e6f17962fa33bbef7e
+URL:http://www.procosom.com//feuille-pointage.php?match=7776
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260317T232500Z
+SUMMARY:E: Grouin Grouin c. Cougars
+UID:0221b69f53fc2bd583e0bb7a080a59d2
+URL:http://www.procosom.com//feuille-pointage.php?match=7710
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260218T002500Z
+SUMMARY:E: Habsurdes c. Cougars
+UID:302397081d2dc17078b552d984e3ee01
+URL:http://www.procosom.com//feuille-pointage.php?match=7629
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260128T002500Z
+SUMMARY:E: Habsurdes c. Cougars
+UID:7548711510573f5e1e7e73e491249e8b
+URL:http://www.procosom.com//feuille-pointage.php?match=7565
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260402T002500Z
+SUMMARY:E: Gros Chefs Bandits c. Cougars
+UID:efab7a66458975c6d43d6b8421f4c3cb
+URL:http://www.procosom.com//feuille-pointage.php?match=7758
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,100 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260417T012500Z
+SUMMARY:E: Invincibles c. Grainezky
+UID:26d64ee547a5a278f0d9ab0c82fe589b
+URL:http://www.procosom.com//feuille-pointage.php?match=7807
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260122T032500Z
+SUMMARY:E: TDC c. Invincibles
+UID:0c34f52cfa12100f9f31ce1f29e6ae6e
+URL:http://www.procosom.com//feuille-pointage.php?match=7557
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260327T012500Z
+SUMMARY:E: Invincibles c. Grainezky
+UID:79317b5387c4fed5009b37c1e3c4f417
+URL:http://www.procosom.com//feuille-pointage.php?match=7747
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260205T022500Z
+SUMMARY:E: Black Mad Squirrels c. Invincibles
+UID:c839fcbca3bd636d919f8bb4ec0c4714
+URL:http://www.procosom.com//feuille-pointage.php?match=7596
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260403T012500Z
+SUMMARY:E: Invincibles c. Punks de l'Enfer
+UID:9fcfe4cc11c7cfde11a539538b1c2489
+URL:http://www.procosom.com//feuille-pointage.php?match=7767
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260306T032500Z
+SUMMARY:E: Black Mad Squirrels c. Invincibles
+UID:2e60b93253d830dcc255eaba3e1beedf
+URL:http://www.procosom.com//feuille-pointage.php?match=7689
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260408T022500Z
+SUMMARY:E: Cougars c. Invincibles
+UID:cae25b91832774e6f17962fa33bbef7e
+URL:http://www.procosom.com//feuille-pointage.php?match=7776
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260212T022500Z
+SUMMARY:E: Invincibles c. Habsurdes
+UID:0c25ea53d7304fa2ec7fa61c6e233c61
+URL:http://www.procosom.com//feuille-pointage.php?match=7617
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260226T022500Z
+SUMMARY:E: Invincibles c. Gros Chefs Bandits
+UID:35fd7e4f4f0bc56c4b667e03e5238df5
+URL:http://www.procosom.com//feuille-pointage.php?match=7659
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260218T012500Z
+SUMMARY:E: Grouin Grouin c. Invincibles
+UID:b8e408c792fe587f7c34bc9d5d516ec8
+URL:http://www.procosom.com//feuille-pointage.php?match=7630
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260128T012500Z
+SUMMARY:E: Invincibles c. Gros Chefs Bandits
+UID:120ada12bf1c094af62ad3f6f9b7b5c3
+URL:http://www.procosom.com//feuille-pointage.php?match=7567
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260311T022500Z
+SUMMARY:E: Cosmiques c. Invincibles
+UID:aabd2efd28536d433cbba50421558d7e
+URL:http://www.procosom.com//feuille-pointage.php?match=7696
+END:VEVENT
+END:VCALENDAR

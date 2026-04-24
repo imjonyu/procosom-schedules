@@ -1,0 +1,100 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260325T012500Z
+SUMMARY:C: Jagrbombs c. Mêlés Noirs
+UID:adbd014c3699ffe56cbc866e31e68c62
+URL:http://www.procosom.com//feuille-pointage.php?match=7732
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260225T012500Z
+SUMMARY:C: Evil Sticks c. Mêlés Noirs
+UID:ac02e63c5adf6a495c38393686303601
+URL:http://www.procosom.com//feuille-pointage.php?match=7652
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260305T002500Z
+SUMMARY:C: Mêlés Noirs c. Scie-Hawks
+UID:a0b47048c06abde4e605b55877181775
+URL:http://www.procosom.com//feuille-pointage.php?match=7677
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260409T022500Z
+SUMMARY:C: Mêlés Noirs c. Gros Matous
+UID:abb798b4acd9402810e9900f7c3a89ed
+URL:http://www.procosom.com//feuille-pointage.php?match=7782
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260211T012500Z
+SUMMARY:C: Mêlés Noirs c. Momentums
+UID:bde26985e1f4a2c3d7395880fc352dc3
+URL:http://www.procosom.com//feuille-pointage.php?match=7610
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260319T012500Z
+SUMMARY:C: Sauce AC c. Mêlés Noirs
+UID:68cd9b0ddecf2a43d50d7d9ff5a5cf1a
+URL:http://www.procosom.com//feuille-pointage.php?match=7721
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260423T012500Z
+SUMMARY:C: Top Shotta 2.0 c. Mêlés Noirs
+UID:a15b363028c614863c1a26d98aa47764
+URL:http://www.procosom.com//feuille-pointage.php?match=7821
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260129T012500Z
+SUMMARY:C: Goats c. Mêlés Noirs
+UID:430ab8b7f1d1e9c20495e2382c9cc364
+URL:http://www.procosom.com//feuille-pointage.php?match=7573
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260415T002500Z
+SUMMARY:C: Mêlés Noirs c. Ballebuzards
+UID:a20a278ceae66e1394fcf274e39bf2a4
+URL:http://www.procosom.com//feuille-pointage.php?match=7793
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260122T012500Z
+SUMMARY:C: Momentums c. Mêlés Noirs
+UID:b135ddff9552a4e2f5c37d1a87b6d028
+URL:http://www.procosom.com//feuille-pointage.php?match=7553
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260115T002500Z
+SUMMARY:C: Mêlés Noirs c. CocoCrazys
+UID:938272c1b327118e6cf8d2f48ad70190
+URL:http://www.procosom.com//feuille-pointage.php?match=7531
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260219T022500Z
+SUMMARY:C: Mêlés Noirs c. Ballebuzards
+UID:4536941d52019e18ccf35305cf988967
+URL:http://www.procosom.com//feuille-pointage.php?match=7638
+END:VEVENT
+END:VCALENDAR

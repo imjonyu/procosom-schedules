@@ -1,0 +1,100 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260311T002500Z
+SUMMARY:C: Bâton dans les Roues c. Momentums
+UID:f895b30d6fbb9b054ff5a258196ad886
+URL:http://www.procosom.com//feuille-pointage.php?match=7693
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260422T012500Z
+SUMMARY:C: CocoCrazys c. Momentums
+UID:c381bc575c6d0c4502ba91752742ee37
+URL:http://www.procosom.com//feuille-pointage.php?match=7815
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260318T002500Z
+SUMMARY:C: Momentums c. Gros Matous
+UID:5a5a00255ba426aebe9df5cbc8d2e780
+URL:http://www.procosom.com//feuille-pointage.php?match=7712
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260211T012500Z
+SUMMARY:C: Mêlés Noirs c. Momentums
+UID:bde26985e1f4a2c3d7395880fc352dc3
+URL:http://www.procosom.com//feuille-pointage.php?match=7610
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260326T012500Z
+SUMMARY:C: Goats c. Momentums
+UID:fbfa6b526b140861dfef09639624947b
+URL:http://www.procosom.com//feuille-pointage.php?match=7741
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260408T002500Z
+SUMMARY:C: Momentums c. Sauce AC
+UID:e92ad301788de7b698ece691ac473286
+URL:http://www.procosom.com//feuille-pointage.php?match=7773
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260114T012500Z
+SUMMARY:C: Momentums c. Jagrbombs
+UID:60f62737c5226627d7df90b3fff4aa36
+URL:http://www.procosom.com//feuille-pointage.php?match=7526
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260416T022500Z
+SUMMARY:C: Momentums c. Scie-Hawks
+UID:0acac3bfad9e88c1a098228ef4a76aed
+URL:http://www.procosom.com//feuille-pointage.php?match=7803
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260204T012500Z
+SUMMARY:C: Ballebuzards c. Momentums
+UID:34e3159407df32581405d7c54b79da9a
+URL:http://www.procosom.com//feuille-pointage.php?match=7588
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260122T012500Z
+SUMMARY:C: Momentums c. Mêlés Noirs
+UID:b135ddff9552a4e2f5c37d1a87b6d028
+URL:http://www.procosom.com//feuille-pointage.php?match=7553
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260401T012500Z
+SUMMARY:C: Top Shotta 2.0 c. Momentums
+UID:cea803bc9f6d41bdca5b9cd21c1fa76f
+URL:http://www.procosom.com//feuille-pointage.php?match=7755
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260225T012500Z
+SUMMARY:C: Momentums c. Goats
+UID:c72dd6e05ef7d23afb5630b27ffcb59e
+URL:http://www.procosom.com//feuille-pointage.php?match=7651
+END:VEVENT
+END:VCALENDAR
