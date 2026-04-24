@@ -27,7 +27,7 @@ os.makedirs("calendars", exist_ok=True)
 ## But now the query works and returns all the data I need
 ## I can build the ICAL part next
 
-saveLocation = "./calendars"
+saveLocation = "./docs/calendars"
 HomeTeam = aliased(Team)
 AwayTeam = aliased(Team)
 with Session(engine) as session:
