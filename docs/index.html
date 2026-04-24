@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Procosom Calendars</title>
+</head>
+<body>
+    <h1>Subscribe to your team calendar</h1>
+    <select id="team-select">
+        <option value="">-- Select your team --</option>
+        <option value="Wolfpack">Wolfpack</option>
+        <option value="Ballebuzards">Ballebuzards</option>
+        <!-- etc -->
+    </select>
+
+    <br><br>
+
+    <!-- Subscribe directly in calendar app -->
+    <a id="subscribe-link" href="#">Subscribe</a>
+
+    <!-- Or download the .ics file -->
+    <a id="download-link" href="#">Download .ics</a>
+
+    <script>
+        const BASE_URL = "https://your-github-pages-url/calendars/";
+
+        document.getElementById("team-select").addEventListener("change", (e) => {
+            const team = e.target.value.replace(" ", "_");
+            const url = `${BASE_URL}${team}.ics`;
+
+            // webcal:// triggers "subscribe" in calendar apps instead of download
+            document.getElementById("subscribe-link").href = url.replace("https://", "webcal://");
+            document.getElementById("download-link").href = url;
+        });
+    </script>
+</body>
+</html>
