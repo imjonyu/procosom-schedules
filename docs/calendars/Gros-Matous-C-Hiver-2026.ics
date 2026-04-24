@@ -97,4 +97,11 @@ SUMMARY:C: Gros Matous c. Bon Boys de Croquetteville
 UID:cbb15ed1846f4e15e085a9388b0ccf3f
 URL:http://www.procosom.com//feuille-pointage.php?match=7624
 END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260501T012500Z
+SUMMARY:Séries: C: : Gros Matous c. Jagrbombs
+UID:3e9dcbed015a891d376067379a01021c
+END:VEVENT
 END:VCALENDAR

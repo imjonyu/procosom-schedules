@@ -19,6 +19,13 @@ URL:http://www.procosom.com//feuille-pointage.php?match=7621
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260429T012500Z
+SUMMARY:Séries: B: : Quebec Beavers c. Deadly Moogly
+UID:6030aad5d2c1093e0b7708e1e76c0e8b
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260325T002500Z
 SUMMARY:B: Quebec Beavers c. Front de Libération du Cosom

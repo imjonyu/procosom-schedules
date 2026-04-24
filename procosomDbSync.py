@@ -271,7 +271,7 @@ with Session(engine) as session:
     for game in playoffs:
         playoffs_data = Game(game_id=int(game["#"]), 
                              season_id=int(current_season["season_id"]), 
-                             division_id=game["ligue"], 
+                             division_id=division_lookup[game["ligue"]], 
                              date=game["date"], 
                              time=game["heure"], 
                              gym=game["lieu"], 

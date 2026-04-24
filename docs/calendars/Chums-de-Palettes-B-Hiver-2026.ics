@@ -97,4 +97,11 @@ SUMMARY:B: Golden Kales HC c. Chums de Palettes
 UID:46c6873476a12fb8cf5ead36525e5f1b
 URL:http://www.procosom.com//feuille-pointage.php?match=7656
 END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260501T002500Z
+SUMMARY:Séries: B: : Chums de Palettes c. Chuck Norris
+UID:784bb1b673e57355cf48856c96c03f40
+END:VEVENT
 END:VCALENDAR

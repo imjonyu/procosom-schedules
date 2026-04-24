@@ -47,6 +47,7 @@ LOCATION:CVM-Pal
 DTSTART:20260424T002500Z
 SUMMARY:A: Golden Kales c. Barking Dogs
 UID:d6ee4ea69adfd89b829e808d900ab266
+URL:http://www.procosom.com//feuille-pointage.php?match=7826
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
@@ -55,6 +56,13 @@ DTSTART:20260129T012500Z
 SUMMARY:A: Golden Kales c. Barking Dogs
 UID:5f47ffba9dd7e3321deb06e8388e762c
 URL:http://www.procosom.com//feuille-pointage.php?match=7574
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260429T232500Z
+SUMMARY:Séries: A: : Puissant Escadron c. Barking Dogs
+UID:b08b0de5073e9653c9e7199cfd7e6302
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

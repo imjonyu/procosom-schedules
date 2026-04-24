@@ -97,4 +97,11 @@ SUMMARY:C: Top Shotta 2.0 c. Jagrbombs
 UID:9b1d581d95da67e7a09de8a87e328e41
 URL:http://www.procosom.com//feuille-pointage.php?match=7585
 END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260501T012500Z
+SUMMARY:Séries: C: : Gros Matous c. Jagrbombs
+UID:3e9dcbed015a891d376067379a01021c
+END:VEVENT
 END:VCALENDAR

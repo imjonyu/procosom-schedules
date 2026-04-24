@@ -67,6 +67,13 @@ URL:http://www.procosom.com//feuille-pointage.php?match=7791
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260501T012500Z
+SUMMARY:Séries: C: : Scie-Hawks c. Bon Boys de Croquetteville
+UID:ccca23cb328f221724c5fd258d11836f
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260218T032500Z
 SUMMARY:C: Sauce AC c. Bon Boys de Croquetteville

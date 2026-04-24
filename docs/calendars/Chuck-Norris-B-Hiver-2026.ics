@@ -97,4 +97,11 @@ SUMMARY:B: Chuck Norris c. Chums de Palettes
 UID:0c0a1e7786cb7f1effa7f263c0db9037
 URL:http://www.procosom.com//feuille-pointage.php?match=7604
 END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260501T002500Z
+SUMMARY:Séries: B: : Chums de Palettes c. Chuck Norris
+UID:784bb1b673e57355cf48856c96c03f40
+END:VEVENT
 END:VCALENDAR

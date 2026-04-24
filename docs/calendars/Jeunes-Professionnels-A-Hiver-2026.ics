@@ -43,6 +43,13 @@ URL:http://www.procosom.com//feuille-pointage.php?match=7725
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260430T002500Z
+SUMMARY:Séries: A: : Jeunes Professionnels c. Mighty Ducks
+UID:149bacdce55e35c28048f80158fa7844
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260123T022500Z
 SUMMARY:A: Golden Kales c. Jeunes Professionnels

@@ -68,6 +68,7 @@ with Session(engine) as session:
             #print(away.name)   # away team name
             #print(division.division_id)
             #print(season.name)
+            print(game.playoffs)
             #generate_iCal_calendar(game,home,away,division,season)
             ##############3
             hour, minute = game.time[:2], game.time[3:5] 
@@ -76,8 +77,8 @@ with Session(engine) as session:
             start_time = local_tz.localize(datetime(int(year),int(month),int(day), int(hour), int(minute)))
             utc_time = start_time.astimezone(pytz.utc)
             title = f"{division.name}"
-            if game.playoffs == 1:
-                title = f"Series: {division.name}: "
+            if game.playoffs == 1 or game.playoffs == "1":
+                title = f"Séries: {division.name}: "
             
             e = Event()
             e.name = title + ": " + str(home.name) + " c. " + str(away.name) # Event title

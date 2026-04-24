@@ -39,6 +39,7 @@ LOCATION:CVM-Pal
 DTSTART:20260424T012500Z
 SUMMARY:C: Bâton dans les Roues c. Evil Sticks
 UID:98d752d6aba3b36f64deb6cb42b401d3
+URL:http://www.procosom.com//feuille-pointage.php?match=7828
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
@@ -95,5 +96,12 @@ DTSTART:20260213T032500Z
 SUMMARY:C: Bâton dans les Roues c. Top Shotta 2.0
 UID:ef96ec7144d2bdd4c58ce4f758b61e6e
 URL:http://www.procosom.com//feuille-pointage.php?match=7627
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260430T232500Z
+SUMMARY:Séries: C: : Bâton dans les Roues c. Wolfpack
+UID:96593e6f730510429d7aa8318caa0131
 END:VEVENT
 END:VCALENDAR
