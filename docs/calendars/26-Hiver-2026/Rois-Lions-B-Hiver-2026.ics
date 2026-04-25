@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260429T012500Z
+SUMMARY:Séries: B: Front de Libération du Cosom c. Rois Lions
+UID:7c1da083b5d5cd34f6ae90314bc0b2b8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7648
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260220T032500Z
+SUMMARY:B: TDC Sélections - 2 c. Rois Lions - 5
+UID:2431360bb336e18922f257689254bc7f
+URL:http://www.procosom.com/feuille-pointage.php?match=7648
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7668
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260227T032500Z
+SUMMARY:B: Rois Lions - 10 c. Chuck Norris - 1
+UID:492aa6d9e11601a6a94b6c0650b1488d
+URL:http://www.procosom.com/feuille-pointage.php?match=7668
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7814
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260422T012500Z
+SUMMARY:B: Deadly Moogly - 1 c. Rois Lions - 6
+UID:8c02f0f9157625ea8cffc085eb7d10b1
+URL:http://www.procosom.com/feuille-pointage.php?match=7814
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7753
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260401T002500Z
+SUMMARY:B: Rois Lions - 3 c. Quebec Beavers - 3
+UID:592946c6be764a5341f216c1b034555f
+URL:http://www.procosom.com/feuille-pointage.php?match=7753
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7731
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260324T232500Z
+SUMMARY:B: Chums de Palettes - 3 c. Rois Lions - 10
+UID:c90be4d599037a76a1c294e520228a2b
+URL:http://www.procosom.com/feuille-pointage.php?match=7731
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7676
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260304T032500Z
+SUMMARY:B: Quebec Beavers - 0 c. Rois Lions - 10
+UID:6aa2a7fbc6df20952ab6a7ecc72ca149
+URL:http://www.procosom.com/feuille-pointage.php?match=7676
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7771
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260407T232500Z
+SUMMARY:B: Rois Lions - 0 c. Mouettes - 7
+UID:aa7d62329c0d6b7aff01651beeeaacc7
+URL:http://www.procosom.com/feuille-pointage.php?match=7771
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7577
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260129T032500Z
+SUMMARY:B: Front de Libération du Cosom - 12 c. Rois Lions - 4
+UID:ecfe594ade79bca70d1fd499a2d6344e
+URL:http://www.procosom.com/feuille-pointage.php?match=7577
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7534
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260115T022500Z
+SUMMARY:B: TDC Sélections - 5 c. Rois Lions - 1
+UID:32b1f18a7c27edcd3e932581f20a406b
+URL:http://www.procosom.com/feuille-pointage.php?match=7534
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7613
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260211T032500Z
+SUMMARY:B: Rois Lions - 3 c. Front de Libération du Cosom - 6
+UID:58c5d16c497bd5ac135f894e9ed4c19f
+URL:http://www.procosom.com/feuille-pointage.php?match=7613
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7727
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260320T012500Z
+SUMMARY:B: Rois Lions - 6 c. Achigans - 3
+UID:91cd7630d11b7a1c502a42c540911169
+URL:http://www.procosom.com/feuille-pointage.php?match=7727
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7589
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260204T012500Z
+SUMMARY:B: Rois Lions - 2 c. Mouettes - 4
+UID:ff1d74f403a04269cd48da3f5e7d7f8d
+URL:http://www.procosom.com/feuille-pointage.php?match=7589
+END:VEVENT
+END:VCALENDAR

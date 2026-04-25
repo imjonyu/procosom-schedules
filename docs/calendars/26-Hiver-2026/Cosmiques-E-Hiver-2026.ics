@@ -1,0 +1,112 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7672
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260304T012500Z
+SUMMARY:E: Grouin Grouin - 0 c. Cosmiques - 4
+UID:61cea6130c84fdd2564ca47b1b178c61
+URL:http://www.procosom.com/feuille-pointage.php?match=7672
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7590
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260204T022500Z
+SUMMARY:E: Cosmiques - 5 c. Grouin Grouin - 4
+UID:47172cc0f0272c6c7de6e1801b1bba12
+URL:http://www.procosom.com/feuille-pointage.php?match=7590
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7743
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260326T022500Z
+SUMMARY:E: Cosmiques - 4 c. TDC - 2
+UID:bd192e2a21b950d19b6343c8ee9360a7
+URL:http://www.procosom.com/feuille-pointage.php?match=7743
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7549
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260121T022500Z
+SUMMARY:E: Cosmiques - 3 c. Cougars - 0
+UID:7d38ed0079cbb045b13f9a8c2429ccc9
+URL:http://www.procosom.com/feuille-pointage.php?match=7549
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7772
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260408T002500Z
+SUMMARY:E: Gros Chefs Bandits - 1 c. Cosmiques - 5
+UID:5613b2ed368bca926095392ca5724177
+URL:http://www.procosom.com/feuille-pointage.php?match=7772
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7529
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260114T022500Z
+SUMMARY:E: Grainezky - 3 c. Cosmiques - 6
+UID:665385cd4d86adb0d6e37280f3aca0a4
+URL:http://www.procosom.com/feuille-pointage.php?match=7529
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7616
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260212T012500Z
+SUMMARY:E: Gros Chefs Bandits - 4 c. Cosmiques - 3
+UID:de258e1f4b2dc6a463ea5df74ea16c1a
+URL:http://www.procosom.com/feuille-pointage.php?match=7616
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7783
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260409T022500Z
+SUMMARY:E: Habsurdes - 0 c. Cosmiques - 4
+UID:e8b333953226a67b019799e0b11e7229
+URL:http://www.procosom.com/feuille-pointage.php?match=7783
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7639
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260219T022500Z
+SUMMARY:E: Cosmiques - 3 c. Punks de l'Enfer - 9
+UID:5c4dd22dd40a298dabecc006aa4c1009
+URL:http://www.procosom.com/feuille-pointage.php?match=7639
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7795
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260415T012500Z
+SUMMARY:E: Cosmiques - 2 c. Habsurdes - 4
+UID:be3610438c028ead8250199fc752b97c
+URL:http://www.procosom.com/feuille-pointage.php?match=7795
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7571
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260128T032500Z
+SUMMARY:E: Black Mad Squirrels - 0 c. Cosmiques - 5
+UID:0f436c4cb27f653be798404acda4ca01
+URL:http://www.procosom.com/feuille-pointage.php?match=7571
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7696
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260311T022500Z
+SUMMARY:E: Cosmiques - 7 c. Invincibles - 1
+UID:aabd2efd28536d433cbba50421558d7e
+URL:http://www.procosom.com/feuille-pointage.php?match=7696
+END:VEVENT
+END:VCALENDAR

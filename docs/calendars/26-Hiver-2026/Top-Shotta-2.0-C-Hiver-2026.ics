@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7690
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260310T232500Z
+SUMMARY:C: Sauce AC - 1 c. Top Shotta 2.0 - 6
+UID:a11a4996525b919a4fbfa330d7de3499
+URL:http://www.procosom.com/feuille-pointage.php?match=7690
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7530
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260114T032500Z
+SUMMARY:C: Scie-Hawks - 6 c. Top Shotta 2.0 - 7
+UID:254c8591db43f4a88e2fdec277c2d35e
+URL:http://www.procosom.com/feuille-pointage.php?match=7530
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260429T022500Z
+SUMMARY:Séries: C: Top Shotta 2.0 c. Sauce AC
+UID:2d3854480628d21f7e2382fc3365bf47
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7789
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260410T022500Z
+SUMMARY:C: Top Shotta 2.0 - 11 c. Wolfpack - 1
+UID:9934f950fce0a356eb944707ee63732e
+URL:http://www.procosom.com/feuille-pointage.php?match=7789
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7791
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260414T232500Z
+SUMMARY:C: Bon Boys de Croquetteville - 2 c. Top Shotta 2.0 - 7
+UID:d72601e375c9d44a06ccd0034ddfa11a
+URL:http://www.procosom.com/feuille-pointage.php?match=7791
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7680
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260305T022500Z
+SUMMARY:C: Top Shotta 2.0 - 9 c. Goats - 5
+UID:e2609151cec8c9f1d77af924ac8ced60
+URL:http://www.procosom.com/feuille-pointage.php?match=7680
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7587
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260204T002500Z
+SUMMARY:C: CocoCrazys - 7 c. Top Shotta 2.0 - 2
+UID:f38a2687f8abb5132a1564ccf6f37cc8
+URL:http://www.procosom.com/feuille-pointage.php?match=7587
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7821
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260423T012500Z
+SUMMARY:C: Top Shotta 2.0 - 9 c. Mêlés Noirs - 5
+UID:a15b363028c614863c1a26d98aa47764
+URL:http://www.procosom.com/feuille-pointage.php?match=7821
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7653
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260225T022500Z
+SUMMARY:C: Top Shotta 2.0 - 1 c. Ballebuzards - 7
+UID:8f670c76cfb2361536f2fb5e464bdafb
+URL:http://www.procosom.com/feuille-pointage.php?match=7653
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7627
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260213T032500Z
+SUMMARY:C: Bâton dans les Roues - 4 c. Top Shotta 2.0 - 4
+UID:ef96ec7144d2bdd4c58ce4f758b61e6e
+URL:http://www.procosom.com/feuille-pointage.php?match=7627
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7711
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260317T232500Z
+SUMMARY:C: Bon Boys de Croquetteville - 1 c. Top Shotta 2.0 - 8
+UID:35fa7339e9f8e7b383018342471cf9aa
+URL:http://www.procosom.com/feuille-pointage.php?match=7711
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7585
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260130T032500Z
+SUMMARY:C: Top Shotta 2.0 - 8 c. Jagrbombs - 5
+UID:9b1d581d95da67e7a09de8a87e328e41
+URL:http://www.procosom.com/feuille-pointage.php?match=7585
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7755
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260401T012500Z
+SUMMARY:C: Top Shotta 2.0 - 6 c. Momentums - 5
+UID:cea803bc9f6d41bdca5b9cd21c1fa76f
+URL:http://www.procosom.com/feuille-pointage.php?match=7755
+END:VEVENT
+END:VCALENDAR

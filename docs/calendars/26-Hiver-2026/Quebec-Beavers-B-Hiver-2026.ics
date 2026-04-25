@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7823
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260423T022500Z
+SUMMARY:B: Quebec Beavers - 4 c. Chums de Palettes - 3
+UID:837832c4044d6ba8b9fc674aaf05f556
+URL:http://www.procosom.com/feuille-pointage.php?match=7823
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7621
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260213T002500Z
+SUMMARY:B: Quebec Beavers - 4 c. Golden Kales HC - 2
+UID:99f5f9d4d3d2bab8b63f3b06841944b8
+URL:http://www.procosom.com/feuille-pointage.php?match=7621
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260429T012500Z
+SUMMARY:Séries: B: Quebec Beavers c. Deadly Moogly
+UID:6030aad5d2c1093e0b7708e1e76c0e8b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7733
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260325T002500Z
+SUMMARY:B: Quebec Beavers - 7 c. Front de Libération du Cosom - 5
+UID:04174596c669c52c647dc35f917268a7
+URL:http://www.procosom.com/feuille-pointage.php?match=7733
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7753
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260401T002500Z
+SUMMARY:B: Rois Lions - 3 c. Quebec Beavers - 3
+UID:592946c6be764a5341f216c1b034555f
+URL:http://www.procosom.com/feuille-pointage.php?match=7753
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7576
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260129T022500Z
+SUMMARY:B: Quebec Beavers - 2 c. TDC Sélections - 3
+UID:9edbbdcf5d9e63c21d97055b8805824e
+URL:http://www.procosom.com/feuille-pointage.php?match=7576
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7539
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260116T012500Z
+SUMMARY:B: Chuck Norris - 4 c. Quebec Beavers - 8
+UID:3d8bf40dd46a3ffec16624d5371d5c28
+URL:http://www.procosom.com/feuille-pointage.php?match=7539
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7547
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260121T012500Z
+SUMMARY:B: Quebec Beavers - 2 c. Chums de Palettes - 1
+UID:7db7e868d3fd707c93f898409dff032f
+URL:http://www.procosom.com/feuille-pointage.php?match=7547
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7676
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260304T032500Z
+SUMMARY:B: Quebec Beavers - 0 c. Rois Lions - 10
+UID:6aa2a7fbc6df20952ab6a7ecc72ca149
+URL:http://www.procosom.com/feuille-pointage.php?match=7676
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7591
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260204T022500Z
+SUMMARY:B: Front de Libération du Cosom - 7 c. Quebec Beavers - 2
+UID:80be4d030206784c9292b790adc990f5
+URL:http://www.procosom.com/feuille-pointage.php?match=7591
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7649
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260225T002500Z
+SUMMARY:B: Achigans - 4 c. Quebec Beavers - 2
+UID:1415020b209d99229de68be4869ce0d8
+URL:http://www.procosom.com/feuille-pointage.php?match=7649
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7694
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260311T012500Z
+SUMMARY:B: Deadly Moogly - 5 c. Quebec Beavers - 4
+UID:008acd2b888ed7f4894a94250396da2c
+URL:http://www.procosom.com/feuille-pointage.php?match=7694
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7792
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260415T002500Z
+SUMMARY:B: Mouettes - 7 c. Quebec Beavers - 0
+UID:d31f00df632ba773dcb92f430b0e1d16
+URL:http://www.procosom.com/feuille-pointage.php?match=7792
+END:VEVENT
+END:VCALENDAR

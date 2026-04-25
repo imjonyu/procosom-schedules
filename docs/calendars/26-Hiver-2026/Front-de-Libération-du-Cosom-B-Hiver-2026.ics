@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260429T012500Z
+SUMMARY:Séries: B: Front de Libération du Cosom c. Rois Lions
+UID:7c1da083b5d5cd34f6ae90314bc0b2b8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7714
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260318T012500Z
+SUMMARY:B: Deadly Moogly - 2 c. Front de Libération du Cosom - 4
+UID:eee74d028bb6cf2611fd83caca5d0a7a
+URL:http://www.procosom.com/feuille-pointage.php?match=7714
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7524
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260114T002500Z
+SUMMARY:B: Chums de Palettes - 2 c. Front de Libération du Cosom - 3
+UID:b9ea2eab95beaea73a46e785fb9a39a1
+URL:http://www.procosom.com/feuille-pointage.php?match=7524
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7816
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260422T022500Z
+SUMMARY:B: Mouettes - 6 c. Front de Libération du Cosom - 2
+UID:e069a85d4d5b25a24846e6cbc0bbd003
+URL:http://www.procosom.com/feuille-pointage.php?match=7816
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7733
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260325T002500Z
+SUMMARY:B: Quebec Beavers - 7 c. Front de Libération du Cosom - 5
+UID:04174596c669c52c647dc35f917268a7
+URL:http://www.procosom.com/feuille-pointage.php?match=7733
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7669
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260227T032500Z
+SUMMARY:B: Front de Libération du Cosom - 4 c. TDC Sélections - 8
+UID:7b8e71eae98654a17470ac461023abcb
+URL:http://www.procosom.com/feuille-pointage.php?match=7669
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7577
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260129T032500Z
+SUMMARY:B: Front de Libération du Cosom - 12 c. Rois Lions - 4
+UID:ecfe594ade79bca70d1fd499a2d6344e
+URL:http://www.procosom.com/feuille-pointage.php?match=7577
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7591
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260204T022500Z
+SUMMARY:B: Front de Libération du Cosom - 7 c. Quebec Beavers - 2
+UID:80be4d030206784c9292b790adc990f5
+URL:http://www.procosom.com/feuille-pointage.php?match=7591
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7613
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260211T032500Z
+SUMMARY:B: Rois Lions - 3 c. Front de Libération du Cosom - 6
+UID:58c5d16c497bd5ac135f894e9ed4c19f
+URL:http://www.procosom.com/feuille-pointage.php?match=7613
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7684
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260306T002500Z
+SUMMARY:B: Front de Libération du Cosom - 8 c. Achigans - 2
+UID:caefaee5242415157abe98a25936edda
+URL:http://www.procosom.com/feuille-pointage.php?match=7684
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7774
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260408T012500Z
+SUMMARY:B: Front de Libération du Cosom - 4 c. Deadly Moogly - 3
+UID:68fae6b7f4724bd3bfbd7beba7ed2eb7
+URL:http://www.procosom.com/feuille-pointage.php?match=7774
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7641
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260219T032500Z
+SUMMARY:B: Chuck Norris - 0 c. Front de Libération du Cosom - 6
+UID:7c0b2e5595889b9773c2658a484d79c0
+URL:http://www.procosom.com/feuille-pointage.php?match=7641
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7801
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260416T012500Z
+SUMMARY:B: Front de Libération du Cosom - 4 c. Golden Kales HC - 3
+UID:3273b53a8fa53291755ab334d2deaca4
+URL:http://www.procosom.com/feuille-pointage.php?match=7801
+END:VEVENT
+END:VCALENDAR

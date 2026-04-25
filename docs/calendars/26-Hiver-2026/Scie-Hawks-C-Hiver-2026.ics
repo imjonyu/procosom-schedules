@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7593
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260205T002500Z
+SUMMARY:C: Bon Boys de Croquetteville - 0 c. Scie-Hawks - 6
+UID:a72e211ac573439f7c06842c1ceac787
+URL:http://www.procosom.com/feuille-pointage.php?match=7593
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7631
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260218T012500Z
+SUMMARY:C: Goats - 1 c. Scie-Hawks - 7
+UID:932ac7d710ffb611f65850b48e2e703e
+URL:http://www.procosom.com/feuille-pointage.php?match=7631
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7530
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260114T032500Z
+SUMMARY:C: Scie-Hawks - 6 c. Top Shotta 2.0 - 7
+UID:254c8591db43f4a88e2fdec277c2d35e
+URL:http://www.procosom.com/feuille-pointage.php?match=7530
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7677
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260305T002500Z
+SUMMARY:C: Mêlés Noirs - 3 c. Scie-Hawks - 4
+UID:a0b47048c06abde4e605b55877181775
+URL:http://www.procosom.com/feuille-pointage.php?match=7677
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7768
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260403T012500Z
+SUMMARY:C: Scie-Hawks - 2 c. Bâton dans les Roues - 5
+UID:be2a0b37283c4771f652c90142bd44a3
+URL:http://www.procosom.com/feuille-pointage.php?match=7768
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7566
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260128T002500Z
+SUMMARY:C: Scie-Hawks - 3 c. Bâton dans les Roues - 3
+UID:140270d07c15cdf1667445c546312569
+URL:http://www.procosom.com/feuille-pointage.php?match=7566
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260501T012500Z
+SUMMARY:Séries: C: Scie-Hawks c. Bon Boys de Croquetteville
+UID:ccca23cb328f221724c5fd258d11836f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7803
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260416T022500Z
+SUMMARY:C: Momentums - 5 c. Scie-Hawks - 7
+UID:0acac3bfad9e88c1a098228ef4a76aed
+URL:http://www.procosom.com/feuille-pointage.php?match=7803
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7742
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260326T022500Z
+SUMMARY:C: Gros Matous - 3 c. Scie-Hawks - 4
+UID:ff96eacdfc6d777f7d9331bcc608d505
+URL:http://www.procosom.com/feuille-pointage.php?match=7742
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7705
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260313T002500Z
+SUMMARY:C: Scie-Hawks - 3 c. Evil Sticks - 8
+UID:35cd77c4e4747921b3fa6c09b34e8f15
+URL:http://www.procosom.com/feuille-pointage.php?match=7705
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7667
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260227T022500Z
+SUMMARY:C: Scie-Hawks - 7 c. Jagrbombs - 2
+UID:7672d6a609f0618690ad3e83b93d9390
+URL:http://www.procosom.com/feuille-pointage.php?match=7667
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7825
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260424T002500Z
+SUMMARY:C: Scie-Hawks - 6 c. Wolfpack - 1
+UID:954aec09dced5046d33a3a6791b0ae42
+URL:http://www.procosom.com/feuille-pointage.php?match=7825
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7545
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260121T002500Z
+SUMMARY:C: Sauce AC - 5 c. Scie-Hawks - 5
+UID:98e3ee15598f1cdaf463cdff4bc2fc02
+URL:http://www.procosom.com/feuille-pointage.php?match=7545
+END:VEVENT
+END:VCALENDAR

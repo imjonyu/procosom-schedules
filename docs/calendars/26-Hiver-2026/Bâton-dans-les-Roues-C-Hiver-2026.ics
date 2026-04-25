@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7693
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260311T002500Z
+SUMMARY:C: Bâton dans les Roues - 3 c. Momentums - 7
+UID:f895b30d6fbb9b054ff5a258196ad886
+URL:http://www.procosom.com/feuille-pointage.php?match=7693
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7543
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260116T032500Z
+SUMMARY:C: Bon Boys de Croquetteville - 1 c. Bâton dans les Roues - 7
+UID:1c973b00e19b054ba7cc79a74702f5da
+URL:http://www.procosom.com/feuille-pointage.php?match=7543
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7805
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260417T002500Z
+SUMMARY:C: Wolfpack - 3 c. Bâton dans les Roues - 4
+UID:738783382d48c6f2a2ca030c95f197f5
+URL:http://www.procosom.com/feuille-pointage.php?match=7805
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7754
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260401T012500Z
+SUMMARY:C: Bâton dans les Roues - 4 c. Goats - 4
+UID:1485fa713319438f7279650f503445df
+URL:http://www.procosom.com/feuille-pointage.php?match=7754
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7828
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260424T012500Z
+SUMMARY:C: Bâton dans les Roues - 4 c. Evil Sticks - 7
+UID:98d752d6aba3b36f64deb6cb42b401d3
+URL:http://www.procosom.com/feuille-pointage.php?match=7828
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7548
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260121T022500Z
+SUMMARY:C: Bâton dans les Roues - 6 c. Gros Matous - 5
+UID:eac26e17a7b5056f37f60ae158448a9c
+URL:http://www.procosom.com/feuille-pointage.php?match=7548
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7655
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260225T032500Z
+SUMMARY:C: Bâton dans les Roues - 7 c. Sauce AC - 3
+UID:bde2726530c2365c842660ce4a62a1c6
+URL:http://www.procosom.com/feuille-pointage.php?match=7655
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7768
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260403T012500Z
+SUMMARY:C: Scie-Hawks - 2 c. Bâton dans les Roues - 5
+UID:be2a0b37283c4771f652c90142bd44a3
+URL:http://www.procosom.com/feuille-pointage.php?match=7768
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7566
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260128T002500Z
+SUMMARY:C: Scie-Hawks - 3 c. Bâton dans les Roues - 3
+UID:140270d07c15cdf1667445c546312569
+URL:http://www.procosom.com/feuille-pointage.php?match=7566
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7716
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260318T022500Z
+SUMMARY:C: CocoCrazys - 1 c. Bâton dans les Roues - 2
+UID:e17ab1a7f6ec4f04b4ebe5c95f4c1ad9
+URL:http://www.procosom.com/feuille-pointage.php?match=7716
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7688
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260306T022500Z
+SUMMARY:C: Jagrbombs - 3 c. Bâton dans les Roues - 5
+UID:1755eebf731ad291b26461365f57f0d1
+URL:http://www.procosom.com/feuille-pointage.php?match=7688
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7627
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260213T032500Z
+SUMMARY:C: Bâton dans les Roues - 4 c. Top Shotta 2.0 - 4
+UID:ef96ec7144d2bdd4c58ce4f758b61e6e
+URL:http://www.procosom.com/feuille-pointage.php?match=7627
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260430T232500Z
+SUMMARY:Séries: C: Bâton dans les Roues c. Wolfpack
+UID:96593e6f730510429d7aa8318caa0131
+END:VEVENT
+END:VCALENDAR

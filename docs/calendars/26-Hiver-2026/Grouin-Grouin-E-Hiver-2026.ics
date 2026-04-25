@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7556
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260122T022500Z
+SUMMARY:E: Gros Chefs Bandits - 0 c. Grouin Grouin - 2
+UID:485a2e43379d5fccb0f90fe5f41fbbf3
+URL:http://www.procosom.com/feuille-pointage.php?match=7556
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7672
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260304T012500Z
+SUMMARY:E: Grouin Grouin - 0 c. Cosmiques - 4
+UID:61cea6130c84fdd2564ca47b1b178c61
+URL:http://www.procosom.com/feuille-pointage.php?match=7672
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7736
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260325T022500Z
+SUMMARY:E: Grouin Grouin - 4 c. Cougars - 5
+UID:497e9603551d9edf7bef288f426c3733
+URL:http://www.procosom.com/feuille-pointage.php?match=7736
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7528
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260114T022500Z
+SUMMARY:E: Grouin Grouin - 3 c. Habsurdes - 1
+UID:78a20fe112918bb724d17f65438ddd9f
+URL:http://www.procosom.com/feuille-pointage.php?match=7528
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7609
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260211T012500Z
+SUMMARY:E: Grouin Grouin - 4 c. Black Mad Squirrels - 3
+UID:5fdf9e2f670a359fdbaec3ddd8796aa5
+URL:http://www.procosom.com/feuille-pointage.php?match=7609
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7759
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260402T002500Z
+SUMMARY:E: Habsurdes - 2 c. Grouin Grouin - 8
+UID:2a7cbbaed8adce62608631928ffbb40c
+URL:http://www.procosom.com/feuille-pointage.php?match=7759
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7790
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260414T232500Z
+SUMMARY:E: Grainezky - 1 c. Grouin Grouin - 5
+UID:956423316ab0cb78a63ed83ae24a61d8
+URL:http://www.procosom.com/feuille-pointage.php?match=7790
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260429T002500Z
+SUMMARY:Séries: E: Habsurdes c. Grouin Grouin
+UID:54a9239d21b6af0b96c5cbf8d4b2e4d7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7710
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260317T232500Z
+SUMMARY:E: Grouin Grouin - 3 c. Cougars - 1
+UID:0221b69f53fc2bd583e0bb7a080a59d2
+URL:http://www.procosom.com/feuille-pointage.php?match=7710
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7630
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260218T012500Z
+SUMMARY:E: Grouin Grouin - 7 c. Invincibles - 1
+UID:b8e408c792fe587f7c34bc9d5d516ec8
+URL:http://www.procosom.com/feuille-pointage.php?match=7630
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7817
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260422T232500Z
+SUMMARY:E: TDC - 5 c. Grouin Grouin - 4
+UID:a57b7ceb4037296104a7df72b46d17b2
+URL:http://www.procosom.com/feuille-pointage.php?match=7817
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7590
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260204T022500Z
+SUMMARY:E: Cosmiques - 5 c. Grouin Grouin - 4
+UID:47172cc0f0272c6c7de6e1801b1bba12
+URL:http://www.procosom.com/feuille-pointage.php?match=7590
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7662
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260226T032500Z
+SUMMARY:E: Punks de l'Enfer - 2 c. Grouin Grouin - 4
+UID:ff7cee5afd9170ec19549f6d287ba4bf
+URL:http://www.procosom.com/feuille-pointage.php?match=7662
+END:VEVENT
+END:VCALENDAR

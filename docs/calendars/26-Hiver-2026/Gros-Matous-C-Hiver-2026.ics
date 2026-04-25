@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7702
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260408T022500Z
+SUMMARY:C: CocoCrazys - 10 c. Gros Matous - 1
+UID:0e8125c4f0783b9371b872a765b8effe
+URL:http://www.procosom.com/feuille-pointage.php?match=7702
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7619
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260212T032500Z
+SUMMARY:C: Sauce AC - 2 c. Gros Matous - 4
+UID:4a96932b990675ba603bd0be2ef454be
+URL:http://www.procosom.com/feuille-pointage.php?match=7619
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7584
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260130T032500Z
+SUMMARY:C: Gros Matous - 3 c. Evil Sticks - 4
+UID:1bb5deb2c10f8b29a77654ebb81dfd4c
+URL:http://www.procosom.com/feuille-pointage.php?match=7584
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7794
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260415T012500Z
+SUMMARY:C: Gros Matous - 5 c. Goats - 4
+UID:ec0a63f01c393ff4c9b95da49c7ddeb7
+URL:http://www.procosom.com/feuille-pointage.php?match=7794
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7712
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260318T002500Z
+SUMMARY:C: Momentums - 6 c. Gros Matous - 1
+UID:5a5a00255ba426aebe9df5cbc8d2e780
+URL:http://www.procosom.com/feuille-pointage.php?match=7712
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7782
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260409T022500Z
+SUMMARY:C: Mêlés Noirs - 10 c. Gros Matous - 1
+UID:abb798b4acd9402810e9900f7c3a89ed
+URL:http://www.procosom.com/feuille-pointage.php?match=7782
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7548
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260121T022500Z
+SUMMARY:C: Bâton dans les Roues - 6 c. Gros Matous - 5
+UID:eac26e17a7b5056f37f60ae158448a9c
+URL:http://www.procosom.com/feuille-pointage.php?match=7548
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7666
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260227T022500Z
+SUMMARY:C: Gros Matous - 6 c. Wolfpack - 4
+UID:43aaea03e93d43b88b54034b5eb473eb
+URL:http://www.procosom.com/feuille-pointage.php?match=7666
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7685
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260306T012500Z
+SUMMARY:C: Gros Matous - 1 c. Evil Sticks - 5
+UID:a21c8af0e57d2bdb204b7cea65043e3c
+URL:http://www.procosom.com/feuille-pointage.php?match=7685
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7742
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260326T022500Z
+SUMMARY:C: Gros Matous - 3 c. Scie-Hawks - 4
+UID:ff96eacdfc6d777f7d9331bcc608d505
+URL:http://www.procosom.com/feuille-pointage.php?match=7742
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7645
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260220T022500Z
+SUMMARY:C: Jagrbombs - 2 c. Gros Matous - 5
+UID:ada7f966fe0f757bd0ee5ec9e19eabb6
+URL:http://www.procosom.com/feuille-pointage.php?match=7645
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7624
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260213T022500Z
+SUMMARY:C: Gros Matous - 4 c. Bon Boys de Croquetteville - 4
+UID:cbb15ed1846f4e15e085a9388b0ccf3f
+URL:http://www.procosom.com/feuille-pointage.php?match=7624
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260501T012500Z
+SUMMARY:Séries: C: Gros Matous c. Jagrbombs
+UID:3e9dcbed015a891d376067379a01021c
+END:VEVENT
+END:VCALENDAR

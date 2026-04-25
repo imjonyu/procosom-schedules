@@ -1,0 +1,112 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7644
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260220T012500Z
+SUMMARY:E: Grainezky - 5 c. Black Mad Squirrels - 4
+UID:c1cc1a596b3b8523f7fc072b000fac3a
+URL:http://www.procosom.com/feuille-pointage.php?match=7644
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7692
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260311T002500Z
+SUMMARY:E: Grainezky - 2 c. Gros Chefs Bandits - 1
+UID:a22be460e89addc2a8cbb3ebfb743a58
+URL:http://www.procosom.com/feuille-pointage.php?match=7692
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7807
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260417T012500Z
+SUMMARY:E: Invincibles - 1 c. Grainezky - 11
+UID:26d64ee547a5a278f0d9ab0c82fe589b
+URL:http://www.procosom.com/feuille-pointage.php?match=7807
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7747
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260327T012500Z
+SUMMARY:E: Invincibles - 3 c. Grainezky - 4
+UID:79317b5387c4fed5009b37c1e3c4f417
+URL:http://www.procosom.com/feuille-pointage.php?match=7747
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7559
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260123T002500Z
+SUMMARY:E: Punks de l'Enfer - 3 c. Grainezky - 8
+UID:e89d342a340686bc242dca594eed9685
+URL:http://www.procosom.com/feuille-pointage.php?match=7559
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7786
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260410T002500Z
+SUMMARY:E: Grainezky - 4 c. Punks de l'Enfer - 8
+UID:0d91f020a7d3676d55e360157cdd792c
+URL:http://www.procosom.com/feuille-pointage.php?match=7786
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7529
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260114T022500Z
+SUMMARY:E: Grainezky - 3 c. Cosmiques - 6
+UID:665385cd4d86adb0d6e37280f3aca0a4
+URL:http://www.procosom.com/feuille-pointage.php?match=7529
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7607
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260211T002500Z
+SUMMARY:E: Cougars - 5 c. Grainezky - 5
+UID:85ae8f6bc09ca1e94af3b1491abd1e34
+URL:http://www.procosom.com/feuille-pointage.php?match=7607
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7790
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260414T232500Z
+SUMMARY:E: Grainezky - 1 c. Grouin Grouin - 5
+UID:956423316ab0cb78a63ed83ae24a61d8
+URL:http://www.procosom.com/feuille-pointage.php?match=7790
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7726
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260320T002500Z
+SUMMARY:E: TDC - 7 c. Grainezky - 4
+UID:4868eee672a03ee5a3b23d2b2bb8d44e
+URL:http://www.procosom.com/feuille-pointage.php?match=7726
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7586
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260204T002500Z
+SUMMARY:E: Grainezky - 2 c. Habsurdes - 4
+UID:fad3fb3115e2d688dcaa84bc86ccc12c
+URL:http://www.procosom.com/feuille-pointage.php?match=7586
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7686
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260306T012500Z
+SUMMARY:E: TDC - 6 c. Grainezky - 7
+UID:a3e719dcde1d751302a329a804c12181
+URL:http://www.procosom.com/feuille-pointage.php?match=7686
+END:VEVENT
+END:VCALENDAR

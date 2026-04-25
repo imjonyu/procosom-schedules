@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7687
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260306T022500Z
+SUMMARY:D: Tinderellas - 3 c. Trappeurs - 4
+UID:c667d9dbdc12d9fc0ad9b47fe82c1a65
+URL:http://www.procosom.com/feuille-pointage.php?match=7687
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7598
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260205T032500Z
+SUMMARY:D: Tinderellas - 2 c. Coyotes Urbains - 8
+UID:5831992bc0ffaeec8bd612baa7a6c6bc
+URL:http://www.procosom.com/feuille-pointage.php?match=7598
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7796
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260415T022500Z
+SUMMARY:D: Tinderellas - 5 c. Pylons - 3
+UID:577b026b1a048c5d4b8afe9192d80338
+URL:http://www.procosom.com/feuille-pointage.php?match=7796
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7626
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260213T032500Z
+SUMMARY:D: Trappeurs - 4 c. Tinderellas - 5
+UID:0147178cd6222546295135acb2f07d1c
+URL:http://www.procosom.com/feuille-pointage.php?match=7626
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260430T012500Z
+SUMMARY:Séries: D: Tinderellas c. Trappeurs
+UID:a58a133137e9b11960becd78e6408ce8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7643
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260220T012500Z
+SUMMARY:D: Tinderellas - 1 c. Tribunal - 4
+UID:ca6e0a4f01e5e7f2dcca1f744c6177c5
+URL:http://www.procosom.com/feuille-pointage.php?match=7643
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7827
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260424T012500Z
+SUMMARY:D: Bouchons de la Baleine - 8 c. Tinderellas - 5
+UID:66519c07f26e60798d4cb94910192a51
+URL:http://www.procosom.com/feuille-pointage.php?match=7827
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7569
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260128T022500Z
+SUMMARY:D: Coyotes Urbains - 5 c. Tinderellas - 9
+UID:4302fc6ac2b6763236c6841416ac0a69
+URL:http://www.procosom.com/feuille-pointage.php?match=7569
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7700
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260325T022500Z
+SUMMARY:D: Tinderellas - 3 c. Présidents - 5
+UID:90a57790b55e12a18162b3e18a6aaab0
+URL:http://www.procosom.com/feuille-pointage.php?match=7700
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7664
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260227T012500Z
+SUMMARY:D: Tinderellas - 7 c. Bouchons de la Baleine - 3
+UID:3403242e659c87d8f29de37b00f1f49d
+URL:http://www.procosom.com/feuille-pointage.php?match=7664
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7740
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260326T012500Z
+SUMMARY:D: Punished - 9 c. Tinderellas - 3
+UID:38aa08c7f505ad204fba37f31b766033
+URL:http://www.procosom.com/feuille-pointage.php?match=7740
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7550
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260121T032500Z
+SUMMARY:D: LumberJack - 5 c. Tinderellas - 5
+UID:281cc456e4d0acce2dcd1e7b14bb445c
+URL:http://www.procosom.com/feuille-pointage.php?match=7550
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7780
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260409T012500Z
+SUMMARY:D: P'tite Ékip - 2 c. Tinderellas - 4
+UID:ea0ea88a4cb8908356f9ac2c75fe8986
+URL:http://www.procosom.com/feuille-pointage.php?match=7780
+END:VEVENT
+END:VCALENDAR

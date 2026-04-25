@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7724
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260319T232500Z
+SUMMARY:B: Golden Kales HC - 1 c. Chuck Norris - 5
+UID:7becd3189c84e91870c55ec69a566534
+URL:http://www.procosom.com/feuille-pointage.php?match=7724
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7668
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260227T032500Z
+SUMMARY:B: Rois Lions - 10 c. Chuck Norris - 1
+UID:492aa6d9e11601a6a94b6c0650b1488d
+URL:http://www.procosom.com/feuille-pointage.php?match=7668
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7769
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260403T022500Z
+SUMMARY:B: Chuck Norris - 2 c. Deadly Moogly - 4
+UID:0fa02d65027fd8dbb6966c032be9049b
+URL:http://www.procosom.com/feuille-pointage.php?match=7769
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7697
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260401T022500Z
+SUMMARY:B: Chuck Norris - 4 c. Mouettes - 6
+UID:3fe4c3641c0aab930911b353d316095b
+URL:http://www.procosom.com/feuille-pointage.php?match=7697
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7583
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260130T022500Z
+SUMMARY:B: Golden Kales HC - 4 c. Chuck Norris - 3
+UID:0686194adc75c7a5dedd7753f444ef36
+URL:http://www.procosom.com/feuille-pointage.php?match=7583
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7539
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260116T012500Z
+SUMMARY:B: Chuck Norris - 4 c. Quebec Beavers - 8
+UID:3d8bf40dd46a3ffec16624d5371d5c28
+URL:http://www.procosom.com/feuille-pointage.php?match=7539
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7560
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260123T012500Z
+SUMMARY:B: Golden Kales HC - 6 c. Chuck Norris - 5
+UID:be70e6a5890a634fadf6e24e19efb76d
+URL:http://www.procosom.com/feuille-pointage.php?match=7560
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7623
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260213T012500Z
+SUMMARY:B: Achigans - 8 c. Chuck Norris - 3
+UID:531a7613d8965915ab5e5722ee91bd89
+URL:http://www.procosom.com/feuille-pointage.php?match=7623
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7799
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260416T002500Z
+SUMMARY:B: TDC Sélections - 6 c. Chuck Norris - 7
+UID:d6816bfb99b77f0f11a4e868b909e57e
+URL:http://www.procosom.com/feuille-pointage.php?match=7799
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7804
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260416T232500Z
+SUMMARY:B: Chuck Norris - 5 c. Achigans - 1
+UID:4b7e28bffdf7501ff94c8079811b042d
+URL:http://www.procosom.com/feuille-pointage.php?match=7804
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7641
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260219T032500Z
+SUMMARY:B: Chuck Norris - 0 c. Front de Libération du Cosom - 6
+UID:7c0b2e5595889b9773c2658a484d79c0
+URL:http://www.procosom.com/feuille-pointage.php?match=7641
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7604
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260206T022500Z
+SUMMARY:B: Chuck Norris - 5 c. Chums de Palettes - 8
+UID:0c0a1e7786cb7f1effa7f263c0db9037
+URL:http://www.procosom.com/feuille-pointage.php?match=7604
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260501T002500Z
+SUMMARY:Séries: B: Chums de Palettes c. Chuck Norris
+UID:784bb1b673e57355cf48856c96c03f40
+END:VEVENT
+END:VCALENDAR

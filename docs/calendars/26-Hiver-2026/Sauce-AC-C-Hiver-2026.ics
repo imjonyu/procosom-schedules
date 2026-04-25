@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7619
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260212T032500Z
+SUMMARY:C: Sauce AC - 2 c. Gros Matous - 4
+UID:4a96932b990675ba603bd0be2ef454be
+URL:http://www.procosom.com/feuille-pointage.php?match=7619
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7690
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260310T232500Z
+SUMMARY:C: Sauce AC - 1 c. Top Shotta 2.0 - 6
+UID:a11a4996525b919a4fbfa330d7de3499
+URL:http://www.procosom.com/feuille-pointage.php?match=7690
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7734
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260325T002500Z
+SUMMARY:C: Ballebuzards - 1 c. Sauce AC - 1
+UID:dc11813e0d7f253b4816b5cab37b131b
+URL:http://www.procosom.com/feuille-pointage.php?match=7734
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7535
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260115T022500Z
+SUMMARY:C: Goats - 7 c. Sauce AC - 3
+UID:78e95dde32a54f73f089245e31a1cdcd
+URL:http://www.procosom.com/feuille-pointage.php?match=7535
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7655
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260225T032500Z
+SUMMARY:C: Bâton dans les Roues - 7 c. Sauce AC - 3
+UID:bde2726530c2365c842660ce4a62a1c6
+URL:http://www.procosom.com/feuille-pointage.php?match=7655
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7811
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260421T232500Z
+SUMMARY:C: Sauce AC - 5 c. Jagrbombs - 5
+UID:70387a0826a434cb9fa0eae677d092c7
+URL:http://www.procosom.com/feuille-pointage.php?match=7811
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7721
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260319T012500Z
+SUMMARY:C: Sauce AC - 1 c. Mêlés Noirs - 7
+UID:68cd9b0ddecf2a43d50d7d9ff5a5cf1a
+URL:http://www.procosom.com/feuille-pointage.php?match=7721
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7773
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260408T002500Z
+SUMMARY:C: Momentums - 9 c. Sauce AC - 5
+UID:e92ad301788de7b698ece691ac473286
+URL:http://www.procosom.com/feuille-pointage.php?match=7773
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7634
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260218T032500Z
+SUMMARY:C: Sauce AC - 4 c. Bon Boys de Croquetteville - 3
+UID:5b5b0214e5bce4e4aff87d8d6cdbedcd
+URL:http://www.procosom.com/feuille-pointage.php?match=7634
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7751
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260331T232500Z
+SUMMARY:C: CocoCrazys - 4 c. Sauce AC - 2
+UID:81d7ad215545b264111140bb2290c0ca
+URL:http://www.procosom.com/feuille-pointage.php?match=7751
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7545
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260121T002500Z
+SUMMARY:C: Sauce AC - 5 c. Scie-Hawks - 5
+UID:98e3ee15598f1cdaf463cdff4bc2fc02
+URL:http://www.procosom.com/feuille-pointage.php?match=7545
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260429T022500Z
+SUMMARY:Séries: C: Top Shotta 2.0 c. Sauce AC
+UID:2d3854480628d21f7e2382fc3365bf47
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7568
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260128T012500Z
+SUMMARY:C: Ballebuzards - 5 c. Sauce AC - 5
+UID:30d605e36deb5ad6dfe91bbbd01241c7
+URL:http://www.procosom.com/feuille-pointage.php?match=7568
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7542
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260116T022500Z
+SUMMARY:A: TTC Club - 4 c. Golden Kales - 2
+UID:792abedb4e5ba8ad975b2247b4969549
+URL:http://www.procosom.com/feuille-pointage.php?match=7542
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7665
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260227T012500Z
+SUMMARY:A: Golden Kales - 4 c. TTC Club - 2
+UID:3b688a662a0c7ded5cc718d4abf7467a
+URL:http://www.procosom.com/feuille-pointage.php?match=7665
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7778
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260409T002500Z
+SUMMARY:A: Sags - 4 c. Golden Kales - 3
+UID:f4bfc6903a6b8fcc0dfd87589d3c3de6
+URL:http://www.procosom.com/feuille-pointage.php?match=7778
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7826
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260424T002500Z
+SUMMARY:A: Golden Kales - 6 c. Barking Dogs - 3
+UID:d6ee4ea69adfd89b829e808d900ab266
+URL:http://www.procosom.com/feuille-pointage.php?match=7826
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7725
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260320T002500Z
+SUMMARY:A: Golden Kales - 6 c. Jeunes Professionnels - 5
+UID:727ec23d8e043c34263327571711e73c
+URL:http://www.procosom.com/feuille-pointage.php?match=7725
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7642
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260220T002500Z
+SUMMARY:A: TTC Club - 1 c. Golden Kales - 2
+UID:72951b5d8c42e56d3f3f2eee6595b85b
+URL:http://www.procosom.com/feuille-pointage.php?match=7642
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7562
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260123T022500Z
+SUMMARY:A: Golden Kales - 4 c. Jeunes Professionnels - 5
+UID:84d1b00150202842a8ecba424b7b909d
+URL:http://www.procosom.com/feuille-pointage.php?match=7562
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7748
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260327T012500Z
+SUMMARY:A: Golden Kales - 9 c. Puissant Escadron - 0
+UID:957087460f72ce658ab66f660f554df6
+URL:http://www.procosom.com/feuille-pointage.php?match=7748
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7574
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260129T012500Z
+SUMMARY:A: Golden Kales - 6 c. Barking Dogs - 5
+UID:5f47ffba9dd7e3321deb06e8388e762c
+URL:http://www.procosom.com/feuille-pointage.php?match=7574
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7678
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260305T012500Z
+SUMMARY:A: Sags - 5 c. Golden Kales - 5
+UID:2a43f280bcc9bbc7974cb92f0bbb15fa
+URL:http://www.procosom.com/feuille-pointage.php?match=7678
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260430T002500Z
+SUMMARY:Séries: A: Golden Kales c. Sags
+UID:87e60738bab0fc93fc064ee68b8fcbf8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7605
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260206T032500Z
+SUMMARY:A: Mighty Ducks - 3 c. Golden Kales - 8
+UID:bf95bef7cf23ed33a6e39530917bc429
+URL:http://www.procosom.com/feuille-pointage.php?match=7605
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7765
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260403T002500Z
+SUMMARY:A: Jeunes Professionnels - 7 c. Golden Kales - 3
+UID:1769756d040776584c5f2bf824f0e20f
+URL:http://www.procosom.com/feuille-pointage.php?match=7765
+END:VEVENT
+END:VCALENDAR

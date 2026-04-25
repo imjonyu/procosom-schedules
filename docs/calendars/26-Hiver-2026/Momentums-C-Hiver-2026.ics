@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7693
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260311T002500Z
+SUMMARY:C: Bâton dans les Roues - 3 c. Momentums - 7
+UID:f895b30d6fbb9b054ff5a258196ad886
+URL:http://www.procosom.com/feuille-pointage.php?match=7693
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260428T232500Z
+SUMMARY:Séries: C: Ballebuzards c. Momentums
+UID:ecff12f50bc7a5ba36728a47a3c1baf8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7815
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260422T012500Z
+SUMMARY:C: CocoCrazys - 6 c. Momentums - 3
+UID:c381bc575c6d0c4502ba91752742ee37
+URL:http://www.procosom.com/feuille-pointage.php?match=7815
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7712
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260318T002500Z
+SUMMARY:C: Momentums - 6 c. Gros Matous - 1
+UID:5a5a00255ba426aebe9df5cbc8d2e780
+URL:http://www.procosom.com/feuille-pointage.php?match=7712
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7610
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260211T012500Z
+SUMMARY:C: Mêlés Noirs - 9 c. Momentums - 4
+UID:bde26985e1f4a2c3d7395880fc352dc3
+URL:http://www.procosom.com/feuille-pointage.php?match=7610
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7741
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260326T012500Z
+SUMMARY:C: Goats - 6 c. Momentums - 7
+UID:fbfa6b526b140861dfef09639624947b
+URL:http://www.procosom.com/feuille-pointage.php?match=7741
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7773
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260408T002500Z
+SUMMARY:C: Momentums - 9 c. Sauce AC - 5
+UID:e92ad301788de7b698ece691ac473286
+URL:http://www.procosom.com/feuille-pointage.php?match=7773
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7526
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260114T012500Z
+SUMMARY:C: Momentums - 9 c. Jagrbombs - 0
+UID:60f62737c5226627d7df90b3fff4aa36
+URL:http://www.procosom.com/feuille-pointage.php?match=7526
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7803
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260416T022500Z
+SUMMARY:C: Momentums - 5 c. Scie-Hawks - 7
+UID:0acac3bfad9e88c1a098228ef4a76aed
+URL:http://www.procosom.com/feuille-pointage.php?match=7803
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7588
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260204T012500Z
+SUMMARY:C: Ballebuzards - 4 c. Momentums - 2
+UID:34e3159407df32581405d7c54b79da9a
+URL:http://www.procosom.com/feuille-pointage.php?match=7588
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7553
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260122T012500Z
+SUMMARY:C: Momentums - 4 c. Mêlés Noirs - 4
+UID:b135ddff9552a4e2f5c37d1a87b6d028
+URL:http://www.procosom.com/feuille-pointage.php?match=7553
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7755
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260401T012500Z
+SUMMARY:C: Top Shotta 2.0 - 6 c. Momentums - 5
+UID:cea803bc9f6d41bdca5b9cd21c1fa76f
+URL:http://www.procosom.com/feuille-pointage.php?match=7755
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7651
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260225T012500Z
+SUMMARY:C: Momentums - 4 c. Goats - 8
+UID:c72dd6e05ef7d23afb5630b27ffcb59e
+URL:http://www.procosom.com/feuille-pointage.php?match=7651
+END:VEVENT
+END:VCALENDAR

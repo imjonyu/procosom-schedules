@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7778
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260409T002500Z
+SUMMARY:A: Sags - 4 c. Golden Kales - 3
+UID:f4bfc6903a6b8fcc0dfd87589d3c3de6
+URL:http://www.procosom.com/feuille-pointage.php?match=7778
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7546
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260121T012500Z
+SUMMARY:A: Barking Dogs - 4 c. Sags - 2
+UID:fcb3e9b2105d2f86f65d0853704f2fc3
+URL:http://www.procosom.com/feuille-pointage.php?match=7546
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7699
+DURATION:PT1H
+LOCATION:CVM-Quad-#4
+DTSTART:20260422T232500Z
+SUMMARY:A: Jeunes Professionnels - 7 c. Sags - 2
+UID:7694549cbb20ae149b4050d3ac29c79b
+URL:http://www.procosom.com/feuille-pointage.php?match=7699
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7633
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260218T022500Z
+SUMMARY:A: Sags - 7 c. Puissant Escadron - 2
+UID:74e730d1dc5a2947d21b7bc97ac05a9e
+URL:http://www.procosom.com/feuille-pointage.php?match=7633
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7618
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260212T022500Z
+SUMMARY:A: Mighty Ducks - 2 c. Sags - 2
+UID:5c839cf45b615bfbe9ff6c9f109c511d
+URL:http://www.procosom.com/feuille-pointage.php?match=7618
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7739
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260326T002500Z
+SUMMARY:A: Sags - 2 c. Jeunes Professionnels - 5
+UID:dad0029f3963181e5c91c169ae7f0b97
+URL:http://www.procosom.com/feuille-pointage.php?match=7739
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7718
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260319T002500Z
+SUMMARY:A: TTC Club - 3 c. Sags - 1
+UID:f6bb0aa1b1b1cae1ccf7e371fa0e87db
+URL:http://www.procosom.com/feuille-pointage.php?match=7718
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7678
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260305T012500Z
+SUMMARY:A: Sags - 5 c. Golden Kales - 5
+UID:2a43f280bcc9bbc7974cb92f0bbb15fa
+URL:http://www.procosom.com/feuille-pointage.php?match=7678
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260430T002500Z
+SUMMARY:Séries: A: Golden Kales c. Sags
+UID:87e60738bab0fc93fc064ee68b8fcbf8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7597
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260205T022500Z
+SUMMARY:A: Sags - 4 c. Puissant Escadron - 4
+UID:4bbc83fb37b9234bf7c4aa8fce30fa66
+URL:http://www.procosom.com/feuille-pointage.php?match=7597
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7572
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260129T002500Z
+SUMMARY:A: Sags - 3 c. Mighty Ducks - 4
+UID:1110228d1f0ac7627d26c7da6726d9ad
+URL:http://www.procosom.com/feuille-pointage.php?match=7572
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7674
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260304T022500Z
+SUMMARY:A: Barking Dogs - 4 c. Sags - 4
+UID:6c9400ff91da3521cf0e348af8241778
+URL:http://www.procosom.com/feuille-pointage.php?match=7674
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7810
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260421T232500Z
+SUMMARY:A: Puissant Escadron - 5 c. Sags - 1
+UID:2c9062d2e60e2d1a04daf294eafa92b5
+URL:http://www.procosom.com/feuille-pointage.php?match=7810
+END:VEVENT
+END:VCALENDAR
