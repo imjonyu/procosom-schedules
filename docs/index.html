@@ -6,7 +6,7 @@
 <body>
     <h1>Subscribe to your team calendar</h1>
     <select id="team-select">
-        <option value="">-- Select your team --</option>
+        <option value="">-- Select your team --</option><option value="Barking Dogs">Barking Dogs</option><option value="Golden Kales">Golden Kales</option><option value="Jeunes Professionnels">Jeunes Professionnels</option><option value="Mighty Ducks">Mighty Ducks</option><option value="Puissant Escadron">Puissant Escadron</option><option value="Sags">Sags</option><option value="TTC Club">TTC Club</option><option value="Achigans">Achigans</option><option value="Chuck Norris">Chuck Norris</option><option value="Chums de Palettes">Chums de Palettes</option><option value="Deadly Moogly">Deadly Moogly</option><option value="Front de Libération du Cosom">Front de Libération du Cosom</option><option value="Golden Kales HC">Golden Kales HC</option><option value="Mouettes">Mouettes</option><option value="Quebec Beavers">Quebec Beavers</option><option value="Rois Lions">Rois Lions</option><option value="TDC Sélections">TDC Sélections</option><option value="Ballebuzards">Ballebuzards</option><option value="Bâton dans les Roues">Bâton dans les Roues</option><option value="Bon Boys de Croquetteville">Bon Boys de Croquetteville</option><option value="CocoCrazys">CocoCrazys</option><option value="Evil Sticks">Evil Sticks</option><option value="Goats">Goats</option><option value="Gros Matous">Gros Matous</option><option value="Jagrbombs">Jagrbombs</option><option value="Mêlés Noirs">Mêlés Noirs</option><option value="Momentums">Momentums</option><option value="Sauce AC">Sauce AC</option><option value="Scie-Hawks">Scie-Hawks</option><option value="Top Shotta 2.0">Top Shotta 2.0</option><option value="Wolfpack">Wolfpack</option><option value="Bouchons de la Baleine">Bouchons de la Baleine</option><option value="Coyotes Urbains">Coyotes Urbains</option><option value="LumberJack">LumberJack</option><option value="P'tite Ékip">P'tite Ékip</option><option value="Présidents">Présidents</option><option value="Punished">Punished</option><option value="Pylons">Pylons</option><option value="Tinderellas">Tinderellas</option><option value="Trappeurs">Trappeurs</option><option value="Tribunal">Tribunal</option><option value="Black Mad Squirrels">Black Mad Squirrels</option><option value="Cosmiques">Cosmiques</option><option value="Cougars">Cougars</option><option value="Grainezky">Grainezky</option><option value="Gros Chefs Bandits">Gros Chefs Bandits</option><option value="Grouin Grouin">Grouin Grouin</option><option value="Habsurdes">Habsurdes</option><option value="Invincibles">Invincibles</option><option value="Punks de l'Enfer">Punks de l'Enfer</option><option value="TDC">TDC</option>
         <option value="Wolfpack">Wolfpack</option>
         <option value="Ballebuzards">Ballebuzards</option>
         <!-- etc -->
@@ -20,8 +20,23 @@
     <!-- Or download the .ics file -->
     <a id="download-link" href="#">Download .ics</a>
 
+    
+    <br><br>
+    <h3>Select Season:</h3>
+    <select id="season-select">
+        <option value="">-- Select a season --</option>
+        <option value="-1">Toutes (0)</option><option value="1">Automne 2015 (2015)</option><option value="2">Hiver 2016 (2016)</option><option value="3">Été 2016 (2016)</option><option value="4">Automne 2016 (2016)</option><option value="5">Hiver 2017 (2017)</option><option value="6">Été 2017 (2017)</option><option value="7">Automne 2017 (2017)</option><option value="8">Hiver 2018 (2018)</option><option value="9">Été 2018 (2018)</option><option value="10">Automne 2018 (2018)</option><option value="11">Hiver 2019 (2019)</option><option value="12">Été 2019 (2019)</option><option value="13">Automne 2019 (2019)</option><option value="14">Hiver 2020 (2020)</option><option value="15">Automne 2021 (2021)</option><option value="16">Hiver 2022 (2022)</option><option value="17">Automne 2022 (2022)</option><option value="18">Hiver 2023 (2023)</option><option value="19">Été 2023 (2023)</option><option value="20">Automne 2023 (2023)</option><option value="21">Hiver 2024 (2024)</option><option value="22">Automne 2024 (2024)</option><option value="23">Hiver 2025 (2025)</option><option value="24">Été 2025 (2025)</option><option value="25">Automne 2025 (2025)</option><option value="26">Hiver 2026 (2026)</option>
+    </select>
+    
+    <br><br>
+    <h3>Select Division:</h3>
+    <select id="division-select">
+        <option value="">-- Select a division --</option>
+        <option value="126">A</option><option value="127">B</option><option value="128">C</option><option value="129">D</option><option value="130">E</option>
+    </select>
+    
     <script>
-        const BASE_URL = "https://your-github-pages-url/calendars/";
+        const BASE_URL = "https://imjonyu.github.io/procosom-schedules/calendars/";
 
         document.getElementById("team-select").addEventListener("change", (e) => {
             const team = e.target.value.replace(" ", "_");
@@ -32,5 +47,3 @@
             document.getElementById("download-link").href = url;
         });
     </script>
-</body>
-</html>
