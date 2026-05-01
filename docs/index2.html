@@ -7,20 +7,9 @@
     <link rel="stylesheet" href="style.css">
     <script>
         document.addEventListener('DOMContentLoaded', function() {
-            // Fetch and display the CSS content
-            fetch('style.css')
-                .then(response => {
-                    if (!response.ok) {
-                        throw new Error(`HTTP error! status: ${response.status}`);
-                    }
-                    return response.text();
-                })
-                .then(css => {
-                    document.querySelector('.css-display').textContent = css;
-                })
-                .catch(error => {
-                    document.querySelector('.css-display').textContent = 'Error loading style.css: ' + error.message;
-                });
+            // Remove the JavaScript that loads CSS as text - let the link tag handle styling
+            // Fetch and display the latest season
+            fetch('season.json')
             
             // Fetch and display the latest season
             fetch('season.json')
@@ -141,7 +130,7 @@
     </div>
     
     <div class="css-display">
-        /* CSS code from the same directory will be displayed here */
+        <!-- Teams will be displayed here when a division is selected -->
     </div>
 </body>
 </html>
