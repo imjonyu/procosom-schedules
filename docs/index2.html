@@ -65,7 +65,9 @@
                     })
                     .then(data => {
                         if (!data || data.length === 0 || !data[0].season_id || !data[0].season_name) {
-                            document.querySelector('.css-display').textContent = 'Season data missing or invalid';
+                            const teamsSelect = document.getElementById('teams');
+                            teamsSelect.innerHTML = '<option value="">Season data missing or invalid</option>';
+                            teamsSelect.disabled = true;
                             return;
                         }
                         
@@ -89,12 +91,27 @@
                         // Filter teams by division
                         const divisionTeams = teams.filter(team => team.division.toLowerCase() === divisionValue);
                         
-                        // Display teams
-                        const teamsDisplay = divisionTeams.map(team => team.team).join('\n');
-                        document.querySelector('.css-display').textContent = teamsDisplay || 'No teams found for this division';
+                        // Update teams dropdown
+                        const teamsSelect = document.getElementById('teams');
+                        teamsSelect.innerHTML = '';
+                        
+                        if (divisionTeams.length === 0) {
+                            teamsSelect.innerHTML = '<option value="">No teams found for this division</option>';
+                            teamsSelect.disabled = true;
+                        } else {
+                            teamsSelect.disabled = false;
+                            divisionTeams.forEach(team => {
+                                const option = document.createElement('option');
+                                option.value = team.team;
+                                option.textContent = team.team;
+                                teamsSelect.appendChild(option);
+                            });
+                        }
                     })
                     .catch(error => {
-                        document.querySelector('.css-display').textContent = 'Error loading teams: ' + error.message;
+                        const teamsSelect = document.getElementById('teams');
+                        teamsSelect.innerHTML = '<option value="">Error loading teams: ' + error.message + '</option>';
+                        teamsSelect.disabled = true;
                     });
             }
             
@@ -130,8 +147,11 @@
         </select>
     </div>
     
-    <div class="css-display">
-        <!-- Teams will be displayed here when a division is selected -->
+    <div class="dropdown-container">
+        <label for="teams">Teams:</label>
+        <select id="teams" disabled>
+            <option value="">Select a division first</option>
+        </select>
     </div>
 </body>
 </html>
