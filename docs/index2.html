@@ -70,7 +70,7 @@
                             const copyButton = document.getElementById('copy-ics');
                             teamsSelect.innerHTML = '<option value="">Season data missing or invalid</option>';
                             teamsSelect.disabled = true;
-                            icsPath.textContent = 'Cannot determine season for ICS path';
+                            icsPath.value = 'Cannot determine season for ICS path';
                             copyButton.disabled = true;
                             return;
                         }
@@ -104,7 +104,7 @@
                         if (divisionTeams.length === 0) {
                             teamsSelect.innerHTML = '<option value="">No teams found for this division</option>';
                             teamsSelect.disabled = true;
-                            icsPath.textContent = 'No teams found for this division';
+                            icsPath.value = 'No teams found for this division';
                             copyButton.disabled = true;
                         } else {
                             teamsSelect.disabled = false;
@@ -116,11 +116,11 @@
                             });
                             
                             // Reset ICS path and button when teams are loaded
-                            icsPath.textContent = 'Select a team to see the ICS file path';
+                            icsPath.value = 'Select a team to see the ICS file path';
                             copyButton.disabled = true;
                         }
                         
-                            // Add event listener for team selection
+                        // Add event listener for team selection
                         teamsSelect.addEventListener('change', function() {
                             if (this.value) {
                                 // Construct ICS file path: {TeamName}-{Division}-{Season}.ics
@@ -128,13 +128,13 @@
                                 const divisionLetter = divisionValue.toUpperCase();
                                 const seasonNameClean = seasonName.replace(/ /g, '-');
                                 const icsFileName = `${teamName}-${divisionLetter}-${seasonId}-${seasonNameClean}.ics`;
-                                const icsPath = `calendars/${seasonId}-${seasonNameFormatted}/${icsFileName}`;
+                                const icsPathValue = `calendars/${seasonId}-${seasonNameFormatted}/${icsFileName}`;
                                 
                                 // Update ICS path display
-                                document.getElementById('ics-path').value = icsPath;
+                                icsPath.value = icsPathValue;
                                 copyButton.disabled = false;
                             } else {
-                                document.getElementById('ics-path').value = 'Select a team to see the ICS file path';
+                                icsPath.value = 'Select a team to see the ICS file path';
                                 copyButton.disabled = true;
                             }
                         });
@@ -145,7 +145,7 @@
                         const copyButton = document.getElementById('copy-ics');
                         teamsSelect.innerHTML = '<option value="">Error loading teams: ' + error.message + '</option>';
                         teamsSelect.disabled = true;
-                        icsPath.textContent = 'Error loading teams: ' + error.message;
+                        icsPath.value = 'Error loading teams: ' + error.message;
                         copyButton.disabled = true;
                     });
             }
