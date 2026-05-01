@@ -92,30 +92,6 @@
                 } catch (error) {
                     document.querySelector('.css-display').textContent = 'Error loading teams: ' + error.message;
                 }
-                
-                // Convert season name to lowercase and replace spaces with hyphens
-                const seasonNameFormatted = seasonName.toLowerCase().replace(/ /g, '-');
-                
-                // Construct the path to teams.json
-                const teamsPath = `calendars/${seasonId}-${seasonNameFormatted}/teams.json`;
-                
-                try {
-                    const response = await fetch(teamsPath);
-                    if (!response.ok) {
-                        throw new Error(`HTTP error! status: ${response.status}`);
-                    }
-                    const teams = await response.json();
-                    
-                    // Filter teams by division
-                    const divisionTeams = teams.filter(team => team.division.toLowerCase() === divisionValue);
-                    
-                    // Display teams
-                    const teamsDisplay = divisionTeams.map(team => team.team).join('\n');
-                    document.querySelector('.css-display').textContent = teamsDisplay || 'No teams found for this division';
-                    
-                } catch (error) {
-                    document.querySelector('.css-display').textContent = 'Error loading teams: ' + error.message;
-                }
             }
             
             // Add event listener for division selection
