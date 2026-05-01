@@ -9,7 +9,12 @@
         document.addEventListener('DOMContentLoaded', function() {
             // Fetch and display the CSS content
             fetch('style.css')
-                .then(response => response.text())
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! status: ${response.status}`);
+                    }
+                    return response.text();
+                })
                 .then(css => {
                     document.querySelector('.css-display').textContent = css;
                 })
@@ -19,9 +24,24 @@
             
             // Fetch and display the latest season
             fetch('season.json')
-                .then(response => response.json())
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! status: ${response.status}`);
+                    }
+                    return response.json();
+                })
                 .then(data => {
-                    document.getElementById('latest-season').textContent = data.latestSeason.charAt(0).toUpperCase() + data.latestSeason.slice(1);
+                    if (data && data.latestSeason) {
+                        const seasonStr = data.latestSeason;
+                        if (typeof seasonStr === 'string' && seasonStr.length > 0) {
+                            document.getElementById('latest-season').textContent = 
+                                seasonStr.charAt(0).toUpperCase() + seasonStr.slice(1);
+                        } else {
+                            document.getElementById('latest-season').textContent = 'Season data invalid';
+                        }
+                    } else {
+                        document.getElementById('latest-season').textContent = 'Season data missing';
+                    }
                 })
                 .catch(error => {
                     document.getElementById('latest-season').textContent = 'Error loading season data: ' + error.message;
@@ -49,7 +69,17 @@
                 // Extract season ID and name from latest season text
                 // The season format is like "Hiver 2026" or "Spring 2026"
                 const seasonText = latestSeason.textContent;
+                if (!seasonText || seasonText.includes('Error') || seasonText.includes('missing') || seasonText.includes('invalid')) {
+                    document.querySelector('.css-display').textContent = 'Cannot determine season for teams';
+                    return;
+                }
+                
                 const seasonParts = seasonText.split(' ');
+                if (seasonParts.length < 2) {
+                    document.querySelector('.css-display').textContent = 'Invalid season format';
+                    return;
+                }
+                
                 const seasonName = seasonParts.slice(0, -1).join(' '); // All but the last part
                 const seasonId = seasonParts[seasonParts.length - 1]; // Last part is the year
                 
