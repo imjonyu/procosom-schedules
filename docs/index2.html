@@ -66,8 +66,12 @@
                     .then(data => {
                         if (!data || data.length === 0 || !data[0].season_id || !data[0].season_name) {
                             const teamsSelect = document.getElementById('teams');
+                            const icsPath = document.getElementById('ics-path');
+                            const copyButton = document.getElementById('copy-ics');
                             teamsSelect.innerHTML = '<option value="">Season data missing or invalid</option>';
                             teamsSelect.disabled = true;
+                            icsPath.textContent = 'Cannot determine season for ICS path';
+                            copyButton.disabled = true;
                             return;
                         }
                         
@@ -93,11 +97,15 @@
                         
                         // Update teams dropdown
                         const teamsSelect = document.getElementById('teams');
+                        const icsPath = document.getElementById('ics-path');
+                        const copyButton = document.getElementById('copy-ics');
                         teamsSelect.innerHTML = '';
                         
                         if (divisionTeams.length === 0) {
                             teamsSelect.innerHTML = '<option value="">No teams found for this division</option>';
                             teamsSelect.disabled = true;
+                            icsPath.textContent = 'No teams found for this division';
+                            copyButton.disabled = true;
                         } else {
                             teamsSelect.disabled = false;
                             divisionTeams.forEach(team => {
@@ -106,12 +114,39 @@
                                 option.textContent = team.team;
                                 teamsSelect.appendChild(option);
                             });
+                            
+                            // Reset ICS path and button when teams are loaded
+                            icsPath.textContent = 'Select a team to see the ICS file path';
+                            copyButton.disabled = true;
                         }
+                        
+                            // Add event listener for team selection
+                        teamsSelect.addEventListener('change', function() {
+                            if (this.value) {
+                                // Construct ICS file path: {TeamName}-{Division}-{Season}.ics
+                                const teamName = this.value;
+                                const divisionLetter = divisionValue.toUpperCase();
+                                const seasonNameClean = seasonName.replace(/ /g, '-');
+                                const icsFileName = `${teamName}-${divisionLetter}-${seasonId}-${seasonNameClean}.ics`;
+                                const icsPath = `calendars/${seasonId}-${seasonNameFormatted}/${icsFileName}`;
+                                
+                                // Update ICS path display
+                                icsPath.textContent = icsPath;
+                                copyButton.disabled = false;
+                            } else {
+                                icsPath.textContent = 'Select a team to see the ICS file path';
+                                copyButton.disabled = true;
+                            }
+                        });
                     })
                     .catch(error => {
                         const teamsSelect = document.getElementById('teams');
+                        const icsPath = document.getElementById('ics-path');
+                        const copyButton = document.getElementById('copy-ics');
                         teamsSelect.innerHTML = '<option value="">Error loading teams: ' + error.message + '</option>';
                         teamsSelect.disabled = true;
+                        icsPath.textContent = 'Error loading teams: ' + error.message;
+                        copyButton.disabled = true;
                     });
             }
             
@@ -153,5 +188,28 @@
             <option value="">Select a division first</option>
         </select>
     </div>
+    
+    <div class="ics-display-container">
+        <label for="ics-path">ICS File Path:</label>
+        <div id="ics-path" class="ics-path">Select a team to see the ICS file path</div>
+        <button id="copy-ics" disabled>Copy ICS Path</button>
+    </div>
+    
+    <script>
+        document.getElementById('copy-ics').addEventListener('click', function() {
+            const icsPath = document.getElementById('ics-path').textContent;
+            navigator.clipboard.writeText(icsPath).then(() => {
+                this.textContent = 'Copied!';
+                setTimeout(() => {
+                    this.textContent = 'Copy ICS Path';
+                }, 2000);
+            }).catch(err => {
+                this.textContent = 'Copy Failed';
+                setTimeout(() => {
+                    this.textContent = 'Copy ICS Path';
+                }, 2000);
+            });
+        });
+    </script>
 </body>
 </html>
