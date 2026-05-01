@@ -52,46 +52,50 @@
                     return;
                 }
                 
-                // Extract season ID and name from latest season text
-                // The season format is like "Hiver 2026" or "Spring 2026"
-                const seasonText = latestSeason.textContent;
-                if (!seasonText || seasonText.includes('Error') || seasonText.includes('missing') || seasonText.includes('invalid')) {
-                    document.querySelector('.css-display').textContent = 'Cannot determine season for teams';
-                    return;
-                }
-                
-                const seasonParts = seasonText.split(' ');
-                if (seasonParts.length < 2) {
-                    document.querySelector('.css-display').textContent = 'Invalid season format';
-                    return;
-                }
-                
-                const seasonName = seasonParts.slice(0, -1).join(' '); // All but the last part
-                const seasonId = seasonParts[seasonParts.length - 1]; // Last part is the year
-                
-                // Convert season name to lowercase and replace spaces with hyphens
-                const seasonNameFormatted = seasonName.toLowerCase().replace(/ /g, '-');
-                
-                // Construct the path to teams.json
-                const teamsPath = `calendars/${seasonId}-${seasonNameFormatted}/teams.json`;
-                
-                try {
-                    const response = await fetch(teamsPath);
-                    if (!response.ok) {
-                        throw new Error(`HTTP error! status: ${response.status}`);
-                    }
-                    const teams = await response.json();
-                    
-                    // Filter teams by division
-                    const divisionTeams = teams.filter(team => team.division.toLowerCase() === divisionValue);
-                    
-                    // Display teams
-                    const teamsDisplay = divisionTeams.map(team => team.team).join('\n');
-                    document.querySelector('.css-display').textContent = teamsDisplay || 'No teams found for this division';
-                    
-                } catch (error) {
-                    document.querySelector('.css-display').textContent = 'Error loading teams: ' + error.message;
-                }
+                // Extract season data from season.json (we already loaded it)
+                // We need to get season_id and season_name from the season.json data
+                // Since we already fetched season.json, we need to store the data
+                // Let's re-fetch season.json to get the season_id
+                fetch('season.json')
+                    .then(response => {
+                        if (!response.ok) {
+                            throw new Error(`HTTP error! status: ${response.status}`);
+                        }
+                        return response.json();
+                    })
+                    .then(data => {
+                        if (!data || data.length === 0 || !data[0].season_id || !data[0].season_name) {
+                            document.querySelector('.css-display').textContent = 'Season data missing or invalid';
+                            return;
+                        }
+                        
+                        const seasonId = data[0].season_id;
+                        const seasonName = data[0].season_name;
+                        
+                        // Format season name: capitalize first letter and keep the rest as is
+                        // Convert to proper format: 26-Hiver-2026
+                        const seasonNameFormatted = seasonName.replace(/ /g, '-');
+                        const teamsPath = `calendars/${seasonId}-${seasonNameFormatted}/teams.json`;
+                        
+                        return fetch(teamsPath);
+                    })
+                    .then(response => {
+                        if (!response.ok) {
+                            throw new Error(`HTTP error! status: ${response.status}`);
+                        }
+                        return response.json();
+                    })
+                    .then(teams => {
+                        // Filter teams by division
+                        const divisionTeams = teams.filter(team => team.division.toLowerCase() === divisionValue);
+                        
+                        // Display teams
+                        const teamsDisplay = divisionTeams.map(team => team.team).join('\n');
+                        document.querySelector('.css-display').textContent = teamsDisplay || 'No teams found for this division';
+                    })
+                    .catch(error => {
+                        document.querySelector('.css-display').textContent = 'Error loading teams: ' + error.message;
+                    });
             }
             
             // Add event listener for division selection
