@@ -131,10 +131,10 @@
                                 const icsPath = `calendars/${seasonId}-${seasonNameFormatted}/${icsFileName}`;
                                 
                                 // Update ICS path display
-                                icsPath.textContent = icsPath;
+                                document.getElementById('ics-path').value = icsPath;
                                 copyButton.disabled = false;
                             } else {
-                                icsPath.textContent = 'Select a team to see the ICS file path';
+                                document.getElementById('ics-path').value = 'Select a team to see the ICS file path';
                                 copyButton.disabled = true;
                             }
                         });
@@ -191,13 +191,13 @@
     
     <div class="ics-display-container">
         <label for="ics-path">ICS File Path:</label>
-        <div id="ics-path" class="ics-path">Select a team to see the ICS file path</div>
+        <input type="text" id="ics-path" class="ics-path" readonly value="Select a team to see the ICS file path">
         <button id="copy-ics" disabled>Copy ICS Path</button>
     </div>
     
     <script>
         document.getElementById('copy-ics').addEventListener('click', function() {
-            const icsPath = document.getElementById('ics-path').textContent;
+            const icsPath = document.getElementById('ics-path').value;
             navigator.clipboard.writeText(icsPath).then(() => {
                 this.textContent = 'Copied!';
                 setTimeout(() => {
