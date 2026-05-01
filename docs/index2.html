@@ -120,15 +120,21 @@
                             copyButton.disabled = true;
                         }
                         
+                        // Capture the necessary variables in closure
+                        const capturedDivisionValue = divisionValue;
+                        const capturedSeasonId = seasonId;
+                        const capturedSeasonName = seasonName;
+                        const capturedSeasonNameFormatted = seasonNameFormatted;
+                        
                         // Add event listener for team selection
                         teamsSelect.addEventListener('change', function() {
                             if (this.value) {
                                 // Construct ICS file path: {TeamName}-{Division}-{Season}.ics
                                 const teamName = this.value;
-                                const divisionLetter = divisionValue.toUpperCase();
-                                const seasonNameClean = seasonName.replace(/ /g, '-');
-                                const icsFileName = `${teamName}-${divisionLetter}-${seasonId}-${seasonNameClean}.ics`;
-                                const icsPathValue = `calendars/${seasonId}-${seasonNameFormatted}/${icsFileName}`;
+                                const divisionLetter = capturedDivisionValue.toUpperCase();
+                                const seasonNameClean = capturedSeasonName.replace(/ /g, '-');
+                                const icsFileName = `${teamName}-${divisionLetter}-${capturedSeasonId}-${seasonNameClean}.ics`;
+                                const icsPathValue = `calendars/${capturedSeasonId}-${capturedSeasonNameFormatted}/${icsFileName}`;
                                 
                                 // Update ICS path display
                                 icsPath.value = icsPathValue;
