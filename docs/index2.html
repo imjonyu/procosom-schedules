@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Procosom Schedules</title>
+    <link rel="stylesheet" href="style.css">
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Fetch and display the CSS content
+            fetch('style.css')
+                .then(response => response.text())
+                .then(css => {
+                    document.querySelector('.css-display').textContent = css;
+                })
+                .catch(error => {
+                    document.querySelector('.css-display').textContent = 'Error loading style.css: ' + error.message;
+                });
+            
+            // Fetch and display the latest season
+            fetch('season.json')
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById('latest-season').textContent = data.latestSeason.charAt(0).toUpperCase() + data.latestSeason.slice(1);
+                })
+                .catch(error => {
+                    document.getElementById('latest-season').textContent = 'Error loading season data: ' + error.message;
+                });
+            
+            // Load teams based on division selection
+            const divisionSelect = document.getElementById('division');
+            const latestSeason = document.getElementById('latest-season');
+            
+            // Map division values to their display names
+            const divisionMap = {
+                'a': 'A',
+                'b': 'B',
+                'c': 'C',
+                'd': 'D',
+                'e': 'E'
+            };
+            
+            // Function to load teams for a specific division
+            async function loadTeams(divisionValue) {
+                if (!divisionValue || !latestSeason.textContent || latestSeason.textContent === 'Loading...' || latestSeason.textContent.includes('Error')) {
+                    return;
+                }
+                
+                // Extract season ID and name from latest season text
+                // The season format is like "Hiver 2026" or "Spring 2026"
+                const seasonText = latestSeason.textContent;
+                const seasonParts = seasonText.split(' ');
+                const seasonName = seasonParts.slice(0, -1).join(' '); // All but the last part
+                const seasonId = seasonParts[seasonParts.length - 1]; // Last part is the year
+                
+                // Convert season name to lowercase and replace spaces with hyphens
+                const seasonNameFormatted = seasonName.toLowerCase().replace(/ /g, '-');
+                
+                // Construct the path to teams.json
+                const teamsPath = `calendars/${seasonId}-${seasonNameFormatted}/teams.json`;
+                
+                try {
+                    const response = await fetch(teamsPath);
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! status: ${response.status}`);
+                    }
+                    const teams = await response.json();
+                    
+                    // Filter teams by division
+                    const divisionTeams = teams.filter(team => team.division.toLowerCase() === divisionValue);
+                    
+                    // Display teams
+                    const teamsDisplay = divisionTeams.map(team => team.team).join('\n');
+                    document.querySelector('.css-display').textContent = teamsDisplay || 'No teams found for this division';
+                    
+                } catch (error) {
+                    document.querySelector('.css-display').textContent = 'Error loading teams: ' + error.message;
+                }
+            }
+            
+            // Add event listener for division selection
+            divisionSelect.addEventListener('change', function() {
+                loadTeams(this.value);
+            });
+            
+            // Load teams for the default selection if there is one
+            if (divisionSelect.value) {
+                loadTeams(divisionSelect.value);
+            }
+        });
+    </script>
+</head>
+<body>
+    <h1>Procosom Schedules</h1>
+    
+    <div class="dropdown-container">
+        <label>Season:</label>
+        <div id="latest-season">Loading...</div>
+    </div>
+    
+    <div class="dropdown-container">
+        <label for="division">Division:</label>
+        <select id="division">
+            <option value="">Select Division</option>
+            <option value="a">Division A</option>
+            <option value="b">Division B</option>
+            <option value="c">Division C</option>
+            <option value="d">Division D</option>
+            <option value="e">Division E</option>
+        </select>
+    </div>
+    
+    <div class="css-display">
+        /* CSS code from the same directory will be displayed here */
+    </div>
+</body>
+</html>

@@ -1,0 +1,48 @@
+/* Default CSS styles for Procosom Schedules */
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    background-color: #f9f9f9;
+}
+
+dropdown-container {
+    margin: 20px 0;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #333;
+}
+
+select {
+    padding: 8px;
+    width: 200px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background-color: white;
+}
+
+css-display {
+    margin-top: 30px;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    white-space: pre-wrap;
+    font-family: monospace;
+    overflow-x: auto;
+    color: #333;
+    border-left: 4px solid #007bff;
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+/* Add some hover effects */
+select:hover {
+    border-color: #007bff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.25);
+}
