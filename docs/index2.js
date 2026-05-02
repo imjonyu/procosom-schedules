@@ -107,17 +107,17 @@ document.addEventListener('DOMContentLoaded', function() {
             // Add event listener for team selection
             teamsSelect.addEventListener('change', function() {
                 if (this.value) {
-                    // Construct ICS file path: {TeamName}-{Division}-{Season}.ics
-                    const teamName = this.value.replace(/ /g, '-');
-                    const divisionLetter = divisionValue.toUpperCase();
-                    const seasonNameClean = seasonName.replace(/ /g, '-');
-                    const icsFileName = `${teamName}-${divisionLetter}-${seasonId}-${seasonNameClean}.ics`;
-                    const icsPathValue = `calendars/${seasonId}-${seasonNameFormatted}/${icsFileName}`;
+            // Construct ICS file path: {TeamName}-{Division}-{Season}.ics
+                const teamName = this.value.replace(/ /g, '-');
+                const divisionLetter = divisionValue.toUpperCase();
+                const seasonNameClean = seasonName.replace(/ /g, '-');
+                const icsFileName = `${teamName}-${divisionLetter}-${seasonNameClean}.ics`;
+                const icsPathValue = `calendars/${seasonId}-${seasonNameFormatted}/${icsFileName}`;
 
-                    // Create full GitHub.io URL
-                    const githubUsername = 'imjonyu';
-                    const repoName = 'procosom-schedules';
-                    const githubUrl = `https://${githubUsername}.github.io/${repoName}/${icsPathValue}`;
+                // Create full GitHub.io URL
+                const githubUsername = 'imjonyu';
+                const repoName = 'procosom-schedules';
+                const githubUrl = `https://${githubUsername}.github.io/${repoName}/${icsPathValue}`;
 
                     // Update ICS path display
                     icsPath.value = githubUrl;
