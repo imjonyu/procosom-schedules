@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    // Version 1.0.4
+    // Version 1.0.5
     // Fetch and display the latest season
     fetch('season.json')
         .then(response => {
@@ -82,10 +82,10 @@ document.addEventListener('DOMContentLoaded', function() {
             const divisionTeams = teams.filter(team => team.division === divisionValue.toUpperCase());
 
             // Update teams dropdown
-            teamsSelect.innerHTML = '';
+            teamsSelect.innerHTML = '<option value="">Select Team</option>';
 
             if (divisionTeams.length === 0) {
-                teamsSelect.innerHTML = '<option value="">No teams found for this division</option>';
+                teamsSelect.innerHTML += '<option value="">No teams found for this division</option>';
                 teamsSelect.disabled = true;
                 icsPath.value = 'No teams found for this division';
                 copyButton.disabled = true;
