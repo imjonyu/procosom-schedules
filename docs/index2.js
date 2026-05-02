@@ -170,13 +170,11 @@ document.addEventListener('DOMContentLoaded', function() {
     subscribeButton.addEventListener('click', function() {
         const icsPathValue = icsPath.value;
         if (icsPathValue && icsPathValue !== 'Select a team to see the ICS file path') {
-            // Create a link element and trigger download
-            const link = document.createElement('a');
-            link.href = icsPathValue;
-            link.download = icsPathValue.split('/').pop();
-            document.body.appendChild(link);
-            link.click();
-            document.body.removeChild(link);
+            // Create webcal URL by replacing https with webcal
+            const webcalUrl = icsPathValue.replace('https://', 'webcal://');
+            
+            // Open webcal URL to subscribe in macOS Calendar app
+            window.location.href = webcalUrl;
             
             // Show feedback
             this.textContent = 'Subscribed!';
