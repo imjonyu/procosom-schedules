@@ -152,14 +152,19 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 });
 
+console.log('Copy button event listener attached');
 document.getElementById('copy-ics').addEventListener('click', function() {
+    console.log('Copy button clicked');
     const icsPath = document.getElementById('ics-path').value;
+    console.log('ICS Path to copy:', icsPath);
     navigator.clipboard.writeText(icsPath).then(() => {
+        console.log('Copy successful');
         this.textContent = 'Copied!';
         setTimeout(() => {
             this.textContent = 'Copy ICS Path';
         }, 2000);
     }).catch(err => {
+        console.error('Copy failed:', err);
         this.textContent = 'Copy Failed';
         setTimeout(() => {
             this.textContent = 'Copy ICS Path';
