@@ -116,8 +116,13 @@ document.addEventListener('DOMContentLoaded', function() {
                     const icsFileName = `${teamName}-${divisionLetter}-${seasonId}-${seasonNameClean}.ics`;
                     const icsPathValue = `calendars/${seasonId}-${seasonNameFormatted}/${icsFileName}`;
                     
+                    // Create full GitHub.io URL
+                    const githubUsername = 'imjonyu';
+                    const repoName = 'procosom-scheduler';
+                    const githubUrl = `https://${githubUsername}.github.io/${repoName}/docs/${icsPathValue}`;
+                    
                     // Update ICS path display
-                    icsPath.value = icsPathValue;
+                    icsPath.value = githubUrl;
                     copyButton.disabled = false;
                 } else {
                     icsPath.value = 'Select a team to see the ICS file path';
