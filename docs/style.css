@@ -46,3 +46,49 @@ select:hover {
     border-color: #007bff;
     box-shadow: 0 0 5px rgba(0, 123, 255, 0.25);
 }
+
+/* ICS display container styles */
+.ics-display-container {
+    margin-top: 30px;
+}
+
+.ics-path {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-family: monospace;
+}
+
+.ics-button-group {
+    display: flex;
+    gap: 10px;
+}
+
+.ics-button-group button {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+#copy-ics {
+    background-color: #007bff;
+    color: white;
+}
+
+#subscribe-ics {
+    background-color: #28a745;
+    color: white;
+}
+
+.ics-button-group button:hover {
+    opacity: 0.9;
+}
+
+.ics-button-group button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}

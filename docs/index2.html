@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Procosom Schedules</title>
-    <link rel="stylesheet" href="style.css?v=1.0.4">
-    <meta name="version" content="1.0.4">
-    <script src="index2.js?v=1.0.4"></script>
+    <link rel="stylesheet" href="style.css?v=1.0.5">
+    <meta name="version" content="1.0.5">
+    <script src="index2.js?v=1.0.5"></script>
 </head>
 <body>
     <h1>Procosom Schedules</h1>
@@ -37,10 +37,13 @@
 
     <div class="ics-display-container">
         <label for="ics-path">ICS File Path:</label>
-        <input type="text" id="ics-path" class="ics-path" readonly value="Select a team to see the ICS file path">
-        <button id="copy-ics" disabled>Copy ICS Path</button>
+        <input type="text" id="ics-path" class="ics-path" readonly value="Select a team to see the ICS file path" style="width: 100%;">
+        <div class="ics-button-group">
+            <button id="copy-ics" disabled>Copy ICS Path</button>
+            <button id="subscribe-ics" disabled>Subscribe to Calendar</button>
+        </div>
     </div>
-
-    <div class="version-info">Version 1.0.4</div>
+    
+    <div class="version-info">Version 1.0.5</div>
 </body>
 </html>
