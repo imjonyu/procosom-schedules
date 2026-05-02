@@ -92,8 +92,8 @@
                         return response.json();
                     })
                     .then(teams => {
-                        // Filter teams by division
-                        const divisionTeams = teams.filter(team => team.division.toLowerCase() === divisionValue);
+                        // Filter teams by division - convert divisionValue to uppercase to match team data
+                        const divisionTeams = teams.filter(team => team.division === divisionValue.toUpperCase());
                         
                         // Update teams dropdown
                         const teamsSelect = document.getElementById('teams');
