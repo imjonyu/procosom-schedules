@@ -117,7 +117,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     // Create full GitHub.io URL
                     const githubUsername = 'imjonyu';
                     const repoName = 'procosom-schedules';
-                    const githubUrl = `https://${githubUsername}.github.io/${repoName}/docs/${icsPathValue}`;
+                    const githubUrl = `https://${githubUsername}.github.io/${repoName}/${icsPathValue}`;
 
                     // Update ICS path display
                     icsPath.value = githubUrl;
