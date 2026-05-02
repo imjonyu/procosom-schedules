@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    // Version 1.0.5
+    // Version 1.1.0
     // Fetch and display the latest season
     fetch('season.json')
         .then(response => {
@@ -31,6 +31,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const teamsSelect = document.getElementById('teams');
     const icsPath = document.getElementById('ics-path');
     const copyButton = document.getElementById('copy-ics');
+    const subscribeButton = document.getElementById('subscribe-ics');
 
     // Map division values to their display names
     const divisionMap = {
@@ -107,7 +108,7 @@ document.addEventListener('DOMContentLoaded', function() {
             teamsSelect.addEventListener('change', function() {
                 if (this.value) {
                     // Construct ICS file path: {TeamName}-{Division}-{Season}.ics
-                    const teamName = this.value;
+                    const teamName = this.value.replace(/ /g, '-');
                     const divisionLetter = divisionValue.toUpperCase();
                     const seasonNameClean = seasonName.replace(/ /g, '-');
                     const icsFileName = `${teamName}-${divisionLetter}-${seasonId}-${seasonNameClean}.ics`;
@@ -115,15 +116,17 @@ document.addEventListener('DOMContentLoaded', function() {
 
                     // Create full GitHub.io URL
                     const githubUsername = 'imjonyu';
-                    const repoName = 'procosom-scheduler';
+                    const repoName = 'procosom-schedules';
                     const githubUrl = `https://${githubUsername}.github.io/${repoName}/docs/${icsPathValue}`;
 
                     // Update ICS path display
                     icsPath.value = githubUrl;
                     copyButton.disabled = false;
+                    subscribeButton.disabled = false;
                 } else {
                     icsPath.value = 'Select a team to see the ICS file path';
                     copyButton.disabled = true;
+                    subscribeButton.disabled = true;
                     // Reset teams dropdown to "Select Team"
                     teamsSelect.innerHTML = '<option value="">Select Team</option>';
                 }
@@ -161,5 +164,30 @@ document.addEventListener('DOMContentLoaded', function() {
                 this.textContent = 'Copy ICS Path';
             }, 2000);
         });
+    });
+    
+    // Add event listener for subscribe button
+    subscribeButton.addEventListener('click', function() {
+        const icsPathValue = icsPath.value;
+        if (icsPathValue && icsPathValue !== 'Select a team to see the ICS file path') {
+            // Create a link element and trigger download
+            const link = document.createElement('a');
+            link.href = icsPathValue;
+            link.download = icsPathValue.split('/').pop();
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+            
+            // Show feedback
+            this.textContent = 'Subscribed!';
+            setTimeout(() => {
+                this.textContent = 'Subscribe to Calendar';
+            }, 2000);
+        } else {
+            this.textContent = 'Select a team first';
+            setTimeout(() => {
+                this.textContent = 'Subscribe to Calendar';
+            }, 2000);
+        }
     });
 });
