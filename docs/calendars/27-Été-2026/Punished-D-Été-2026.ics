@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260521T010500Z
+SUMMARY:D: Punished c. Tinderellas
+UID:9ef31a6492a49c02a4a18c3670ea3438
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7888
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260520T010500Z
+SUMMARY:D: Grainezky - 5 c. Punished - 3
+UID:8c9acf8aeb418205498172aef3f04eef
+URL:http://www.procosom.com/feuille-pointage.php?match=7888
+END:VEVENT
+END:VCALENDAR

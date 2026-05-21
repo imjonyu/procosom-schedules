@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260521T230500Z
+SUMMARY:D: One Nation HC c. Möder de Jötunn
+UID:b4cd69c05d5a8c248bafa992c1431597
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7887
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260520T000500Z
+SUMMARY:D: Möder de Jötunn - 4 c. Crémeux - 7
+UID:c24c11178aa6dd81bcc21af9f98c71f1
+URL:http://www.procosom.com/feuille-pointage.php?match=7887
+END:VEVENT
+END:VCALENDAR

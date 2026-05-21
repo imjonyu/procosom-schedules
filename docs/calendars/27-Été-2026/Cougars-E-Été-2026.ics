@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7886
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260519T230500Z
+SUMMARY:E: Habsurdes - 6 c. Cougars - 1
+UID:cdba1db2e033efd10e165cf694e207af
+URL:http://www.procosom.com/feuille-pointage.php?match=7886
+END:VEVENT
+END:VCALENDAR
