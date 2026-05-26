@@ -4,9 +4,32 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
+DTSTART:20260610T000500Z
+SUMMARY:D: Möder de Jötunn c. Tinderellas
+UID:223c8e55c9c1d7c628228d3d293aed8c
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260603T010500Z
+SUMMARY:D: Tinderellas c. Punished
+UID:d06d4f9a50fee6134510cc50b7b88d31
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260527T000500Z
+SUMMARY:D: Tinderellas c. Crémeux
+UID:8a971b7762cf2ea3970f49d2cd202f97
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7892
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
 DTSTART:20260521T010500Z
-SUMMARY:D: Punished c. Tinderellas
+SUMMARY:D: Punished - 4 c. Tinderellas - 6
 UID:9ef31a6492a49c02a4a18c3670ea3438
+URL:http://www.procosom.com/feuille-pointage.php?match=7892
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7889
