@@ -3,6 +3,13 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260619T000500Z
+SUMMARY:D: Crémeux c. One Nation HC
+UID:e95bf92f060cebe251792b87a9642db1
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260603T020500Z
 SUMMARY:D: Crémeux c. Möder de Jötunn
@@ -25,11 +32,13 @@ UID:c24c11178aa6dd81bcc21af9f98c71f1
 URL:http://www.procosom.com/feuille-pointage.php?match=7887
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7899
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260527T000500Z
-SUMMARY:D: Tinderellas c. Crémeux
+SUMMARY:D: Tinderellas - 7 c. Crémeux - 6
 UID:8a971b7762cf2ea3970f49d2cd202f97
+URL:http://www.procosom.com/feuille-pointage.php?match=7899
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7891
@@ -46,5 +55,12 @@ LOCATION:CVM-Quad-#3
 DTSTART:20260609T230500Z
 SUMMARY:D: Grainezky c. Crémeux
 UID:edd901891d27db54e097904f845ef55e
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260617T010500Z
+SUMMARY:D: Tinderellas c. Crémeux
+UID:3b546f74f4382c2945587adf1be613a3
 END:VEVENT
 END:VCALENDAR

@@ -2,11 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7898
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260526T230500Z
-SUMMARY:E: Cougars c. Habsurdes
+SUMMARY:E: Cougars - 4 c. Habsurdes - 6
 UID:b6b8b5d6a9eb8abe284060d40491d6b7
+URL:http://www.procosom.com/feuille-pointage.php?match=7898
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
@@ -21,6 +23,13 @@ LOCATION:CVM-Quad-#3
 DTSTART:20260603T000500Z
 SUMMARY:E: Invincibles c. Cougars
 UID:ac07cf855c75a3229ba128963872de27
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260618T000500Z
+SUMMARY:E: Cougars c. Habsurdes
+UID:5b910acf06bea495315bbd22386bfb3b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7886
