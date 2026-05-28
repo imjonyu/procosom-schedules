@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7895
-DURATION:PT1H
-LOCATION:CVM-Quad-#3
-DTSTART:20260522T000500Z
-SUMMARY:B: Bâton dans les Roues - 8 c. One Nation - 6
-UID:a09f2428adae8a593d71124880ff307c
-URL:http://www.procosom.com/feuille-pointage.php?match=7895
-END:VEVENT
-BEGIN:VEVENT
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260612T000500Z
@@ -28,10 +19,10 @@ URL:http://www.procosom.com/feuille-pointage.php?match=7897
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20260618T230500Z
-SUMMARY:B: Bâton dans les Roues c. One Nation
-UID:adb9a43dca5394ababdc16c2d9f946fc
+LOCATION:CVM-Quad-#3
+DTSTART:20260703T020500Z
+SUMMARY:B: One Nation c. Deadly Moogly
+UID:8306cb943f934660479163694e237f91
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7901
@@ -48,6 +39,29 @@ LOCATION:CVM-Quad-#3
 DTSTART:20260602T230500Z
 SUMMARY:B: One Nation c. Douilles Bin Chiennes
 UID:f5f2af64bf7fdfbce139edf6678c7ed7
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260708T000500Z
+SUMMARY:B: Douilles Bin Chiennes c. One Nation
+UID:acd20bd921553b786b860bef2f0fa8fb
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260618T230500Z
+SUMMARY:B: Bâton dans les Roues c. One Nation
+UID:52d515cbbbaaa43dae20fd41a771536e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7895
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260522T000500Z
+SUMMARY:B: Bâton dans les Roues - 8 c. One Nation - 6
+UID:98e882dd4c466cef1ce5028c90d6908f
+URL:http://www.procosom.com/feuille-pointage.php?match=7895
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

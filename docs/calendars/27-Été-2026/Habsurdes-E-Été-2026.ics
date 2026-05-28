@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7893
-DURATION:PT1H
-LOCATION:CVM-Quad-#3
-DTSTART:20260521T020500Z
-SUMMARY:E: Invincibles - 3 c. Habsurdes - 7
-UID:e9bf5426a6f88a92cd7ade87fee4ce34
-URL:http://www.procosom.com/feuille-pointage.php?match=7893
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7898
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -18,6 +9,15 @@ DTSTART:20260526T230500Z
 SUMMARY:E: Cougars - 4 c. Habsurdes - 6
 UID:b6b8b5d6a9eb8abe284060d40491d6b7
 URL:http://www.procosom.com/feuille-pointage.php?match=7898
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7893
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260521T020500Z
+SUMMARY:E: Invincibles - 3 c. Habsurdes - 7
+UID:00c9007f65ca35efcf4229442e49b6af
+URL:http://www.procosom.com/feuille-pointage.php?match=7893
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
@@ -35,10 +35,19 @@ UID:5b910acf06bea495315bbd22386bfb3b
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260701T020500Z
+SUMMARY:E: Habsurdes c. Cougars
+UID:04b4bb16ab2725e4d13d149ecce90e2e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7903
+DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260528T000500Z
-SUMMARY:E: Habsurdes c. Femmes Fatales
+SUMMARY:E: Habsurdes - 5 c. Femmes Fatales - 2
 UID:85cb212297cab108ec6922f5741d4fec
+URL:http://www.procosom.com/feuille-pointage.php?match=7903
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7886
@@ -62,5 +71,12 @@ LOCATION:CVM-Quad-#3
 DTSTART:20260604T010500Z
 SUMMARY:E: Habsurdes c. Invincibles
 UID:5027c18aa09cd24d5158d7b4969bf880
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260701T010500Z
+SUMMARY:E: Invincibles c. Habsurdes
+UID:d3aa24a93df7c77bb6b0920e780b827a
 END:VEVENT
 END:VCALENDAR
