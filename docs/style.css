@@ -163,5 +163,62 @@ select:hover {
 }
 
 .subscription-instructions a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
+}
+
+/* Feature section styles */
+.feature-section {
+  margin-top: 40px;
+  padding: 12px 20px;
+  background-color: #e8f5e8;
+  border: 1px solid #c8e6c9;
+  border-radius: 6px;
+}
+
+.feature-section h2 {
+  color: #2e7d32;
+  margin-bottom: 20px;
+  border-bottom: 2px solid #a5d6a7;
+  padding-bottom: 10px;
+}
+
+.feature-section ul {
+  padding-left: 20px;
+  margin-bottom: 0;
+}
+
+.feature-section li {
+  margin-bottom: 10px;
+  line-height: 1.6;
+  color: #333;
+}
+
+/* Image section styles */
+.image-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  margin: 40px auto;
+  max-width: 1200px;
+  flex-wrap: wrap;
+}
+
+.image-section img {
+  height: 250px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 768px) {
+  .image-section {
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .image-section img {
+    height: auto;
+    width: 100%;
+    max-width: 600px;
+  }
 }
