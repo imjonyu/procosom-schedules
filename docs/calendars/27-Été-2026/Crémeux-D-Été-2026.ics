@@ -3,17 +3,26 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20260603T020500Z
-SUMMARY:D: Crémeux c. Möder de Jötunn
-UID:9f32a8aa289e569388e0f3c07030905c
+LOCATION:CVM-Quad-#3
+DTSTART:20260619T000500Z
+SUMMARY:D: Crémeux c. One Nation HC
+UID:e95bf92f060cebe251792b87a9642db1
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7902
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260527T230500Z
-SUMMARY:D: Grainezky c. Crémeux
+SUMMARY:D: Grainezky - 0 c. Crémeux - 3
 UID:a6285d41db3f1c82107ef28edc5b71de
+URL:http://www.procosom.com/feuille-pointage.php?match=7902
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260603T020500Z
+SUMMARY:D: Crémeux c. Möder de Jötunn
+UID:70a7821ca29ba1043593e6d94e8781d4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7887
@@ -25,20 +34,29 @@ UID:c24c11178aa6dd81bcc21af9f98c71f1
 URL:http://www.procosom.com/feuille-pointage.php?match=7887
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7891
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260521T000500Z
+SUMMARY:D: Crémeux - 11 c. Da Gooners - 1
+UID:daa1bd47aa85289fdbd0e97e65a31ca4
+URL:http://www.procosom.com/feuille-pointage.php?match=7891
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260702T010500Z
+SUMMARY:D: Crémeux c. Punished
+UID:e49c7887df0a5e911c1d74eb9faf1ac6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7899
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260527T000500Z
-SUMMARY:D: Tinderellas c. Crémeux
+SUMMARY:D: Tinderellas - 7 c. Crémeux - 6
 UID:8a971b7762cf2ea3970f49d2cd202f97
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7891
-DURATION:PT1H
-LOCATION:CVM-Quad-#3
-DTSTART:20260521T000500Z
-SUMMARY:D: Crémeux - 11 c. Da Gooners - 1
-UID:958cf32690b5a009b52bd166f5b4b29d
-URL:http://www.procosom.com/feuille-pointage.php?match=7891
+URL:http://www.procosom.com/feuille-pointage.php?match=7899
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
@@ -46,5 +64,19 @@ LOCATION:CVM-Quad-#3
 DTSTART:20260609T230500Z
 SUMMARY:D: Grainezky c. Crémeux
 UID:edd901891d27db54e097904f845ef55e
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260702T020500Z
+SUMMARY:D: Crémeux c. Da Gooners
+UID:1cf173f4a096468e20728938e795b21f
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260617T010500Z
+SUMMARY:D: Tinderellas c. Crémeux
+UID:3b546f74f4382c2945587adf1be613a3
 END:VEVENT
 END:VCALENDAR

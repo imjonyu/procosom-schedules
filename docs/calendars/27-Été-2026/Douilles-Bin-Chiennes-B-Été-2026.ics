@@ -2,13 +2,34 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7890
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
-DTSTART:20260520T230500Z
-SUMMARY:B: Achigans - 3 c. Douilles Bin Chiennes - 5
-UID:522e43ac93ce31e094ef36dda82dc51c
-URL:http://www.procosom.com/feuille-pointage.php?match=7890
+DTSTART:20260618T020500Z
+SUMMARY:B: Douilles Bin Chiennes c. Bâton dans les Roues
+UID:3af67fb8a81c5a57596f50abd1ddb3c3
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260708T010500Z
+SUMMARY:B: Deadly Moogly c. Douilles Bin Chiennes
+UID:a1ecd8418821dec259d8119812b1bef9
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260701T000500Z
+SUMMARY:B: Deadly Moogly c. Douilles Bin Chiennes
+UID:2b474b3a6ea3fbfd50cad52a2f88e44d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7901
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260527T020500Z
+SUMMARY:B: Douilles Bin Chiennes - 8 c. One Nation - 2
+UID:b95f4422ad04c948d6f1248de599f39c
+URL:http://www.procosom.com/feuille-pointage.php?match=7901
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
@@ -18,18 +39,13 @@ SUMMARY:B: One Nation c. Douilles Bin Chiennes
 UID:f5f2af64bf7fdfbce139edf6678c7ed7
 END:VEVENT
 BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20260527T020500Z
-SUMMARY:B: Douilles Bin Chiennes c. One Nation
-UID:b95f4422ad04c948d6f1248de599f39c
-END:VEVENT
-BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7900
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260527T010500Z
-SUMMARY:B: Douilles Bin Chiennes c. Deadly Moogly
+SUMMARY:B: Douilles Bin Chiennes - 7 c. Deadly Moogly - 7
 UID:0eee1ed4b63641691c58980d15fc19f9
+URL:http://www.procosom.com/feuille-pointage.php?match=7900
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
@@ -37,5 +53,28 @@ LOCATION:CVM-Quad-#3
 DTSTART:20260612T010500Z
 SUMMARY:B: Bâton dans les Roues c. Douilles Bin Chiennes
 UID:2c0ce32c68d17cb54e6456db5ec90724
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260708T000500Z
+SUMMARY:B: Douilles Bin Chiennes c. One Nation
+UID:acd20bd921553b786b860bef2f0fa8fb
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260703T000500Z
+SUMMARY:B: Douilles Bin Chiennes c. Achigans
+UID:788c323c6e400fd02b677a8b5a06aa17
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7890
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260520T230500Z
+SUMMARY:B: Achigans - 3 c. Douilles Bin Chiennes - 5
+UID:cb60e3dea2a3d3dec876742b37fa5331
+URL:http://www.procosom.com/feuille-pointage.php?match=7890
 END:VEVENT
 END:VCALENDAR

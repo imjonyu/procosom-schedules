@@ -3,10 +3,10 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20260603T020500Z
-SUMMARY:D: Crémeux c. Möder de Jötunn
-UID:9f32a8aa289e569388e0f3c07030905c
+LOCATION:CVM-Quad-#3
+DTSTART:20260630T230500Z
+SUMMARY:D: Möder de Jötunn c. Grainezky
+UID:a25fe57ff71e532fb3d9068c0b53a1ca
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
@@ -14,6 +14,22 @@ LOCATION:CVM-Quad-#3
 DTSTART:20260610T000500Z
 SUMMARY:D: Möder de Jötunn c. Tinderellas
 UID:223c8e55c9c1d7c628228d3d293aed8c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7894
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260521T230500Z
+SUMMARY:D: One Nation HC - 9 c. Möder de Jötunn - 5
+UID:c0187b4dc54a10b32ac3558ba1371807
+URL:http://www.procosom.com/feuille-pointage.php?match=7894
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260603T020500Z
+SUMMARY:D: Crémeux c. Möder de Jötunn
+UID:70a7821ca29ba1043593e6d94e8781d4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7887
@@ -25,11 +41,20 @@ UID:c24c11178aa6dd81bcc21af9f98c71f1
 URL:http://www.procosom.com/feuille-pointage.php?match=7887
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7905
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260528T020500Z
-SUMMARY:D: Möder de Jötunn c. Da Gooners
+SUMMARY:D: Möder de Jötunn - 7 c. Da Gooners - 9
 UID:1f58462c7d86de0f17c0877b30090f4f
+URL:http://www.procosom.com/feuille-pointage.php?match=7905
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260708T020500Z
+SUMMARY:D: Tinderellas c. Möder de Jötunn
+UID:a705a222017d5c2809db79e71c7038ed
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
@@ -39,12 +64,17 @@ SUMMARY:D: Möder de Jötunn c. Punished
 UID:b0a8c6d2f5116187e49e5b14395eff5c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7894
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
-DTSTART:20260521T230500Z
-SUMMARY:D: One Nation HC - 9 c. Möder de Jötunn - 5
-UID:b4cd69c05d5a8c248bafa992c1431597
-URL:http://www.procosom.com/feuille-pointage.php?match=7894
+DTSTART:20260617T230500Z
+SUMMARY:D: Da Gooners c. Möder de Jötunn
+UID:784e2445e8a7bd3e08d9d240df0de380
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260616T230500Z
+SUMMARY:D: One Nation HC c. Möder de Jötunn
+UID:37b15d1739ca3df3e717b2ab4147f61c
 END:VEVENT
 END:VCALENDAR

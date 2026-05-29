@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7895
-DURATION:PT1H
-LOCATION:CVM-Quad-#3
-DTSTART:20260522T000500Z
-SUMMARY:B: Bâton dans les Roues - 8 c. One Nation - 6
-UID:a09f2428adae8a593d71124880ff307c
-URL:http://www.procosom.com/feuille-pointage.php?match=7895
-END:VEVENT
-BEGIN:VEVENT
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260612T000500Z
@@ -28,10 +19,19 @@ URL:http://www.procosom.com/feuille-pointage.php?match=7897
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260703T020500Z
+SUMMARY:B: One Nation c. Deadly Moogly
+UID:8306cb943f934660479163694e237f91
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7901
+DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260527T020500Z
-SUMMARY:B: Douilles Bin Chiennes c. One Nation
+SUMMARY:B: Douilles Bin Chiennes - 8 c. One Nation - 2
 UID:b95f4422ad04c948d6f1248de599f39c
+URL:http://www.procosom.com/feuille-pointage.php?match=7901
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
@@ -39,6 +39,36 @@ LOCATION:CVM-Quad-#3
 DTSTART:20260602T230500Z
 SUMMARY:B: One Nation c. Douilles Bin Chiennes
 UID:f5f2af64bf7fdfbce139edf6678c7ed7
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260708T000500Z
+SUMMARY:B: Douilles Bin Chiennes c. One Nation
+UID:acd20bd921553b786b860bef2f0fa8fb
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260618T230500Z
+SUMMARY:B: Bâton dans les Roues c. One Nation
+UID:52d515cbbbaaa43dae20fd41a771536e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7895
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260522T000500Z
+SUMMARY:B: Bâton dans les Roues - 8 c. One Nation - 6
+UID:98e882dd4c466cef1ce5028c90d6908f
+URL:http://www.procosom.com/feuille-pointage.php?match=7895
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260625T230500Z
+SUMMARY:B: One Nation c. Achigans
+UID:05cee6c1a92a45961bf5767066dddf19
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
