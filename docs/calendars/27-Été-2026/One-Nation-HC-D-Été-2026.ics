@@ -16,11 +16,13 @@ SUMMARY:D: One Nation HC c. Da Gooners
 UID:e4f82d3e1619102359f72105c429933c
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7909
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260529T020500Z
-SUMMARY:D: Punished c. One Nation HC
+SUMMARY:D: Punished - 13 c. One Nation HC - 6
 UID:08b92a00ef0907d6a5e1f67e95877b12
+URL:http://www.procosom.com/feuille-pointage.php?match=7909
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7894

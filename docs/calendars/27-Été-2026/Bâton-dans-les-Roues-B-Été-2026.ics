@@ -67,10 +67,12 @@ SUMMARY:B: Deadly Moogly c. Bâton dans les Roues
 UID:151762b1a363bf6cce4f10a1bb540156
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7906
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260528T230500Z
-SUMMARY:B: Achigans c. Bâton dans les Roues
+SUMMARY:B: Achigans - 6 c. Bâton dans les Roues - 2
 UID:48b392badff0ea552ff4a4088aa189d7
+URL:http://www.procosom.com/feuille-pointage.php?match=7906
 END:VEVENT
 END:VCALENDAR
