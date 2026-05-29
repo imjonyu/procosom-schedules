@@ -37,11 +37,13 @@ SUMMARY:B: Bâton dans les Roues c. Achigans
 UID:14704e56b6c1aedb986bf70fcb0f8148
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7908
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260529T010500Z
-SUMMARY:B: Deadly Moogly c. Achigans
+SUMMARY:B: Deadly Moogly - 5 c. Achigans - 5
 UID:737d16d0230d72c65d63a45460683ecf
+URL:http://www.procosom.com/feuille-pointage.php?match=7908
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
@@ -58,11 +60,13 @@ SUMMARY:B: Achigans c. One Nation
 UID:78667e56b02513a897f0f680e01fbe37
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7906
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260528T230500Z
-SUMMARY:B: Achigans c. Bâton dans les Roues
+SUMMARY:B: Achigans - 6 c. Bâton dans les Roues - 2
 UID:48b392badff0ea552ff4a4088aa189d7
+URL:http://www.procosom.com/feuille-pointage.php?match=7906
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7890
