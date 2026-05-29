@@ -1,483 +1,90 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Procosom Calendars</title>
-    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Procosom Schedules</title>
+    <link rel="stylesheet" href="style.css?v=1.1.0">
+    <meta name="version" content="1.1.0">
+    <script src="index.js?v=1.1.0"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/translate.js/3.18.66/translate.js" ></script>
+
 </head>
 <body>
-    <h1>Procosom Team Calendars</h1>
-    <h2>Subscribe to Team Calendars</h2>
-    <p>Select your team's calendar to subscribe or download:</p>
-
-<select id="season-select">
-    <option value="">Select Season</option>
-    <option value="Hiver 2026" data-season-id="26">Hiver 2026 (2026)</option>
-</select>
-
-    <select id="division-select">
-        <option value="">Select Division</option>
-        <option value="A">Division A</option>
-        <option value="B">Division B</option>
-        <option value="C">Division C</option>
-        <option value="D">Division D</option>
-        <option value="E">Division E</option>
-    </select>
-
-    <ul id="team-list"></ul>
-
     <script>
-const BASE_URL = "https://imjonyu.github.io/procosom-schedules/calendars/";
-
-// Find the team-select element (for backward compatibility)
-const teamSelect = document.getElementById("team-select");
-if (teamSelect) {
-    teamSelect.addEventListener("change", (e) => {
-        const team = e.target.value.replace(" ", "_");
-        const url = `${BASE_URL}${team}.ics`;
-
-        // webcal:// triggers "subscribe" in calendar apps instead of download
-        document.getElementById("subscribe-link").href = url.replace("https://", "webcal://");
-        document.getElementById("download-link").href = url;
-    });
-}
-
-// New event handler for the team list items
-const teamListItems = document.querySelectorAll('li[data-team]');
-teamListItems.forEach(item => {
-    item.addEventListener('click', function() {
-        const teamName = this.getAttribute('data-team');
-        const divisionName = this.getAttribute('data-division');
-        const seasonName = this.getAttribute('data-season');
-
-        // Format team name with hyphens instead of spaces
-        const formattedTeamName = teamName.replace(/ /g, '-');
-
-        // Construct the URL using the pattern: {seasonId}-{seasonName}/{team}-{division}-{season}.ics
-        const seasonId = this.getAttribute('data-season-id');
-        const url = `${BASE_URL}${seasonId}-${seasonName}/${formattedTeamName}-${divisionName}-${seasonName}.ics`;
-
-        // webcal:// triggers "subscribe" in calendar apps instead of download
-        document.getElementById("subscribe-link").href = url.replace("https://", "webcal://");
-        document.getElementById("download-link").href = url;
-    });
-});
-
-// Dropdown filtering logic
-function updateTeamList() {
-    const seasonSelect = document.getElementById('season-select');
-    const divisionSelect = document.getElementById('division-select');
-    const selectedSeason = seasonSelect.value;
-    const selectedDivision = divisionSelect.value;
-
-    const teamItems = document.querySelectorAll('li[data-team]');
-    teamItems.forEach(item => {
-        const seasonMatch = item.getAttribute('data-season') === selectedSeason;
-        const divisionMatch = item.getAttribute('data-division') === selectedDivision;
-
-        if (seasonMatch && divisionMatch) {
-            item.style.display = '';
-        } else {
-            item.style.display = 'none';
-        }
-    });
-}
-
-// Store selected season and loaded teams
-let selectedSeason = '';
-let seasonId = '';
-let storedTeams = [];
-
-// Set up event listener for season selection - load teams.json when season changes
-seasonSelect.addEventListener('change', async () => {
-    selectedSeason = seasonSelect.value;
-    if (!selectedSeason) {
-        storedTeams = [];
-        teamList.innerHTML = '';
-        return;
-    }
-
-    // Get season ID from selected option
-    const selectedOption = seasonSelect.options[seasonSelect.selectedIndex];
-    seasonId = selectedOption.getAttribute('data-season-id');
-    
-    // Clear team list with loading message
-    teamList.innerHTML = '<li style="color: #ccc; text-align: center; padding: 10px;">Loading teams...</li>';
-
-    try {
-        // Construct path to teams.json in the selected season's folder
-        const seasonFolder = `${seasonId}-${selectedSeason.replace(' ', '-')}`;
-        const teamsJsonUrl = `./calendars/${seasonFolder}/teams.json`;
-        
-        const response = await fetch(teamsJsonUrl);
-        if (!response.ok) {
-            throw new Error(`HTTP error! status: ${response.status}`);
-        }
-        
-        storedTeams = await response.json();
-        
-        // Now check if division is already selected to show teams
-        const divisionSelect = document.getElementById('division-select');
-        const selectedDivision = divisionSelect.value;
-        
-        if (selectedDivision) {
-            // Filter teams by selected division and display
-            const filteredTeams = storedTeams.filter(team => team.division === selectedDivision);
-            
-            if (filteredTeams.length === 0) {
-                teamList.innerHTML = '<li style="color: #999; text-align: center; padding: 10px;">No teams found</li>';
-            } else {
-                teamList.innerHTML = '';
-                filteredTeams.forEach(team => {
-                    const li = document.createElement('li');
-                    li.setAttribute('data-team', team.team);
-                    li.setAttribute('data-division', team.division);
-                    li.setAttribute('data-season', team.season);
-                    li.setAttribute('data-season-id', team.seasonId);
-                    
-                    // Create team name text
-                    const teamNameText = document.createTextNode(team.team);
-                    li.appendChild(teamNameText);
-                    
-                    // Create subscribe button
-                    const subscribeLink = document.createElement('a');
-                    subscribeLink.href = `webcal://imjonyu.github.io/procosom-schedules/calendars/${team.seasonId}-${team.season.replace(' ', '-')}/${team.team.replace(' ', '-')}-${team.division}-${team.season.replace(' ', '-')}.ics`;
-                    subscribeLink.className = 'btn btn-subscribe';
-                    subscribeLink.textContent = 'Subscribe';
-                    subscribeLink.style.margin = '0 10px';
-                    subscribeLink.style.padding = '3px 8px';
-                    subscribeLink.style.backgroundColor = '#4CAF50';
-                    subscribeLink.style.color = 'white';
-                    subscribeLink.style.textDecoration = 'none';
-                    subscribeLink.style.borderRadius = '3px';
-                    subscribeLink.style.fontSize = '12px';
-                    
-                    // Create download button
-                    const downloadLink = document.createElement('a');
-                    downloadLink.href = `https://imjonyu.github.io/procosom-schedules/calendars/${team.seasonId}-${team.season.replace(' ', '-')}/${team.team.replace(' ', '-')}-${team.division}-${team.season.replace(' ', '-')}.ics`;
-                    downloadLink.className = 'btn btn-download';
-                    downloadLink.textContent = 'Download';
-                    downloadLink.style.margin = '0 10px';
-                    downloadLink.style.padding = '3px 8px';
-                    downloadLink.style.backgroundColor = '#008CBA';
-                    downloadLink.style.color = 'white';
-                    downloadLink.style.textDecoration = 'none';
-                    downloadLink.style.borderRadius = '3px';
-                    downloadLink.style.fontSize = '12px';
-
-                    // Append buttons to list item
-                    li.appendChild(subscribeLink);
-                    li.appendChild(downloadLink);
-                    
-                    // Add list item to team list
-                    teamList.appendChild(li);
-                });
-                
-                // Re-initialize event listeners for dynamically created elements
-                const newTeamListItems = document.querySelectorAll('li[data-team]');
-                newTeamListItems.forEach(item => {
-                    item.addEventListener('click', function() {
-                        const teamName = this.getAttribute('data-team');
-                        const divisionName = this.getAttribute('data-division');
-                        const seasonName = this.getAttribute('data-season');
-
-                        // Format team name with hyphens instead of spaces
-                        const formattedTeamName = teamName.replace(/ /g, '-');
-
-                        // Construct the URL using the pattern: {seasonId}-{seasonName}/{team}-{division}-{season}.ics
-                        const seasonId = this.getAttribute('data-season-id');
-                        const url = `${BASE_URL}${seasonId}-${seasonName}/${formattedTeamName}-${divisionName}-${seasonName}.ics`;
-
-                        // webcal:// triggers "subscribe" in calendar apps instead of download
-                        document.getElementById("subscribe-link").href = url.replace("https://", "webcal://");
-                        document.getElementById("download-link").href = url;
-                    });
-                });
-            }
-        } else {
-            // No division selected yet, show empty list
-            teamList.innerHTML = '';
-        }
-        
-    } catch (error) {
-        console.error('Error loading teams.json:', error);
-        teamList.innerHTML = `<li style="color: red; text-align: center; padding: 10px;">Error loading teams for ${selectedSeason}. Ensure teams.json exists in the season folder.</li>`;
-        storedTeams = [];
-    }
-});
-
-// Set up division filter - filter existing teams when division changes
-if (divisionSelect) {
-    divisionSelect.addEventListener('change', () => {
-        const selectedDivision = divisionSelect.value;
-        
-        // If no division selected, clear team list
-        if (!selectedDivision || !selectedSeason) {
-            teamList.innerHTML = '';
-            return;
-        }
-
-        // Filter stored teams by selected division
-        const filteredTeams = storedTeams.filter(team => team.division === selectedDivision);
-        
-        // Clear and rebuild team list
-        teamList.innerHTML = '';
-        
-        if (filteredTeams.length === 0) {
-            teamList.innerHTML = '<li style="color: #999; text-align: center; padding: 10px;">No teams found</li>';
-        } else {
-                // Add each team with calendar links
-                filteredTeams.forEach(team => {
-                    const li = document.createElement('li');
-                    li.setAttribute('data-team', team['team.name']);
-                    li.setAttribute('data-division', team.division);
-                    li.setAttribute('data-season', team.season);
-                    li.setAttribute('data-season-id', team.seasonId);
-                    
-                    // Create team name text
-                    const teamNameText = document.createTextNode(team['team.name']);
-                    li.appendChild(teamNameText);
-                    
-                    // Create subscribe button
-                    const subscribeLink = document.createElement('a');
-                    subscribeLink.href = `webcal://imjonyu.github.io/procosom-schedules/calendars/${team.seasonId}-${team.season.replace(' ', '-')}/${team['team.name'].replace(' ', '-')}-${team.division}-${team.season.replace(' ', '-')}.ics`;
-                    subscribeLink.className = 'btn btn-subscribe';
-                    subscribeLink.textContent = 'Subscribe';
-                    subscribeLink.style.margin = '0 10px';
-                    subscribeLink.style.padding = '3px 8px';
-                    subscribeLink.style.backgroundColor = '#4CAF50';
-                    subscribeLink.style.color = 'white';
-                    subscribeLink.style.textDecoration = 'none';
-                    subscribeLink.style.borderRadius = '3px';
-                    subscribeLink.style.fontSize = '12px';
-                    
-                    // Create download button
-                    const downloadLink = document.createElement('a');
-                    downloadLink.href = `https://imjonyu.github.io/procosom-schedules/calendars/${team.seasonId}-${team.season.replace(' ', '-')}/${team['team.name'].replace(' ', '-')}-${team.division}-${team.season.replace(' ', '-')}.ics`;
-                    downloadLink.className = 'btn btn-download';
-                    downloadLink.textContent = 'Download';
-                    downloadLink.style.margin = '0 10px';
-                    downloadLink.style.padding = '3px 8px';
-                    downloadLink.style.backgroundColor = '#008CBA';
-                    downloadLink.style.color = 'white';
-                    downloadLink.style.textDecoration = 'none';
-                    downloadLink.style.borderRadius = '3px';
-                    downloadLink.style.fontSize = '12px';
-
-                // Append buttons to list item
-                li.appendChild(subscribeLink);
-                li.appendChild(downloadLink);
-                
-                // Add list item to team list
-                teamList.appendChild(li);
-            });
-            
-            // Re-initialize event listeners for dynamically created elements
-            const newTeamListItems = document.querySelectorAll('li[data-team]');
-            newTeamListItems.forEach(item => {
-                item.addEventListener('click', function() {
-                    const teamName = this.getAttribute('data-team');
-                    const divisionName = this.getAttribute('data-division');
-                    const seasonName = this.getAttribute('data-season');
-
-                    // Format team name with hyphens instead of spaces
-                    const formattedTeamName = teamName.replace(/ /g, '-');
-
-                    // Construct the URL using the pattern: {seasonId}-{seasonName}/{team}-{division}-{season}.ics
-                    const seasonId = this.getAttribute('data-season-id');
-                    const url = `${BASE_URL}${seasonId}-${seasonName}/${formattedTeamName}-${divisionName}-${seasonName}.ics`;
-
-                    // webcal:// triggers "subscribe" in calendar apps instead of download
-                    document.getElementById("subscribe-link").href = url.replace("https://", "webcal://");
-                    document.getElementById("download-link").href = url;
-                });
-            });
-        }
-    });
-}
-
-// New event handler for the team list items
-const teamListItems = document.querySelectorAll('li[data-team]');
-teamListItems.forEach(item => {
-    item.addEventListener('click', function() {
-        const teamName = this.getAttribute('data-team');
-        const divisionName = this.getAttribute('data-division');
-        const seasonName = this.getAttribute('data-season');
-
-        // Format team name with hyphens instead of spaces
-        const formattedTeamName = teamName.replace(/ /g, '-');
-
-        // Construct the URL using the pattern: {seasonId}-{seasonName}/{team}-{division}-{season}.ics
-        const seasonId = this.getAttribute('data-season-id');
-        const url = `${BASE_URL}${seasonId}-${seasonName}/${formattedTeamName}-${divisionName}-${seasonName}.ics`;
-
-        // webcal:// triggers "subscribe" in calendar apps instead of download
-        document.getElementById("subscribe-link").href = url.replace("https://", "webcal://");
-        document.getElementById("download-link").href = url;
-    });
-});
-
-// Dropdown filtering logic
-function updateTeamList() {
-    const seasonSelect = document.getElementById('season-select');
-    const divisionSelect = document.getElementById('division-select');
-    const selectedSeason = seasonSelect.value;
-    const selectedDivision = divisionSelect.value;
-
-    const teamItems = document.querySelectorAll('li[data-team]');
-    teamItems.forEach(item => {
-        const seasonMatch = item.getAttribute('data-season') === selectedSeason;
-        const divisionMatch = item.getAttribute('data-division') === selectedDivision;
-
-        if (seasonMatch && divisionMatch) {
-            item.style.display = '';
-        } else {
-            item.style.display = 'none';
-        }
-    });
-}
-
-// Initialize dropdowns and load teams from JSON
-document.addEventListener('DOMContentLoaded', () => {
-    const seasonSelect = document.getElementById('season-select');
-    const divisionSelect = document.getElementById('division-select');
-    const teamList = document.getElementById('team-list');
-
-    // Store selected season
-    let selectedSeason = '';
-    let seasonId = '';
-
-    // Set up event listener for season selection
-    seasonSelect.addEventListener('change', () => {
-        selectedSeason = seasonSelect.value;
-        if (!selectedSeason) {
-            teamList.innerHTML = '';
-            return;
-        }
-
-        // Get season ID from selected option
-        const selectedOption = seasonSelect.options[seasonSelect.selectedIndex];
-        seasonId = selectedOption.getAttribute('data-season-id');
-        
-        // Clear team list when season changes
-        teamList.innerHTML = '';
-    });
-
-    // Set up division filter - load teams.json when division changes
-    if (divisionSelect) {
-        divisionSelect.addEventListener('change', async () => {
-            const selectedDivision = divisionSelect.value;
-            
-            // If no division selected, clear team list
-            if (!selectedDivision || !selectedSeason) {
-                teamList.innerHTML = '';
-                return;
-            }
-
-            // Clear team list with loading message
-            teamList.innerHTML = '<li style="color: #ccc; text-align: center; padding: 10px;">Loading teams...</li>';
-
-            try {
-                // Construct path to teams.json in the selected season's folder
-                const seasonFolder = `${seasonId}-${selectedSeason.replace(' ', '-')}`;
-                const teamsJsonUrl = `./calendars/${seasonFolder}/teams.json`;
-                
-                const response = await fetch(teamsJsonUrl);
-                if (!response.ok) {
-                    throw new Error(`HTTP error! status: ${response.status}`);
-                }
-                
-                const teamsData = await response.json();
-                
-                // Clear and rebuild team list
-                teamList.innerHTML = '';
-                
-                // Add each team with calendar links
-                teamsData.forEach(team => {
-                    // Only add teams that match the selected division
-                    if (team.division === selectedDivision) {
-                        const li = document.createElement('li');
-                        li.setAttribute('data-team', team.team);
-                        li.setAttribute('data-division', team.division);
-                        li.setAttribute('data-season', team.season);
-                        li.setAttribute('data-season-id', team.seasonId);
-                        
-                        // Create team name text
-                        const teamNameText = document.createTextNode(team.team);
-                        li.appendChild(teamNameText);
-                        
-                        // Create subscribe button
-                        const subscribeLink = document.createElement('a');
-                        subscribeLink.href = `webcal://imjonyu.github.io/procosom-schedules/calendars/${team.seasonId}-${team.season.replace(' ', '-')}/${team.team.replace(' ', '-')}-${team.division}-${team.season.replace(' ', '-')}.ics`;
-                        subscribeLink.className = 'btn btn-subscribe';
-                        subscribeLink.textContent = 'Subscribe';
-                        subscribeLink.style.margin = '0 10px';
-                        subscribeLink.style.padding = '3px 8px';
-                        subscribeLink.style.backgroundColor = '#4CAF50';
-                        subscribeLink.style.color = 'white';
-                        subscribeLink.style.textDecoration = 'none';
-                        subscribeLink.style.borderRadius = '3px';
-                        subscribeLink.style.fontSize = '12px';
-                        
-                        // Create download button
-                        const downloadLink = document.createElement('a');
-                        downloadLink.href = `https://imjonyu.github.io/procosom-schedules/calendars/${team.seasonId}-${team.season.replace(' ', '-')}/${team.team.replace(' ', '-')}-${team.division}-${team.season.replace(' ', '-')}.ics`;
-                        downloadLink.className = 'btn btn-download';
-                        downloadLink.textContent = 'Download';
-                        downloadLink.style.margin = '0 10px';
-                        downloadLink.style.padding = '3px 8px';
-                        downloadLink.style.backgroundColor = '#008CBA';
-                        downloadLink.style.color = 'white';
-                        downloadLink.style.textDecoration = 'none';
-                        downloadLink.style.borderRadius = '3px';
-                        downloadLink.style.fontSize = '12px';
-
-                        // Append buttons to list item
-                        li.appendChild(subscribeLink);
-                        li.appendChild(downloadLink);
-                        
-                        // Add list item to team list
-                        teamList.appendChild(li);
-                    }
-                });
-                
-                // Re-initialize event listeners for dynamically created elements
-                const newTeamListItems = document.querySelectorAll('li[data-team]');
-                newTeamListItems.forEach(item => {
-                    item.addEventListener('click', function() {
-                        const teamName = this.getAttribute('data-team');
-                        const divisionName = this.getAttribute('data-division');
-                        const seasonName = this.getAttribute('data-season');
-
-                        // Format team name with hyphens instead of spaces
-                        const formattedTeamName = teamName.replace(/ /g, '-');
-
-                        // Construct the URL using the pattern: {seasonId}-{seasonName}/{team}-{division}-{season}.ics
-                        const seasonId = this.getAttribute('data-season-id');
-                        const url = `${BASE_URL}${seasonId}-${seasonName}/${formattedTeamName}-${divisionName}-${seasonName}.ics`;
-
-                        // webcal:// triggers "subscribe" in calendar apps instead of download
-                        document.getElementById("subscribe-link").href = url.replace("https://", "webcal://");
-                        document.getElementById("download-link").href = url;
-                    });
-                });
-                
-            } catch (error) {
-                console.error('Error loading teams.json:', error);
-                teamList.innerHTML = `<li style="color: red; text-align: center; padding: 10px;">Error loading teams for ${selectedSeason}. Ensure teams.json exists in the season folder.</li>`;
-            }
-        });
-    }
-
-    // Set default values for the dropdowns
-    if (seasonSelect.options.length > 1) {
-        seasonSelect.selectedIndex = 1;
-    }
-    // Keep division dropdown at 'Select Division' (index 0) by default
-    // divisionSelect.selectedIndex = 0; // This is already the default
-
-    // Trigger initial update
-    updateTeamList();
-});
+        translate.selectLanguageTag.show = false;
+        translate.selectLanguageTag.languages = 'english,french';
+        translate.language.setDefaultTo('french');
+        translate.service.use('client.edge'); 
+        translate.ignore.text.push('Google Calendar');
+        translate.ignore.text.push('Apple Calendar');
+        translate.listener.start(); 
+        translate.execute();
     </script>
+    <div class="language-toggle">
+        <a class="ignore" href="javascript:translate.changeLanguage('english');">English</a>
+        <a class="ignore" href="javascript:translate.changeLanguage('french');">Français</a>
+    </div>
+    <h1>Procosom Schedules</h1>
+
+    <div class="dropdown-container">
+        <label>Season:</label>
+        <div id="latest-season">Loading...</div>
+    </div>
+
+    <div class="dropdown-container">
+        <label for="division">Division:</label>
+        <select id="division">
+            <option value="">Select Division</option>
+            <option value="a">Division A</option>
+            <option value="b">Division B</option>
+            <option value="c">Division C</option>
+            <option value="d">Division D</option>
+            <option value="e">Division E</option>
+        </select>
+    </div>
+
+    <div class="dropdown-container">
+        <label for="teams">Teams:</label>
+        <select id="teams" disabled>
+            <option value="">Select Team</option>
+        </select>
+    </div>
+
+    <div class="ics-display-container">
+        <label for="ics-path">ICS File Path:</label>
+        <input type="text" id="ics-path" class="ics-path" readonly value="Select a team to see the ICS file path" style="width: 100%;">
+        <div class="ics-button-group">
+            <button id="copy-ics" disabled>Copy ICS Path</button>
+            <button id="subscribe-ics" disabled>Subscribe to Calendar</button>
+        </div>
+    </div>
+    
+    <div class="subscription-instructions">
+        <h3>How to Subscribe Manually</h3>
+        <h4>For Apple Calendar (iCalendar):</h4>
+        <ol>
+            <li>Open <strong>Calendar</strong> app on your Mac or iOS device.</li>
+            <li>Go to <strong>File > New Calendar Subscription</strong> (Mac) or tap the <strong>Calendars</strong> tab, then <strong>Add Account > Add Subscribed Calendar</strong> (iOS).</li>
+            <li>Paste the ICS URL from above.</li>
+            <li>Click <strong>Subscribe</strong>.</li>
+            <li>Choose update frequency (e.g., daily) and click <strong>OK</strong>.</li>
+        </ol>
+        <p><em>Note: If it fails, download the .ics file first, then double-click it to open in Calendar.</em></p>
+        
+        <h4>For Google Calendar:</h4>
+        <ol>
+            <li>Open <a href="https://calendar.google.com" target="_blank">Google Calendar</a> in your browser.</li>
+            <li>On the left sidebar, click the <strong>+</strong> next to "Other calendars" → <strong>From URL</strong>.</li>
+            <li>Paste the ICS URL from above.</li>
+            <li>Click <strong>Add Calendar</strong>.</li>
+            <li>The events will now appear in your Google Calendar.</li>
+        </ol>
+        <p><em>Note: If the URL doesn't work, download the .ics file by clicking "Copy ICS Path" and then "Download", then in Google Calendar go to <strong>Settings > Import & export > Choose file</strong> and upload it.</em></p>
+    </div>
+    
+    <div class="version-info">Version 1.1.0</div>
+
+
 </body>
 </html>
