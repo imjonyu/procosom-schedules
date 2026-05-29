@@ -1,128 +1,4 @@
 document.addEventListener('DOMContentLoaded', function() {
-    // Add language toggle functionality at the beginning
-    let currentLang = 'en';
-    
-    // Load translation files
-    const translations = {};
-    
-    Promise.all([
-        fetch('translations/en.json').then(response => response.json()),
-        fetch('translations/fr.json').then(response => response.json())
-    ]).then(([en, fr]) => {
-        translations.en = en;
-        translations.fr = fr;
-        
-        // Set up language toggle button
-        const langToggle = document.getElementById('lang-toggle');
-        if (langToggle) {
-            langToggle.addEventListener('click', function() {
-                toggleLanguage();
-            });
-        }
-        
-        // Initialize content with English translations
-        updateContent();
-    });
-    
-    function toggleLanguage() {
-        currentLang = currentLang === 'en' ? 'fr' : 'en';
-        updateContent();
-        updateLangToggle();
-    }
-    
-    function updateLangToggle() {
-        const langToggle = document.getElementById('lang-toggle');
-        if (langToggle) {
-            langToggle.textContent = currentLang === 'en' ? 'Français' : 'English';
-        }
-    }
-    
-    function updateContent() {
-        const t = translations[currentLang];
-        if (!t) return;
-        
-        // Update dropdown labels
-        const seasonLabel = document.querySelector('.dropdown-container label');
-        if (seasonLabel) seasonLabel.textContent = t.season;
-        
-        const divisionLabel = document.querySelector('label[for="division"]');
-        if (divisionLabel) divisionLabel.textContent = t.division;
-        
-        const teamsLabel = document.querySelector('label[for="teams"]');
-        if (teamsLabel) teamsLabel.textContent = t.teams;
-        
-        const icsPathLabel = document.querySelector('label[for="ics-path"]');
-        if (icsPathLabel) icsPathLabel.textContent = t.icsPath;
-        
-        // Update dropdown options
-        const divisionSelect = document.getElementById('division');
-        if (divisionSelect) {
-            divisionSelect.querySelector('option[value=""]').textContent = t.selectDivision;
-        }
-        
-        const teamsSelect = document.getElementById('teams');
-        if (teamsSelect) {
-            teamsSelect.querySelector('option[value=""]').textContent = t.selectTeam;
-        }
-        
-        // Update ICS path input placeholder
-        const icsPath = document.getElementById('ics-path');
-        if (icsPath) {
-            if (icsPath.value === 'Select a team to see the ICS file path' || 
-                icsPath.value === 'Veuillez sélectionner une équipe pour voir le chemin d\'accès au fichier ICS') {
-                icsPath.value = currentLang === 'en' ? 'Select a team to see the ICS file path' : 'Veuillez sélectionner une équipe pour voir le chemin d\'accès au fichier ICS';
-            }
-        }
-        
-        // Update button text
-        const copyButton = document.getElementById('copy-ics');
-        if (copyButton) {
-            copyButton.textContent = currentLang === 'en' ? 'Copy ICS Path' : 'Copier le chemin ICS';
-        }
-        
-        const subscribeButton = document.getElementById('subscribe-ics');
-        if (subscribeButton) {
-            subscribeButton.textContent = currentLang === 'en' ? 'Subscribe to Calendar' : 'S\'abonner au calendrier';
-        }
-        
-        // Update subscription instructions
-        const subscriptionHeader = document.querySelector('.subscription-instructions h3');
-        if (subscriptionHeader) subscriptionHeader.textContent = t.howToSubscribe;
-        
-        const appleHeader = document.querySelector('.subscription-instructions h4');
-        if (appleHeader) appleHeader.textContent = t.appleCalendar;
-        
-        const googleHeader = document.querySelectorAll('.subscription-instructions h4')[1];
-        if (googleHeader) googleHeader.textContent = t.googleCalendar;
-        
-        // Update list items for Apple instructions
-        const appleListItems = document.querySelectorAll('.subscription-instructions ol:first-of-type li');
-        if (appleListItems.length > 0 && t.appleInstructions) {
-            appleListItems.forEach((item, index) => {
-                if (t.appleInstructions[index]) {
-                    item.innerHTML = t.appleInstructions[index];
-                }
-            });
-        }
-        
-        // Update list items for Google instructions
-        const googleListItems = document.querySelectorAll('.subscription-instructions ol:nth-of-type(2) li');
-        if (googleListItems.length > 0 && t.googleInstructions) {
-            googleListItems.forEach((item, index) => {
-                if (t.googleInstructions[index]) {
-                    item.innerHTML = t.googleInstructions[index];
-                }
-            });
-        }
-        
-        // Update notes
-        const notes = document.querySelectorAll('.subscription-instructions p');
-        if (notes.length >= 2 && t.note && t.note2) {
-            notes[0].innerHTML = '<em>' + t.note + '</em>';
-            notes[1].innerHTML = '<em>' + t.note2 + '</em>';
-        }
-    }
-    
     // Version 1.1.0
     // Fetch and display the latest season
     fetch('season.json')
@@ -274,23 +150,20 @@ document.addEventListener('DOMContentLoaded', function() {
         loadTeams(divisionSelect.value);
     }
 
-// Add event listener for copy button
+    // Add event listener for copy button
     copyButton.addEventListener('click', function() {
         const icsPathValue = icsPath.value;
         navigator.clipboard.writeText(icsPathValue).then(() => {
-            const t = translations[currentLang];
-            this.textContent = t.copyIcs;
+            this.textContent = 'Copied!';
             setTimeout(() => {
-                this.textContent = t.copyIcs;
+                this.textContent = 'Copy ICS Path';
             }, 2000);
         }).catch(err => {
-            const t = translations[currentLang];
-            this.textContent = t.copyFailed;
+            this.textContent = 'Copy Failed';
             setTimeout(() => {
-                this.textContent = t.copyIcs;
+                this.textContent = 'Copy ICS Path';
             }, 2000);
         });
-    });
     });
     
     // Add event listener for subscribe button
@@ -304,18 +177,14 @@ document.addEventListener('DOMContentLoaded', function() {
             window.location.href = webcalUrl;
             
             // Show feedback
-            const t = translations[currentLang];
-            this.textContent = t.subscribeSuccess;
+            this.textContent = 'Subscribed!';
             setTimeout(() => {
-                const t = translations[currentLang];
-                this.textContent = t.subscribeCalendar;
+                this.textContent = 'Subscribe to Calendar';
             }, 2000);
         } else {
-            const t = translations[currentLang];
-            this.textContent = t.subscribe;
+            this.textContent = 'Select a team first';
             setTimeout(() => {
-                const t = translations[currentLang];
-                this.textContent = t.subscribeCalendar;
+                this.textContent = 'Subscribe to Calendar';
             }, 2000);
         }
     });
