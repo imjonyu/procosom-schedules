@@ -32,11 +32,13 @@ UID:b95f4422ad04c948d6f1248de599f39c
 URL:http://www.procosom.com/feuille-pointage.php?match=7901
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7910
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260602T230500Z
-SUMMARY:B: One Nation c. Douilles Bin Chiennes
+SUMMARY:B: One Nation - 1 c. Douilles Bin Chiennes - 7
 UID:f5f2af64bf7fdfbce139edf6678c7ed7
+URL:http://www.procosom.com/feuille-pointage.php?match=7910
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7900

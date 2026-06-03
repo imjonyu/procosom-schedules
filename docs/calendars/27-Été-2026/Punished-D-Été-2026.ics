@@ -48,11 +48,13 @@ SUMMARY:D: Crémeux c. Punished
 UID:e49c7887df0a5e911c1d74eb9faf1ac6
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7912
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260603T010500Z
-SUMMARY:D: Tinderellas c. Punished
+SUMMARY:D: Tinderellas - 6 c. Punished - 6
 UID:d06d4f9a50fee6134510cc50b7b88d31
+URL:http://www.procosom.com/feuille-pointage.php?match=7912
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

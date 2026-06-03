@@ -18,11 +18,13 @@ UID:a6285d41db3f1c82107ef28edc5b71de
 URL:http://www.procosom.com/feuille-pointage.php?match=7902
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7913
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260603T020500Z
-SUMMARY:D: Crémeux c. Möder de Jötunn
+SUMMARY:D: Crémeux - 6 c. Möder de Jötunn - 7
 UID:70a7821ca29ba1043593e6d94e8781d4
+URL:http://www.procosom.com/feuille-pointage.php?match=7913
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7887
