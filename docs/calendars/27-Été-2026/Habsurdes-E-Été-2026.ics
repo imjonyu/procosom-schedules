@@ -66,11 +66,13 @@ SUMMARY:E: Habsurdes c. Femmes Fatales
 UID:19b62a1afa4e2dcc31c7cd8ffa969bba
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7916
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260604T010500Z
-SUMMARY:E: Habsurdes c. Invincibles
+SUMMARY:E: Habsurdes - 3 c. Invincibles - 3
 UID:5027c18aa09cd24d5158d7b4969bf880
+URL:http://www.procosom.com/feuille-pointage.php?match=7916
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

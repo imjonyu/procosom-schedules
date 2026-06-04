@@ -9,11 +9,13 @@ SUMMARY:D: Möder de Jötunn c. Grainezky
 UID:a25fe57ff71e532fb3d9068c0b53a1ca
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7914
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260603T230500Z
-SUMMARY:D: Da Gooners c. Grainezky
+SUMMARY:D: Da Gooners - 1 c. Grainezky - 11
 UID:d71bfd5c3e4896a3139ce924784b1203
+URL:http://www.procosom.com/feuille-pointage.php?match=7914
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

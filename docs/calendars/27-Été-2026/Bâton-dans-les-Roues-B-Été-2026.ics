@@ -16,11 +16,13 @@ SUMMARY:B: Douilles Bin Chiennes c. Bâton dans les Roues
 UID:3af67fb8a81c5a57596f50abd1ddb3c3
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7915
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260604T000500Z
-SUMMARY:B: Bâton dans les Roues c. Achigans
+SUMMARY:B: Bâton dans les Roues - 2 c. Achigans - 6
 UID:14704e56b6c1aedb986bf70fcb0f8148
+URL:http://www.procosom.com/feuille-pointage.php?match=7915
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
@@ -53,11 +55,13 @@ UID:98e882dd4c466cef1ce5028c90d6908f
 URL:http://www.procosom.com/feuille-pointage.php?match=7895
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7917
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260604T020500Z
-SUMMARY:B: Deadly Moogly c. Bâton dans les Roues
+SUMMARY:B: Deadly Moogly - 1 c. Bâton dans les Roues - 6
 UID:e33f2e9821c5b60ee5511e0b9cd014e7
+URL:http://www.procosom.com/feuille-pointage.php?match=7917
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
