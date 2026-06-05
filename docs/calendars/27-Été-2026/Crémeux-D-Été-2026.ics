@@ -18,15 +18,6 @@ UID:a6285d41db3f1c82107ef28edc5b71de
 URL:http://www.procosom.com/feuille-pointage.php?match=7902
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7913
-DURATION:PT1H
-LOCATION:CVM-Quad-#3
-DTSTART:20260603T020500Z
-SUMMARY:D: Crémeux - 6 c. Möder de Jötunn - 7
-UID:70a7821ca29ba1043593e6d94e8781d4
-URL:http://www.procosom.com/feuille-pointage.php?match=7913
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7887
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -59,6 +50,15 @@ DTSTART:20260527T000500Z
 SUMMARY:D: Tinderellas - 7 c. Crémeux - 6
 UID:8a971b7762cf2ea3970f49d2cd202f97
 URL:http://www.procosom.com/feuille-pointage.php?match=7899
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7913
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260603T020500Z
+SUMMARY:D: Crémeux - 6 c. Möder de Jötunn - 7
+UID:55d26c55d930783677ba5226331962bb
+URL:http://www.procosom.com/feuille-pointage.php?match=7913
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

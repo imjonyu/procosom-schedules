@@ -9,6 +9,15 @@ SUMMARY:D: Möder de Jötunn c. Grainezky
 UID:a25fe57ff71e532fb3d9068c0b53a1ca
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7920
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260605T010500Z
+SUMMARY:D: One Nation HC - 5 c. Grainezky - 3
+UID:8d5898495f3219bf741bfd6a7795e2eb
+URL:http://www.procosom.com/feuille-pointage.php?match=7920
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7914
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
@@ -39,13 +48,6 @@ LOCATION:CVM-Quad-#3
 DTSTART:20260702T000500Z
 SUMMARY:D: Grainezky c. One Nation HC
 UID:e540c51a259584d5b458e3a81ded1bfb
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#3
-DTSTART:20260605T010500Z
-SUMMARY:D: One Nation HC c. Grainezky
-UID:2bbb179a1509f32de2c7d9190447394a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7904

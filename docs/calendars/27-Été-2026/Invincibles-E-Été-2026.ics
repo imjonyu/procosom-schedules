@@ -18,15 +18,6 @@ UID:00c9007f65ca35efcf4229442e49b6af
 URL:http://www.procosom.com/feuille-pointage.php?match=7893
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7911
-DURATION:PT1H
-LOCATION:CVM-Quad-#3
-DTSTART:20260603T000500Z
-SUMMARY:E: Invincibles - 1 c. Cougars - 9
-UID:ac07cf855c75a3229ba128963872de27
-URL:http://www.procosom.com/feuille-pointage.php?match=7911
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7907
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -50,6 +41,15 @@ LOCATION:CVM-Quad-#3
 DTSTART:20260619T020500Z
 SUMMARY:E: Femmes Fatales c. Invincibles
 UID:b66d8ccfca6ba149c1344590387e2b91
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7911
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260603T000500Z
+SUMMARY:E: Invincibles - 1 c. Cougars - 9
+UID:756aeee6377225dc4dc09d858c1d24af
+URL:http://www.procosom.com/feuille-pointage.php?match=7911
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

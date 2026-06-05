@@ -25,6 +25,15 @@ SUMMARY:B: One Nation c. Deadly Moogly
 UID:8306cb943f934660479163694e237f91
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7910
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260602T230500Z
+SUMMARY:B: One Nation - 1 c. Douilles Bin Chiennes - 7
+UID:a6204398448aa39dfbdf5ec341a8261e
+URL:http://www.procosom.com/feuille-pointage.php?match=7910
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7901
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -34,15 +43,6 @@ UID:b95f4422ad04c948d6f1248de599f39c
 URL:http://www.procosom.com/feuille-pointage.php?match=7901
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7910
-DURATION:PT1H
-LOCATION:CVM-Quad-#3
-DTSTART:20260602T230500Z
-SUMMARY:B: One Nation - 1 c. Douilles Bin Chiennes - 7
-UID:f5f2af64bf7fdfbce139edf6678c7ed7
-URL:http://www.procosom.com/feuille-pointage.php?match=7910
-END:VEVENT
-BEGIN:VEVENT
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260708T000500Z
@@ -50,11 +50,13 @@ SUMMARY:B: Douilles Bin Chiennes c. One Nation
 UID:acd20bd921553b786b860bef2f0fa8fb
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7919
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
-DTSTART:20260618T230500Z
-SUMMARY:B: Bâton dans les Roues c. One Nation
-UID:52d515cbbbaaa43dae20fd41a771536e
+DTSTART:20260605T000500Z
+SUMMARY:B: Achigans - 7 c. One Nation - 3
+UID:6ad55540de7cb2f20ac0c6fc46464065
+URL:http://www.procosom.com/feuille-pointage.php?match=7919
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7895
@@ -75,8 +77,8 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
-DTSTART:20260605T000500Z
-SUMMARY:B: Achigans c. One Nation
-UID:78667e56b02513a897f0f680e01fbe37
+DTSTART:20260618T230500Z
+SUMMARY:B: Bâton dans les Roues c. One Nation
+UID:52d515cbbbaaa43dae20fd41a771536e
 END:VEVENT
 END:VCALENDAR
