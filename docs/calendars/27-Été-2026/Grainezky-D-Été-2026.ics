@@ -66,11 +66,13 @@ SUMMARY:D: Grainezky c. Tinderellas
 UID:aa387005e53b1794a3a42004b1fe2460
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7922
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260609T230500Z
-SUMMARY:D: Grainezky c. Crémeux
+SUMMARY:D: Grainezky - 3 c. Crémeux - 4
 UID:edd901891d27db54e097904f845ef55e
+URL:http://www.procosom.com/feuille-pointage.php?match=7922
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7888

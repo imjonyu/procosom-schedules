@@ -16,6 +16,13 @@ SUMMARY:B: Douilles Bin Chiennes c. Bâton dans les Roues
 UID:3af67fb8a81c5a57596f50abd1ddb3c3
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260612T010500Z
+SUMMARY:B: Bâton dans les Roues c. Douilles Bin Chiennes
+UID:274d59d7ae3ddc85be7d336856aa7036
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7915
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
@@ -34,16 +41,9 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
-DTSTART:20260612T010500Z
-SUMMARY:B: Bâton dans les Roues c. Douilles Bin Chiennes
-UID:2c0ce32c68d17cb54e6456db5ec90724
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#3
-DTSTART:20260618T230500Z
-SUMMARY:B: Bâton dans les Roues c. One Nation
-UID:52d515cbbbaaa43dae20fd41a771536e
+DTSTART:20260611T010500Z
+SUMMARY:B: Deadly Moogly c. Bâton dans les Roues
+UID:d6a501837d2c363ee31e81ceb688dad0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7895
@@ -66,9 +66,9 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
-DTSTART:20260611T010500Z
-SUMMARY:B: Deadly Moogly c. Bâton dans les Roues
-UID:151762b1a363bf6cce4f10a1bb540156
+DTSTART:20260618T230500Z
+SUMMARY:B: Bâton dans les Roues c. One Nation
+UID:52d515cbbbaaa43dae20fd41a771536e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7906

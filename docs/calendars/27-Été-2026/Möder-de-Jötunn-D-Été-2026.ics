@@ -9,11 +9,13 @@ SUMMARY:D: Möder de Jötunn c. Grainezky
 UID:a25fe57ff71e532fb3d9068c0b53a1ca
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7923
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260610T000500Z
-SUMMARY:D: Möder de Jötunn c. Tinderellas
+SUMMARY:D: Möder de Jötunn - 2 c. Tinderellas - 5
 UID:223c8e55c9c1d7c628228d3d293aed8c
+URL:http://www.procosom.com/feuille-pointage.php?match=7923
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7894
@@ -59,11 +61,13 @@ UID:55d26c55d930783677ba5226331962bb
 URL:http://www.procosom.com/feuille-pointage.php?match=7913
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7924
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260610T020500Z
-SUMMARY:D: Möder de Jötunn c. Punished
+SUMMARY:D: Möder de Jötunn - 1 c. Punished - 7
 UID:b0a8c6d2f5116187e49e5b14395eff5c
+URL:http://www.procosom.com/feuille-pointage.php?match=7924
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

@@ -6,7 +6,7 @@ DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260611T020500Z
 SUMMARY:D: Punished c. Da Gooners
-UID:095f1575187a81e387a30f9b9f3b034f
+UID:87eeb2f4518227625f1ac0a11838fd0a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7909
@@ -66,11 +66,13 @@ SUMMARY:D: Crémeux c. Punished
 UID:e49c7887df0a5e911c1d74eb9faf1ac6
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7924
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260610T020500Z
-SUMMARY:D: Möder de Jötunn c. Punished
+SUMMARY:D: Möder de Jötunn - 1 c. Punished - 7
 UID:b0a8c6d2f5116187e49e5b14395eff5c
+URL:http://www.procosom.com/feuille-pointage.php?match=7924
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7888
