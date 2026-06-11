@@ -50,11 +50,13 @@ SUMMARY:E: Femmes Fatales c. Cougars
 UID:275d0d3bdbfb8655fc7a4ff28e69c5c0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7926
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260610T230500Z
-SUMMARY:E: Femmes Fatales c. Habsurdes
+SUMMARY:E: Femmes Fatales - 1 c. Habsurdes - 6
 UID:2aaff910bbfff6aae5dda33694129cb4
+URL:http://www.procosom.com/feuille-pointage.php?match=7926
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

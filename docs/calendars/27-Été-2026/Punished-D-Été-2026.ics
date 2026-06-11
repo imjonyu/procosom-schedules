@@ -2,11 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7929
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260611T020500Z
-SUMMARY:D: Punished c. Da Gooners
+SUMMARY:D: Punished - 4 c. Da Gooners - 5
 UID:87eeb2f4518227625f1ac0a11838fd0a
+URL:http://www.procosom.com/feuille-pointage.php?match=7929
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7909

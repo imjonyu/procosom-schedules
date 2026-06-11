@@ -54,11 +54,13 @@ UID:756aeee6377225dc4dc09d858c1d24af
 URL:http://www.procosom.com/feuille-pointage.php?match=7911
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7927
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260611T000500Z
-SUMMARY:E: Invincibles c. Cougars
+SUMMARY:E: Invincibles - 1 c. Cougars - 4
 UID:6ea1e006b64df4539a2a25a17a0bfb22
+URL:http://www.procosom.com/feuille-pointage.php?match=7927
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

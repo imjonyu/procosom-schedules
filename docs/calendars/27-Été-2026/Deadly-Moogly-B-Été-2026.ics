@@ -64,11 +64,13 @@ UID:0eee1ed4b63641691c58980d15fc19f9
 URL:http://www.procosom.com/feuille-pointage.php?match=7900
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7928
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260611T010500Z
-SUMMARY:B: Deadly Moogly c. Bâton dans les Roues
+SUMMARY:B: Deadly Moogly - 7 c. Bâton dans les Roues - 4
 UID:d6a501837d2c363ee31e81ceb688dad0
+URL:http://www.procosom.com/feuille-pointage.php?match=7928
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7917
