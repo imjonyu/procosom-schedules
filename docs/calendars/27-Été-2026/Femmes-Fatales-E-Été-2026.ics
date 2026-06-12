@@ -59,11 +59,13 @@ UID:2aaff910bbfff6aae5dda33694129cb4
 URL:http://www.procosom.com/feuille-pointage.php?match=7926
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7930
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260611T230500Z
-SUMMARY:E: Habsurdes c. Femmes Fatales
+SUMMARY:E: Habsurdes - 11 c. Femmes Fatales - 1
 UID:19b62a1afa4e2dcc31c7cd8ffa969bba
+URL:http://www.procosom.com/feuille-pointage.php?match=7930
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

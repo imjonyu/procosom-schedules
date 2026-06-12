@@ -9,11 +9,13 @@ SUMMARY:B: Achigans c. Bâton dans les Roues
 UID:af2cc7103379bab44a05ec29aa6c8d73
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7931
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260612T000500Z
-SUMMARY:B: One Nation c. Achigans
+SUMMARY:B: One Nation - 5 c. Achigans - 6
 UID:6958f48c3791008e515adf95875c9bf5
+URL:http://www.procosom.com/feuille-pointage.php?match=7931
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

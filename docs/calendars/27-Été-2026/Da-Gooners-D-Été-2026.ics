@@ -11,11 +11,13 @@ UID:87eeb2f4518227625f1ac0a11838fd0a
 URL:http://www.procosom.com/feuille-pointage.php?match=7929
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7933
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260612T020500Z
-SUMMARY:D: One Nation HC c. Da Gooners
+SUMMARY:D: One Nation HC - 7 c. Da Gooners - 8
 UID:3baa7a3b422f88ebbb67449311e2a770
+URL:http://www.procosom.com/feuille-pointage.php?match=7933
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7914
