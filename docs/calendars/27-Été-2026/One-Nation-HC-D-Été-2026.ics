@@ -77,10 +77,12 @@ SUMMARY:D: One Nation HC c. Tinderellas
 UID:05bc4daef321637457316d3737c80730
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7934
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260616T230500Z
-SUMMARY:D: One Nation HC c. Möder de Jötunn
+SUMMARY:D: One Nation HC - 4 c. Möder de Jötunn - 6
 UID:37b15d1739ca3df3e717b2ab4147f61c
+URL:http://www.procosom.com/feuille-pointage.php?match=7934
 END:VEVENT
 END:VCALENDAR

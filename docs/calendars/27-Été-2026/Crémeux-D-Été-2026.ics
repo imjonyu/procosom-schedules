@@ -77,10 +77,12 @@ SUMMARY:D: Crémeux c. Da Gooners
 UID:1cf173f4a096468e20728938e795b21f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7936
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260617T010500Z
-SUMMARY:D: Tinderellas c. Crémeux
+SUMMARY:D: Tinderellas - 4 c. Crémeux - 4
 UID:3b546f74f4382c2945587adf1be613a3
+URL:http://www.procosom.com/feuille-pointage.php?match=7936
 END:VEVENT
 END:VCALENDAR

@@ -27,11 +27,13 @@ UID:d71bfd5c3e4896a3139ce924784b1203
 URL:http://www.procosom.com/feuille-pointage.php?match=7914
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7937
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260617T020500Z
-SUMMARY:D: Punished c. Grainezky
+SUMMARY:D: Punished - 7 c. Grainezky - 5
 UID:2ff682934eaee9b71618a5b9ed480270
+URL:http://www.procosom.com/feuille-pointage.php?match=7937
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7902
@@ -59,11 +61,13 @@ UID:8ce07054f85a3437a2b1e0b16fa462eb
 URL:http://www.procosom.com/feuille-pointage.php?match=7904
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7935
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260617T000500Z
-SUMMARY:D: Grainezky c. Tinderellas
+SUMMARY:D: Grainezky - 3 c. Tinderellas - 4
 UID:aa387005e53b1794a3a42004b1fe2460
+URL:http://www.procosom.com/feuille-pointage.php?match=7935
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7922
