@@ -70,11 +70,13 @@ UID:b0a8c6d2f5116187e49e5b14395eff5c
 URL:http://www.procosom.com/feuille-pointage.php?match=7924
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7938
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260617T230500Z
-SUMMARY:D: Da Gooners c. Möder de Jötunn
+SUMMARY:D: Da Gooners - 4 c. Möder de Jötunn - 5
 UID:784e2445e8a7bd3e08d9d240df0de380
+URL:http://www.procosom.com/feuille-pointage.php?match=7938
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7934

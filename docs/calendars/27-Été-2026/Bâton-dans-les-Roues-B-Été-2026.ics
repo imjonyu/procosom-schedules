@@ -9,11 +9,13 @@ SUMMARY:B: Achigans c. Bâton dans les Roues
 UID:af2cc7103379bab44a05ec29aa6c8d73
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7941
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260618T020500Z
-SUMMARY:B: Douilles Bin Chiennes c. Bâton dans les Roues
+SUMMARY:B: Douilles Bin Chiennes - 4 c. Bâton dans les Roues - 3
 UID:3af67fb8a81c5a57596f50abd1ddb3c3
+URL:http://www.procosom.com/feuille-pointage.php?match=7941
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7932

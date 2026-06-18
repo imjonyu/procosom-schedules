@@ -38,11 +38,13 @@ UID:6cb553d7734636d027b5172407babb1a
 URL:http://www.procosom.com/feuille-pointage.php?match=7892
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7940
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260618T010500Z
-SUMMARY:D: Da Gooners c. Punished
+SUMMARY:D: Da Gooners - 8 c. Punished - 9
 UID:f7984a68bb5ff7e8d947e716f7ea0247
+URL:http://www.procosom.com/feuille-pointage.php?match=7940
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7921
