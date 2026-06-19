@@ -11,11 +11,13 @@ UID:c4512405501727b048108da214542f0b
 URL:http://www.procosom.com/feuille-pointage.php?match=7897
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7944
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260619T010500Z
-SUMMARY:B: Achigans c. Deadly Moogly
+SUMMARY:B: Achigans - 10 c. Deadly Moogly - 4
 UID:f445374a331dd9eba2cc00a8ddc614fe
+URL:http://www.procosom.com/feuille-pointage.php?match=7944
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

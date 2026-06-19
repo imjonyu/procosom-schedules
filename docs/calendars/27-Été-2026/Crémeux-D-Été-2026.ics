@@ -2,11 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7943
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260619T000500Z
-SUMMARY:D: Crémeux c. One Nation HC
+SUMMARY:D: Crémeux - 2 c. One Nation HC - 2
 UID:e95bf92f060cebe251792b87a9642db1
+URL:http://www.procosom.com/feuille-pointage.php?match=7943
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7902

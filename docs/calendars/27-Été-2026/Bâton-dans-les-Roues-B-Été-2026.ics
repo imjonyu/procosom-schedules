@@ -70,11 +70,13 @@ UID:e33f2e9821c5b60ee5511e0b9cd014e7
 URL:http://www.procosom.com/feuille-pointage.php?match=7917
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7942
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260618T230500Z
-SUMMARY:B: Bâton dans les Roues c. One Nation
+SUMMARY:B: Bâton dans les Roues - 6 c. One Nation - 9
 UID:52d515cbbbaaa43dae20fd41a771536e
+URL:http://www.procosom.com/feuille-pointage.php?match=7942
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7906

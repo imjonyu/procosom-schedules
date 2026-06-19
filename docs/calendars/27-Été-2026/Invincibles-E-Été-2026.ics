@@ -38,11 +38,13 @@ UID:394125cca545e7e8a0a57d85ccc779c4
 URL:http://www.procosom.com/feuille-pointage.php?match=7896
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7945
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260619T020500Z
-SUMMARY:E: Femmes Fatales c. Invincibles
+SUMMARY:E: Femmes Fatales - 6 c. Invincibles - 2
 UID:b66d8ccfca6ba149c1344590387e2b91
+URL:http://www.procosom.com/feuille-pointage.php?match=7945
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7911
