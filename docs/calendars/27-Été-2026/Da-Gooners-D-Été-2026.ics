@@ -38,11 +38,13 @@ UID:f7984a68bb5ff7e8d947e716f7ea0247
 URL:http://www.procosom.com/feuille-pointage.php?match=7940
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7949
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260626T020500Z
-SUMMARY:D: Da Gooners c. Tinderellas
+SUMMARY:D: Da Gooners - 6 c. Tinderellas - 9
 UID:fedc247d86d470ccb864567bf280e77f
+URL:http://www.procosom.com/feuille-pointage.php?match=7949
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7905

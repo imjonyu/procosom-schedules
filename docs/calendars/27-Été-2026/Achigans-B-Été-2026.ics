@@ -54,11 +54,13 @@ UID:6ad55540de7cb2f20ac0c6fc46464065
 URL:http://www.procosom.com/feuille-pointage.php?match=7919
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7946
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260625T230500Z
-SUMMARY:B: One Nation c. Achigans
+SUMMARY:B: One Nation - 6 c. Achigans - 8
 UID:05cee6c1a92a45961bf5767066dddf19
+URL:http://www.procosom.com/feuille-pointage.php?match=7946
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
