@@ -52,11 +52,13 @@ UID:70cb28566a7724648fdb1703d192674e
 URL:http://www.procosom.com/feuille-pointage.php?match=7948
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7951
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260701T000500Z
-SUMMARY:B: Deadly Moogly c. Douilles Bin Chiennes
+SUMMARY:B: Deadly Moogly - 4 c. Douilles Bin Chiennes - 5
 UID:2b474b3a6ea3fbfd50cad52a2f88e44d
+URL:http://www.procosom.com/feuille-pointage.php?match=7951
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7900

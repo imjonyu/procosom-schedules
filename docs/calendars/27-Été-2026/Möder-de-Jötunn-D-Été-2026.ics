@@ -2,11 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7950
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260630T230500Z
-SUMMARY:D: Möder de Jötunn c. Grainezky
+SUMMARY:D: Möder de Jötunn - 4 c. Grainezky - 3
 UID:a25fe57ff71e532fb3d9068c0b53a1ca
+URL:http://www.procosom.com/feuille-pointage.php?match=7950
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7923
