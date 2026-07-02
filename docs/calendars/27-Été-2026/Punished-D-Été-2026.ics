@@ -65,11 +65,13 @@ UID:77762daaf4275864350edbbf7e6a1757
 URL:http://www.procosom.com/feuille-pointage.php?match=7912
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7956
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260702T010500Z
-SUMMARY:D: Crémeux c. Punished
+SUMMARY:D: Crémeux - 6 c. Punished - 3
 UID:e49c7887df0a5e911c1d74eb9faf1ac6
+URL:http://www.procosom.com/feuille-pointage.php?match=7956
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7924

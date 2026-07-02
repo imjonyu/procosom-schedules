@@ -74,11 +74,13 @@ UID:8ce07054f85a3437a2b1e0b16fa462eb
 URL:http://www.procosom.com/feuille-pointage.php?match=7904
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7957
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260702T020500Z
-SUMMARY:D: Crémeux c. Da Gooners
+SUMMARY:D: Crémeux - 7 c. Da Gooners - 3
 UID:1cf173f4a096468e20728938e795b21f
+URL:http://www.procosom.com/feuille-pointage.php?match=7957
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7938
