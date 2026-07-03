@@ -20,11 +20,13 @@ UID:f445374a331dd9eba2cc00a8ddc614fe
 URL:http://www.procosom.com/feuille-pointage.php?match=7944
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7961
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260703T020500Z
-SUMMARY:B: One Nation c. Deadly Moogly
+SUMMARY:B: One Nation - 8 c. Deadly Moogly - 6
 UID:8306cb943f934660479163694e237f91
+URL:http://www.procosom.com/feuille-pointage.php?match=7961
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

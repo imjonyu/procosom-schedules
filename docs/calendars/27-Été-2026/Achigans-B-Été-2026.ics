@@ -65,11 +65,13 @@ UID:05cee6c1a92a45961bf5767066dddf19
 URL:http://www.procosom.com/feuille-pointage.php?match=7946
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7959
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260703T000500Z
-SUMMARY:B: Douilles Bin Chiennes c. Achigans
+SUMMARY:B: Douilles Bin Chiennes - 5 c. Achigans - 6
 UID:788c323c6e400fd02b677a8b5a06aa17
+URL:http://www.procosom.com/feuille-pointage.php?match=7959
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7906
