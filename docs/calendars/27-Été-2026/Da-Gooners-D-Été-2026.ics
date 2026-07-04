@@ -65,6 +65,15 @@ UID:daa1bd47aa85289fdbd0e97e65a31ca4
 URL:http://www.procosom.com/feuille-pointage.php?match=7891
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7957
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260702T020500Z
+SUMMARY:D: Crémeux - 7 c. Da Gooners - 3
+UID:dbec8258c6a81d8a29691f8ca190a8a6
+URL:http://www.procosom.com/feuille-pointage.php?match=7957
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7904
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -72,15 +81,6 @@ DTSTART:20260528T010500Z
 SUMMARY:D: Da Gooners - 4 c. Grainezky - 5
 UID:8ce07054f85a3437a2b1e0b16fa462eb
 URL:http://www.procosom.com/feuille-pointage.php?match=7904
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7957
-DURATION:PT1H
-LOCATION:CVM-Quad-#3
-DTSTART:20260702T020500Z
-SUMMARY:D: Crémeux - 7 c. Da Gooners - 3
-UID:1cf173f4a096468e20728938e795b21f
-URL:http://www.procosom.com/feuille-pointage.php?match=7957
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7938

@@ -2,6 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7955
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260702T000500Z
+SUMMARY:D: Grainezky - 4 c. One Nation HC - 6
+UID:06348be30310f3d00e1da98ff1aecf0c
+URL:http://www.procosom.com/feuille-pointage.php?match=7955
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7950
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
@@ -45,15 +54,6 @@ DTSTART:20260527T230500Z
 SUMMARY:D: Grainezky - 0 c. Crémeux - 3
 UID:a6285d41db3f1c82107ef28edc5b71de
 URL:http://www.procosom.com/feuille-pointage.php?match=7902
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7955
-DURATION:PT1H
-LOCATION:CVM-Quad-#3
-DTSTART:20260702T000500Z
-SUMMARY:D: Grainezky - 4 c. One Nation HC - 6
-UID:e540c51a259584d5b458e3a81ded1bfb
-URL:http://www.procosom.com/feuille-pointage.php?match=7955
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7904

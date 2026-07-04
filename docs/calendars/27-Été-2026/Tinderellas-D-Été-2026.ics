@@ -63,6 +63,15 @@ UID:aa387005e53b1794a3a42004b1fe2460
 URL:http://www.procosom.com/feuille-pointage.php?match=7935
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7960
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260703T010500Z
+SUMMARY:D: One Nation HC - 8 c. Tinderellas - 4
+UID:7a318c4a0533a2b439342b0c90068b2f
+URL:http://www.procosom.com/feuille-pointage.php?match=7960
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7889
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -70,15 +79,6 @@ DTSTART:20260520T020500Z
 SUMMARY:D: Tinderellas - 10 c. One Nation HC - 0
 UID:a89a7dfd0d6d69a7493d101527296384
 URL:http://www.procosom.com/feuille-pointage.php?match=7889
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7960
-DURATION:PT1H
-LOCATION:CVM-Quad-#3
-DTSTART:20260703T010500Z
-SUMMARY:D: One Nation HC - 8 c. Tinderellas - 4
-UID:05bc4daef321637457316d3737c80730
-URL:http://www.procosom.com/feuille-pointage.php?match=7960
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7936

@@ -11,6 +11,15 @@ UID:e95bf92f060cebe251792b87a9642db1
 URL:http://www.procosom.com/feuille-pointage.php?match=7943
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7955
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260702T000500Z
+SUMMARY:D: Grainezky - 4 c. One Nation HC - 6
+UID:06348be30310f3d00e1da98ff1aecf0c
+URL:http://www.procosom.com/feuille-pointage.php?match=7955
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7933
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
@@ -47,15 +56,6 @@ UID:c0187b4dc54a10b32ac3558ba1371807
 URL:http://www.procosom.com/feuille-pointage.php?match=7894
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7955
-DURATION:PT1H
-LOCATION:CVM-Quad-#3
-DTSTART:20260702T000500Z
-SUMMARY:D: Grainezky - 4 c. One Nation HC - 6
-UID:e540c51a259584d5b458e3a81ded1bfb
-URL:http://www.procosom.com/feuille-pointage.php?match=7955
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7921
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
@@ -65,6 +65,15 @@ UID:2d5eb0d44bead1a03b6de7ff38dc4722
 URL:http://www.procosom.com/feuille-pointage.php?match=7921
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7960
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260703T010500Z
+SUMMARY:D: One Nation HC - 8 c. Tinderellas - 4
+UID:7a318c4a0533a2b439342b0c90068b2f
+URL:http://www.procosom.com/feuille-pointage.php?match=7960
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7889
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -72,15 +81,6 @@ DTSTART:20260520T020500Z
 SUMMARY:D: Tinderellas - 10 c. One Nation HC - 0
 UID:a89a7dfd0d6d69a7493d101527296384
 URL:http://www.procosom.com/feuille-pointage.php?match=7889
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7960
-DURATION:PT1H
-LOCATION:CVM-Quad-#3
-DTSTART:20260703T010500Z
-SUMMARY:D: One Nation HC - 8 c. Tinderellas - 4
-UID:05bc4daef321637457316d3737c80730
-URL:http://www.procosom.com/feuille-pointage.php?match=7960
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7934

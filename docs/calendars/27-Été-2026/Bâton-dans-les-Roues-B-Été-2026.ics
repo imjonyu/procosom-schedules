@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7954
-DURATION:PT1H
-LOCATION:CVM-Quad-#3
-DTSTART:20260701T230500Z
-SUMMARY:B: Achigans - 2 c. Bâton dans les Roues - 4
-UID:af2cc7103379bab44a05ec29aa6c8d73
-URL:http://www.procosom.com/feuille-pointage.php?match=7954
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7941
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
@@ -63,6 +54,15 @@ DTSTART:20260522T000500Z
 SUMMARY:B: Bâton dans les Roues - 8 c. One Nation - 6
 UID:98e882dd4c466cef1ce5028c90d6908f
 URL:http://www.procosom.com/feuille-pointage.php?match=7895
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7954
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260701T230500Z
+SUMMARY:B: Achigans - 2 c. Bâton dans les Roues - 4
+UID:1e2a5691f9e48ac4775c32fe148fd73b
+URL:http://www.procosom.com/feuille-pointage.php?match=7954
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7917

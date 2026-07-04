@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7958
-DURATION:PT1H
-LOCATION:CVM-Quad-#3
-DTSTART:20260702T230500Z
-SUMMARY:E: Cougars - 1 c. Femmes Fatales - 3
-UID:356ac2d23829e779315dfb0f0f6555ca
-URL:http://www.procosom.com/feuille-pointage.php?match=7958
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7898
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -27,6 +18,15 @@ DTSTART:20260610T010500Z
 SUMMARY:E: Cougars - 2 c. Invincibles - 4
 UID:9f9a8b113e8e791f1e2c851b61202d38
 URL:http://www.procosom.com/feuille-pointage.php?match=7925
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7958
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260702T230500Z
+SUMMARY:E: Cougars - 1 c. Femmes Fatales - 3
+UID:90fc6869426bf9a10a3976699a30759b
+URL:http://www.procosom.com/feuille-pointage.php?match=7958
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7939

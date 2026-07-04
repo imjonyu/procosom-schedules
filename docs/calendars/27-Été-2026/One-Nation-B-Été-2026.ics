@@ -2,6 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7961
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260703T020500Z
+SUMMARY:B: One Nation - 8 c. Deadly Moogly - 6
+UID:dd53be226db93a0829eb6733140b53a9
+URL:http://www.procosom.com/feuille-pointage.php?match=7961
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7931
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
@@ -18,15 +27,6 @@ DTSTART:20260522T020500Z
 SUMMARY:B: One Nation - 7 c. Deadly Moogly - 8
 UID:c4512405501727b048108da214542f0b
 URL:http://www.procosom.com/feuille-pointage.php?match=7897
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7961
-DURATION:PT1H
-LOCATION:CVM-Quad-#3
-DTSTART:20260703T020500Z
-SUMMARY:B: One Nation - 8 c. Deadly Moogly - 6
-UID:8306cb943f934660479163694e237f91
-URL:http://www.procosom.com/feuille-pointage.php?match=7961
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7910

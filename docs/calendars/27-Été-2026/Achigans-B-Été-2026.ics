@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7954
-DURATION:PT1H
-LOCATION:CVM-Quad-#3
-DTSTART:20260701T230500Z
-SUMMARY:B: Achigans - 2 c. Bâton dans les Roues - 4
-UID:af2cc7103379bab44a05ec29aa6c8d73
-URL:http://www.procosom.com/feuille-pointage.php?match=7954
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7931
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
@@ -47,6 +38,15 @@ UID:737d16d0230d72c65d63a45460683ecf
 URL:http://www.procosom.com/feuille-pointage.php?match=7908
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7959
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260703T000500Z
+SUMMARY:B: Douilles Bin Chiennes - 5 c. Achigans - 6
+UID:5f1826b5cd4032dbb640d505086adef5
+URL:http://www.procosom.com/feuille-pointage.php?match=7959
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7919
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
@@ -56,6 +56,15 @@ UID:6ad55540de7cb2f20ac0c6fc46464065
 URL:http://www.procosom.com/feuille-pointage.php?match=7919
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7954
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260701T230500Z
+SUMMARY:B: Achigans - 2 c. Bâton dans les Roues - 4
+UID:1e2a5691f9e48ac4775c32fe148fd73b
+URL:http://www.procosom.com/feuille-pointage.php?match=7954
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7946
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
@@ -63,15 +72,6 @@ DTSTART:20260625T230500Z
 SUMMARY:B: One Nation - 6 c. Achigans - 8
 UID:05cee6c1a92a45961bf5767066dddf19
 URL:http://www.procosom.com/feuille-pointage.php?match=7946
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7959
-DURATION:PT1H
-LOCATION:CVM-Quad-#3
-DTSTART:20260703T000500Z
-SUMMARY:B: Douilles Bin Chiennes - 5 c. Achigans - 6
-UID:788c323c6e400fd02b677a8b5a06aa17
-URL:http://www.procosom.com/feuille-pointage.php?match=7959
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7906
