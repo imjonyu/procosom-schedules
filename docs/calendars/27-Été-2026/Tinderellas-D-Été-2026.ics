@@ -29,11 +29,13 @@ UID:fedc247d86d470ccb864567bf280e77f
 URL:http://www.procosom.com/feuille-pointage.php?match=7949
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7965
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260708T020500Z
-SUMMARY:D: Tinderellas c. Möder de Jötunn
+SUMMARY:D: Tinderellas - 6 c. Möder de Jötunn - 3
 UID:a705a222017d5c2809db79e71c7038ed
+URL:http://www.procosom.com/feuille-pointage.php?match=7965
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7912

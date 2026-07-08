@@ -11,6 +11,13 @@ UID:dd53be226db93a0829eb6733140b53a9
 URL:http://www.procosom.com/feuille-pointage.php?match=7961
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260709T010500Z
+SUMMARY:Séries: B: Deadly Moogly c. One Nation
+UID:304a562b2be9ac51333349ddb7a3f845
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7897
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -29,11 +36,13 @@ UID:f445374a331dd9eba2cc00a8ddc614fe
 URL:http://www.procosom.com/feuille-pointage.php?match=7944
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7964
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260708T010500Z
-SUMMARY:B: Deadly Moogly c. Douilles Bin Chiennes
+SUMMARY:B: Deadly Moogly - 5 c. Douilles Bin Chiennes - 7
 UID:a1ecd8418821dec259d8119812b1bef9
+URL:http://www.procosom.com/feuille-pointage.php?match=7964
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7908

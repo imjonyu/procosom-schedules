@@ -56,6 +56,13 @@ UID:f7984a68bb5ff7e8d947e716f7ea0247
 URL:http://www.procosom.com/feuille-pointage.php?match=7940
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260709T020500Z
+SUMMARY:Séries: D: Punished c. Möder de Jötunn
+UID:6cb4cf6fcc40080baecb79978db2f4f3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7921
 DURATION:PT1H
 LOCATION:CVM-Quad-#3

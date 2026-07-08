@@ -83,6 +83,13 @@ UID:edd901891d27db54e097904f845ef55e
 URL:http://www.procosom.com/feuille-pointage.php?match=7922
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260708T230500Z
+SUMMARY:Séries: D: One Nation HC c. Grainezky
+UID:72e170743145c904b43ecb47c71cfbbe
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7888
 DURATION:PT1H
 LOCATION:CVM-Quad-#1

@@ -38,6 +38,13 @@ UID:5b910acf06bea495315bbd22386bfb3b
 URL:http://www.procosom.com/feuille-pointage.php?match=7939
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260710T000500Z
+SUMMARY:Séries: E: Femmes Fatales c. Cougars
+UID:d675ddbc241b7a8f459abbe72228285b
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7953
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
@@ -56,11 +63,13 @@ UID:cdba1db2e033efd10e165cf694e207af
 URL:http://www.procosom.com/feuille-pointage.php?match=7886
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7962
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260707T230500Z
-SUMMARY:E: Femmes Fatales c. Cougars
+SUMMARY:E: Femmes Fatales - 3 c. Cougars - 3
 UID:275d0d3bdbfb8655fc7a4ff28e69c5c0
+URL:http://www.procosom.com/feuille-pointage.php?match=7962
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7911

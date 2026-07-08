@@ -20,6 +20,13 @@ UID:223c8e55c9c1d7c628228d3d293aed8c
 URL:http://www.procosom.com/feuille-pointage.php?match=7923
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260709T020500Z
+SUMMARY:Séries: D: Punished c. Möder de Jötunn
+UID:6cb4cf6fcc40080baecb79978db2f4f3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7894
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -47,11 +54,13 @@ UID:1f58462c7d86de0f17c0877b30090f4f
 URL:http://www.procosom.com/feuille-pointage.php?match=7905
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7965
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260708T020500Z
-SUMMARY:D: Tinderellas c. Möder de Jötunn
+SUMMARY:D: Tinderellas - 6 c. Möder de Jötunn - 3
 UID:a705a222017d5c2809db79e71c7038ed
+URL:http://www.procosom.com/feuille-pointage.php?match=7965
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7913

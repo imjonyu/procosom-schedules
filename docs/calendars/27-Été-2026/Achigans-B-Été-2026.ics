@@ -11,6 +11,13 @@ UID:6958f48c3791008e515adf95875c9bf5
 URL:http://www.procosom.com/feuille-pointage.php?match=7931
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260710T010500Z
+SUMMARY:Séries: B: Achigans c. Bâton dans les Roues
+UID:75592855ac040fc3bd4d4681eaa121ef
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7944
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
