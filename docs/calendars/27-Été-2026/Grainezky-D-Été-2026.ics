@@ -74,6 +74,13 @@ UID:aa387005e53b1794a3a42004b1fe2460
 URL:http://www.procosom.com/feuille-pointage.php?match=7935
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260715T010500Z
+SUMMARY:Séries: D: Tinderellas c. Grainezky
+UID:52a4d77f0393935042e1f718f07fe243
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7922
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
@@ -83,11 +90,13 @@ UID:edd901891d27db54e097904f845ef55e
 URL:http://www.procosom.com/feuille-pointage.php?match=7922
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7966
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260708T230500Z
-SUMMARY:Séries: D: One Nation HC c. Grainezky
+SUMMARY:Séries: D: One Nation HC - 0 c. Grainezky - 10
 UID:72e170743145c904b43ecb47c71cfbbe
+URL:http://www.procosom.com/feuille-pointage.php?match=7966
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7888

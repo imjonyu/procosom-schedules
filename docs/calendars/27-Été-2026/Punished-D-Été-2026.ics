@@ -11,6 +11,13 @@ UID:87eeb2f4518227625f1ac0a11838fd0a
 URL:http://www.procosom.com/feuille-pointage.php?match=7929
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260714T230500Z
+SUMMARY:Séries: D: Crémeux c. Punished
+UID:5cd74523d5c8454d8e7f908bfac5d8b3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7909
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -56,11 +63,13 @@ UID:f7984a68bb5ff7e8d947e716f7ea0247
 URL:http://www.procosom.com/feuille-pointage.php?match=7940
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7969
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260709T020500Z
-SUMMARY:Séries: D: Punished c. Möder de Jötunn
+SUMMARY:Séries: D: Punished - 5 c. Möder de Jötunn - 3
 UID:6cb4cf6fcc40080baecb79978db2f4f3
+URL:http://www.procosom.com/feuille-pointage.php?match=7969
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7921
