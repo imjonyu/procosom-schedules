@@ -20,11 +20,13 @@ UID:00c9007f65ca35efcf4229442e49b6af
 URL:http://www.procosom.com/feuille-pointage.php?match=7893
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7973
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260710T020500Z
-SUMMARY:Séries: E: Habsurdes c. Invincibles
+SUMMARY:Séries: E: Habsurdes - 9 c. Invincibles - 2
 UID:53035d6dc8d80c5f8c1143414630b7dc
+URL:http://www.procosom.com/feuille-pointage.php?match=7973
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7907

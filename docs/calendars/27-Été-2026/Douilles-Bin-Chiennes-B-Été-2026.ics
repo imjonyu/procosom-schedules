@@ -2,6 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260715T230500Z
+SUMMARY:Séries: B: Achigans c. Douilles Bin Chiennes
+UID:687f9d872401bfa4b3ec41e64f185481
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7941
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
@@ -20,11 +27,13 @@ UID:274d59d7ae3ddc85be7d336856aa7036
 URL:http://www.procosom.com/feuille-pointage.php?match=7932
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7970
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260709T230500Z
-SUMMARY:Séries: B: Douilles Bin Chiennes c. Deadly Moogly
+SUMMARY:Séries: B: Douilles Bin Chiennes - 5 c. Deadly Moogly - 3
 UID:3b22947e50c4a258b291a6559a48adc6
+URL:http://www.procosom.com/feuille-pointage.php?match=7970
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7964
@@ -34,6 +43,13 @@ DTSTART:20260708T010500Z
 SUMMARY:B: Deadly Moogly - 5 c. Douilles Bin Chiennes - 7
 UID:a1ecd8418821dec259d8119812b1bef9
 URL:http://www.procosom.com/feuille-pointage.php?match=7964
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260717T010500Z
+SUMMARY:Séries: B: Douilles Bin Chiennes c. Achigans
+UID:d4ed35bfc5d1f2cb85c165dc58575d23
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7910
@@ -70,6 +86,13 @@ DTSTART:20260703T000500Z
 SUMMARY:B: Douilles Bin Chiennes - 5 c. Achigans - 6
 UID:5f1826b5cd4032dbb640d505086adef5
 URL:http://www.procosom.com/feuille-pointage.php?match=7959
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260716T230500Z
+SUMMARY:Séries: B: Douilles Bin Chiennes c. Achigans
+UID:c5e799e4dec5c82ec7a4857305d0e794
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7900
