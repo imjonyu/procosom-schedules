@@ -11,15 +11,6 @@ UID:3af67fb8a81c5a57596f50abd1ddb3c3
 URL:http://www.procosom.com/feuille-pointage.php?match=7941
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7972
-DURATION:PT1H
-LOCATION:CVM-Quad-#3
-DTSTART:20260710T010500Z
-SUMMARY:Séries: B: Achigans - 7 c. Bâton dans les Roues - 1
-UID:75592855ac040fc3bd4d4681eaa121ef
-URL:http://www.procosom.com/feuille-pointage.php?match=7972
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7932
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
@@ -27,6 +18,15 @@ DTSTART:20260612T010500Z
 SUMMARY:B: Bâton dans les Roues - 7 c. Douilles Bin Chiennes - 8
 UID:274d59d7ae3ddc85be7d336856aa7036
 URL:http://www.procosom.com/feuille-pointage.php?match=7932
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7972
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260710T010500Z
+SUMMARY:Séries: B: Achigans - 7 c. Bâton dans les Roues - 1
+UID:cfa089d23eae6a0f3aa718c0c613d706
+URL:http://www.procosom.com/feuille-pointage.php?match=7972
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7915

@@ -11,13 +11,6 @@ UID:e95bf92f060cebe251792b87a9642db1
 URL:http://www.procosom.com/feuille-pointage.php?match=7943
 END:VEVENT
 BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#3
-DTSTART:20260714T230500Z
-SUMMARY:Séries: D: Crémeux c. Punished
-UID:5cd74523d5c8454d8e7f908bfac5d8b3
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7956
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
@@ -61,6 +54,13 @@ DTSTART:20260521T000500Z
 SUMMARY:D: Crémeux - 11 c. Da Gooners - 1
 UID:daa1bd47aa85289fdbd0e97e65a31ca4
 URL:http://www.procosom.com/feuille-pointage.php?match=7891
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260714T230500Z
+SUMMARY:Séries: D: Crémeux c. Punished
+UID:f130e6299e4700d7e538679985b46d86
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7957

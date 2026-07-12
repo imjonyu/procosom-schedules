@@ -29,13 +29,6 @@ UID:90fc6869426bf9a10a3976699a30759b
 URL:http://www.procosom.com/feuille-pointage.php?match=7958
 END:VEVENT
 BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#3
-DTSTART:20260716T020500Z
-SUMMARY:Séries: E: Habsurdes c. Cougars
-UID:a41c1e4275c17b637a1d4bd9adddd6cf
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7939
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
@@ -50,8 +43,22 @@ DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260710T000500Z
 SUMMARY:Séries: E: Femmes Fatales - 2 c. Cougars - 6
-UID:d675ddbc241b7a8f459abbe72228285b
+UID:e0e2b27f0af050696e6d42f4588a4e0e
 URL:http://www.procosom.com/feuille-pointage.php?match=7971
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260716T020500Z
+SUMMARY:Séries: E: Habsurdes c. Cougars
+UID:f81df10b2ef99a64e650d904491786b6
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260716T000500Z
+SUMMARY:Séries: E: Habsurdes c. Cougars
+UID:37e13650fbc1c52c8d03bd5088d86895
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7953
@@ -61,13 +68,6 @@ DTSTART:20260701T020500Z
 SUMMARY:E: Habsurdes - 5 c. Cougars - 4
 UID:04b4bb16ab2725e4d13d149ecce90e2e
 URL:http://www.procosom.com/feuille-pointage.php?match=7953
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#3
-DTSTART:20260716T000500Z
-SUMMARY:Séries: E: Habsurdes c. Cougars
-UID:74e6d894314b246e586fd15e21ca162b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7886
@@ -101,7 +101,7 @@ DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260715T000500Z
 SUMMARY:Séries: E: Cougars c. Habsurdes
-UID:62b38eb38d24fcb4cecb7128fbbbfef1
+UID:385f1660b1c017572a8b716d8f6f738a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7927

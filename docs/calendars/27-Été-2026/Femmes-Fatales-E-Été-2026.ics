@@ -11,15 +11,6 @@ UID:90fc6869426bf9a10a3976699a30759b
 URL:http://www.procosom.com/feuille-pointage.php?match=7958
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7971
-DURATION:PT1H
-LOCATION:CVM-Quad-#3
-DTSTART:20260710T000500Z
-SUMMARY:Séries: E: Femmes Fatales - 2 c. Cougars - 6
-UID:d675ddbc241b7a8f459abbe72228285b
-URL:http://www.procosom.com/feuille-pointage.php?match=7971
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7896
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -36,6 +27,15 @@ DTSTART:20260529T000500Z
 SUMMARY:E: Femmes Fatales - 4 c. Invincibles - 3
 UID:d88e972af2bc705616ec7224e0da53d5
 URL:http://www.procosom.com/feuille-pointage.php?match=7907
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7971
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260710T000500Z
+SUMMARY:Séries: E: Femmes Fatales - 2 c. Cougars - 6
+UID:e0e2b27f0af050696e6d42f4588a4e0e
+URL:http://www.procosom.com/feuille-pointage.php?match=7971
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7903
