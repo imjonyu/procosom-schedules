@@ -40,9 +40,18 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
+DTSTART:20260716T010500Z
+SUMMARY:Séries: D: Punished c. Grainezky
+UID:d7e7558eea2fdbb6d585b3af3e3d7f13
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7976
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
 DTSTART:20260715T010500Z
-SUMMARY:Séries: D: Tinderellas c. Grainezky
+SUMMARY:Séries: D: Tinderellas - 5 c. Grainezky - 8
 UID:23e0c69d42e3a34aa3628003e6a26f66
+URL:http://www.procosom.com/feuille-pointage.php?match=7976
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7937
@@ -61,6 +70,20 @@ DTSTART:20260527T230500Z
 SUMMARY:D: Grainezky - 0 c. Crémeux - 3
 UID:a6285d41db3f1c82107ef28edc5b71de
 URL:http://www.procosom.com/feuille-pointage.php?match=7902
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260717T020500Z
+SUMMARY:Séries: D: Grainezky c. Punished
+UID:7574c51d2efb379a3284b8fcf04866d1
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260717T000500Z
+SUMMARY:Séries: D: Grainezky c. Punished
+UID:7fabdf2b492d35d5c6b5fc7271874991
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7904

@@ -97,11 +97,13 @@ UID:756aeee6377225dc4dc09d858c1d24af
 URL:http://www.procosom.com/feuille-pointage.php?match=7911
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7975
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260715T000500Z
-SUMMARY:Séries: E: Cougars c. Habsurdes
+SUMMARY:Séries: E: Cougars - 4 c. Habsurdes - 3
 UID:385f1660b1c017572a8b716d8f6f738a
+URL:http://www.procosom.com/feuille-pointage.php?match=7975
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7927
