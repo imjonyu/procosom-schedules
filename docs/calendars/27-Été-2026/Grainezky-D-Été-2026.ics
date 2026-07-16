@@ -40,18 +40,9 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
-DTSTART:20260716T010500Z
-SUMMARY:Séries: D: Punished c. Grainezky
-UID:d7e7558eea2fdbb6d585b3af3e3d7f13
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7976
-DURATION:PT1H
-LOCATION:CVM-Quad-#3
-DTSTART:20260715T010500Z
-SUMMARY:Séries: D: Tinderellas - 5 c. Grainezky - 8
-UID:23e0c69d42e3a34aa3628003e6a26f66
-URL:http://www.procosom.com/feuille-pointage.php?match=7976
+DTSTART:20260717T000500Z
+SUMMARY:Séries: D: Grainezky c. Punished
+UID:40e18a1c1fcc3507afbe67e065cdb167
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7937
@@ -72,20 +63,6 @@ UID:a6285d41db3f1c82107ef28edc5b71de
 URL:http://www.procosom.com/feuille-pointage.php?match=7902
 END:VEVENT
 BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#3
-DTSTART:20260717T020500Z
-SUMMARY:Séries: D: Grainezky c. Punished
-UID:7574c51d2efb379a3284b8fcf04866d1
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#3
-DTSTART:20260717T000500Z
-SUMMARY:Séries: D: Grainezky c. Punished
-UID:7fabdf2b492d35d5c6b5fc7271874991
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7904
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -102,6 +79,24 @@ DTSTART:20260617T000500Z
 SUMMARY:D: Grainezky - 3 c. Tinderellas - 4
 UID:aa387005e53b1794a3a42004b1fe2460
 URL:http://www.procosom.com/feuille-pointage.php?match=7935
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7976
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260715T010500Z
+SUMMARY:Séries: D: Tinderellas - 5 c. Grainezky - 8
+UID:c9204078650a76c764399dfd0a789e81
+URL:http://www.procosom.com/feuille-pointage.php?match=7976
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7979
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260716T010500Z
+SUMMARY:Séries: D: Punished - 6 c. Grainezky - 7
+UID:af61110d4c3e8b688d72e9193c71acd8
+URL:http://www.procosom.com/feuille-pointage.php?match=7979
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7922
@@ -129,5 +124,12 @@ DTSTART:20260520T010500Z
 SUMMARY:D: Grainezky - 5 c. Punished - 3
 UID:8c9acf8aeb418205498172aef3f04eef
 URL:http://www.procosom.com/feuille-pointage.php?match=7888
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260717T020500Z
+SUMMARY:Séries: D: Grainezky c. Punished
+UID:d57267b6f10b82099e8af2f294eacdbf
 END:VEVENT
 END:VCALENDAR

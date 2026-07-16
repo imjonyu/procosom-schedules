@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#3
-DTSTART:20260716T230500Z
-SUMMARY:Séries: B: Douilles Bin Chiennes c. Achigans
-UID:e08e78417ebf08276e93fbed9c3af562
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7931
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
@@ -18,11 +11,13 @@ UID:6958f48c3791008e515adf95875c9bf5
 URL:http://www.procosom.com/feuille-pointage.php?match=7931
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7977
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260715T230500Z
-SUMMARY:Séries: B: Achigans c. Douilles Bin Chiennes
-UID:c9304bae1eeea7e6cfd77d4116e9a1b9
+SUMMARY:Séries: B: Achigans - 3 c. Douilles Bin Chiennes - 5
+UID:eae0ce9a8bf48775283d96181ba014cd
+URL:http://www.procosom.com/feuille-pointage.php?match=7977
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7972
@@ -32,6 +27,13 @@ DTSTART:20260710T010500Z
 SUMMARY:Séries: B: Achigans - 7 c. Bâton dans les Roues - 1
 UID:cfa089d23eae6a0f3aa718c0c613d706
 URL:http://www.procosom.com/feuille-pointage.php?match=7972
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260717T010500Z
+SUMMARY:Séries: B: Douilles Bin Chiennes c. Achigans
+UID:ace9aade0b983ee593258e3d50c80497
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7944
@@ -61,13 +63,6 @@ UID:737d16d0230d72c65d63a45460683ecf
 URL:http://www.procosom.com/feuille-pointage.php?match=7908
 END:VEVENT
 BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#3
-DTSTART:20260717T010500Z
-SUMMARY:Séries: B: Douilles Bin Chiennes c. Achigans
-UID:16df10db84b969ab7ca6e4ac588ee095
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7959
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
@@ -84,6 +79,13 @@ DTSTART:20260605T000500Z
 SUMMARY:B: Achigans - 7 c. One Nation - 3
 UID:6ad55540de7cb2f20ac0c6fc46464065
 URL:http://www.procosom.com/feuille-pointage.php?match=7919
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260716T230500Z
+SUMMARY:Séries: B: Douilles Bin Chiennes c. Achigans
+UID:c213a41dd2b1da28782588f4b9934079
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7954
