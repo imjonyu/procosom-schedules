@@ -38,11 +38,13 @@ UID:d71bfd5c3e4896a3139ce924784b1203
 URL:http://www.procosom.com/feuille-pointage.php?match=7914
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7982
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260717T000500Z
-SUMMARY:Séries: D: Grainezky c. Punished
+SUMMARY:Séries: D: Grainezky - 8 c. Punished - 6
 UID:40e18a1c1fcc3507afbe67e065cdb167
+URL:http://www.procosom.com/feuille-pointage.php?match=7982
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7937

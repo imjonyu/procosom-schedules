@@ -38,11 +38,13 @@ UID:274d59d7ae3ddc85be7d336856aa7036
 URL:http://www.procosom.com/feuille-pointage.php?match=7932
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7983
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260717T010500Z
-SUMMARY:Séries: B: Douilles Bin Chiennes c. Achigans
+SUMMARY:Séries: B: Douilles Bin Chiennes - 6 c. Achigans - 7
 UID:ace9aade0b983ee593258e3d50c80497
+URL:http://www.procosom.com/feuille-pointage.php?match=7983
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7910
@@ -108,11 +110,13 @@ UID:acd20bd921553b786b860bef2f0fa8fb
 URL:http://www.procosom.com/feuille-pointage.php?match=7963
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7981
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260716T230500Z
-SUMMARY:Séries: B: Douilles Bin Chiennes c. Achigans
+SUMMARY:Séries: B: Douilles Bin Chiennes - 4 c. Achigans - 6
 UID:c213a41dd2b1da28782588f4b9934079
+URL:http://www.procosom.com/feuille-pointage.php?match=7981
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7890
