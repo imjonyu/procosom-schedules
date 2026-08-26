@@ -2,10 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7987
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260826T000500Z
-SUMMARY:B: Mêlés Noirs c. Scie-Hawks
+SUMMARY:B: Mêlés Noirs - 4 c. Scie-Hawks - 7
 UID:3ee0cee22c473e9dd0149f4b2c8d3205
+URL:http://www.procosom.com/feuille-pointage.php?match=7987
 END:VEVENT
 END:VCALENDAR

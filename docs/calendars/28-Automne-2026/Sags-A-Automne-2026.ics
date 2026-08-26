@@ -2,10 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7985
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260825T230500Z
-SUMMARY:A: Sags c. Mouettes
+SUMMARY:A: Sags - 2 c. Mouettes - 9
 UID:792e5033c3763f95963c9aac7e1bf611
+URL:http://www.procosom.com/feuille-pointage.php?match=7985
 END:VEVENT
 END:VCALENDAR

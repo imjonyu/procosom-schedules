@@ -2,10 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7991
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260826T020500Z
-SUMMARY:E: Cosmiques c. Black Mad Squirrels
+SUMMARY:E: Cosmiques - 2 c. Black Mad Squirrels - 2
 UID:138b4edd645e6790669c5f5688318445
+URL:http://www.procosom.com/feuille-pointage.php?match=7991
 END:VEVENT
 END:VCALENDAR

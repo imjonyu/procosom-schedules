@@ -2,10 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7988
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260826T000500Z
-SUMMARY:A: Chums de Palettes c. Barking Dogs
+SUMMARY:A: Chums de Palettes - 4 c. Barking Dogs - 2
 UID:60b1ebc4efcadba728d3f5f0f13d2c7b
+URL:http://www.procosom.com/feuille-pointage.php?match=7988
 END:VEVENT
 END:VCALENDAR

@@ -2,10 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7990
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260826T010500Z
-SUMMARY:D: P'tite Ékip c. Trappeurs
+SUMMARY:D: P'tite Ékip - 6 c. Trappeurs - 4
 UID:2b6cdc3dfafebce6a2ad0ac12097c3aa
+URL:http://www.procosom.com/feuille-pointage.php?match=7990
 END:VEVENT
 END:VCALENDAR
