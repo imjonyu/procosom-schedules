@@ -2,10 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7996
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260827T012500Z
-SUMMARY:C: Goats c. CocoCrazys
-UID:fcf67726ad27b45cf19e08cf147b7035
+SUMMARY:C: Goats - 0 c. CocoCrazys - 5
+UID:3e426ce61bfc5af517f0721813d672f8
+URL:http://www.procosom.com/feuille-pointage.php?match=7996
 END:VEVENT
 END:VCALENDAR

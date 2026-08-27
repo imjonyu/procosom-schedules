@@ -2,10 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7995
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260827T012500Z
-SUMMARY:C: Tribunal c. Présidents
+SUMMARY:C: Tribunal - 3 c. Présidents - 5
 UID:a915b05732a0e84b265373e548a34ee7
+URL:http://www.procosom.com/feuille-pointage.php?match=7995
 END:VEVENT
 END:VCALENDAR

@@ -2,10 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7992
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260826T232500Z
-SUMMARY:A: Jeunes Professionnels c. Mighty Ducks
+SUMMARY:A: Jeunes Professionnels - 2 c. Mighty Ducks - 11
 UID:4dd215a4be6fd11072e4cb507975aad2
+URL:http://www.procosom.com/feuille-pointage.php?match=7992
 END:VEVENT
 END:VCALENDAR

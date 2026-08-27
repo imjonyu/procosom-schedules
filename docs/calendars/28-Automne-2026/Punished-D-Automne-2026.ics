@@ -2,10 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7997
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260827T022500Z
-SUMMARY:D: Punished c. Sauce AC
+SUMMARY:D: Punished - 6 c. Sauce AC - 3
 UID:5484ecf3e9683f0ac40477d2f26ea706
+URL:http://www.procosom.com/feuille-pointage.php?match=7997
 END:VEVENT
 END:VCALENDAR

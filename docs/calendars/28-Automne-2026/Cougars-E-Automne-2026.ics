@@ -2,10 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7998
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260827T022500Z
-SUMMARY:E: TDC c. Cougars
-UID:092639d895df62f43b30d4a71491f7e4
+SUMMARY:E: TDC - 3 c. Cougars - 3
+UID:d205e663d5f7f1e963ea13c07ab5c9e0
+URL:http://www.procosom.com/feuille-pointage.php?match=7998
 END:VEVENT
 END:VCALENDAR

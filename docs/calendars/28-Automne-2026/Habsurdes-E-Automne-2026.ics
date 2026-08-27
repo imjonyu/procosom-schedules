@@ -2,10 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7994
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260827T002500Z
-SUMMARY:E: Gros Chefs Bandits c. Habsurdes
-UID:431413ef1fdd69af90e551cf3d5d6a9b
+SUMMARY:E: Gros Chefs Bandits - 3 c. Habsurdes - 5
+UID:d290a3b784d32b387e74205aa9d42e1d
+URL:http://www.procosom.com/feuille-pointage.php?match=7994
 END:VEVENT
 END:VCALENDAR

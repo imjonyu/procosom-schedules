@@ -2,10 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7989
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260826T010500Z
-SUMMARY:D: Top Shotta 2.0 c. Pylons
+SUMMARY:D: Top Shotta 2.0 - 7 c. Pylons - 4
 UID:477e624e57e588bf6c7f21810739abda
+URL:http://www.procosom.com/feuille-pointage.php?match=7989
 END:VEVENT
 END:VCALENDAR
