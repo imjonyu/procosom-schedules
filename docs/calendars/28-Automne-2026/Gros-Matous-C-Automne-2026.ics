@@ -2,10 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8002
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260828T012500Z
-SUMMARY:C: Jagrbombs c. Gros Matous
+SUMMARY:C: Jagrbombs - 5 c. Gros Matous - 10
 UID:ebcf0beb50fed537d000ba1986ca6ea3
+URL:http://www.procosom.com/feuille-pointage.php?match=8002
 END:VEVENT
 END:VCALENDAR

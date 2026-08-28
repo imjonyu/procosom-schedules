@@ -2,10 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8001
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260828T002500Z
-SUMMARY:D: Wolfpack c. LumberJack
+SUMMARY:D: Wolfpack - 6 c. LumberJack - 3
 UID:98a21a432ff0725a912885e3cb09187e
+URL:http://www.procosom.com/feuille-pointage.php?match=8001
 END:VEVENT
 END:VCALENDAR

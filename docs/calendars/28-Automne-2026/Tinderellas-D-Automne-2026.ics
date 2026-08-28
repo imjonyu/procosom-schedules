@@ -2,10 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8004
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260828T022500Z
-SUMMARY:D: Möder de Jötunn c. Tinderellas
+SUMMARY:D: Möder de Jötunn - 5 c. Tinderellas - 4
 UID:b77c45c5c512e07ff53c5dd2625f2fc3
+URL:http://www.procosom.com/feuille-pointage.php?match=8004
 END:VEVENT
 END:VCALENDAR

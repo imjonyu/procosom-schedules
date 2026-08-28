@@ -2,10 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8000
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260828T002500Z
-SUMMARY:B: Golden Kales HC c. Chuck Norris
+SUMMARY:B: Golden Kales HC - 5 c. Chuck Norris - 5
 UID:d4556ecaad82d9f9944293323d4d22a3
+URL:http://www.procosom.com/feuille-pointage.php?match=8000
 END:VEVENT
 END:VCALENDAR

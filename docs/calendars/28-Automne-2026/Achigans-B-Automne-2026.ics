@@ -2,10 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8003
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260828T012500Z
-SUMMARY:B: Achigans c. Front de Libération du Cosom
+SUMMARY:B: Achigans - 9 c. Front de Libération du Cosom - 2
 UID:951023e2f1e3ebef2935fc4849f244a6
+URL:http://www.procosom.com/feuille-pointage.php?match=8003
 END:VEVENT
 END:VCALENDAR

@@ -2,10 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7999
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260827T232500Z
-SUMMARY:A: TTC Club c. Golden Kales
+SUMMARY:A: TTC Club - 4 c. Golden Kales - 0
 UID:8fee6cb50df447c537a69d8e19c80300
+URL:http://www.procosom.com/feuille-pointage.php?match=7999
 END:VEVENT
 END:VCALENDAR
