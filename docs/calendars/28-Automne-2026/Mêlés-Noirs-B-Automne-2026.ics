@@ -10,4 +10,11 @@ SUMMARY:B: Mêlés Noirs - 4 c. Scie-Hawks - 7
 UID:3ee0cee22c473e9dd0149f4b2c8d3205
 URL:http://www.procosom.com/feuille-pointage.php?match=7987
 END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260902T232500Z
+SUMMARY:B: Golden Kales HC c. Mêlés Noirs
+UID:9ba77d0eb7f78495c49a723af4c11f72
+END:VEVENT
 END:VCALENDAR

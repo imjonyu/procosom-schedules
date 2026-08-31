@@ -10,4 +10,11 @@ SUMMARY:C: Jagrbombs - 5 c. Gros Matous - 10
 UID:ebcf0beb50fed537d000ba1986ca6ea3
 URL:http://www.procosom.com/feuille-pointage.php?match=8002
 END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260904T002500Z
+SUMMARY:C: Gros Matous c. Evil Sticks
+UID:a541ac4b117a2a944d3bd92826850d52
+END:VEVENT
 END:VCALENDAR

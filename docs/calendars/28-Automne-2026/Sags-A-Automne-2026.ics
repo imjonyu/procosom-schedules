@@ -10,4 +10,11 @@ SUMMARY:A: Sags - 2 c. Mouettes - 9
 UID:792e5033c3763f95963c9aac7e1bf611
 URL:http://www.procosom.com/feuille-pointage.php?match=7985
 END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260903T002500Z
+SUMMARY:A: Golden Kales c. Sags
+UID:ec8afde54a8990fe8c43ddd315f33b7b
+END:VEVENT
 END:VCALENDAR

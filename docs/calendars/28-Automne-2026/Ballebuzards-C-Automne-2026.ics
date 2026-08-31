@@ -10,4 +10,11 @@ SUMMARY:C: Ballebuzards - 5 c. Momentums - 3
 UID:40e0209e65a5f92055b29167a24f52f2
 URL:http://www.procosom.com/feuille-pointage.php?match=7993
 END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260903T012500Z
+SUMMARY:C: Ballebuzards c. Tribunal
+UID:10847f0d0bec502c40b9a93d2b240397
+END:VEVENT
 END:VCALENDAR
