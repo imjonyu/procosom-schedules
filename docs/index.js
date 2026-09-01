@@ -31,7 +31,8 @@ document.addEventListener('DOMContentLoaded', function() {
     const teamsSelect = document.getElementById('teams');
     const icsPath = document.getElementById('ics-path');
     const copyButton = document.getElementById('copy-ics');
-    const subscribeButton = document.getElementById('subscribe-ics');
+    const subscribeApple = document.getElementById('subscribe-apple');
+    const subscribeGoogle = document.getElementById('subscribe-google');
 
     // Map division values to their display names
     const divisionMap = {
@@ -61,6 +62,8 @@ document.addEventListener('DOMContentLoaded', function() {
                 teamsSelect.disabled = true;
                 icsPath.value = 'Cannot determine season for ICS path';
                 copyButton.disabled = true;
+                subscribeApple.disabled = true;
+                subscribeGoogle.disabled = true;
                 return;
             }
 
@@ -90,6 +93,8 @@ document.addEventListener('DOMContentLoaded', function() {
                 teamsSelect.disabled = true;
                 icsPath.value = 'No teams found for this division';
                 copyButton.disabled = true;
+                subscribeApple.disabled = true;
+                subscribeGoogle.disabled = true;
             } else {
                 teamsSelect.disabled = false;
                 divisionTeams.forEach(team => {
@@ -102,6 +107,8 @@ document.addEventListener('DOMContentLoaded', function() {
                 // Reset ICS path and button when teams are loaded
                 icsPath.value = 'Select a team to see the ICS file path';
                 copyButton.disabled = true;
+                subscribeApple.disabled = true;
+                subscribeGoogle.disabled = true;
             }
 
             // Add event listener for team selection
@@ -122,11 +129,13 @@ document.addEventListener('DOMContentLoaded', function() {
                     // Update ICS path display
                     icsPath.value = githubUrl;
                     copyButton.disabled = false;
-                    subscribeButton.disabled = false;
+                    subscribeApple.disabled = false;
+                    subscribeGoogle.disabled = false;
                 } else {
                     icsPath.value = 'Select a team to see the ICS file path';
                     copyButton.disabled = true;
-                    subscribeButton.disabled = true;
+                    subscribeApple.disabled = true;
+                    subscribeGoogle.disabled = true;
                     // Reset teams dropdown to "Select Team"
                     teamsSelect.innerHTML = '<option value="">Select Team</option>';
                 }
@@ -166,26 +175,62 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
     
-    // Add event listener for subscribe button
-    subscribeButton.addEventListener('click', function() {
+    function isValidIcsPath() {
+        return icsPath.value && icsPath.value !== 'Select a team to see the ICS file path';
+    }
+
+    // Add event listener for Apple Calendar subscribe button
+    subscribeApple.addEventListener('click', function() {
         const icsPathValue = icsPath.value;
-        if (icsPathValue && icsPathValue !== 'Select a team to see the ICS file path') {
-            // Create webcal URL by replacing https with webcal
-            const webcalUrl = icsPathValue.replace('https://', 'webcal://');
-            
-            // Open webcal URL to subscribe in macOS Calendar app
-            window.location.href = webcalUrl;
-            
-            // Show feedback
-            this.textContent = 'Subscribed!';
-            setTimeout(() => {
-                this.textContent = 'Subscribe to Calendar';
-            }, 2000);
-        } else {
+        if (!isValidIcsPath()) {
             this.textContent = 'Select a team first';
             setTimeout(() => {
-                this.textContent = 'Subscribe to Calendar';
+                this.textContent = 'Apple Calendar';
             }, 2000);
+            return;
         }
+
+        // Detect Apple platforms that have a registered webcal:// handler
+        const isApple = /iphone|ipad|ipod|ios|mac|macintosh/i.test(navigator.userAgent);
+
+        if (isApple) {
+            // Open the Calendar subscribe prompt via webcal://
+            window.location.href = icsPathValue.replace('https://', 'webcal://');
+        } else {
+            // Desktop browsers have no webcal:// handler; fall back to the https://.ics link
+            window.open(icsPathValue, '_blank');
+        }
+
+        this.textContent = 'Subscribed!';
+        setTimeout(() => {
+            this.textContent = 'Apple Calendar';
+        }, 2000);
+    });
+
+    // Add event listener for Google Calendar subscribe button
+    subscribeGoogle.addEventListener('click', function() {
+        const icsPathValue = icsPath.value;
+        if (!isValidIcsPath()) {
+            this.textContent = 'Select a team first';
+            setTimeout(() => {
+                this.textContent = 'Google Calendar';
+            }, 2000);
+            return;
+        }
+
+        // Google doesn't support one-click subscribe to a public .ics URL.
+        // Copy the URL, then open the "Add by URL" settings page so the user can paste it.
+        navigator.clipboard.writeText(icsPathValue).then(() => {
+            window.open('https://calendar.google.com/calendar/r/settings/addbyurl', '_blank');
+            this.textContent = 'URL Copied!';
+            setTimeout(() => {
+                this.textContent = 'Google Calendar';
+            }, 3000);
+        }).catch(() => {
+            this.textContent = 'Copy Failed';
+            setTimeout(() => {
+                this.textContent = 'Google Calendar';
+            }, 2000);
+        });
     });
 });
