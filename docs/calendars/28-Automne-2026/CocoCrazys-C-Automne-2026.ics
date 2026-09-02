@@ -11,10 +11,12 @@ UID:3e426ce61bfc5af517f0721813d672f8
 URL:http://www.procosom.com/feuille-pointage.php?match=7996
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8006
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260901T230500Z
-SUMMARY:C: CocoCrazys c. Jagrbombs
+SUMMARY:C: CocoCrazys - 9 c. Jagrbombs - 2
 UID:8c137613531580a39f631746780ea385
+URL:http://www.procosom.com/feuille-pointage.php?match=8006
 END:VEVENT
 END:VCALENDAR

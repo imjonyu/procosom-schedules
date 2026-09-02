@@ -2,10 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8009
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260902T010500Z
-SUMMARY:D: Coyotes Urbains c. Guerriers
+SUMMARY:D: Coyotes Urbains - 11 c. Guerriers - 4
 UID:a030bde256cdbd608b88f4cd6e172de8
+URL:http://www.procosom.com/feuille-pointage.php?match=8009
 END:VEVENT
 END:VCALENDAR

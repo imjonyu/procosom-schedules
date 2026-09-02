@@ -2,11 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8005
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260901T230500Z
-SUMMARY:E: Habsurdes c. Punks de l'Enfer
+SUMMARY:E: Habsurdes - 2 c. Punks de l'Enfer - 6
 UID:618a8040343d7086694b29786cc607e3
+URL:http://www.procosom.com/feuille-pointage.php?match=8005
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7994

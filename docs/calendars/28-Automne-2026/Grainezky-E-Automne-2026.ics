@@ -2,10 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8008
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260902T000500Z
-SUMMARY:E: Grouin Grouin c. Grainezky
+SUMMARY:E: Grouin Grouin - 5 c. Grainezky - 2
 UID:4dcfdab057b903ee0ba550af76d99f81
+URL:http://www.procosom.com/feuille-pointage.php?match=8008
 END:VEVENT
 END:VCALENDAR

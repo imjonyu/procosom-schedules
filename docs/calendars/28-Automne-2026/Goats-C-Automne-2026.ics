@@ -11,10 +11,12 @@ UID:3e426ce61bfc5af517f0721813d672f8
 URL:http://www.procosom.com/feuille-pointage.php?match=7996
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8010
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260902T010500Z
-SUMMARY:C: Présidents c. Goats
+SUMMARY:C: Présidents - 3 c. Goats - 4
 UID:be3e139f12ced00d0b01a22e2e2514a0
+URL:http://www.procosom.com/feuille-pointage.php?match=8010
 END:VEVENT
 END:VCALENDAR
