@@ -2,11 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8015
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260903T012500Z
-SUMMARY:C: Ballebuzards c. Tribunal
+SUMMARY:C: Ballebuzards - 4 c. Tribunal - 2
 UID:10847f0d0bec502c40b9a93d2b240397
+URL:http://www.procosom.com/feuille-pointage.php?match=8015
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7995

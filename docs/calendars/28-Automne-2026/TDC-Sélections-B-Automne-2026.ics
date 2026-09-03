@@ -2,10 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8018
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260903T022500Z
-SUMMARY:B: Scie-Hawks c. TDC Sélections
+SUMMARY:B: Scie-Hawks - 6 c. TDC Sélections - 3
 UID:f8d8083cab07bac5d177fe0a330cfa88
+URL:http://www.procosom.com/feuille-pointage.php?match=8018
 END:VEVENT
 END:VCALENDAR

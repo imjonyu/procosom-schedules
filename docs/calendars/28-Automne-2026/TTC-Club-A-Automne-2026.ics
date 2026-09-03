@@ -2,11 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8017
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260903T022500Z
-SUMMARY:A: Chums de Palettes c. TTC Club
+SUMMARY:A: Chums de Palettes - 1 c. TTC Club - 6
 UID:f999ca42a8115a626cb40711b5c34999
+URL:http://www.procosom.com/feuille-pointage.php?match=8017
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7999

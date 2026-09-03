@@ -11,10 +11,12 @@ UID:5484ecf3e9683f0ac40477d2f26ea706
 URL:http://www.procosom.com/feuille-pointage.php?match=7997
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8016
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260903T012500Z
-SUMMARY:D: Top Shotta 2.0 c. Punished
+SUMMARY:D: Top Shotta 2.0 - 1 c. Punished - 3
 UID:0800e50b521c4c351220aefba78716ff
+URL:http://www.procosom.com/feuille-pointage.php?match=8016
 END:VEVENT
 END:VCALENDAR

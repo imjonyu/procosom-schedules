@@ -2,11 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8014
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260903T002500Z
-SUMMARY:A: Mouettes c. Mighty Ducks
+SUMMARY:A: Mouettes - 5 c. Mighty Ducks - 4
 UID:ec15d067fa360930228818b932a75553
+URL:http://www.procosom.com/feuille-pointage.php?match=8014
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7985
