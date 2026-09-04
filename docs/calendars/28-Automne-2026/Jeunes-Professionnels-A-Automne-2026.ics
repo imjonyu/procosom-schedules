@@ -2,11 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8023
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260904T012500Z
-SUMMARY:A: Barking Dogs c. Jeunes Professionnels
+SUMMARY:A: Barking Dogs - 8 c. Jeunes Professionnels - 11
 UID:83b672407302d2d02591341e5d1bc44e
+URL:http://www.procosom.com/feuille-pointage.php?match=8023
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7992

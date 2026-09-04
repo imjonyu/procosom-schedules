@@ -2,10 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8020
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260904T002500Z
-SUMMARY:C: Gros Matous c. Evil Sticks
+SUMMARY:C: Gros Matous - 5 c. Evil Sticks - 4
 UID:a541ac4b117a2a944d3bd92826850d52
+URL:http://www.procosom.com/feuille-pointage.php?match=8020
 END:VEVENT
 END:VCALENDAR
