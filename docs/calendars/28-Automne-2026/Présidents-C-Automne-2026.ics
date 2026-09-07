@@ -11,6 +11,13 @@ UID:a915b05732a0e84b265373e548a34ee7
 URL:http://www.procosom.com/feuille-pointage.php?match=7995
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260910T232500Z
+SUMMARY:C: Présidents c. Jagrbombs
+UID:2349e2974b758b1dc8a92757b78aca7c
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8010
 DURATION:PT1H
 LOCATION:CVM-Pal

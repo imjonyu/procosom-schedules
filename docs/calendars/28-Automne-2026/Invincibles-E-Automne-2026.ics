@@ -10,4 +10,11 @@ SUMMARY:E: Invincibles - 3 c. TDC - 7
 UID:f6ec1f1b63b7a4715c954e89ae4eec37
 URL:http://www.procosom.com/feuille-pointage.php?match=8022
 END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260909T010500Z
+SUMMARY:E: Habsurdes c. Invincibles
+UID:5b2b9444b86c0e8cf901f21606c2a605
+END:VEVENT
 END:VCALENDAR

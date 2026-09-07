@@ -11,6 +11,13 @@ UID:f999ca42a8115a626cb40711b5c34999
 URL:http://www.procosom.com/feuille-pointage.php?match=8017
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260910T002500Z
+SUMMARY:A: Sags c. TTC Club
+UID:acd1d686fbfcfa2032370e76cd47dc22
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7999
 DURATION:PT1H
 LOCATION:CVM-Quad-#1

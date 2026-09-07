@@ -10,4 +10,11 @@ SUMMARY:E: Gros Chefs Bandits - 3 c. Habsurdes - 5
 UID:d290a3b784d32b387e74205aa9d42e1d
 URL:http://www.procosom.com/feuille-pointage.php?match=7994
 END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260909T000500Z
+SUMMARY:E: Cougars c. Gros Chefs Bandits
+UID:6b38c8462258bba471fb0a717a7105e6
+END:VEVENT
 END:VCALENDAR

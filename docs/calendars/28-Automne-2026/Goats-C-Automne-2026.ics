@@ -11,6 +11,13 @@ UID:3e426ce61bfc5af517f0721813d672f8
 URL:http://www.procosom.com/feuille-pointage.php?match=7996
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260909T000500Z
+SUMMARY:C: Axolotls c. Goats
+UID:c02cbc6112ebf1c8311a5fcb17158927
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8010
 DURATION:PT1H
 LOCATION:CVM-Pal

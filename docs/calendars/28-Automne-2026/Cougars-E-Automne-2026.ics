@@ -19,4 +19,11 @@ SUMMARY:E: Cougars - 6 c. Cosmiques - 2
 UID:de9b1f921d4816aae8d8f1c88216167a
 URL:http://www.procosom.com/feuille-pointage.php?match=8011
 END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260909T000500Z
+SUMMARY:E: Cougars c. Gros Chefs Bandits
+UID:6b38c8462258bba471fb0a717a7105e6
+END:VEVENT
 END:VCALENDAR

@@ -19,4 +19,11 @@ SUMMARY:B: Chuck Norris - 8 c. Front de Libération du Cosom - 1
 UID:777c95a9b151b265e083ebef06511d5b
 URL:http://www.procosom.com/feuille-pointage.php?match=8024
 END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260910T022500Z
+SUMMARY:B: TDC Sélections c. Chuck Norris
+UID:6a568166e1b40ebe0e2827910e071e3e
+END:VEVENT
 END:VCALENDAR

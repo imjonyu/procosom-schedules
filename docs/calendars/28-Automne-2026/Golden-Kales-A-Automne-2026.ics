@@ -11,6 +11,13 @@ UID:ec8afde54a8990fe8c43ddd315f33b7b
 URL:http://www.procosom.com/feuille-pointage.php?match=8013
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260911T012500Z
+SUMMARY:A: Mighty Ducks c. Golden Kales
+UID:caafc59456701e8bb40d1611d16f558c
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7999
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
