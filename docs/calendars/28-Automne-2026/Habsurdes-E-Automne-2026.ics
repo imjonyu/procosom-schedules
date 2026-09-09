@@ -11,11 +11,13 @@ UID:618a8040343d7086694b29786cc607e3
 URL:http://www.procosom.com/feuille-pointage.php?match=8005
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8029
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260909T010500Z
-SUMMARY:E: Habsurdes c. Invincibles
+SUMMARY:E: Habsurdes - 7 c. Invincibles - 3
 UID:5b2b9444b86c0e8cf901f21606c2a605
+URL:http://www.procosom.com/feuille-pointage.php?match=8029
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7994

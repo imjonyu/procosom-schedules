@@ -11,10 +11,12 @@ UID:4dcfdab057b903ee0ba550af76d99f81
 URL:http://www.procosom.com/feuille-pointage.php?match=8008
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8025
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260908T230500Z
-SUMMARY:E: Grainezky c. Punks de l'Enfer
+SUMMARY:E: Grainezky - 1 c. Punks de l'Enfer - 8
 UID:0b8fa3452ba70461f4f979407ef0c6dc
+URL:http://www.procosom.com/feuille-pointage.php?match=8025
 END:VEVENT
 END:VCALENDAR

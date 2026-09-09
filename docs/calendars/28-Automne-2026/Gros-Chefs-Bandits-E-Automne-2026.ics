@@ -11,10 +11,12 @@ UID:d290a3b784d32b387e74205aa9d42e1d
 URL:http://www.procosom.com/feuille-pointage.php?match=7994
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8028
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260909T000500Z
-SUMMARY:E: Cougars c. Gros Chefs Bandits
+SUMMARY:E: Cougars - 3 c. Gros Chefs Bandits - 6
 UID:6b38c8462258bba471fb0a717a7105e6
+URL:http://www.procosom.com/feuille-pointage.php?match=8028
 END:VEVENT
 END:VCALENDAR

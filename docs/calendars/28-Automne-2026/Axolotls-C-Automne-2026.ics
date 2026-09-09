@@ -11,10 +11,12 @@ UID:26e66a4adb11ecdbd1def614b8c580ec
 URL:http://www.procosom.com/feuille-pointage.php?match=8007
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8027
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260909T000500Z
-SUMMARY:C: Axolotls c. Goats
+SUMMARY:C: Axolotls - 4 c. Goats - 9
 UID:c02cbc6112ebf1c8311a5fcb17158927
+URL:http://www.procosom.com/feuille-pointage.php?match=8027
 END:VEVENT
 END:VCALENDAR

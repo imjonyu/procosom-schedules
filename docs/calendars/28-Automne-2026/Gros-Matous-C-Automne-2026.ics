@@ -20,10 +20,12 @@ UID:a541ac4b117a2a944d3bd92826850d52
 URL:http://www.procosom.com/feuille-pointage.php?match=8020
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8031
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260909T020500Z
-SUMMARY:C: Momentums c. Gros Matous
+SUMMARY:C: Momentums - 5 c. Gros Matous - 3
 UID:9e3521633792115e9b2c5f9f992097b6
+URL:http://www.procosom.com/feuille-pointage.php?match=8031
 END:VEVENT
 END:VCALENDAR
