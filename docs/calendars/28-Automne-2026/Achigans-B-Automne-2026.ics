@@ -2,11 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8032
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260909T232500Z
-SUMMARY:B: Mêlés Noirs c. Achigans
+SUMMARY:B: Mêlés Noirs - 2 c. Achigans - 6
 UID:5e84b97682bf0ea7eefa94be6653e2f4
+URL:http://www.procosom.com/feuille-pointage.php?match=8032
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8003

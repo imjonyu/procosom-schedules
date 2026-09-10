@@ -2,11 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8033
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260910T002500Z
-SUMMARY:A: Sags c. TTC Club
+SUMMARY:A: Sags - 4 c. TTC Club - 8
 UID:acd1d686fbfcfa2032370e76cd47dc22
+URL:http://www.procosom.com/feuille-pointage.php?match=8033
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7985

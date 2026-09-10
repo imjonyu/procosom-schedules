@@ -11,10 +11,12 @@ UID:884fce5ad50e901ddf70e4ac6f4fc7a2
 URL:http://www.procosom.com/feuille-pointage.php?match=8019
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8036
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260910T012500Z
-SUMMARY:E: Takoyaki c. Grouin Grouin
+SUMMARY:E: Takoyaki - 2 c. Grouin Grouin - 4
 UID:6a99c8e44908f742131a0d49e6b0fcc7
+URL:http://www.procosom.com/feuille-pointage.php?match=8036
 END:VEVENT
 END:VCALENDAR
