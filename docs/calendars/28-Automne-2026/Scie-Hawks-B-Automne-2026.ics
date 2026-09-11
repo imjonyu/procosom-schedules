@@ -11,11 +11,13 @@ UID:f8d8083cab07bac5d177fe0a330cfa88
 URL:http://www.procosom.com/feuille-pointage.php?match=8018
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8044
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260911T022500Z
-SUMMARY:B: Scie-Hawks c. Golden Kales HC
+SUMMARY:B: Scie-Hawks - 5 c. Golden Kales HC - 1
 UID:42e84d82d6f021a50c7d752467f983a3
+URL:http://www.procosom.com/feuille-pointage.php?match=8044
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7987

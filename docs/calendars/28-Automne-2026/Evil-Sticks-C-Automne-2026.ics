@@ -11,10 +11,12 @@ UID:a541ac4b117a2a944d3bd92826850d52
 URL:http://www.procosom.com/feuille-pointage.php?match=8020
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8041
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260911T002500Z
-SUMMARY:C: Evil Sticks c. Tribunal
+SUMMARY:C: Evil Sticks - 5 c. Tribunal - 1
 UID:78ef35c5a0dbb1d8c7f4584c2fc345d5
+URL:http://www.procosom.com/feuille-pointage.php?match=8041
 END:VEVENT
 END:VCALENDAR

@@ -11,11 +11,13 @@ UID:f999ca42a8115a626cb40711b5c34999
 URL:http://www.procosom.com/feuille-pointage.php?match=8017
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8043
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260911T012500Z
-SUMMARY:A: Jeunes Professionnels c. Chums de Palettes
+SUMMARY:A: Jeunes Professionnels - 9 c. Chums de Palettes - 4
 UID:18992b52616e2801f830fea200c88318
+URL:http://www.procosom.com/feuille-pointage.php?match=8043
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7988
