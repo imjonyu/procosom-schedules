@@ -20,6 +20,13 @@ UID:a541ac4b117a2a944d3bd92826850d52
 URL:http://www.procosom.com/feuille-pointage.php?match=8020
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260916T010500Z
+SUMMARY:C: Goats c. Gros Matous
+UID:5ea85eefa3f7c5f0e1b5e0ba0a6f0e15
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8031
 DURATION:PT1H
 LOCATION:CVM-Quad-#1

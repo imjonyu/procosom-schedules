@@ -11,6 +11,13 @@ UID:73f83475d947477dff04cd3d5415cc09
 URL:http://www.procosom.com/feuille-pointage.php?match=8026
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260916T010500Z
+SUMMARY:D: Guerriers c. Trappeurs
+UID:fd96034d39cf67c095c721a0566dc8e8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8009
 DURATION:PT1H
 LOCATION:CVM-Quad-#1

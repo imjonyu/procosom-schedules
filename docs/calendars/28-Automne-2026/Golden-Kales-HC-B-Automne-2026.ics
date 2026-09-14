@@ -11,6 +11,13 @@ UID:d4556ecaad82d9f9944293323d4d22a3
 URL:http://www.procosom.com/feuille-pointage.php?match=8000
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260917T232500Z
+SUMMARY:B: Achigans c. Golden Kales HC
+UID:0ad5df19d300a38a8fd2037b26c5c14e
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8044
 DURATION:PT1H
 LOCATION:CVM-Quad-#1

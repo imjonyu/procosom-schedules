@@ -11,6 +11,13 @@ UID:f999ca42a8115a626cb40711b5c34999
 URL:http://www.procosom.com/feuille-pointage.php?match=8017
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260917T002500Z
+SUMMARY:A: TTC Club c. Golden Kales
+UID:9d0c0d28bbcaf15d2356b565d63f0674
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8033
 DURATION:PT1H
 LOCATION:CVM-Quad-#1

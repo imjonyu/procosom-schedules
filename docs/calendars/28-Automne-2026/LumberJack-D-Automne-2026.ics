@@ -19,4 +19,11 @@ SUMMARY:D: Wolfpack - 6 c. LumberJack - 3
 UID:98a21a432ff0725a912885e3cb09187e
 URL:http://www.procosom.com/feuille-pointage.php?match=8001
 END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260916T232500Z
+SUMMARY:D: LumberJack c. Coyotes Urbains
+UID:86d0431abb6e590dced93cb032ea4e0d
+END:VEVENT
 END:VCALENDAR

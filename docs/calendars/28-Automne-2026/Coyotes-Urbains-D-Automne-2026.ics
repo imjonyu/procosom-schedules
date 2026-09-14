@@ -19,4 +19,11 @@ SUMMARY:D: Coyotes Urbains - 11 c. Guerriers - 4
 UID:a030bde256cdbd608b88f4cd6e172de8
 URL:http://www.procosom.com/feuille-pointage.php?match=8009
 END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260916T232500Z
+SUMMARY:D: LumberJack c. Coyotes Urbains
+UID:86d0431abb6e590dced93cb032ea4e0d
+END:VEVENT
 END:VCALENDAR

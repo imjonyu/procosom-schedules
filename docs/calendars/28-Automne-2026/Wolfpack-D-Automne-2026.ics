@@ -20,6 +20,13 @@ UID:bf8cc8dd094deea25344b409a3d2d1c0
 URL:http://www.procosom.com/feuille-pointage.php?match=8021
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260918T022500Z
+SUMMARY:D: Pylons c. Wolfpack
+UID:ac4aba1e0786b80f224bb44a400f6648
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8001
 DURATION:PT1H
 LOCATION:CVM-Pal

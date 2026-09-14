@@ -20,6 +20,13 @@ UID:42e84d82d6f021a50c7d752467f983a3
 URL:http://www.procosom.com/feuille-pointage.php?match=8044
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260916T232500Z
+SUMMARY:B: Scie-Hawks c. Mêlés Noirs
+UID:4fe16b09df39d165dc0bde65fec8e125
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7987
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
