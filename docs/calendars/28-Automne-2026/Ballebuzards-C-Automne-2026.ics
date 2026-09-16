@@ -20,10 +20,12 @@ UID:10847f0d0bec502c40b9a93d2b240397
 URL:http://www.procosom.com/feuille-pointage.php?match=8015
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8048
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260916T000500Z
-SUMMARY:C: Présidents c. Ballebuzards
+SUMMARY:C: Présidents - 1 c. Ballebuzards - 1
 UID:9bd48bfa60fde9f5187dc26c91264e43
+URL:http://www.procosom.com/feuille-pointage.php?match=8048
 END:VEVENT
 END:VCALENDAR

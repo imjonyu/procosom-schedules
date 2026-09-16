@@ -11,11 +11,13 @@ UID:bf8cc8dd094deea25344b409a3d2d1c0
 URL:http://www.procosom.com/feuille-pointage.php?match=8021
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8046
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260915T230500Z
-SUMMARY:D: Sauce AC c. P'tite Ékip
+SUMMARY:D: Sauce AC - 7 c. P'tite Ékip - 1
 UID:e230426e42498eac42b75fc14bb23816
+URL:http://www.procosom.com/feuille-pointage.php?match=8046
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7990

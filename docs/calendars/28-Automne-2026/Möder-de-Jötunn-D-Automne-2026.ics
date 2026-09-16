@@ -11,11 +11,13 @@ UID:7554e7fba1b7b813788425db017b1e81
 URL:http://www.procosom.com/feuille-pointage.php?match=8040
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8045
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260915T230500Z
-SUMMARY:D: Möder de Jötunn c. Top Shotta 2.0
+SUMMARY:D: Möder de Jötunn - 2 c. Top Shotta 2.0 - 5
 UID:d68ed39a2b239c98ffb4817a232da9ef
+URL:http://www.procosom.com/feuille-pointage.php?match=8045
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8004

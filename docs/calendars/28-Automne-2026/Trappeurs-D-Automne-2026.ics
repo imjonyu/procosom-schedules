@@ -2,11 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8050
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260916T010500Z
-SUMMARY:D: Guerriers c. Trappeurs
+SUMMARY:D: Guerriers - 0 c. Trappeurs - 6
 UID:fd96034d39cf67c095c721a0566dc8e8
+URL:http://www.procosom.com/feuille-pointage.php?match=8050
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8038

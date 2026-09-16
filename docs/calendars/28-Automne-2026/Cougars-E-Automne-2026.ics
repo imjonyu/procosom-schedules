@@ -2,11 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8047
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260916T000500Z
-SUMMARY:E: Invincibles c. Cougars
+SUMMARY:E: Invincibles - 3 c. Cougars - 8
 UID:d35f24d0bdaf81b3e257d38ad41af79b
+URL:http://www.procosom.com/feuille-pointage.php?match=8047
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7998
