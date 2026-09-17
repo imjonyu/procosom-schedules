@@ -2,11 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8059
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260917T022500Z
-SUMMARY:B: Front de Libération du Cosom c. TDC Sélections
+SUMMARY:B: Front de Libération du Cosom - 2 c. TDC Sélections - 6
 UID:446c807c994aca553840076e5c991f6a
+URL:http://www.procosom.com/feuille-pointage.php?match=8059
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8024

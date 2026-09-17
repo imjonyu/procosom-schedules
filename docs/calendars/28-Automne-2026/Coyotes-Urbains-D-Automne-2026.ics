@@ -20,10 +20,12 @@ UID:a030bde256cdbd608b88f4cd6e172de8
 URL:http://www.procosom.com/feuille-pointage.php?match=8009
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8052
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260916T232500Z
-SUMMARY:D: LumberJack c. Coyotes Urbains
+SUMMARY:D: LumberJack - 4 c. Coyotes Urbains - 6
 UID:86d0431abb6e590dced93cb032ea4e0d
+URL:http://www.procosom.com/feuille-pointage.php?match=8052
 END:VEVENT
 END:VCALENDAR

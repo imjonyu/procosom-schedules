@@ -11,11 +11,13 @@ UID:618a8040343d7086694b29786cc607e3
 URL:http://www.procosom.com/feuille-pointage.php?match=8005
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8056
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260917T012500Z
-SUMMARY:E: Gros Chefs Bandits c. Habsurdes
+SUMMARY:E: Gros Chefs Bandits - 3 c. Habsurdes - 7
 UID:9a66be28eb1481251ef0c6671502369c
+URL:http://www.procosom.com/feuille-pointage.php?match=8056
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8029
