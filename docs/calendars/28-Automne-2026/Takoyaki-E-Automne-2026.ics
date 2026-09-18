@@ -2,11 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8064
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260918T012500Z
-SUMMARY:E: Cosmiques c. Takoyaki
+SUMMARY:E: Cosmiques - 5 c. Takoyaki - 3
 UID:9c268e5ee4c7421e0c683bda0a0e0480
+URL:http://www.procosom.com/feuille-pointage.php?match=8064
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8019

@@ -29,10 +29,12 @@ UID:d205e663d5f7f1e963ea13c07ab5c9e0
 URL:http://www.procosom.com/feuille-pointage.php?match=7998
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8063
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260918T012500Z
-SUMMARY:E: Black Mad Squirrels c. TDC
+SUMMARY:E: Black Mad Squirrels - 12 c. TDC - 3
 UID:c1d2cd631114987952fbdb78489bb9b0
+URL:http://www.procosom.com/feuille-pointage.php?match=8063
 END:VEVENT
 END:VCALENDAR

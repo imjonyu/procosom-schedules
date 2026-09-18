@@ -2,11 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8065
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260918T022500Z
-SUMMARY:D: Pylons c. Wolfpack
+SUMMARY:D: Pylons - 3 c. Wolfpack - 4
 UID:ac4aba1e0786b80f224bb44a400f6648
+URL:http://www.procosom.com/feuille-pointage.php?match=8065
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8030
