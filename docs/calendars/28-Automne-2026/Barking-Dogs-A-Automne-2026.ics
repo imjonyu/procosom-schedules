@@ -28,4 +28,11 @@ SUMMARY:A: Chums de Palettes - 4 c. Barking Dogs - 2
 UID:60b1ebc4efcadba728d3f5f0f13d2c7b
 URL:http://www.procosom.com/feuille-pointage.php?match=7988
 END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260925T012500Z
+SUMMARY:A: Golden Kales c. Barking Dogs
+UID:c4f874e2a6312774af6027322219a029
+END:VEVENT
 END:VCALENDAR

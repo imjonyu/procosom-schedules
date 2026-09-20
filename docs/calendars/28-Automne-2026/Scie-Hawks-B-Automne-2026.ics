@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8018
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8053
 DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20260903T022500Z
-SUMMARY:B: Scie-Hawks - 6 c. TDC Sélections - 3
-UID:f8d8083cab07bac5d177fe0a330cfa88
-URL:http://www.procosom.com/feuille-pointage.php?match=8018
+LOCATION:CVM-Quad-#3
+DTSTART:20260916T232500Z
+SUMMARY:B: Scie-Hawks - 4 c. Mêlés Noirs - 6
+UID:4fe16b09df39d165dc0bde65fec8e125
+URL:http://www.procosom.com/feuille-pointage.php?match=8053
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8044
@@ -20,13 +20,13 @@ UID:42e84d82d6f021a50c7d752467f983a3
 URL:http://www.procosom.com/feuille-pointage.php?match=8044
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8053
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8018
 DURATION:PT1H
-LOCATION:CVM-Quad-#3
-DTSTART:20260916T232500Z
-SUMMARY:B: Scie-Hawks - 4 c. Mêlés Noirs - 6
-UID:4fe16b09df39d165dc0bde65fec8e125
-URL:http://www.procosom.com/feuille-pointage.php?match=8053
+LOCATION:CVM-Pal
+DTSTART:20260903T022500Z
+SUMMARY:B: Scie-Hawks - 6 c. TDC Sélections - 3
+UID:f8d8083cab07bac5d177fe0a330cfa88
+URL:http://www.procosom.com/feuille-pointage.php?match=8018
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7987
@@ -36,5 +36,12 @@ DTSTART:20260826T000500Z
 SUMMARY:B: Mêlés Noirs - 4 c. Scie-Hawks - 7
 UID:3ee0cee22c473e9dd0149f4b2c8d3205
 URL:http://www.procosom.com/feuille-pointage.php?match=7987
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260923T232500Z
+SUMMARY:B: Achigans c. Scie-Hawks
+UID:5d0671be3e8c28d8d4c74edf9226e8a9
 END:VEVENT
 END:VCALENDAR

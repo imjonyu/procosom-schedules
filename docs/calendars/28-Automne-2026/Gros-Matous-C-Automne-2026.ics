@@ -11,15 +11,6 @@ UID:ebcf0beb50fed537d000ba1986ca6ea3
 URL:http://www.procosom.com/feuille-pointage.php?match=8002
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8020
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20260904T002500Z
-SUMMARY:C: Gros Matous - 5 c. Evil Sticks - 4
-UID:a541ac4b117a2a944d3bd92826850d52
-URL:http://www.procosom.com/feuille-pointage.php?match=8020
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8049
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -29,6 +20,15 @@ UID:5ea85eefa3f7c5f0e1b5e0ba0a6f0e15
 URL:http://www.procosom.com/feuille-pointage.php?match=8049
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8020
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260904T002500Z
+SUMMARY:C: Gros Matous - 5 c. Evil Sticks - 4
+UID:a541ac4b117a2a944d3bd92826850d52
+URL:http://www.procosom.com/feuille-pointage.php?match=8020
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8031
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -36,5 +36,12 @@ DTSTART:20260909T020500Z
 SUMMARY:C: Momentums - 5 c. Gros Matous - 3
 UID:9e3521633792115e9b2c5f9f992097b6
 URL:http://www.procosom.com/feuille-pointage.php?match=8031
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260923T010500Z
+SUMMARY:C: Gros Matous c. Axolotls
+UID:d377c15535172d631f5484fc7034f4f4
 END:VEVENT
 END:VCALENDAR

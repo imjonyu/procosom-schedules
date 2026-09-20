@@ -28,4 +28,11 @@ SUMMARY:C: Présidents - 1 c. Ballebuzards - 1
 UID:9bd48bfa60fde9f5187dc26c91264e43
 URL:http://www.procosom.com/feuille-pointage.php?match=8048
 END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260923T010500Z
+SUMMARY:C: Goats c. Ballebuzards
+UID:708663db0be7e66bcf81f7282cf54246
+END:VEVENT
 END:VCALENDAR

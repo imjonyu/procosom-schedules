@@ -2,6 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260924T012500Z
+SUMMARY:E: Cosmiques c. Invincibles
+UID:b170bed99888bf2398d8688b09048675
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8011
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260902T020500Z
+SUMMARY:E: Cougars - 6 c. Cosmiques - 2
+UID:de9b1f921d4816aae8d8f1c88216167a
+URL:http://www.procosom.com/feuille-pointage.php?match=8011
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8034
 DURATION:PT1H
 LOCATION:CVM-Pal
@@ -18,15 +34,6 @@ DTSTART:20260918T012500Z
 SUMMARY:E: Cosmiques - 5 c. Takoyaki - 3
 UID:9c268e5ee4c7421e0c683bda0a0e0480
 URL:http://www.procosom.com/feuille-pointage.php?match=8064
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8011
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20260902T020500Z
-SUMMARY:E: Cougars - 6 c. Cosmiques - 2
-UID:de9b1f921d4816aae8d8f1c88216167a
-URL:http://www.procosom.com/feuille-pointage.php?match=8011
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7991

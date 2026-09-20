@@ -11,6 +11,13 @@ UID:a1e27a96bd4792041a593275cbfe8873
 URL:http://www.procosom.com/feuille-pointage.php?match=8051
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260922T230500Z
+SUMMARY:C: Momentums c. CocoCrazys
+UID:a57d48aa9ada53192e1fddd8dae24c03
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7996
 DURATION:PT1H
 LOCATION:CVM-Pal

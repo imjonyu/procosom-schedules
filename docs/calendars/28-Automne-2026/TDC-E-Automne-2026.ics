@@ -11,6 +11,15 @@ UID:f6ec1f1b63b7a4715c954e89ae4eec37
 URL:http://www.procosom.com/feuille-pointage.php?match=8022
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7998
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260827T022500Z
+SUMMARY:E: TDC - 3 c. Cougars - 3
+UID:d205e663d5f7f1e963ea13c07ab5c9e0
+URL:http://www.procosom.com/feuille-pointage.php?match=7998
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8034
 DURATION:PT1H
 LOCATION:CVM-Pal
@@ -20,13 +29,11 @@ UID:068c08450838140ce886c3c91e88b6c4
 URL:http://www.procosom.com/feuille-pointage.php?match=8034
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7998
 DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20260827T022500Z
-SUMMARY:E: TDC - 3 c. Cougars - 3
-UID:d205e663d5f7f1e963ea13c07ab5c9e0
-URL:http://www.procosom.com/feuille-pointage.php?match=7998
+LOCATION:CVM-Quad-#1
+DTSTART:20260925T002500Z
+SUMMARY:E: Punks de l'Enfer c. TDC
+UID:b12f403939f4a453a90d35c9d04651dc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8063

@@ -11,13 +11,20 @@ UID:ec8afde54a8990fe8c43ddd315f33b7b
 URL:http://www.procosom.com/feuille-pointage.php?match=8013
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8055
 DURATION:PT1H
-LOCATION:CVM-Quad-#3
-DTSTART:20260917T002500Z
-SUMMARY:A: TTC Club - 6 c. Golden Kales - 2
-UID:9d0c0d28bbcaf15d2356b565d63f0674
-URL:http://www.procosom.com/feuille-pointage.php?match=8055
+LOCATION:CVM-Pal
+DTSTART:20260925T012500Z
+SUMMARY:A: Golden Kales c. Barking Dogs
+UID:c4f874e2a6312774af6027322219a029
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7999
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260827T232500Z
+SUMMARY:A: TTC Club - 4 c. Golden Kales - 0
+UID:8fee6cb50df447c537a69d8e19c80300
+URL:http://www.procosom.com/feuille-pointage.php?match=7999
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8042
@@ -29,12 +36,12 @@ UID:caafc59456701e8bb40d1611d16f558c
 URL:http://www.procosom.com/feuille-pointage.php?match=8042
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7999
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8055
 DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20260827T232500Z
-SUMMARY:A: TTC Club - 4 c. Golden Kales - 0
-UID:8fee6cb50df447c537a69d8e19c80300
-URL:http://www.procosom.com/feuille-pointage.php?match=7999
+LOCATION:CVM-Quad-#3
+DTSTART:20260917T002500Z
+SUMMARY:A: TTC Club - 6 c. Golden Kales - 2
+UID:9d0c0d28bbcaf15d2356b565d63f0674
+URL:http://www.procosom.com/feuille-pointage.php?match=8055
 END:VEVENT
 END:VCALENDAR

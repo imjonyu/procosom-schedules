@@ -11,6 +11,15 @@ UID:d7b8950d37dcb13bf761ea36e84f251d
 URL:http://www.procosom.com/feuille-pointage.php?match=8058
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8014
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260903T002500Z
+SUMMARY:A: Mouettes - 5 c. Mighty Ducks - 4
+UID:ec15d067fa360930228818b932a75553
+URL:http://www.procosom.com/feuille-pointage.php?match=8014
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8042
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -20,13 +29,11 @@ UID:caafc59456701e8bb40d1611d16f558c
 URL:http://www.procosom.com/feuille-pointage.php?match=8042
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8014
 DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20260903T002500Z
-SUMMARY:A: Mouettes - 5 c. Mighty Ducks - 4
-UID:ec15d067fa360930228818b932a75553
-URL:http://www.procosom.com/feuille-pointage.php?match=8014
+LOCATION:CVM-Quad-#1
+DTSTART:20260924T022500Z
+SUMMARY:A: Mighty Ducks c. Mouettes
+UID:5d4f886c534d973b3c2413c9af1d0ae0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7992

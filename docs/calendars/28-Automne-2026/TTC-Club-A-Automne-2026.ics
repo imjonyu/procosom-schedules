@@ -2,24 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8017
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20260903T022500Z
-SUMMARY:A: Chums de Palettes - 1 c. TTC Club - 6
-UID:f999ca42a8115a626cb40711b5c34999
-URL:http://www.procosom.com/feuille-pointage.php?match=8017
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8055
-DURATION:PT1H
-LOCATION:CVM-Quad-#3
-DTSTART:20260917T002500Z
-SUMMARY:A: TTC Club - 6 c. Golden Kales - 2
-UID:9d0c0d28bbcaf15d2356b565d63f0674
-URL:http://www.procosom.com/feuille-pointage.php?match=8055
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8033
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -29,6 +11,22 @@ UID:acd1d686fbfcfa2032370e76cd47dc22
 URL:http://www.procosom.com/feuille-pointage.php?match=8033
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8017
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260903T022500Z
+SUMMARY:A: Chums de Palettes - 1 c. TTC Club - 6
+UID:f999ca42a8115a626cb40711b5c34999
+URL:http://www.procosom.com/feuille-pointage.php?match=8017
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260925T022500Z
+SUMMARY:A: TTC Club c. Jeunes Professionnels
+UID:473382c59ba95196672bd74b5b602071
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7999
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -36,5 +34,14 @@ DTSTART:20260827T232500Z
 SUMMARY:A: TTC Club - 4 c. Golden Kales - 0
 UID:8fee6cb50df447c537a69d8e19c80300
 URL:http://www.procosom.com/feuille-pointage.php?match=7999
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8055
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260917T002500Z
+SUMMARY:A: TTC Club - 6 c. Golden Kales - 2
+UID:9d0c0d28bbcaf15d2356b565d63f0674
+URL:http://www.procosom.com/feuille-pointage.php?match=8055
 END:VEVENT
 END:VCALENDAR

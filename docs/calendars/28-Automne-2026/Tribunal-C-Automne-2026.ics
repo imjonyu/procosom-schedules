@@ -20,6 +20,13 @@ UID:10847f0d0bec502c40b9a93d2b240397
 URL:http://www.procosom.com/feuille-pointage.php?match=8015
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260925T002500Z
+SUMMARY:C: Jagrbombs c. Tribunal
+UID:38de70e9e3ce58366a96b11545364a39
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7995
 DURATION:PT1H
 LOCATION:CVM-Quad-#1

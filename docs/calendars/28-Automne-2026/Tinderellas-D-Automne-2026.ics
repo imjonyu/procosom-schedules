@@ -19,4 +19,11 @@ SUMMARY:D: Möder de Jötunn - 5 c. Tinderellas - 4
 UID:b77c45c5c512e07ff53c5dd2625f2fc3
 URL:http://www.procosom.com/feuille-pointage.php?match=8004
 END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260923T020500Z
+SUMMARY:D: Guerriers c. Tinderellas
+UID:d595d30ca9966c530b0ada570f0299e5
+END:VEVENT
 END:VCALENDAR

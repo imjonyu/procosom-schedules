@@ -2,24 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8048
-DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20260916T000500Z
-SUMMARY:C: Présidents - 1 c. Ballebuzards - 1
-UID:9bd48bfa60fde9f5187dc26c91264e43
-URL:http://www.procosom.com/feuille-pointage.php?match=8048
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7995
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20260827T012500Z
-SUMMARY:C: Tribunal - 3 c. Présidents - 5
-UID:a915b05732a0e84b265373e548a34ee7
-URL:http://www.procosom.com/feuille-pointage.php?match=7995
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8039
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -29,6 +11,22 @@ UID:2349e2974b758b1dc8a92757b78aca7c
 URL:http://www.procosom.com/feuille-pointage.php?match=8039
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8048
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260916T000500Z
+SUMMARY:C: Présidents - 1 c. Ballebuzards - 1
+UID:9bd48bfa60fde9f5187dc26c91264e43
+URL:http://www.procosom.com/feuille-pointage.php?match=8048
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260925T012500Z
+SUMMARY:C: Evil Sticks c. Présidents
+UID:81265b9c705e2f5c9088658154b89c11
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8010
 DURATION:PT1H
 LOCATION:CVM-Pal
@@ -36,5 +34,14 @@ DTSTART:20260902T010500Z
 SUMMARY:C: Présidents - 3 c. Goats - 4
 UID:be3e139f12ced00d0b01a22e2e2514a0
 URL:http://www.procosom.com/feuille-pointage.php?match=8010
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7995
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260827T012500Z
+SUMMARY:C: Tribunal - 3 c. Présidents - 5
+UID:a915b05732a0e84b265373e548a34ee7
+URL:http://www.procosom.com/feuille-pointage.php?match=7995
 END:VEVENT
 END:VCALENDAR
