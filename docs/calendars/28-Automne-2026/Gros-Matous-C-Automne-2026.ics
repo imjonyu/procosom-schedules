@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8002
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20260828T012500Z
-SUMMARY:C: Jagrbombs - 5 c. Gros Matous - 10
-UID:ebcf0beb50fed537d000ba1986ca6ea3
-URL:http://www.procosom.com/feuille-pointage.php?match=8002
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8049
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -18,6 +9,13 @@ DTSTART:20260916T010500Z
 SUMMARY:C: Goats - 3 c. Gros Matous - 2
 UID:5ea85eefa3f7c5f0e1b5e0ba0a6f0e15
 URL:http://www.procosom.com/feuille-pointage.php?match=8049
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260923T010500Z
+SUMMARY:C: Gros Matous c. Axolotls
+UID:1f3f7c83f5f234c7717b407ac6a2a756
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8020
@@ -38,10 +36,12 @@ UID:9e3521633792115e9b2c5f9f992097b6
 URL:http://www.procosom.com/feuille-pointage.php?match=8031
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8002
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
-DTSTART:20260923T010500Z
-SUMMARY:C: Gros Matous c. Axolotls
-UID:d377c15535172d631f5484fc7034f4f4
+DTSTART:20260828T012500Z
+SUMMARY:C: Jagrbombs - 5 c. Gros Matous - 10
+UID:ebcf0beb50fed537d000ba1986ca6ea3
+URL:http://www.procosom.com/feuille-pointage.php?match=8002
 END:VEVENT
 END:VCALENDAR
