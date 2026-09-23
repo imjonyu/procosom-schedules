@@ -2,11 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8068
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260923T000500Z
-SUMMARY:E: Grouin Grouin c. Black Mad Squirrels
+SUMMARY:E: Grouin Grouin - 6 c. Black Mad Squirrels - 4
 UID:c5f70087ae3b1832c0ff537433e3993e
+URL:http://www.procosom.com/feuille-pointage.php?match=8068
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8008

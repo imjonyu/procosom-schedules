@@ -20,11 +20,13 @@ UID:5b2b9444b86c0e8cf901f21606c2a605
 URL:http://www.procosom.com/feuille-pointage.php?match=8029
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8069
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260923T000500Z
-SUMMARY:E: Habsurdes c. Grainezky
+SUMMARY:E: Habsurdes - 6 c. Grainezky - 5
 UID:1b07df3d924a0549e77f33d137852a7e
+URL:http://www.procosom.com/feuille-pointage.php?match=8069
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7994

@@ -20,11 +20,13 @@ UID:fd96034d39cf67c095c721a0566dc8e8
 URL:http://www.procosom.com/feuille-pointage.php?match=8050
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8072
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260923T020500Z
-SUMMARY:D: Guerriers c. Tinderellas
+SUMMARY:D: Guerriers - 4 c. Tinderellas - 7
 UID:19948635abe22e63ab50bfae04224dec
+URL:http://www.procosom.com/feuille-pointage.php?match=8072
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8009

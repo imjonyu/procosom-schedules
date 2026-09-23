@@ -11,11 +11,13 @@ UID:5ea85eefa3f7c5f0e1b5e0ba0a6f0e15
 URL:http://www.procosom.com/feuille-pointage.php?match=8049
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8070
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260923T010500Z
-SUMMARY:C: Gros Matous c. Axolotls
+SUMMARY:C: Gros Matous - 6 c. Axolotls - 3
 UID:1f3f7c83f5f234c7717b407ac6a2a756
+URL:http://www.procosom.com/feuille-pointage.php?match=8070
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8020

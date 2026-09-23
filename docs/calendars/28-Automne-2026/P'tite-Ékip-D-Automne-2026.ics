@@ -20,11 +20,13 @@ UID:e230426e42498eac42b75fc14bb23816
 URL:http://www.procosom.com/feuille-pointage.php?match=8046
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8066
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260922T230500Z
-SUMMARY:D: Pylons c. P'tite Ékip
+SUMMARY:D: Pylons - 8 c. P'tite Ékip - 4
 UID:0c78be8c8361caaebd57adacdad88043
+URL:http://www.procosom.com/feuille-pointage.php?match=8066
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7990
