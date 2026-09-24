@@ -2,11 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8077
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260924T012500Z
-SUMMARY:E: Cosmiques c. Invincibles
+SUMMARY:E: Cosmiques - 10 c. Invincibles - 3
 UID:b170bed99888bf2398d8688b09048675
+URL:http://www.procosom.com/feuille-pointage.php?match=8077
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8011

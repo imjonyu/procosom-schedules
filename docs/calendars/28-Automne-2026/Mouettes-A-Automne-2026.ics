@@ -11,11 +11,13 @@ UID:beb0a69e1c4d3dfa5278d2e7aed68547
 URL:http://www.procosom.com/feuille-pointage.php?match=8054
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8079
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260924T022500Z
-SUMMARY:A: Mighty Ducks c. Mouettes
+SUMMARY:A: Mighty Ducks - 5 c. Mouettes - 4
 UID:5d4f886c534d973b3c2413c9af1d0ae0
+URL:http://www.procosom.com/feuille-pointage.php?match=8079
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8014

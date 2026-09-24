@@ -20,11 +20,13 @@ UID:97c6019e9036c4ec10e41d55e4c6489c
 URL:http://www.procosom.com/feuille-pointage.php?match=8038
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8080
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260924T022500Z
-SUMMARY:D: Punished c. Trappeurs
+SUMMARY:D: Punished - 0 c. Trappeurs - 3
 UID:4edab24b7639dc13ba6a0994e5a6f3c1
+URL:http://www.procosom.com/feuille-pointage.php?match=8080
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7990

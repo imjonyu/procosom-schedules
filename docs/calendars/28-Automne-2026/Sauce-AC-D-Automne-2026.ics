@@ -11,11 +11,13 @@ UID:5484ecf3e9683f0ac40477d2f26ea706
 URL:http://www.procosom.com/feuille-pointage.php?match=7997
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8073
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260923T232500Z
-SUMMARY:D: Sauce AC c. Top Shotta 2.0
+SUMMARY:D: Sauce AC - 6 c. Top Shotta 2.0 - 5
 UID:b96a838086e733f0ea0bed377fe89a7f
+URL:http://www.procosom.com/feuille-pointage.php?match=8073
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8026

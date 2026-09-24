@@ -20,11 +20,13 @@ UID:777c95a9b151b265e083ebef06511d5b
 URL:http://www.procosom.com/feuille-pointage.php?match=8024
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8075
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260924T002500Z
-SUMMARY:B: Chuck Norris c. Front de Libération du Cosom
+SUMMARY:B: Chuck Norris - 7 c. Front de Libération du Cosom - 5
 UID:dedb5fafec2a02495fbd0c4259699261
+URL:http://www.procosom.com/feuille-pointage.php?match=8075
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8003
