@@ -20,11 +20,13 @@ UID:f999ca42a8115a626cb40711b5c34999
 URL:http://www.procosom.com/feuille-pointage.php?match=8017
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8086
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260925T022500Z
-SUMMARY:A: TTC Club c. Jeunes Professionnels
+SUMMARY:A: TTC Club - 4 c. Jeunes Professionnels - 4
 UID:473382c59ba95196672bd74b5b602071
+URL:http://www.procosom.com/feuille-pointage.php?match=8086
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7999

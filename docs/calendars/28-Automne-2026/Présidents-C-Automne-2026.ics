@@ -20,11 +20,13 @@ UID:9bd48bfa60fde9f5187dc26c91264e43
 URL:http://www.procosom.com/feuille-pointage.php?match=8048
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8084
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260925T012500Z
-SUMMARY:C: Evil Sticks c. Présidents
+SUMMARY:C: Evil Sticks - 8 c. Présidents - 6
 UID:81265b9c705e2f5c9088658154b89c11
+URL:http://www.procosom.com/feuille-pointage.php?match=8084
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8010

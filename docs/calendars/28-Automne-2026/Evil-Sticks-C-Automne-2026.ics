@@ -2,11 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8084
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260925T012500Z
-SUMMARY:C: Evil Sticks c. Présidents
+SUMMARY:C: Evil Sticks - 8 c. Présidents - 6
 UID:81265b9c705e2f5c9088658154b89c11
+URL:http://www.procosom.com/feuille-pointage.php?match=8084
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8062

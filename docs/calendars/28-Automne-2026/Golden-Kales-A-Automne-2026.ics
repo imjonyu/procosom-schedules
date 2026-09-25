@@ -11,11 +11,13 @@ UID:ec8afde54a8990fe8c43ddd315f33b7b
 URL:http://www.procosom.com/feuille-pointage.php?match=8013
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8085
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260925T012500Z
-SUMMARY:A: Golden Kales c. Barking Dogs
+SUMMARY:A: Golden Kales - 4 c. Barking Dogs - 2
 UID:c4f874e2a6312774af6027322219a029
+URL:http://www.procosom.com/feuille-pointage.php?match=8085
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7999
