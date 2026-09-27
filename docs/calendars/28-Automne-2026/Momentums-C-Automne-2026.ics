@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8051
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20260916T020500Z
-SUMMARY:C: CocoCrazys - 8 c. Momentums - 6
-UID:a1e27a96bd4792041a593275cbfe8873
-URL:http://www.procosom.com/feuille-pointage.php?match=8051
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8007
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -29,12 +20,21 @@ UID:40e0209e65a5f92055b29167a24f52f2
 URL:http://www.procosom.com/feuille-pointage.php?match=7993
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8051
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260916T020500Z
+SUMMARY:C: CocoCrazys - 8 c. Momentums - 6
+UID:501484c4955f15d29dc8cb826a5aed32
+URL:http://www.procosom.com/feuille-pointage.php?match=8051
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8067
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260922T230500Z
 SUMMARY:C: Momentums - 2 c. CocoCrazys - 6
-UID:a57d48aa9ada53192e1fddd8dae24c03
+UID:b29ad1d8e970099228dcfb6731e12536
 URL:http://www.procosom.com/feuille-pointage.php?match=8067
 END:VEVENT
 BEGIN:VEVENT
@@ -43,7 +43,7 @@ DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260909T020500Z
 SUMMARY:C: Momentums - 5 c. Gros Matous - 3
-UID:9e3521633792115e9b2c5f9f992097b6
+UID:4908aa493ca4f632bbe5726b0f65e834
 URL:http://www.procosom.com/feuille-pointage.php?match=8031
 END:VEVENT
 END:VCALENDAR

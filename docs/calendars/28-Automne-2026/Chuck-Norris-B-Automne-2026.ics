@@ -11,21 +11,12 @@ UID:d4556ecaad82d9f9944293323d4d22a3
 URL:http://www.procosom.com/feuille-pointage.php?match=8000
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8024
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20260904T022500Z
-SUMMARY:B: Chuck Norris - 8 c. Front de Libération du Cosom - 1
-UID:777c95a9b151b265e083ebef06511d5b
-URL:http://www.procosom.com/feuille-pointage.php?match=8024
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8075
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260924T002500Z
 SUMMARY:B: Chuck Norris - 7 c. Front de Libération du Cosom - 5
-UID:dedb5fafec2a02495fbd0c4259699261
+UID:f301fd1ab2e50137eeb845ccb76fa006
 URL:http://www.procosom.com/feuille-pointage.php?match=8075
 END:VEVENT
 BEGIN:VEVENT
@@ -34,7 +25,16 @@ DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260910T022500Z
 SUMMARY:B: TDC Sélections - 1 c. Chuck Norris - 3
-UID:6a568166e1b40ebe0e2827910e071e3e
+UID:5db74ea33b82c1d2295dad63952ac218
 URL:http://www.procosom.com/feuille-pointage.php?match=8037
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8024
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260904T022500Z
+SUMMARY:B: Chuck Norris - 8 c. Front de Libération du Cosom - 1
+UID:b6347704352064dfc6c8ba67e17402e3
+URL:http://www.procosom.com/feuille-pointage.php?match=8024
 END:VEVENT
 END:VCALENDAR

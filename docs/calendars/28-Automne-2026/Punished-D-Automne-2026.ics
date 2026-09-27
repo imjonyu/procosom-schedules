@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8035
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20260910T012500Z
-SUMMARY:D: Tinderellas - 2 c. Punished - 9
-UID:f379ec69b5481660e43dd495d414c3eb
-URL:http://www.procosom.com/feuille-pointage.php?match=8035
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7997
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -20,13 +11,29 @@ UID:5484ecf3e9683f0ac40477d2f26ea706
 URL:http://www.procosom.com/feuille-pointage.php?match=7997
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261001T012500Z
+SUMMARY:D: Tinderellas c. Punished
+UID:9e54870693fa9994132baa97dd654f4d
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8016
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260903T012500Z
 SUMMARY:D: Top Shotta 2.0 - 1 c. Punished - 3
-UID:0800e50b521c4c351220aefba78716ff
+UID:7b393edf124ad5550f04abe4939dc4d6
 URL:http://www.procosom.com/feuille-pointage.php?match=8016
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8035
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260910T012500Z
+SUMMARY:D: Tinderellas - 2 c. Punished - 9
+UID:127a11021c3e38becae97c215c590a99
+URL:http://www.procosom.com/feuille-pointage.php?match=8035
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8080
@@ -34,7 +41,7 @@ DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260924T022500Z
 SUMMARY:D: Punished - 0 c. Trappeurs - 3
-UID:4edab24b7639dc13ba6a0994e5a6f3c1
+UID:d9c171477512ba0bff19dfd12772866e
 URL:http://www.procosom.com/feuille-pointage.php?match=8080
 END:VEVENT
 END:VCALENDAR

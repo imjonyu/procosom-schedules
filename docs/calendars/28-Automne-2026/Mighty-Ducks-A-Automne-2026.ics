@@ -2,13 +2,29 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20261001T012500Z
+SUMMARY:A: Sags c. Mighty Ducks
+UID:4e6fb02aab8c403a5d326a1aa0f78890
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8058
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260917T022500Z
 SUMMARY:A: Mighty Ducks - 8 c. Barking Dogs - 1
-UID:d7b8950d37dcb13bf761ea36e84f251d
+UID:38ad19d9974b9c8665027389bba42a8f
 URL:http://www.procosom.com/feuille-pointage.php?match=8058
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8079
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260924T022500Z
+SUMMARY:A: Mighty Ducks - 5 c. Mouettes - 4
+UID:87c744b554f4f9a466cc99b666c81ab9
+URL:http://www.procosom.com/feuille-pointage.php?match=8079
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8014
@@ -25,17 +41,8 @@ DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260911T012500Z
 SUMMARY:A: Mighty Ducks - 5 c. Golden Kales - 3
-UID:caafc59456701e8bb40d1611d16f558c
+UID:6a18e73ea0a9e8d316536f65ed359c7c
 URL:http://www.procosom.com/feuille-pointage.php?match=8042
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8079
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20260924T022500Z
-SUMMARY:A: Mighty Ducks - 5 c. Mouettes - 4
-UID:5d4f886c534d973b3c2413c9af1d0ae0
-URL:http://www.procosom.com/feuille-pointage.php?match=8079
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7992

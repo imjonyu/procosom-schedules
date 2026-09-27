@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8076
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8040
 DURATION:PT1H
-LOCATION:CVM-Quad-#3
-DTSTART:20260924T002500Z
-SUMMARY:D: Coyotes Urbains - 4 c. Wolfpack - 5
-UID:2eafb9f37db7ed000f9f597ed524ed8d
-URL:http://www.procosom.com/feuille-pointage.php?match=8076
+LOCATION:CVM-Quad-#1
+DTSTART:20260911T002500Z
+SUMMARY:D: Wolfpack - 11 c. Möder de Jötunn - 1
+UID:315086fcbe979e9e85ed32ea3732fb05
+URL:http://www.procosom.com/feuille-pointage.php?match=8040
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8021
@@ -16,8 +16,17 @@ DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260904T002500Z
 SUMMARY:D: P'tite Ékip - 4 c. Wolfpack - 1
-UID:bf8cc8dd094deea25344b409a3d2d1c0
+UID:7e5e8204ff1f02f50da0ba9341a26a74
 URL:http://www.procosom.com/feuille-pointage.php?match=8021
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8076
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260924T002500Z
+SUMMARY:D: Coyotes Urbains - 4 c. Wolfpack - 5
+UID:0eeb1a36cb2397954a0d430dbed10044
+URL:http://www.procosom.com/feuille-pointage.php?match=8076
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8065
@@ -25,17 +34,8 @@ DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260918T022500Z
 SUMMARY:D: Pylons - 3 c. Wolfpack - 4
-UID:ac4aba1e0786b80f224bb44a400f6648
+UID:2860acbba5f437e6785ac4f45be7efe0
 URL:http://www.procosom.com/feuille-pointage.php?match=8065
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8040
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20260911T002500Z
-SUMMARY:D: Wolfpack - 11 c. Möder de Jötunn - 1
-UID:7554e7fba1b7b813788425db017b1e81
-URL:http://www.procosom.com/feuille-pointage.php?match=8040
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8001
@@ -45,5 +45,12 @@ DTSTART:20260828T002500Z
 SUMMARY:D: Wolfpack - 6 c. LumberJack - 3
 UID:98a21a432ff0725a912885e3cb09187e
 URL:http://www.procosom.com/feuille-pointage.php?match=8001
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261002T002500Z
+SUMMARY:D: Wolfpack c. Top Shotta 2.0
+UID:fbdf70967e539a0bb9f22e2dfbde0a4b
 END:VEVENT
 END:VCALENDAR

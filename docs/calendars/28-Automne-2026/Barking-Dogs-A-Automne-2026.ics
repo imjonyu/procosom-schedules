@@ -2,22 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260903T012500Z
+SUMMARY:A: Barking Dogs c. Mouettes
+UID:bbc6c058c929781b1c36e73a4cb78465
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260930T012500Z
+SUMMARY:A: Barking Dogs c. Mouettes
+UID:52f787b5188c10ce55650aed8b93fad3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8058
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260917T022500Z
 SUMMARY:A: Mighty Ducks - 8 c. Barking Dogs - 1
-UID:d7b8950d37dcb13bf761ea36e84f251d
+UID:38ad19d9974b9c8665027389bba42a8f
 URL:http://www.procosom.com/feuille-pointage.php?match=8058
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8023
-DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20260904T012500Z
-SUMMARY:A: Barking Dogs - 8 c. Jeunes Professionnels - 11
-UID:83b672407302d2d02591341e5d1bc44e
-URL:http://www.procosom.com/feuille-pointage.php?match=8023
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7988
@@ -29,12 +34,21 @@ UID:60b1ebc4efcadba728d3f5f0f13d2c7b
 URL:http://www.procosom.com/feuille-pointage.php?match=7988
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8023
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260904T012500Z
+SUMMARY:A: Barking Dogs - 8 c. Jeunes Professionnels - 11
+UID:1ad129178699822a0604a0812f581dee
+URL:http://www.procosom.com/feuille-pointage.php?match=8023
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8085
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260925T012500Z
 SUMMARY:A: Golden Kales - 4 c. Barking Dogs - 2
-UID:c4f874e2a6312774af6027322219a029
+UID:398df97661a394a0dea5f627477e33f0
 URL:http://www.procosom.com/feuille-pointage.php?match=8085
 END:VEVENT
 END:VCALENDAR

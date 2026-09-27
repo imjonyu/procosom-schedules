@@ -2,22 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8078
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
-DTSTART:20260924T012500Z
-SUMMARY:E: Takoyaki - 6 c. Gros Chefs Bandits - 2
-UID:bdd140b3d1dfa0d6a58d84199207137a
-URL:http://www.procosom.com/feuille-pointage.php?match=8078
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8056
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20260917T012500Z
-SUMMARY:E: Gros Chefs Bandits - 3 c. Habsurdes - 7
-UID:9a66be28eb1481251ef0c6671502369c
-URL:http://www.procosom.com/feuille-pointage.php?match=8056
+DTSTART:20261001T002500Z
+SUMMARY:E: TDC c. Gros Chefs Bandits
+UID:b25eb63ab0c16b1426a0beefc43230ed
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7994
@@ -34,7 +23,25 @@ DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260909T000500Z
 SUMMARY:E: Cougars - 3 c. Gros Chefs Bandits - 6
-UID:6b38c8462258bba471fb0a717a7105e6
+UID:0de5b281f8ee510bd322598aebef486f
 URL:http://www.procosom.com/feuille-pointage.php?match=8028
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8056
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260917T012500Z
+SUMMARY:E: Gros Chefs Bandits - 3 c. Habsurdes - 7
+UID:c5bccc53ffca7c434f32a85676945931
+URL:http://www.procosom.com/feuille-pointage.php?match=8056
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8078
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260924T012500Z
+SUMMARY:E: Takoyaki - 6 c. Gros Chefs Bandits - 2
+UID:e36b66981297ea95d8d05502ef2a2691
+URL:http://www.procosom.com/feuille-pointage.php?match=8078
 END:VEVENT
 END:VCALENDAR

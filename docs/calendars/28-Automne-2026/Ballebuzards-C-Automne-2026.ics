@@ -2,6 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8071
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260923T010500Z
+SUMMARY:C: Goats - 4 c. Ballebuzards - 4
+UID:0a97f3ee914eddcd2abcc2505ddfe0c7
+URL:http://www.procosom.com/feuille-pointage.php?match=8071
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7993
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -16,8 +25,15 @@ DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260903T012500Z
 SUMMARY:C: Ballebuzards - 4 c. Tribunal - 2
-UID:10847f0d0bec502c40b9a93d2b240397
+UID:ee350d07810de02c6f9c50a7d76c23b1
 URL:http://www.procosom.com/feuille-pointage.php?match=8015
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261002T022500Z
+SUMMARY:C: Jagrbombs c. Ballebuzards
+UID:f0829692254ea1d4bcb04f9409d8d158
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8048
@@ -25,16 +41,7 @@ DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260916T000500Z
 SUMMARY:C: Présidents - 1 c. Ballebuzards - 1
-UID:9bd48bfa60fde9f5187dc26c91264e43
+UID:773f8698afe3b3909aee9a4454ab8a02
 URL:http://www.procosom.com/feuille-pointage.php?match=8048
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8071
-DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20260923T010500Z
-SUMMARY:C: Goats - 4 c. Ballebuzards - 4
-UID:708663db0be7e66bcf81f7282cf54246
-URL:http://www.procosom.com/feuille-pointage.php?match=8071
 END:VEVENT
 END:VCALENDAR

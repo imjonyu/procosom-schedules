@@ -7,8 +7,15 @@ DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260909T010500Z
 SUMMARY:D: Pylons - 5 c. LumberJack - 6
-UID:2abbce5d8a27090ad80f01f030d02229
+UID:dcfd7959bd0c2c568ec00343fd86921b
 URL:http://www.procosom.com/feuille-pointage.php?match=8030
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261001T022500Z
+SUMMARY:D: LumberJack c. Möder de Jötunn
+UID:6792a937a30d39fa3bf76c100fe4ad69
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8001
@@ -25,7 +32,7 @@ DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260916T232500Z
 SUMMARY:D: LumberJack - 4 c. Coyotes Urbains - 6
-UID:86d0431abb6e590dced93cb032ea4e0d
+UID:2aafc827f75556facd9964829e981221
 URL:http://www.procosom.com/feuille-pointage.php?match=8052
 END:VEVENT
 END:VCALENDAR

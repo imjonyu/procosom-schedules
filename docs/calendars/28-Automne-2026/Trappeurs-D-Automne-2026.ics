@@ -2,13 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8050
 DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20260916T010500Z
-SUMMARY:D: Guerriers - 0 c. Trappeurs - 6
-UID:fd96034d39cf67c095c721a0566dc8e8
-URL:http://www.procosom.com/feuille-pointage.php?match=8050
+LOCATION:CVM-Quad-#1
+DTSTART:20260929T232500Z
+SUMMARY:D: Trappeurs c. Sauce AC
+UID:245021095105bcac08c64aec6299565c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8038
@@ -16,17 +14,17 @@ DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260910T022500Z
 SUMMARY:D: Trappeurs - 4 c. Coyotes Urbains - 5
-UID:97c6019e9036c4ec10e41d55e4c6489c
+UID:92970933cf13495affbcff1ed8be55ab
 URL:http://www.procosom.com/feuille-pointage.php?match=8038
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8080
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8050
 DURATION:PT1H
-LOCATION:CVM-Quad-#3
-DTSTART:20260924T022500Z
-SUMMARY:D: Punished - 0 c. Trappeurs - 3
-UID:4edab24b7639dc13ba6a0994e5a6f3c1
-URL:http://www.procosom.com/feuille-pointage.php?match=8080
+LOCATION:CVM-Pal
+DTSTART:20260916T010500Z
+SUMMARY:D: Guerriers - 0 c. Trappeurs - 6
+UID:9c447a6c9a7f5c0146c7203e6ce29bc1
+URL:http://www.procosom.com/feuille-pointage.php?match=8050
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7990
@@ -36,5 +34,14 @@ DTSTART:20260826T010500Z
 SUMMARY:D: P'tite Ékip - 6 c. Trappeurs - 4
 UID:2b6cdc3dfafebce6a2ad0ac12097c3aa
 URL:http://www.procosom.com/feuille-pointage.php?match=7990
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8080
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260924T022500Z
+SUMMARY:D: Punished - 0 c. Trappeurs - 3
+UID:d9c171477512ba0bff19dfd12772866e
+URL:http://www.procosom.com/feuille-pointage.php?match=8080
 END:VEVENT
 END:VCALENDAR

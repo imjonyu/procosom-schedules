@@ -2,22 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8005
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
-DTSTART:20260901T230500Z
-SUMMARY:E: Habsurdes - 2 c. Punks de l'Enfer - 6
-UID:618a8040343d7086694b29786cc607e3
-URL:http://www.procosom.com/feuille-pointage.php?match=8005
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8082
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20260925T002500Z
-SUMMARY:E: Punks de l'Enfer - 12 c. TDC - 6
-UID:b12f403939f4a453a90d35c9d04651dc
-URL:http://www.procosom.com/feuille-pointage.php?match=8082
+DTSTART:20260930T022500Z
+SUMMARY:E: Punks de l'Enfer c. Black Mad Squirrels
+UID:669b3125ee3992c87b90715171a28e7a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7986
@@ -29,12 +18,30 @@ UID:6dc1f0a0a0601d6342f8a8851f5d251b
 URL:http://www.procosom.com/feuille-pointage.php?match=7986
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8082
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260925T002500Z
+SUMMARY:E: Punks de l'Enfer - 12 c. TDC - 6
+UID:9c3f29caac9ad9360ebfd2ef7a313f53
+URL:http://www.procosom.com/feuille-pointage.php?match=8082
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8005
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260901T230500Z
+SUMMARY:E: Habsurdes - 2 c. Punks de l'Enfer - 6
+UID:618a8040343d7086694b29786cc607e3
+URL:http://www.procosom.com/feuille-pointage.php?match=8005
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8025
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260908T230500Z
 SUMMARY:E: Grainezky - 1 c. Punks de l'Enfer - 8
-UID:0b8fa3452ba70461f4f979407ef0c6dc
+UID:2ed3bd58f77a4e46dd8b56dc1499d2d2
 URL:http://www.procosom.com/feuille-pointage.php?match=8025
 END:VEVENT
 END:VCALENDAR

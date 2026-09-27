@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8068
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20260923T000500Z
-SUMMARY:E: Grouin Grouin - 6 c. Black Mad Squirrels - 4
-UID:c5f70087ae3b1832c0ff537433e3993e
-URL:http://www.procosom.com/feuille-pointage.php?match=8068
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8008
 DURATION:PT1H
 LOCATION:CVM-Pal
@@ -20,12 +11,28 @@ UID:4dcfdab057b903ee0ba550af76d99f81
 URL:http://www.procosom.com/feuille-pointage.php?match=8008
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8068
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260923T000500Z
+SUMMARY:E: Grouin Grouin - 6 c. Black Mad Squirrels - 4
+UID:d28d865b5d720f71c78577441d07b9ad
+URL:http://www.procosom.com/feuille-pointage.php?match=8068
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260930T002500Z
+SUMMARY:E: Grouin Grouin c. Cougars
+UID:244177abf1ce058b7a25b58b40be1b22
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8036
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260910T012500Z
 SUMMARY:E: Takoyaki - 2 c. Grouin Grouin - 4
-UID:6a99c8e44908f742131a0d49e6b0fcc7
+UID:01d0555732dab323270f67cc301fa56f
 URL:http://www.procosom.com/feuille-pointage.php?match=8036
 END:VEVENT
 BEGIN:VEVENT

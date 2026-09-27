@@ -11,22 +11,20 @@ UID:d4556ecaad82d9f9944293323d4d22a3
 URL:http://www.procosom.com/feuille-pointage.php?match=8000
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261001T232500Z
+SUMMARY:B: Golden Kales HC c. Achigans
+UID:40d92dbdebe02ba0f61e4218f675a049
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8081
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260924T232500Z
 SUMMARY:B: TDC Sélections - 7 c. Golden Kales HC - 5
-UID:ae12fd0ff874cef215edb10624cf2d00
+UID:5046c24ec87a87a5d359802dcd11d03a
 URL:http://www.procosom.com/feuille-pointage.php?match=8081
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8044
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20260911T022500Z
-SUMMARY:B: Scie-Hawks - 5 c. Golden Kales HC - 1
-UID:42e84d82d6f021a50c7d752467f983a3
-URL:http://www.procosom.com/feuille-pointage.php?match=8044
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8060
@@ -34,8 +32,17 @@ DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260917T232500Z
 SUMMARY:B: Achigans - 4 c. Golden Kales HC - 2
-UID:0ad5df19d300a38a8fd2037b26c5c14e
+UID:a2350c77b44bf301b93e9d6a127138df
 URL:http://www.procosom.com/feuille-pointage.php?match=8060
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8044
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260911T022500Z
+SUMMARY:B: Scie-Hawks - 5 c. Golden Kales HC - 1
+UID:3c436089004af9fb9861ce5e1b3163e0
+URL:http://www.procosom.com/feuille-pointage.php?match=8044
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8012

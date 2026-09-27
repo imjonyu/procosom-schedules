@@ -2,22 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8056
 DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20260917T012500Z
-SUMMARY:E: Gros Chefs Bandits - 3 c. Habsurdes - 7
-UID:9a66be28eb1481251ef0c6671502369c
-URL:http://www.procosom.com/feuille-pointage.php?match=8056
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8029
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20260909T010500Z
-SUMMARY:E: Habsurdes - 7 c. Invincibles - 3
-UID:5b2b9444b86c0e8cf901f21606c2a605
-URL:http://www.procosom.com/feuille-pointage.php?match=8029
+LOCATION:CVM-Pal
+DTSTART:20260929T232500Z
+SUMMARY:E: Cosmiques c. Habsurdes
+UID:d66700f77d41f1e79eb688babea1a05c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8069
@@ -25,7 +14,7 @@ DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260923T000500Z
 SUMMARY:E: Habsurdes - 6 c. Grainezky - 5
-UID:1b07df3d924a0549e77f33d137852a7e
+UID:c7ae99605ce9d6465e5eaf04323f3bf1
 URL:http://www.procosom.com/feuille-pointage.php?match=8069
 END:VEVENT
 BEGIN:VEVENT
@@ -38,6 +27,15 @@ UID:d290a3b784d32b387e74205aa9d42e1d
 URL:http://www.procosom.com/feuille-pointage.php?match=7994
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8056
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260917T012500Z
+SUMMARY:E: Gros Chefs Bandits - 3 c. Habsurdes - 7
+UID:c5bccc53ffca7c434f32a85676945931
+URL:http://www.procosom.com/feuille-pointage.php?match=8056
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8005
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -45,5 +43,14 @@ DTSTART:20260901T230500Z
 SUMMARY:E: Habsurdes - 2 c. Punks de l'Enfer - 6
 UID:618a8040343d7086694b29786cc607e3
 URL:http://www.procosom.com/feuille-pointage.php?match=8005
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8029
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260909T010500Z
+SUMMARY:E: Habsurdes - 7 c. Invincibles - 3
+UID:c2f9fe1965593e85d38585e8804a5cd3
+URL:http://www.procosom.com/feuille-pointage.php?match=8029
 END:VEVENT
 END:VCALENDAR

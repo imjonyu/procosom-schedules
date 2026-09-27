@@ -2,22 +2,29 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8033
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20260910T002500Z
-SUMMARY:A: Sags - 4 c. TTC Club - 8
-UID:acd1d686fbfcfa2032370e76cd47dc22
-URL:http://www.procosom.com/feuille-pointage.php?match=8033
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8057
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260917T012500Z
 SUMMARY:A: Chums de Palettes - 2 c. Sags - 3
-UID:99cee7c5160ccb009f12a52db4f10827
+UID:a0c7b99c6dd2cd4214ac50aa819f3e3f
 URL:http://www.procosom.com/feuille-pointage.php?match=8057
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20261001T012500Z
+SUMMARY:A: Sags c. Mighty Ducks
+UID:4e6fb02aab8c403a5d326a1aa0f78890
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8013
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260903T002500Z
+SUMMARY:A: Golden Kales - 10 c. Sags - 2
+UID:ec8afde54a8990fe8c43ddd315f33b7b
+URL:http://www.procosom.com/feuille-pointage.php?match=8013
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7985
@@ -29,12 +36,12 @@ UID:792e5033c3763f95963c9aac7e1bf611
 URL:http://www.procosom.com/feuille-pointage.php?match=7985
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8013
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8033
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
-DTSTART:20260903T002500Z
-SUMMARY:A: Golden Kales - 10 c. Sags - 2
-UID:ec8afde54a8990fe8c43ddd315f33b7b
-URL:http://www.procosom.com/feuille-pointage.php?match=8013
+DTSTART:20260910T002500Z
+SUMMARY:A: Sags - 4 c. TTC Club - 8
+UID:f3b29b2f7fa7c04725b208d24f637fc5
+URL:http://www.procosom.com/feuille-pointage.php?match=8033
 END:VEVENT
 END:VCALENDAR

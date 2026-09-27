@@ -7,7 +7,7 @@ DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260923T000500Z
 SUMMARY:E: Grouin Grouin - 6 c. Black Mad Squirrels - 4
-UID:c5f70087ae3b1832c0ff537433e3993e
+UID:d28d865b5d720f71c78577441d07b9ad
 URL:http://www.procosom.com/feuille-pointage.php?match=8068
 END:VEVENT
 BEGIN:VEVENT
@@ -16,8 +16,15 @@ DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260903T232500Z
 SUMMARY:E: Black Mad Squirrels - 3 c. Takoyaki - 7
-UID:884fce5ad50e901ddf70e4ac6f4fc7a2
+UID:ad2cf68cb69c3eb86d4c52de17289ae1
 URL:http://www.procosom.com/feuille-pointage.php?match=8019
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260930T022500Z
+SUMMARY:E: Punks de l'Enfer c. Black Mad Squirrels
+UID:669b3125ee3992c87b90715171a28e7a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8063
@@ -25,7 +32,7 @@ DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260918T012500Z
 SUMMARY:E: Black Mad Squirrels - 12 c. TDC - 3
-UID:c1d2cd631114987952fbdb78489bb9b0
+UID:9069a724eb2da4b7498f79e3b156b3f9
 URL:http://www.procosom.com/feuille-pointage.php?match=8063
 END:VEVENT
 BEGIN:VEVENT

@@ -2,6 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261002T002500Z
+SUMMARY:A: Golden Kales c. Chums de Palettes
+UID:af65f6a40f5e3a0a849c5280965aa5c7
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8013
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -9,15 +16,6 @@ DTSTART:20260903T002500Z
 SUMMARY:A: Golden Kales - 10 c. Sags - 2
 UID:ec8afde54a8990fe8c43ddd315f33b7b
 URL:http://www.procosom.com/feuille-pointage.php?match=8013
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8085
-DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20260925T012500Z
-SUMMARY:A: Golden Kales - 4 c. Barking Dogs - 2
-UID:c4f874e2a6312774af6027322219a029
-URL:http://www.procosom.com/feuille-pointage.php?match=8085
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7999
@@ -29,21 +27,30 @@ UID:8fee6cb50df447c537a69d8e19c80300
 URL:http://www.procosom.com/feuille-pointage.php?match=7999
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8042
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20260911T012500Z
-SUMMARY:A: Mighty Ducks - 5 c. Golden Kales - 3
-UID:caafc59456701e8bb40d1611d16f558c
-URL:http://www.procosom.com/feuille-pointage.php?match=8042
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8055
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260917T002500Z
 SUMMARY:A: TTC Club - 6 c. Golden Kales - 2
-UID:9d0c0d28bbcaf15d2356b565d63f0674
+UID:78d7a2d70b767d25c6ace0696e6eed07
 URL:http://www.procosom.com/feuille-pointage.php?match=8055
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8042
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260911T012500Z
+SUMMARY:A: Mighty Ducks - 5 c. Golden Kales - 3
+UID:6a18e73ea0a9e8d316536f65ed359c7c
+URL:http://www.procosom.com/feuille-pointage.php?match=8042
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8085
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260925T012500Z
+SUMMARY:A: Golden Kales - 4 c. Barking Dogs - 2
+UID:398df97661a394a0dea5f627477e33f0
+URL:http://www.procosom.com/feuille-pointage.php?match=8085
 END:VEVENT
 END:VCALENDAR

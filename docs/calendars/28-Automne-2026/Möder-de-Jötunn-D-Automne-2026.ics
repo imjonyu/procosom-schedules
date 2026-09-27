@@ -7,17 +7,15 @@ DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260911T002500Z
 SUMMARY:D: Wolfpack - 11 c. Möder de Jötunn - 1
-UID:7554e7fba1b7b813788425db017b1e81
+UID:315086fcbe979e9e85ed32ea3732fb05
 URL:http://www.procosom.com/feuille-pointage.php?match=8040
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8045
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
-DTSTART:20260915T230500Z
-SUMMARY:D: Möder de Jötunn - 2 c. Top Shotta 2.0 - 5
-UID:d68ed39a2b239c98ffb4817a232da9ef
-URL:http://www.procosom.com/feuille-pointage.php?match=8045
+DTSTART:20261001T022500Z
+SUMMARY:D: LumberJack c. Möder de Jötunn
+UID:6792a937a30d39fa3bf76c100fe4ad69
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8004
@@ -27,5 +25,14 @@ DTSTART:20260828T022500Z
 SUMMARY:D: Möder de Jötunn - 5 c. Tinderellas - 4
 UID:b77c45c5c512e07ff53c5dd2625f2fc3
 URL:http://www.procosom.com/feuille-pointage.php?match=8004
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8045
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260915T230500Z
+SUMMARY:D: Möder de Jötunn - 2 c. Top Shotta 2.0 - 5
+UID:308d6370f262d4a11a6300195fa089d0
+URL:http://www.procosom.com/feuille-pointage.php?match=8045
 END:VEVENT
 END:VCALENDAR

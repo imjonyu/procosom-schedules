@@ -7,26 +7,8 @@ DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260918T012500Z
 SUMMARY:E: Cosmiques - 5 c. Takoyaki - 3
-UID:9c268e5ee4c7421e0c683bda0a0e0480
+UID:7533bf6b2ef9bb886a7e9d4018385151
 URL:http://www.procosom.com/feuille-pointage.php?match=8064
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8078
-DURATION:PT1H
-LOCATION:CVM-Quad-#3
-DTSTART:20260924T012500Z
-SUMMARY:E: Takoyaki - 6 c. Gros Chefs Bandits - 2
-UID:bdd140b3d1dfa0d6a58d84199207137a
-URL:http://www.procosom.com/feuille-pointage.php?match=8078
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8019
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20260903T232500Z
-SUMMARY:E: Black Mad Squirrels - 3 c. Takoyaki - 7
-UID:884fce5ad50e901ddf70e4ac6f4fc7a2
-URL:http://www.procosom.com/feuille-pointage.php?match=8019
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8036
@@ -34,7 +16,32 @@ DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260910T012500Z
 SUMMARY:E: Takoyaki - 2 c. Grouin Grouin - 4
-UID:6a99c8e44908f742131a0d49e6b0fcc7
+UID:01d0555732dab323270f67cc301fa56f
 URL:http://www.procosom.com/feuille-pointage.php?match=8036
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8019
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260903T232500Z
+SUMMARY:E: Black Mad Squirrels - 3 c. Takoyaki - 7
+UID:ad2cf68cb69c3eb86d4c52de17289ae1
+URL:http://www.procosom.com/feuille-pointage.php?match=8019
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8078
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260924T012500Z
+SUMMARY:E: Takoyaki - 6 c. Gros Chefs Bandits - 2
+UID:e36b66981297ea95d8d05502ef2a2691
+URL:http://www.procosom.com/feuille-pointage.php?match=8078
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261002T012500Z
+SUMMARY:E: Grainezky c. Takoyaki
+UID:8a5095075abb0b3f2f8096ddeed29607
 END:VEVENT
 END:VCALENDAR

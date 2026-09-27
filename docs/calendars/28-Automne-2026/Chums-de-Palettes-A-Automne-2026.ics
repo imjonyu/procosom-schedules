@@ -2,22 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8017
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20260903T022500Z
-SUMMARY:A: Chums de Palettes - 1 c. TTC Club - 6
-UID:f999ca42a8115a626cb40711b5c34999
-URL:http://www.procosom.com/feuille-pointage.php?match=8017
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8043
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260911T012500Z
 SUMMARY:A: Jeunes Professionnels - 9 c. Chums de Palettes - 4
-UID:18992b52616e2801f830fea200c88318
+UID:25aae6e7c133f6ff38ad93eebf6d9bc4
 URL:http://www.procosom.com/feuille-pointage.php?match=8043
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8017
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260903T022500Z
+SUMMARY:A: Chums de Palettes - 1 c. TTC Club - 6
+UID:37a2dd1335e299eca5738962e324ba28
+URL:http://www.procosom.com/feuille-pointage.php?match=8017
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8057
@@ -25,8 +25,15 @@ DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260917T012500Z
 SUMMARY:A: Chums de Palettes - 2 c. Sags - 3
-UID:99cee7c5160ccb009f12a52db4f10827
+UID:a0c7b99c6dd2cd4214ac50aa819f3e3f
 URL:http://www.procosom.com/feuille-pointage.php?match=8057
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261002T002500Z
+SUMMARY:A: Golden Kales c. Chums de Palettes
+UID:af65f6a40f5e3a0a849c5280965aa5c7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7988

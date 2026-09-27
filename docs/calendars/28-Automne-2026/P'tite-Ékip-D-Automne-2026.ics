@@ -2,13 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8021
 DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20260904T002500Z
-SUMMARY:D: P'tite Ékip - 4 c. Wolfpack - 1
-UID:bf8cc8dd094deea25344b409a3d2d1c0
-URL:http://www.procosom.com/feuille-pointage.php?match=8021
+LOCATION:CVM-Quad-#3
+DTSTART:20261001T022500Z
+SUMMARY:D: P'tite Ékip c. Guerriers
+UID:9ba337c5c7d6b3a3085c344c2ac0577f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8046
@@ -16,17 +14,17 @@ DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260915T230500Z
 SUMMARY:D: Sauce AC - 7 c. P'tite Ékip - 1
-UID:e230426e42498eac42b75fc14bb23816
+UID:2e008d7f28c688326b2fa596d98cf622
 URL:http://www.procosom.com/feuille-pointage.php?match=8046
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8066
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8021
 DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20260922T230500Z
-SUMMARY:D: Pylons - 8 c. P'tite Ékip - 4
-UID:0c78be8c8361caaebd57adacdad88043
-URL:http://www.procosom.com/feuille-pointage.php?match=8066
+LOCATION:CVM-Pal
+DTSTART:20260904T002500Z
+SUMMARY:D: P'tite Ékip - 4 c. Wolfpack - 1
+UID:7e5e8204ff1f02f50da0ba9341a26a74
+URL:http://www.procosom.com/feuille-pointage.php?match=8021
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7990
@@ -36,5 +34,14 @@ DTSTART:20260826T010500Z
 SUMMARY:D: P'tite Ékip - 6 c. Trappeurs - 4
 UID:2b6cdc3dfafebce6a2ad0ac12097c3aa
 URL:http://www.procosom.com/feuille-pointage.php?match=7990
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8066
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260922T230500Z
+SUMMARY:D: Pylons - 8 c. P'tite Ékip - 4
+UID:22e4a9c2c84568bc985c5d7923d974e4
+URL:http://www.procosom.com/feuille-pointage.php?match=8066
 END:VEVENT
 END:VCALENDAR

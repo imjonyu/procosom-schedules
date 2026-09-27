@@ -2,13 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8026
 DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20260908T230500Z
-SUMMARY:D: Sauce AC - 8 c. Guerriers - 3
-UID:73f83475d947477dff04cd3d5415cc09
-URL:http://www.procosom.com/feuille-pointage.php?match=8026
+LOCATION:CVM-Quad-#3
+DTSTART:20261001T022500Z
+SUMMARY:D: P'tite Ékip c. Guerriers
+UID:9ba337c5c7d6b3a3085c344c2ac0577f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8050
@@ -16,17 +14,8 @@ DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260916T010500Z
 SUMMARY:D: Guerriers - 0 c. Trappeurs - 6
-UID:fd96034d39cf67c095c721a0566dc8e8
+UID:9c447a6c9a7f5c0146c7203e6ce29bc1
 URL:http://www.procosom.com/feuille-pointage.php?match=8050
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8072
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20260923T020500Z
-SUMMARY:D: Guerriers - 4 c. Tinderellas - 7
-UID:19948635abe22e63ab50bfae04224dec
-URL:http://www.procosom.com/feuille-pointage.php?match=8072
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8009
@@ -36,5 +25,23 @@ DTSTART:20260902T010500Z
 SUMMARY:D: Coyotes Urbains - 11 c. Guerriers - 4
 UID:a030bde256cdbd608b88f4cd6e172de8
 URL:http://www.procosom.com/feuille-pointage.php?match=8009
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8026
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260908T230500Z
+SUMMARY:D: Sauce AC - 8 c. Guerriers - 3
+UID:c1c8ef9eca8f95914cd03f4294abc530
+URL:http://www.procosom.com/feuille-pointage.php?match=8026
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8072
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260923T020500Z
+SUMMARY:D: Guerriers - 4 c. Tinderellas - 7
+UID:3afeba3a1de94b5bac4f7820b1682826
+URL:http://www.procosom.com/feuille-pointage.php?match=8072
 END:VEVENT
 END:VCALENDAR

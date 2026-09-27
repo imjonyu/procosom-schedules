@@ -2,13 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8069
 DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20260923T000500Z
-SUMMARY:E: Habsurdes - 6 c. Grainezky - 5
-UID:1b07df3d924a0549e77f33d137852a7e
-URL:http://www.procosom.com/feuille-pointage.php?match=8069
+LOCATION:CVM-Quad-#1
+DTSTART:20261002T012500Z
+SUMMARY:E: Grainezky c. Takoyaki
+UID:8a5095075abb0b3f2f8096ddeed29607
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8008
@@ -20,12 +18,21 @@ UID:4dcfdab057b903ee0ba550af76d99f81
 URL:http://www.procosom.com/feuille-pointage.php?match=8008
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8069
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260923T000500Z
+SUMMARY:E: Habsurdes - 6 c. Grainezky - 5
+UID:c7ae99605ce9d6465e5eaf04323f3bf1
+URL:http://www.procosom.com/feuille-pointage.php?match=8069
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8025
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260908T230500Z
 SUMMARY:E: Grainezky - 1 c. Punks de l'Enfer - 8
-UID:0b8fa3452ba70461f4f979407ef0c6dc
+UID:2ed3bd58f77a4e46dd8b56dc1499d2d2
 URL:http://www.procosom.com/feuille-pointage.php?match=8025
 END:VEVENT
 END:VCALENDAR

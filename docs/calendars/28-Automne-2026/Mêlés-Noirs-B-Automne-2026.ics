@@ -2,22 +2,29 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8032
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20260909T232500Z
-SUMMARY:B: Mêlés Noirs - 2 c. Achigans - 6
-UID:5e84b97682bf0ea7eefa94be6653e2f4
-URL:http://www.procosom.com/feuille-pointage.php?match=8032
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8053
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260916T232500Z
 SUMMARY:B: Scie-Hawks - 4 c. Mêlés Noirs - 6
-UID:4fe16b09df39d165dc0bde65fec8e125
+UID:f9cbf1071eae163ed5b244f246d99a5c
 URL:http://www.procosom.com/feuille-pointage.php?match=8053
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260930T232500Z
+SUMMARY:B: Mêlés Noirs c. TDC Sélections
+UID:0c32d04837accdf7fd9ed3ac763ee6f4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8032
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260909T232500Z
+SUMMARY:B: Mêlés Noirs - 2 c. Achigans - 6
+UID:593688314cf809cbb2ee89ae3e5c5a14
+URL:http://www.procosom.com/feuille-pointage.php?match=8032
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7987

@@ -2,12 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261001T232500Z
+SUMMARY:B: Golden Kales HC c. Achigans
+UID:40d92dbdebe02ba0f61e4218f675a049
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8060
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260917T232500Z
 SUMMARY:B: Achigans - 4 c. Golden Kales HC - 2
-UID:0ad5df19d300a38a8fd2037b26c5c14e
+UID:a2350c77b44bf301b93e9d6a127138df
 URL:http://www.procosom.com/feuille-pointage.php?match=8060
 END:VEVENT
 BEGIN:VEVENT
@@ -16,7 +23,7 @@ DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260909T232500Z
 SUMMARY:B: Mêlés Noirs - 2 c. Achigans - 6
-UID:5e84b97682bf0ea7eefa94be6653e2f4
+UID:593688314cf809cbb2ee89ae3e5c5a14
 URL:http://www.procosom.com/feuille-pointage.php?match=8032
 END:VEVENT
 BEGIN:VEVENT
@@ -25,7 +32,7 @@ DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260923T232500Z
 SUMMARY:B: Achigans - 4 c. Scie-Hawks - 3
-UID:5d0671be3e8c28d8d4c74edf9226e8a9
+UID:0f3d31b31aea84d70dce6af60faddc12
 URL:http://www.procosom.com/feuille-pointage.php?match=8074
 END:VEVENT
 BEGIN:VEVENT

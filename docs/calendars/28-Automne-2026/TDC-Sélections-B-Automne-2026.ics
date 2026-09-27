@@ -7,8 +7,15 @@ DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260924T232500Z
 SUMMARY:B: TDC Sélections - 7 c. Golden Kales HC - 5
-UID:ae12fd0ff874cef215edb10624cf2d00
+UID:5046c24ec87a87a5d359802dcd11d03a
 URL:http://www.procosom.com/feuille-pointage.php?match=8081
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260930T232500Z
+SUMMARY:B: Mêlés Noirs c. TDC Sélections
+UID:0c32d04837accdf7fd9ed3ac763ee6f4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8018
@@ -16,7 +23,7 @@ DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260903T022500Z
 SUMMARY:B: Scie-Hawks - 6 c. TDC Sélections - 3
-UID:f8d8083cab07bac5d177fe0a330cfa88
+UID:d7eca2c8a05af58cfbd4e8bc61f049ec
 URL:http://www.procosom.com/feuille-pointage.php?match=8018
 END:VEVENT
 BEGIN:VEVENT
@@ -25,7 +32,7 @@ DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260917T022500Z
 SUMMARY:B: Front de Libération du Cosom - 2 c. TDC Sélections - 6
-UID:446c807c994aca553840076e5c991f6a
+UID:26933ebab4ce8b72f98cb3f95ff2fb7c
 URL:http://www.procosom.com/feuille-pointage.php?match=8059
 END:VEVENT
 BEGIN:VEVENT
@@ -34,7 +41,7 @@ DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260910T022500Z
 SUMMARY:B: TDC Sélections - 1 c. Chuck Norris - 3
-UID:6a568166e1b40ebe0e2827910e071e3e
+UID:5db74ea33b82c1d2295dad63952ac218
 URL:http://www.procosom.com/feuille-pointage.php?match=8037
 END:VEVENT
 END:VCALENDAR

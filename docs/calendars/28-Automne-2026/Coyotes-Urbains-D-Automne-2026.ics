@@ -2,21 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8076
-DURATION:PT1H
-LOCATION:CVM-Quad-#3
-DTSTART:20260924T002500Z
-SUMMARY:D: Coyotes Urbains - 4 c. Wolfpack - 5
-UID:2eafb9f37db7ed000f9f597ed524ed8d
-URL:http://www.procosom.com/feuille-pointage.php?match=8076
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8038
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260910T022500Z
 SUMMARY:D: Trappeurs - 4 c. Coyotes Urbains - 5
-UID:97c6019e9036c4ec10e41d55e4c6489c
+UID:92970933cf13495affbcff1ed8be55ab
 URL:http://www.procosom.com/feuille-pointage.php?match=8038
 END:VEVENT
 BEGIN:VEVENT
@@ -29,12 +20,28 @@ UID:a030bde256cdbd608b88f4cd6e172de8
 URL:http://www.procosom.com/feuille-pointage.php?match=8009
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260930T232500Z
+SUMMARY:D: Coyotes Urbains c. Pylons
+UID:efc08515dca8cfe2df8759b5b42c5b9d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8076
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260924T002500Z
+SUMMARY:D: Coyotes Urbains - 4 c. Wolfpack - 5
+UID:0eeb1a36cb2397954a0d430dbed10044
+URL:http://www.procosom.com/feuille-pointage.php?match=8076
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8052
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260916T232500Z
 SUMMARY:D: LumberJack - 4 c. Coyotes Urbains - 6
-UID:86d0431abb6e590dced93cb032ea4e0d
+UID:2aafc827f75556facd9964829e981221
 URL:http://www.procosom.com/feuille-pointage.php?match=8052
 END:VEVENT
 END:VCALENDAR

@@ -7,8 +7,15 @@ DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260916T232500Z
 SUMMARY:B: Scie-Hawks - 4 c. Mêlés Noirs - 6
-UID:4fe16b09df39d165dc0bde65fec8e125
+UID:f9cbf1071eae163ed5b244f246d99a5c
 URL:http://www.procosom.com/feuille-pointage.php?match=8053
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260930T012500Z
+SUMMARY:B: Front de Libération du Cosom c. Scie-Hawks
+UID:f6f06a51cbe21c6192aacf4dba40d145
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8044
@@ -16,7 +23,7 @@ DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260911T022500Z
 SUMMARY:B: Scie-Hawks - 5 c. Golden Kales HC - 1
-UID:42e84d82d6f021a50c7d752467f983a3
+UID:3c436089004af9fb9861ce5e1b3163e0
 URL:http://www.procosom.com/feuille-pointage.php?match=8044
 END:VEVENT
 BEGIN:VEVENT
@@ -25,7 +32,7 @@ DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260903T022500Z
 SUMMARY:B: Scie-Hawks - 6 c. TDC Sélections - 3
-UID:f8d8083cab07bac5d177fe0a330cfa88
+UID:d7eca2c8a05af58cfbd4e8bc61f049ec
 URL:http://www.procosom.com/feuille-pointage.php?match=8018
 END:VEVENT
 BEGIN:VEVENT
@@ -43,7 +50,7 @@ DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260923T232500Z
 SUMMARY:B: Achigans - 4 c. Scie-Hawks - 3
-UID:5d0671be3e8c28d8d4c74edf9226e8a9
+UID:0f3d31b31aea84d70dce6af60faddc12
 URL:http://www.procosom.com/feuille-pointage.php?match=8074
 END:VEVENT
 END:VCALENDAR

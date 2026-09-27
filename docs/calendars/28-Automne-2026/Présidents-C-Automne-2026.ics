@@ -7,26 +7,8 @@ DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260910T232500Z
 SUMMARY:C: Présidents - 1 c. Jagrbombs - 3
-UID:2349e2974b758b1dc8a92757b78aca7c
+UID:848f070767bbb0b156313bab404eb512
 URL:http://www.procosom.com/feuille-pointage.php?match=8039
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8048
-DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20260916T000500Z
-SUMMARY:C: Présidents - 1 c. Ballebuzards - 1
-UID:9bd48bfa60fde9f5187dc26c91264e43
-URL:http://www.procosom.com/feuille-pointage.php?match=8048
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8084
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20260925T012500Z
-SUMMARY:C: Evil Sticks - 8 c. Présidents - 6
-UID:81265b9c705e2f5c9088658154b89c11
-URL:http://www.procosom.com/feuille-pointage.php?match=8084
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8010
@@ -45,5 +27,23 @@ DTSTART:20260827T012500Z
 SUMMARY:C: Tribunal - 3 c. Présidents - 5
 UID:a915b05732a0e84b265373e548a34ee7
 URL:http://www.procosom.com/feuille-pointage.php?match=7995
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8084
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260925T012500Z
+SUMMARY:C: Evil Sticks - 8 c. Présidents - 6
+UID:77a4fbbb081623418082e8ebf2862d3f
+URL:http://www.procosom.com/feuille-pointage.php?match=8084
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8048
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260916T000500Z
+SUMMARY:C: Présidents - 1 c. Ballebuzards - 1
+UID:773f8698afe3b3909aee9a4454ab8a02
+URL:http://www.procosom.com/feuille-pointage.php?match=8048
 END:VEVENT
 END:VCALENDAR

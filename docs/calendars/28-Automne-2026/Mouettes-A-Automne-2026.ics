@@ -2,13 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8054
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
-DTSTART:20260917T002500Z
-SUMMARY:A: Mouettes - 7 c. Jeunes Professionnels - 5
-UID:beb0a69e1c4d3dfa5278d2e7aed68547
-URL:http://www.procosom.com/feuille-pointage.php?match=8054
+DTSTART:20260903T012500Z
+SUMMARY:A: Barking Dogs c. Mouettes
+UID:bbc6c058c929781b1c36e73a4cb78465
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260930T012500Z
+SUMMARY:A: Barking Dogs c. Mouettes
+UID:52f787b5188c10ce55650aed8b93fad3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8079
@@ -16,7 +21,7 @@ DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260924T022500Z
 SUMMARY:A: Mighty Ducks - 5 c. Mouettes - 4
-UID:5d4f886c534d973b3c2413c9af1d0ae0
+UID:87c744b554f4f9a466cc99b666c81ab9
 URL:http://www.procosom.com/feuille-pointage.php?match=8079
 END:VEVENT
 BEGIN:VEVENT
@@ -36,5 +41,14 @@ DTSTART:20260825T230500Z
 SUMMARY:A: Sags - 2 c. Mouettes - 9
 UID:792e5033c3763f95963c9aac7e1bf611
 URL:http://www.procosom.com/feuille-pointage.php?match=7985
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8054
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260917T002500Z
+SUMMARY:A: Mouettes - 7 c. Jeunes Professionnels - 5
+UID:ab65daa89f2222762326c26d3edc5b0b
+URL:http://www.procosom.com/feuille-pointage.php?match=8054
 END:VEVENT
 END:VCALENDAR

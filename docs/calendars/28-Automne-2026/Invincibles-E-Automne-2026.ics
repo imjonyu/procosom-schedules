@@ -2,21 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8022
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20260904T012500Z
-SUMMARY:E: Invincibles - 3 c. TDC - 7
-UID:f6ec1f1b63b7a4715c954e89ae4eec37
-URL:http://www.procosom.com/feuille-pointage.php?match=8022
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8047
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260916T000500Z
 SUMMARY:E: Invincibles - 3 c. Cougars - 8
-UID:d35f24d0bdaf81b3e257d38ad41af79b
+UID:fe6be86650ba8033290ab68f7091820e
 URL:http://www.procosom.com/feuille-pointage.php?match=8047
 END:VEVENT
 BEGIN:VEVENT
@@ -25,8 +16,17 @@ DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260924T012500Z
 SUMMARY:E: Cosmiques - 10 c. Invincibles - 3
-UID:b170bed99888bf2398d8688b09048675
+UID:c09b8413fdfd4ad13ed9d425c60c53a0
 URL:http://www.procosom.com/feuille-pointage.php?match=8077
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8022
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260904T012500Z
+SUMMARY:E: Invincibles - 3 c. TDC - 7
+UID:83f84f7c8956e06a7eda41c749c568a3
+URL:http://www.procosom.com/feuille-pointage.php?match=8022
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8029
@@ -34,7 +34,7 @@ DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260909T010500Z
 SUMMARY:E: Habsurdes - 7 c. Invincibles - 3
-UID:5b2b9444b86c0e8cf901f21606c2a605
+UID:c2f9fe1965593e85d38585e8804a5cd3
 URL:http://www.procosom.com/feuille-pointage.php?match=8029
 END:VEVENT
 END:VCALENDAR

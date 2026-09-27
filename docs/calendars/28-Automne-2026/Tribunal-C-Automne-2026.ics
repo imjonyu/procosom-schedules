@@ -2,13 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8061
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
-DTSTART:20260918T002500Z
-SUMMARY:C: Tribunal - 3 c. Jagrbombs - 5
-UID:08ce39f953ac9356150faa47a895b2cf
-URL:http://www.procosom.com/feuille-pointage.php?match=8061
+DTSTART:20261001T002500Z
+SUMMARY:C: Gros Matous c. Tribunal
+UID:776aff91b74770cce3564856554de8d7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8015
@@ -16,17 +14,8 @@ DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260903T012500Z
 SUMMARY:C: Ballebuzards - 4 c. Tribunal - 2
-UID:10847f0d0bec502c40b9a93d2b240397
+UID:ee350d07810de02c6f9c50a7d76c23b1
 URL:http://www.procosom.com/feuille-pointage.php?match=8015
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8083
-DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20260925T002500Z
-SUMMARY:C: Jagrbombs - 3 c. Tribunal - 4
-UID:38de70e9e3ce58366a96b11545364a39
-URL:http://www.procosom.com/feuille-pointage.php?match=8083
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7995
@@ -38,12 +27,30 @@ UID:a915b05732a0e84b265373e548a34ee7
 URL:http://www.procosom.com/feuille-pointage.php?match=7995
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8083
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260925T002500Z
+SUMMARY:C: Jagrbombs - 3 c. Tribunal - 4
+UID:19d092cc2efb67c8bea03e8fdc01923a
+URL:http://www.procosom.com/feuille-pointage.php?match=8083
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8061
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260918T002500Z
+SUMMARY:C: Tribunal - 3 c. Jagrbombs - 5
+UID:2cc9a4ef9a894e62c49a18d84ca8d8a5
+URL:http://www.procosom.com/feuille-pointage.php?match=8061
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8041
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260911T002500Z
 SUMMARY:C: Evil Sticks - 5 c. Tribunal - 1
-UID:78ef35c5a0dbb1d8c7f4584c2fc345d5
+UID:fd3972df3e610721c269cfa780b9256b
 URL:http://www.procosom.com/feuille-pointage.php?match=8041
 END:VEVENT
 END:VCALENDAR
