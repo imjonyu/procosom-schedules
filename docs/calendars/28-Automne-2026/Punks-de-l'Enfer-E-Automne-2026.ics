@@ -4,9 +4,16 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
-DTSTART:20260930T022500Z
-SUMMARY:E: Punks de l'Enfer c. Black Mad Squirrels
-UID:669b3125ee3992c87b90715171a28e7a
+DTSTART:20261104T032500Z
+SUMMARY:E: Invincibles c. Punks de l'Enfer
+UID:9dd702f9b4c812466ccb2c001b184429
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261009T012500Z
+SUMMARY:E: Takoyaki c. Punks de l'Enfer
+UID:32db764218b2e1421945a3ccff6f132f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7986
@@ -18,13 +25,13 @@ UID:6dc1f0a0a0601d6342f8a8851f5d251b
 URL:http://www.procosom.com/feuille-pointage.php?match=7986
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8082
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8025
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
-DTSTART:20260925T002500Z
-SUMMARY:E: Punks de l'Enfer - 12 c. TDC - 6
-UID:9c3f29caac9ad9360ebfd2ef7a313f53
-URL:http://www.procosom.com/feuille-pointage.php?match=8082
+DTSTART:20260908T230500Z
+SUMMARY:E: Grainezky - 1 c. Punks de l'Enfer - 8
+UID:0b8fa3452ba70461f4f979407ef0c6dc
+URL:http://www.procosom.com/feuille-pointage.php?match=8025
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8005
@@ -36,12 +43,54 @@ UID:618a8040343d7086694b29786cc607e3
 URL:http://www.procosom.com/feuille-pointage.php?match=8005
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8025
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261027T232500Z
+SUMMARY:E: Punks de l'Enfer c. Cosmiques
+UID:8721c57eb30ce09c74ee22f918602b79
+END:VEVENT
+BEGIN:VEVENT
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
-DTSTART:20260908T230500Z
-SUMMARY:E: Grainezky - 1 c. Punks de l'Enfer - 8
-UID:2ed3bd58f77a4e46dd8b56dc1499d2d2
-URL:http://www.procosom.com/feuille-pointage.php?match=8025
+DTSTART:20260930T022500Z
+SUMMARY:E: Punks de l'Enfer c. Black Mad Squirrels
+UID:26690dbf5d6a7854c8c1dae7119b78a2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8082
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260925T002500Z
+SUMMARY:E: Punks de l'Enfer - 12 c. TDC - 6
+UID:b12f403939f4a453a90d35c9d04651dc
+URL:http://www.procosom.com/feuille-pointage.php?match=8082
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261013T232500Z
+SUMMARY:E: Habsurdes c. Punks de l'Enfer
+UID:408b6763053612e3f1cbb34e6301beeb
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261111T002500Z
+SUMMARY:E: Punks de l'Enfer c. Cosmiques
+UID:3bb66c8b38991201599cda1ccc8fe8b3
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20261022T022500Z
+SUMMARY:E: Punks de l'Enfer c. Black Mad Squirrels
+UID:2258bf0a79b278ef519e4517e516a044
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261119T012500Z
+SUMMARY:E: Gros Chefs Bandits c. Punks de l'Enfer
+UID:057e5e73ec30365588183d935d9a1988
 END:VEVENT
 END:VCALENDAR

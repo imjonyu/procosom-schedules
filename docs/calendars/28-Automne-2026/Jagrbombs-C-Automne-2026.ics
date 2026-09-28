@@ -2,13 +2,52 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261030T012500Z
+SUMMARY:C: Jagrbombs c. Axolotls
+UID:9d700d41460c117dc7ac85201161f1a9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8061
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260918T002500Z
+SUMMARY:C: Tribunal - 3 c. Jagrbombs - 5
+UID:08ce39f953ac9356150faa47a895b2cf
+URL:http://www.procosom.com/feuille-pointage.php?match=8061
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261104T012500Z
+SUMMARY:C: Jagrbombs c. Axolotls
+UID:f7a71928fff6228d273932315373c71d
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8039
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260910T232500Z
 SUMMARY:C: Présidents - 1 c. Jagrbombs - 3
-UID:848f070767bbb0b156313bab404eb512
+UID:2349e2974b758b1dc8a92757b78aca7c
 URL:http://www.procosom.com/feuille-pointage.php?match=8039
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261023T022500Z
+SUMMARY:C: Jagrbombs c. Evil Sticks
+UID:90a93ae7c46f67e162dbef19fe895fe1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8083
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260925T002500Z
+SUMMARY:C: Jagrbombs - 3 c. Tribunal - 4
+UID:38de70e9e3ce58366a96b11545364a39
+URL:http://www.procosom.com/feuille-pointage.php?match=8083
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8006
@@ -20,20 +59,25 @@ UID:8c137613531580a39f631746780ea385
 URL:http://www.procosom.com/feuille-pointage.php?match=8006
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8083
 DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20260925T002500Z
-SUMMARY:C: Jagrbombs - 3 c. Tribunal - 4
-UID:19d092cc2efb67c8bea03e8fdc01923a
-URL:http://www.procosom.com/feuille-pointage.php?match=8083
+LOCATION:CVM-Quad-#1
+DTSTART:20261118T012500Z
+SUMMARY:C: Ballebuzards c. Jagrbombs
+UID:5752d5df9986318adc3e9a5d7f8763bd
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261002T022500Z
 SUMMARY:C: Jagrbombs c. Ballebuzards
-UID:f0829692254ea1d4bcb04f9409d8d158
+UID:df473ea5d347954c810cd1747ec28e71
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261120T022500Z
+SUMMARY:C: Goats c. Jagrbombs
+UID:d02a540f169ab1ecdbfd7dc3032dbb08
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8002
@@ -45,12 +89,10 @@ UID:ebcf0beb50fed537d000ba1986ca6ea3
 URL:http://www.procosom.com/feuille-pointage.php?match=8002
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8061
 DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20260918T002500Z
-SUMMARY:C: Tribunal - 3 c. Jagrbombs - 5
-UID:2cc9a4ef9a894e62c49a18d84ca8d8a5
-URL:http://www.procosom.com/feuille-pointage.php?match=8061
+LOCATION:CVM-Pal
+DTSTART:20261016T002500Z
+SUMMARY:C: Evil Sticks c. Jagrbombs
+UID:93cb20848b524dca0647fc19fe01d160
 END:VEVENT
 END:VCALENDAR

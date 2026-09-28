@@ -2,22 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8047
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8029
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
-DTSTART:20260916T000500Z
-SUMMARY:E: Invincibles - 3 c. Cougars - 8
-UID:fe6be86650ba8033290ab68f7091820e
-URL:http://www.procosom.com/feuille-pointage.php?match=8047
+DTSTART:20260909T010500Z
+SUMMARY:E: Habsurdes - 7 c. Invincibles - 3
+UID:5b2b9444b86c0e8cf901f21606c2a605
+URL:http://www.procosom.com/feuille-pointage.php?match=8029
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8077
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
-DTSTART:20260924T012500Z
-SUMMARY:E: Cosmiques - 10 c. Invincibles - 3
-UID:c09b8413fdfd4ad13ed9d425c60c53a0
-URL:http://www.procosom.com/feuille-pointage.php?match=8077
+DTSTART:20261028T012500Z
+SUMMARY:E: Grouin Grouin c. Invincibles
+UID:908314be666d37426c7533760c0f87b1
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261113T032500Z
+SUMMARY:E: Takoyaki c. Invincibles
+UID:f93f959175d3bf1d570431e489c29ae7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8022
@@ -25,16 +30,67 @@ DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260904T012500Z
 SUMMARY:E: Invincibles - 3 c. TDC - 7
-UID:83f84f7c8956e06a7eda41c749c568a3
+UID:f6ec1f1b63b7a4715c954e89ae4eec37
 URL:http://www.procosom.com/feuille-pointage.php?match=8022
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8029
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8077
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
-DTSTART:20260909T010500Z
-SUMMARY:E: Habsurdes - 7 c. Invincibles - 3
-UID:c2f9fe1965593e85d38585e8804a5cd3
-URL:http://www.procosom.com/feuille-pointage.php?match=8029
+DTSTART:20260924T012500Z
+SUMMARY:E: Cosmiques - 10 c. Invincibles - 3
+UID:b170bed99888bf2398d8688b09048675
+URL:http://www.procosom.com/feuille-pointage.php?match=8077
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261104T032500Z
+SUMMARY:E: Invincibles c. Punks de l'Enfer
+UID:9dd702f9b4c812466ccb2c001b184429
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261118T022500Z
+SUMMARY:E: Invincibles c. Black Mad Squirrels
+UID:d45ee15c5431f011f1719fffaf1d8373
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261007T002500Z
+SUMMARY:E: Invincibles c. Grouin Grouin
+UID:eadbbf1d3cded115ae82b36daac42fd1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8047
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260916T000500Z
+SUMMARY:E: Invincibles - 3 c. Cougars - 8
+UID:d35f24d0bdaf81b3e257d38ad41af79b
+URL:http://www.procosom.com/feuille-pointage.php?match=8047
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261021T012500Z
+SUMMARY:E: Invincibles c. Cougars
+UID:6aef144618f8457fd57fa9cb610bf383
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261125T012500Z
+SUMMARY:E: Cougars c. Invincibles
+UID:9b991ee7b7588af8452dedcc2a910bfb
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261111T022500Z
+SUMMARY:E: Grainezky c. Invincibles
+UID:34b476af4b880126a19e486736e4236d
 END:VEVENT
 END:VCALENDAR

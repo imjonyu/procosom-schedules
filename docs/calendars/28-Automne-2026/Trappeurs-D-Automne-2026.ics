@@ -3,10 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261118T002500Z
+SUMMARY:D: Pylons c. Trappeurs
+UID:03f5cccedfb19864c82e719fb1fd90d1
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
 LOCATION:CVM-Quad-#1
-DTSTART:20260929T232500Z
-SUMMARY:D: Trappeurs c. Sauce AC
-UID:245021095105bcac08c64aec6299565c
+DTSTART:20261008T002500Z
+SUMMARY:D: Top Shotta 2.0 c. Trappeurs
+UID:eec04dc60de239ef02cf616233512ad8
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261106T032500Z
+SUMMARY:D: Trappeurs c. LumberJack
+UID:864f5fe8e7825a9954c94aed77da69ff
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261112T032500Z
+SUMMARY:D: Trappeurs c. Möder de Jötunn
+UID:2c055210a0d4e2f39a2c05d607a3a421
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8038
@@ -14,17 +35,24 @@ DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260910T022500Z
 SUMMARY:D: Trappeurs - 4 c. Coyotes Urbains - 5
-UID:92970933cf13495affbcff1ed8be55ab
+UID:97c6019e9036c4ec10e41d55e4c6489c
 URL:http://www.procosom.com/feuille-pointage.php?match=8038
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8050
 DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20260916T010500Z
-SUMMARY:D: Guerriers - 0 c. Trappeurs - 6
-UID:9c447a6c9a7f5c0146c7203e6ce29bc1
-URL:http://www.procosom.com/feuille-pointage.php?match=8050
+LOCATION:CVM-Quad-#1
+DTSTART:20260929T232500Z
+SUMMARY:D: Trappeurs c. Sauce AC
+UID:d7b90aa8aaa0559a1125b07e4abd83ed
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8080
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20260924T022500Z
+SUMMARY:D: Punished - 0 c. Trappeurs - 3
+UID:4edab24b7639dc13ba6a0994e5a6f3c1
+URL:http://www.procosom.com/feuille-pointage.php?match=8080
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7990
@@ -36,12 +64,33 @@ UID:2b6cdc3dfafebce6a2ad0ac12097c3aa
 URL:http://www.procosom.com/feuille-pointage.php?match=7990
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8080
 DURATION:PT1H
-LOCATION:CVM-Quad-#3
-DTSTART:20260924T022500Z
-SUMMARY:D: Punished - 0 c. Trappeurs - 3
-UID:d9c171477512ba0bff19dfd12772866e
-URL:http://www.procosom.com/feuille-pointage.php?match=8080
+LOCATION:CVM-Pal
+DTSTART:20261030T002500Z
+SUMMARY:D: Wolfpack c. Trappeurs
+UID:6ed7d666a5128f418e179dd8f995d8eb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8050
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260916T010500Z
+SUMMARY:D: Guerriers - 0 c. Trappeurs - 6
+UID:fd96034d39cf67c095c721a0566dc8e8
+URL:http://www.procosom.com/feuille-pointage.php?match=8050
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261016T012500Z
+SUMMARY:D: Trappeurs c. Tinderellas
+UID:6c471e50368e90a2cab7169d9bbf5108
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261127T032500Z
+SUMMARY:D: Trappeurs c. Top Shotta 2.0
+UID:f09eb431f477c4a36037ca32cf7d2e15
 END:VEVENT
 END:VCALENDAR

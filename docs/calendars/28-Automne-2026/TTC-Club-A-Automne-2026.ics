@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8086
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8033
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
-DTSTART:20260925T022500Z
-SUMMARY:A: TTC Club - 4 c. Jeunes Professionnels - 4
-UID:10af24ee87dd1d739528d396da9ce0e0
-URL:http://www.procosom.com/feuille-pointage.php?match=8086
+DTSTART:20260910T002500Z
+SUMMARY:A: Sags - 4 c. TTC Club - 8
+UID:acd1d686fbfcfa2032370e76cd47dc22
+URL:http://www.procosom.com/feuille-pointage.php?match=8033
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8017
@@ -16,8 +16,31 @@ DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260903T022500Z
 SUMMARY:A: Chums de Palettes - 1 c. TTC Club - 6
-UID:37a2dd1335e299eca5738962e324ba28
+UID:f999ca42a8115a626cb40711b5c34999
 URL:http://www.procosom.com/feuille-pointage.php?match=8017
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261015T232500Z
+SUMMARY:A: TTC Club c. Jeunes Professionnels
+UID:977cff5527524b81b3439cfec9c10178
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261008T012500Z
+SUMMARY:A: Mouettes c. TTC Club
+UID:a4452d278d9bf78eceba201563039e75
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8086
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260925T022500Z
+SUMMARY:A: TTC Club - 4 c. Jeunes Professionnels - 4
+UID:473382c59ba95196672bd74b5b602071
+URL:http://www.procosom.com/feuille-pointage.php?match=8086
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7999
@@ -29,21 +52,47 @@ UID:8fee6cb50df447c537a69d8e19c80300
 URL:http://www.procosom.com/feuille-pointage.php?match=7999
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20261112T002500Z
+SUMMARY:A: TTC Club c. Barking Dogs
+UID:e1a490460017f0973a88304d5acee494
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20261021T232500Z
+SUMMARY:A: Mighty Ducks c. TTC Club
+UID:d2d55900d26990a3f21246d2c60e9546
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20261105T002500Z
+SUMMARY:A: Mouettes c. TTC Club
+UID:177fd58ae26346fba30fa19edb1cd8dc
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20261028T232500Z
+SUMMARY:A: TTC Club c. Chums de Palettes
+UID:8811b8d81b73031db43c724a78562c1e
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8055
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260917T002500Z
 SUMMARY:A: TTC Club - 6 c. Golden Kales - 2
-UID:78d7a2d70b767d25c6ace0696e6eed07
+UID:9d0c0d28bbcaf15d2356b565d63f0674
 URL:http://www.procosom.com/feuille-pointage.php?match=8055
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8033
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
-DTSTART:20260910T002500Z
-SUMMARY:A: Sags - 4 c. TTC Club - 8
-UID:f3b29b2f7fa7c04725b208d24f637fc5
-URL:http://www.procosom.com/feuille-pointage.php?match=8033
+DTSTART:20261120T002500Z
+SUMMARY:A: Mighty Ducks c. TTC Club
+UID:bda2b24cdbf93634eece706e36736ce2
 END:VEVENT
 END:VCALENDAR

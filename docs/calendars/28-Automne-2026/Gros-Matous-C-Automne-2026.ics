@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8049
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
-DTSTART:20261001T002500Z
-SUMMARY:C: Gros Matous c. Tribunal
-UID:776aff91b74770cce3564856554de8d7
+DTSTART:20260916T010500Z
+SUMMARY:C: Goats - 3 c. Gros Matous - 2
+UID:5ea85eefa3f7c5f0e1b5e0ba0a6f0e15
+URL:http://www.procosom.com/feuille-pointage.php?match=8049
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8031
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
-DTSTART:20260909T020500Z
-SUMMARY:C: Momentums - 5 c. Gros Matous - 3
-UID:4908aa493ca4f632bbe5726b0f65e834
-URL:http://www.procosom.com/feuille-pointage.php?match=8031
+DTSTART:20261105T022500Z
+SUMMARY:C: Gros Matous c. Goats
+UID:5ad884641ddea0d1460e2e1d0e5bc406
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8070
@@ -23,8 +23,68 @@ DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260923T010500Z
 SUMMARY:C: Gros Matous - 6 c. Axolotls - 3
-UID:451604a7edf68d24014733c5560829ad
+UID:1f3f7c83f5f234c7717b407ac6a2a756
 URL:http://www.procosom.com/feuille-pointage.php?match=8070
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261021T002500Z
+SUMMARY:C: Ballebuzards c. Gros Matous
+UID:7f2c3424154bf898d7bc9175507ebe2c
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261028T002500Z
+SUMMARY:C: Gros Matous c. CocoCrazys
+UID:de6ab8af93ee13efaee991750490f647
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8020
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260904T002500Z
+SUMMARY:C: Gros Matous - 5 c. Evil Sticks - 4
+UID:a541ac4b117a2a944d3bd92826850d52
+URL:http://www.procosom.com/feuille-pointage.php?match=8020
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261120T022500Z
+SUMMARY:C: Evil Sticks c. Gros Matous
+UID:c3f0f2605a4b701b041849f227f2a626
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261001T002500Z
+SUMMARY:C: Gros Matous c. Tribunal
+UID:101983a2a8ca0eae8ecc25a3c55851fd
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261009T002500Z
+SUMMARY:C: Gros Matous c. Présidents
+UID:e901077aab2f3195dceb9998367d0783
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261126T022500Z
+SUMMARY:C: Momentums c. Gros Matous
+UID:8dbe9e3feaf7a5fb6ef5dd8336224618
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8031
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260909T020500Z
+SUMMARY:C: Momentums - 5 c. Gros Matous - 3
+UID:9e3521633792115e9b2c5f9f992097b6
+URL:http://www.procosom.com/feuille-pointage.php?match=8031
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8002
@@ -34,23 +94,5 @@ DTSTART:20260828T012500Z
 SUMMARY:C: Jagrbombs - 5 c. Gros Matous - 10
 UID:ebcf0beb50fed537d000ba1986ca6ea3
 URL:http://www.procosom.com/feuille-pointage.php?match=8002
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8049
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20260916T010500Z
-SUMMARY:C: Goats - 3 c. Gros Matous - 2
-UID:eaaa9bf198ce9675e6f109959f0460a1
-URL:http://www.procosom.com/feuille-pointage.php?match=8049
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8020
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20260904T002500Z
-SUMMARY:C: Gros Matous - 5 c. Evil Sticks - 4
-UID:4ea6903b853ac61e9472cdcd59395e13
-URL:http://www.procosom.com/feuille-pointage.php?match=8020
 END:VEVENT
 END:VCALENDAR

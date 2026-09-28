@@ -2,11 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8056
 DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20260929T232500Z
-SUMMARY:E: Cosmiques c. Habsurdes
-UID:d66700f77d41f1e79eb688babea1a05c
+LOCATION:CVM-Quad-#1
+DTSTART:20260917T012500Z
+SUMMARY:E: Gros Chefs Bandits - 3 c. Habsurdes - 7
+UID:9a66be28eb1481251ef0c6671502369c
+URL:http://www.procosom.com/feuille-pointage.php?match=8056
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8029
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260909T010500Z
+SUMMARY:E: Habsurdes - 7 c. Invincibles - 3
+UID:5b2b9444b86c0e8cf901f21606c2a605
+URL:http://www.procosom.com/feuille-pointage.php?match=8029
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8069
@@ -14,8 +25,15 @@ DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260923T000500Z
 SUMMARY:E: Habsurdes - 6 c. Grainezky - 5
-UID:c7ae99605ce9d6465e5eaf04323f3bf1
+UID:1b07df3d924a0549e77f33d137852a7e
 URL:http://www.procosom.com/feuille-pointage.php?match=8069
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261029T022500Z
+SUMMARY:E: Habsurdes c. Cougars
+UID:bad149c4d5f4cdad37861060e3321b30
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7994
@@ -27,13 +45,11 @@ UID:d290a3b784d32b387e74205aa9d42e1d
 URL:http://www.procosom.com/feuille-pointage.php?match=7994
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8056
 DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20260917T012500Z
-SUMMARY:E: Gros Chefs Bandits - 3 c. Habsurdes - 7
-UID:c5bccc53ffca7c434f32a85676945931
-URL:http://www.procosom.com/feuille-pointage.php?match=8056
+LOCATION:CVM-Quad-#3
+DTSTART:20261105T032500Z
+SUMMARY:E: Black Mad Squirrels c. Habsurdes
+UID:eac775d32fd3fd030918173ae157b3a9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8005
@@ -45,12 +61,38 @@ UID:618a8040343d7086694b29786cc607e3
 URL:http://www.procosom.com/feuille-pointage.php?match=8005
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8029
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260929T232500Z
+SUMMARY:E: Cosmiques c. Habsurdes
+UID:7a5dacfd4a976d1c6852dfdba95660e7
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261013T232500Z
+SUMMARY:E: Habsurdes c. Punks de l'Enfer
+UID:408b6763053612e3f1cbb34e6301beeb
+END:VEVENT
+BEGIN:VEVENT
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
-DTSTART:20260909T010500Z
-SUMMARY:E: Habsurdes - 7 c. Invincibles - 3
-UID:c2f9fe1965593e85d38585e8804a5cd3
-URL:http://www.procosom.com/feuille-pointage.php?match=8029
+DTSTART:20261126T002500Z
+SUMMARY:E: Takoyaki c. Habsurdes
+UID:ce9af0c12c1b31ff57779664c4c75992
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20261008T022500Z
+SUMMARY:E: Black Mad Squirrels c. Habsurdes
+UID:83ddc4f1260fc345145bdf03c2866f39
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261119T022500Z
+SUMMARY:E: Habsurdes c. TDC
+UID:fd615e88ccb12af3950162c3d77d067e
 END:VEVENT
 END:VCALENDAR

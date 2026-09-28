@@ -4,9 +4,16 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT1H
 LOCATION:CVM-Pal
+DTSTART:20261118T012500Z
+SUMMARY:B: Front de Libération du Cosom c. Scie-Hawks
+UID:fed2d9c2eb16fef8049303f58dda4cd7
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
 DTSTART:20260930T012500Z
 SUMMARY:B: Front de Libération du Cosom c. Scie-Hawks
-UID:f6f06a51cbe21c6192aacf4dba40d145
+UID:b7075329bb150e1c257e1bcae8f726c7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8075
@@ -14,8 +21,15 @@ DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260924T002500Z
 SUMMARY:B: Chuck Norris - 7 c. Front de Libération du Cosom - 5
-UID:f301fd1ab2e50137eeb845ccb76fa006
+UID:dedb5fafec2a02495fbd0c4259699261
 URL:http://www.procosom.com/feuille-pointage.php?match=8075
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261014T002500Z
+SUMMARY:B: Front de Libération du Cosom c. Mêlés Noirs
+UID:65f566695e7c02926d62a5ad8999b648
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8059
@@ -23,8 +37,36 @@ DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260917T022500Z
 SUMMARY:B: Front de Libération du Cosom - 2 c. TDC Sélections - 6
-UID:26933ebab4ce8b72f98cb3f95ff2fb7c
+UID:446c807c994aca553840076e5c991f6a
 URL:http://www.procosom.com/feuille-pointage.php?match=8059
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261022T022500Z
+SUMMARY:B: Front de Libération du Cosom c. Mêlés Noirs
+UID:4403292a1bc0386128779a439cc4e7bd
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20261029T012500Z
+SUMMARY:B: Golden Kales HC c. Front de Libération du Cosom
+UID:53ba628fd4cd7713a908c67eedae4b6d
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20261112T022500Z
+SUMMARY:B: Front de Libération du Cosom c. Golden Kales HC
+UID:6b85abcbb20bae2151a42ae41e15fb1a
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261126T012500Z
+SUMMARY:B: Chuck Norris c. Front de Libération du Cosom
+UID:9365c386067f605302032d4e5fe952b8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8024
@@ -32,7 +74,7 @@ DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260904T022500Z
 SUMMARY:B: Chuck Norris - 8 c. Front de Libération du Cosom - 1
-UID:b6347704352064dfc6c8ba67e17402e3
+UID:777c95a9b151b265e083ebef06511d5b
 URL:http://www.procosom.com/feuille-pointage.php?match=8024
 END:VEVENT
 BEGIN:VEVENT
@@ -43,5 +85,12 @@ DTSTART:20260828T012500Z
 SUMMARY:B: Achigans - 9 c. Front de Libération du Cosom - 2
 UID:951023e2f1e3ebef2935fc4849f244a6
 URL:http://www.procosom.com/feuille-pointage.php?match=8003
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261007T232500Z
+SUMMARY:B: Achigans c. Front de Libération du Cosom
+UID:50a424516062c427a022b22ece531344
 END:VEVENT
 END:VCALENDAR

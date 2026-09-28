@@ -2,31 +2,48 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261127T002500Z
+SUMMARY:A: Jeunes Professionnels c. Chums de Palettes
+UID:d0f2cd10cee7924875e34551a02dce1f
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261015T232500Z
+SUMMARY:A: TTC Club c. Jeunes Professionnels
+UID:977cff5527524b81b3439cfec9c10178
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261023T002500Z
+SUMMARY:A: Golden Kales c. Jeunes Professionnels
+UID:442f94dec86cabfffe744e7f163e3ce7
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261112T012500Z
+SUMMARY:A: Sags c. Jeunes Professionnels
+UID:54fc1b816769744ac7d3f1995199621c
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8086
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260925T022500Z
 SUMMARY:A: TTC Club - 4 c. Jeunes Professionnels - 4
-UID:10af24ee87dd1d739528d396da9ce0e0
+UID:473382c59ba95196672bd74b5b602071
 URL:http://www.procosom.com/feuille-pointage.php?match=8086
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8043
 DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20260911T012500Z
-SUMMARY:A: Jeunes Professionnels - 9 c. Chums de Palettes - 4
-UID:25aae6e7c133f6ff38ad93eebf6d9bc4
-URL:http://www.procosom.com/feuille-pointage.php?match=8043
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8023
-DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20260904T012500Z
-SUMMARY:A: Barking Dogs - 8 c. Jeunes Professionnels - 11
-UID:1ad129178699822a0604a0812f581dee
-URL:http://www.procosom.com/feuille-pointage.php?match=8023
+LOCATION:CVM-Quad-#1
+DTSTART:20261106T012500Z
+SUMMARY:A: Jeunes Professionnels c. Golden Kales
+UID:cb8a57749452efc34ec022bfb48bb8d4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8054
@@ -34,8 +51,40 @@ DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260917T002500Z
 SUMMARY:A: Mouettes - 7 c. Jeunes Professionnels - 5
-UID:ab65daa89f2222762326c26d3edc5b0b
+UID:beb0a69e1c4d3dfa5278d2e7aed68547
 URL:http://www.procosom.com/feuille-pointage.php?match=8054
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8023
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260904T012500Z
+SUMMARY:A: Barking Dogs - 8 c. Jeunes Professionnels - 11
+UID:83b672407302d2d02591341e5d1bc44e
+URL:http://www.procosom.com/feuille-pointage.php?match=8023
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261009T022500Z
+SUMMARY:A: Jeunes Professionnels c. Mighty Ducks
+UID:937ed158cf50e86e3b526fe838e7ef71
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8043
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260911T012500Z
+SUMMARY:A: Jeunes Professionnels - 9 c. Chums de Palettes - 4
+UID:18992b52616e2801f830fea200c88318
+URL:http://www.procosom.com/feuille-pointage.php?match=8043
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261028T232500Z
+SUMMARY:A: Jeunes Professionnels c. Barking Dogs
+UID:82a554513a031772adafaaf983b7b5c6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7992

@@ -2,13 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8043
 DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20260911T012500Z
-SUMMARY:A: Jeunes Professionnels - 9 c. Chums de Palettes - 4
-UID:25aae6e7c133f6ff38ad93eebf6d9bc4
-URL:http://www.procosom.com/feuille-pointage.php?match=8043
+LOCATION:CVM-Quad-#1
+DTSTART:20261127T002500Z
+SUMMARY:A: Jeunes Professionnels c. Chums de Palettes
+UID:d0f2cd10cee7924875e34551a02dce1f
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261007T022500Z
+SUMMARY:A: Chums de Palettes c. Sags
+UID:591ba5ea3f9a633d145b50a0ef919fd7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8017
@@ -16,8 +21,15 @@ DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260903T022500Z
 SUMMARY:A: Chums de Palettes - 1 c. TTC Club - 6
-UID:37a2dd1335e299eca5738962e324ba28
+UID:f999ca42a8115a626cb40711b5c34999
 URL:http://www.procosom.com/feuille-pointage.php?match=8017
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261002T002500Z
+SUMMARY:A: Golden Kales c. Chums de Palettes
+UID:3b49ad3a06ad3a7a234d2098bda20f9f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8057
@@ -25,15 +37,22 @@ DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260917T012500Z
 SUMMARY:A: Chums de Palettes - 2 c. Sags - 3
-UID:a0c7b99c6dd2cd4214ac50aa819f3e3f
+UID:99cee7c5160ccb009f12a52db4f10827
 URL:http://www.procosom.com/feuille-pointage.php?match=8057
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20261002T002500Z
-SUMMARY:A: Golden Kales c. Chums de Palettes
-UID:af65f6a40f5e3a0a849c5280965aa5c7
+LOCATION:CVM-Pal
+DTSTART:20261111T002500Z
+SUMMARY:A: Chums de Palettes c. Mouettes
+UID:ac7775daebccb4f573d250ad6cf40a17
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261020T232500Z
+SUMMARY:A: Mouettes c. Chums de Palettes
+UID:7ea55dc8505be4da1cce3a9e03f8bbca
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7988
@@ -43,5 +62,35 @@ DTSTART:20260826T000500Z
 SUMMARY:A: Chums de Palettes - 4 c. Barking Dogs - 2
 UID:60b1ebc4efcadba728d3f5f0f13d2c7b
 URL:http://www.procosom.com/feuille-pointage.php?match=7988
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261119T032500Z
+SUMMARY:A: Chums de Palettes c. Barking Dogs
+UID:3a2d274ead825901d29cb98691803140
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20261028T232500Z
+SUMMARY:A: TTC Club c. Chums de Palettes
+UID:8811b8d81b73031db43c724a78562c1e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8043
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20260911T012500Z
+SUMMARY:A: Jeunes Professionnels - 9 c. Chums de Palettes - 4
+UID:18992b52616e2801f830fea200c88318
+URL:http://www.procosom.com/feuille-pointage.php?match=8043
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261105T012500Z
+SUMMARY:A: Mighty Ducks c. Chums de Palettes
+UID:79cc01813172108e813d693315f43932
 END:VEVENT
 END:VCALENDAR
