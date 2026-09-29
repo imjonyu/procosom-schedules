@@ -30,6 +30,13 @@ SUMMARY:D: Trappeurs c. Möder de Jötunn
 UID:2c055210a0d4e2f39a2c05d607a3a421
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260929T232500Z
+SUMMARY:D: Trappeurs c. Sauce AC
+UID:7d5ed2ac220c3daf13bb0bb3916d950a
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8038
 DURATION:PT1H
 LOCATION:CVM-Pal
@@ -37,13 +44,6 @@ DTSTART:20260910T022500Z
 SUMMARY:D: Trappeurs - 4 c. Coyotes Urbains - 5
 UID:97c6019e9036c4ec10e41d55e4c6489c
 URL:http://www.procosom.com/feuille-pointage.php?match=8038
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20260929T232500Z
-SUMMARY:D: Trappeurs c. Sauce AC
-UID:d7b90aa8aaa0559a1125b07e4abd83ed
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8080
