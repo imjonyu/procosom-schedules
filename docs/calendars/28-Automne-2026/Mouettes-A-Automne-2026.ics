@@ -11,13 +11,6 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
-DTSTART:20260930T012500Z
-SUMMARY:A: Barking Dogs c. Mouettes
-UID:c17e193826adbc2fae9f50cf5651d499
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
 DTSTART:20261008T012500Z
 SUMMARY:A: Mouettes c. TTC Club
 UID:a4452d278d9bf78eceba201563039e75
@@ -92,5 +85,14 @@ DTSTART:20260924T022500Z
 SUMMARY:A: Mighty Ducks - 5 c. Mouettes - 4
 UID:5d4f886c534d973b3c2413c9af1d0ae0
 URL:http://www.procosom.com/feuille-pointage.php?match=8079
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8094
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260930T012500Z
+SUMMARY:A: Barking Dogs - 5 c. Mouettes - 6
+UID:7c5ccc5c40e5a34bcff7efa84be7c209
+URL:http://www.procosom.com/feuille-pointage.php?match=8094
 END:VEVENT
 END:VCALENDAR

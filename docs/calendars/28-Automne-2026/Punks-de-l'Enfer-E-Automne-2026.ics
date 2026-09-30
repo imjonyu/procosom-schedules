@@ -4,13 +4,6 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
-DTSTART:20260930T022500Z
-SUMMARY:E: Punks de l'Enfer c. Black Mad Squirrels
-UID:4e65972a856cdbfdb6c1c4dc7140204f
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
 DTSTART:20261104T032500Z
 SUMMARY:E: Invincibles c. Punks de l'Enfer
 UID:9dd702f9b4c812466ccb2c001b184429
@@ -30,6 +23,15 @@ DTSTART:20260825T230500Z
 SUMMARY:E: Punks de l'Enfer - 0 c. Grouin Grouin - 10
 UID:6dc1f0a0a0601d6342f8a8851f5d251b
 URL:http://www.procosom.com/feuille-pointage.php?match=7986
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8093
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260930T022500Z
+SUMMARY:E: Punks de l'Enfer - 3 c. Black Mad Squirrels - 4
+UID:235cda2884db91305aa3243e65c8a2af
+URL:http://www.procosom.com/feuille-pointage.php?match=8093
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8025

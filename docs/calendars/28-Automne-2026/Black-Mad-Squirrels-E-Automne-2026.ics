@@ -3,13 +3,6 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20260930T022500Z
-SUMMARY:E: Punks de l'Enfer c. Black Mad Squirrels
-UID:4e65972a856cdbfdb6c1c4dc7140204f
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261118T022500Z
 SUMMARY:E: Invincibles c. Black Mad Squirrels
@@ -37,6 +30,15 @@ LOCATION:CVM-Quad-#3
 DTSTART:20261105T032500Z
 SUMMARY:E: Black Mad Squirrels c. Habsurdes
 UID:eac775d32fd3fd030918173ae157b3a9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8093
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260930T022500Z
+SUMMARY:E: Punks de l'Enfer - 3 c. Black Mad Squirrels - 4
+UID:235cda2884db91305aa3243e65c8a2af
+URL:http://www.procosom.com/feuille-pointage.php?match=8093
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

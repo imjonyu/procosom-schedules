@@ -9,11 +9,13 @@ SUMMARY:B: Front de Libération du Cosom c. Scie-Hawks
 UID:fed2d9c2eb16fef8049303f58dda4cd7
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8092
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260930T012500Z
-SUMMARY:B: Front de Libération du Cosom c. Scie-Hawks
+SUMMARY:B: Front de Libération du Cosom - 3 c. Scie-Hawks - 9
 UID:b7075329bb150e1c257e1bcae8f726c7
+URL:http://www.procosom.com/feuille-pointage.php?match=8092
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8075

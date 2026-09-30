@@ -2,6 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8089
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20260930T002500Z
+SUMMARY:E: Grouin Grouin - 5 c. Cougars - 2
+UID:58c88919f9030a63c59e6b7bab93c4ef
+URL:http://www.procosom.com/feuille-pointage.php?match=8089
+END:VEVENT
+BEGIN:VEVENT
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261105T002500Z
@@ -55,13 +64,6 @@ DTSTART:20260916T000500Z
 SUMMARY:E: Invincibles - 3 c. Cougars - 8
 UID:d35f24d0bdaf81b3e257d38ad41af79b
 URL:http://www.procosom.com/feuille-pointage.php?match=8047
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20260930T002500Z
-SUMMARY:E: Grouin Grouin c. Cougars
-UID:43138b0101efe341549cc493cf1206ec
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

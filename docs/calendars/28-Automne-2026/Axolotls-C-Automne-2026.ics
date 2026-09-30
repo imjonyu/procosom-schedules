@@ -87,10 +87,12 @@ SUMMARY:C: Axolotls c. Ballebuzards
 UID:0850f5ac7e7007007160915041acee0c
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8090
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20260930T002500Z
-SUMMARY:C: Axolotls c. CocoCrazys
+SUMMARY:C: Axolotls - 3 c. CocoCrazys - 8
 UID:e946115fed14eb3b6bafba76b6af2094
+URL:http://www.procosom.com/feuille-pointage.php?match=8090
 END:VEVENT
 END:VCALENDAR
