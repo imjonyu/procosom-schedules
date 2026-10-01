@@ -9,11 +9,13 @@ SUMMARY:D: Möder de Jötunn c. Coyotes Urbains
 UID:dacdf1387b6bb0051037b372a2f76fa6
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8101
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261001T022500Z
-SUMMARY:D: LumberJack c. Möder de Jötunn
+SUMMARY:D: LumberJack - 6 c. Möder de Jötunn - 8
 UID:17a35dd20ad260640e27b4663d04f244
+URL:http://www.procosom.com/feuille-pointage.php?match=8101
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

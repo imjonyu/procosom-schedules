@@ -25,11 +25,13 @@ SUMMARY:A: Chums de Palettes c. Sags
 UID:591ba5ea3f9a633d145b50a0ef919fd7
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8100
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20261001T012500Z
-SUMMARY:A: Sags c. Mighty Ducks
+SUMMARY:A: Sags - 1 c. Mighty Ducks - 3
 UID:3ce23988f14eba1ab7d806b2d66e49c2
+URL:http://www.procosom.com/feuille-pointage.php?match=8100
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8013

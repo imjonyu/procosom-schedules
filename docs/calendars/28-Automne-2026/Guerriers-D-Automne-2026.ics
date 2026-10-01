@@ -18,11 +18,13 @@ SUMMARY:D: Guerriers c. Wolfpack
 UID:31345916f735abe20db4844f91c23b95
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8102
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20261001T022500Z
-SUMMARY:D: P'tite Ékip c. Guerriers
+SUMMARY:D: P'tite Ékip - 11 c. Guerriers - 3
 UID:2c4fc0a8048ba6a2cc42869eb3b57598
+URL:http://www.procosom.com/feuille-pointage.php?match=8102
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

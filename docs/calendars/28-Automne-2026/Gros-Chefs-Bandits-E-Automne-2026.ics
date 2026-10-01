@@ -80,11 +80,13 @@ SUMMARY:E: Black Mad Squirrels c. Gros Chefs Bandits
 UID:2867235fd7b5cc9d122c59acb8f30b8c
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8098
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20261001T002500Z
-SUMMARY:E: TDC c. Gros Chefs Bandits
+SUMMARY:E: TDC - 1 c. Gros Chefs Bandits - 0
 UID:903bab1993ff7f384dc15ee4d8ff18c9
+URL:http://www.procosom.com/feuille-pointage.php?match=8098
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

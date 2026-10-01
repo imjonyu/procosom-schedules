@@ -71,11 +71,13 @@ SUMMARY:C: Goats c. Tribunal
 UID:ed2460cc944bb083f89f930b2af0dbe3
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8097
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261001T002500Z
-SUMMARY:C: Gros Matous c. Tribunal
+SUMMARY:C: Gros Matous - 3 c. Tribunal - 6
 UID:61b40e695f2c3ef0763eff47bdf1e02e
+URL:http://www.procosom.com/feuille-pointage.php?match=8097
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7995

@@ -87,10 +87,12 @@ UID:86d0431abb6e590dced93cb032ea4e0d
 URL:http://www.procosom.com/feuille-pointage.php?match=8052
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8095
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20260930T232500Z
-SUMMARY:D: Coyotes Urbains c. Pylons
+SUMMARY:D: Coyotes Urbains - 8 c. Pylons - 5
 UID:e8489f7f2936013cc0e251234ce32370
+URL:http://www.procosom.com/feuille-pointage.php?match=8095
 END:VEVENT
 END:VCALENDAR

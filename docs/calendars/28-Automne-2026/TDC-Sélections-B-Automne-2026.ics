@@ -87,10 +87,12 @@ SUMMARY:B: TDC Sélections c. Chuck Norris
 UID:a85d8e3f55957148f7878eb5db73133e
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8096
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20260930T232500Z
-SUMMARY:B: Mêlés Noirs c. TDC Sélections
+SUMMARY:B: Mêlés Noirs - 3 c. TDC Sélections - 5
 UID:93b9dceb5685113dbf373ddb83cd14e3
+URL:http://www.procosom.com/feuille-pointage.php?match=8096
 END:VEVENT
 END:VCALENDAR

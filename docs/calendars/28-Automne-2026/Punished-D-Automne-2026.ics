@@ -50,11 +50,13 @@ UID:4edab24b7639dc13ba6a0994e5a6f3c1
 URL:http://www.procosom.com/feuille-pointage.php?match=8080
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8099
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261001T012500Z
-SUMMARY:D: Tinderellas c. Punished
+SUMMARY:D: Tinderellas - 5 c. Punished - 6
 UID:3bf3014f153b9cfe7eb331541ce0ece7
+URL:http://www.procosom.com/feuille-pointage.php?match=8099
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
