@@ -43,11 +43,13 @@ SUMMARY:D: Guerriers c. Wolfpack
 UID:31345916f735abe20db4844f91c23b95
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8105
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261002T002500Z
-SUMMARY:D: Wolfpack c. Top Shotta 2.0
+SUMMARY:D: Wolfpack - 2 c. Top Shotta 2.0 - 5
 UID:39b2d5e290472677b5feda9d452cd87b
+URL:http://www.procosom.com/feuille-pointage.php?match=8105
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

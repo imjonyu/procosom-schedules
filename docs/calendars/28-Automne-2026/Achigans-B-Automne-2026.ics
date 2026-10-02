@@ -30,11 +30,13 @@ SUMMARY:B: Scie-Hawks c. Achigans
 UID:357bf28d9f1f4c29d208e6d1071b47ef
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8103
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261001T232500Z
-SUMMARY:B: Golden Kales HC c. Achigans
+SUMMARY:B: Golden Kales HC - 6 c. Achigans - 5
 UID:08c7d84749bd44916889325caf42be33
+URL:http://www.procosom.com/feuille-pointage.php?match=8103
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8003

@@ -25,11 +25,13 @@ SUMMARY:D: Top Shotta 2.0 c. P'tite Ékip
 UID:2c50fd186b7d97c21e8e00194ab602dd
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8105
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261002T002500Z
-SUMMARY:D: Wolfpack c. Top Shotta 2.0
+SUMMARY:D: Wolfpack - 2 c. Top Shotta 2.0 - 5
 UID:39b2d5e290472677b5feda9d452cd87b
+URL:http://www.procosom.com/feuille-pointage.php?match=8105
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

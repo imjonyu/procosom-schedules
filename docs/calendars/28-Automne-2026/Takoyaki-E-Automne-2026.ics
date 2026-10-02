@@ -62,11 +62,13 @@ SUMMARY:E: Grainezky c. Takoyaki
 UID:3fdba1e4aa255124aec9c74c62513e0f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8106
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261002T012500Z
-SUMMARY:E: Grainezky c. Takoyaki
+SUMMARY:E: Grainezky - 1 c. Takoyaki - 2
 UID:dab29f430c71b9b2ad57ace94ea9a006
+URL:http://www.procosom.com/feuille-pointage.php?match=8106
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8064

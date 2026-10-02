@@ -11,11 +11,13 @@ UID:ec8afde54a8990fe8c43ddd315f33b7b
 URL:http://www.procosom.com/feuille-pointage.php?match=8013
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8104
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261002T002500Z
-SUMMARY:A: Golden Kales c. Chums de Palettes
+SUMMARY:A: Golden Kales - 6 c. Chums de Palettes - 0
 UID:3b49ad3a06ad3a7a234d2098bda20f9f
+URL:http://www.procosom.com/feuille-pointage.php?match=8104
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

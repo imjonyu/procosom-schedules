@@ -11,11 +11,13 @@ UID:3e426ce61bfc5af517f0721813d672f8
 URL:http://www.procosom.com/feuille-pointage.php?match=7996
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8107
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261002T012500Z
-SUMMARY:C: Evil Sticks c. Goats
+SUMMARY:C: Evil Sticks - 2 c. Goats - 6
 UID:d104e891b4129b08122fe20335268ea3
+URL:http://www.procosom.com/feuille-pointage.php?match=8107
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8049
