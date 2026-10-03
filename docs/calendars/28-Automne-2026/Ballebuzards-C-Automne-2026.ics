@@ -57,15 +57,6 @@ SUMMARY:C: Ballebuzards c. Jagrbombs
 UID:5752d5df9986318adc3e9a5d7f8763bd
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8108
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20261002T022500Z
-SUMMARY:C: Jagrbombs - 3 c. Ballebuzards - 5
-UID:df473ea5d347954c810cd1747ec28e71
-URL:http://www.procosom.com/feuille-pointage.php?match=8108
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8048
 DURATION:PT1H
 LOCATION:CVM-Pal
@@ -87,6 +78,15 @@ LOCATION:CVM-Quad-#1
 DTSTART:20261127T022500Z
 SUMMARY:C: Axolotls c. Ballebuzards
 UID:0850f5ac7e7007007160915041acee0c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8108
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261002T022500Z
+SUMMARY:C: Jagrbombs - 3 c. Ballebuzards - 5
+UID:8b8a12d88850a008b4703c5d18993933
+URL:http://www.procosom.com/feuille-pointage.php?match=8108
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
