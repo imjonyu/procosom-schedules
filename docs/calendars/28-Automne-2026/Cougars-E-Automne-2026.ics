@@ -89,10 +89,12 @@ SUMMARY:E: Cougars c. Invincibles
 UID:9b991ee7b7588af8452dedcc2a910bfb
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8114
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261007T012500Z
-SUMMARY:E: Cougars c. Grainezky
+SUMMARY:E: Cougars - 0 c. Grainezky - 5
 UID:4faf25328ce37ddd8c37c3ecaa55003f
+URL:http://www.procosom.com/feuille-pointage.php?match=8114
 END:VEVENT
 END:VCALENDAR

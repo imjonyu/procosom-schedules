@@ -68,11 +68,13 @@ UID:6dc1f0a0a0601d6342f8a8851f5d251b
 URL:http://www.procosom.com/feuille-pointage.php?match=7986
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8111
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261007T002500Z
-SUMMARY:E: Invincibles c. Grouin Grouin
+SUMMARY:E: Invincibles - 0 c. Grouin Grouin - 8
 UID:eadbbf1d3cded115ae82b36daac42fd1
+URL:http://www.procosom.com/feuille-pointage.php?match=8111
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

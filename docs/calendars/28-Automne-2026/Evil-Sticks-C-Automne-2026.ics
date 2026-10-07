@@ -48,11 +48,13 @@ SUMMARY:C: Ballebuzards c. Evil Sticks
 UID:a0c7557726160087aca6b64209fa6c04
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8112
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261007T002500Z
-SUMMARY:C: Momentums c. Evil Sticks
+SUMMARY:C: Momentums - 6 c. Evil Sticks - 2
 UID:d2145456ffdf25210091067bfd9b1e14
+URL:http://www.procosom.com/feuille-pointage.php?match=8112
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8062

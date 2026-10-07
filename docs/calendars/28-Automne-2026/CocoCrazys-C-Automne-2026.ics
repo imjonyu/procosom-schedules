@@ -73,11 +73,13 @@ SUMMARY:C: CocoCrazys c. Présidents
 UID:99d80053f16b08ff44c8a3b567e22b62
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8109
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261006T232500Z
-SUMMARY:C: Ballebuzards c. CocoCrazys
+SUMMARY:C: Ballebuzards - 2 c. CocoCrazys - 2
 UID:83bad0db3dbc1689d72a6a0c6ebd8c97
+URL:http://www.procosom.com/feuille-pointage.php?match=8109
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

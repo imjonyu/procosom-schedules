@@ -89,10 +89,12 @@ UID:8b8a12d88850a008b4703c5d18993933
 URL:http://www.procosom.com/feuille-pointage.php?match=8108
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8109
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261006T232500Z
-SUMMARY:C: Ballebuzards c. CocoCrazys
+SUMMARY:C: Ballebuzards - 2 c. CocoCrazys - 2
 UID:83bad0db3dbc1689d72a6a0c6ebd8c97
+URL:http://www.procosom.com/feuille-pointage.php?match=8109
 END:VEVENT
 END:VCALENDAR

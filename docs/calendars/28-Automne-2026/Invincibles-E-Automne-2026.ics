@@ -57,11 +57,13 @@ SUMMARY:E: Invincibles c. Black Mad Squirrels
 UID:d45ee15c5431f011f1719fffaf1d8373
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8111
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261007T002500Z
-SUMMARY:E: Invincibles c. Grouin Grouin
+SUMMARY:E: Invincibles - 0 c. Grouin Grouin - 8
 UID:eadbbf1d3cded115ae82b36daac42fd1
+URL:http://www.procosom.com/feuille-pointage.php?match=8111
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8047

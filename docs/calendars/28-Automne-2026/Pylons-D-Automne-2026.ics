@@ -46,11 +46,13 @@ SUMMARY:D: Pylons c. Möder de Jötunn
 UID:a96ccaa619c1f920c3df766ffca5c4a4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8110
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261006T232500Z
-SUMMARY:D: Pylons c. Sauce AC
+SUMMARY:D: Pylons - 10 c. Sauce AC - 9
 UID:90b270e8ef2db9b70b9a989b691d86e5
+URL:http://www.procosom.com/feuille-pointage.php?match=8110
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8030

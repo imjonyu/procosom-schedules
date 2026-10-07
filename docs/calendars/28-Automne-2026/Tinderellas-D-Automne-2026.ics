@@ -23,11 +23,13 @@ SUMMARY:D: LumberJack c. Tinderellas
 UID:2ec7b4b41a7284c2e6afd350d5b6f461
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8113
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261007T012500Z
-SUMMARY:D: Guerriers c. Tinderellas
+SUMMARY:D: Guerriers - 4 c. Tinderellas - 6
 UID:452542f12cde30eef3d107e0a01fd2ca
+URL:http://www.procosom.com/feuille-pointage.php?match=8113
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8004
