@@ -32,11 +32,13 @@ SUMMARY:E: Gros Chefs Bandits c. Grainezky
 UID:a5d031509fc338d1b7006e2cbff8ca23
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8121
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20261008T012500Z
-SUMMARY:E: Gros Chefs Bandits c. TDC
+SUMMARY:E: Gros Chefs Bandits - 0 c. TDC - 6
 UID:3032301850c66ad6973337ec5452c234
+URL:http://www.procosom.com/feuille-pointage.php?match=8121
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

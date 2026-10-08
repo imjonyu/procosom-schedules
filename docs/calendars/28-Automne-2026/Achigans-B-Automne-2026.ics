@@ -89,10 +89,12 @@ UID:5d0671be3e8c28d8d4c74edf9226e8a9
 URL:http://www.procosom.com/feuille-pointage.php?match=8074
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8116
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261007T232500Z
-SUMMARY:B: Achigans c. Front de Libération du Cosom
+SUMMARY:B: Achigans - 3 c. Front de Libération du Cosom - 2
 UID:50a424516062c427a022b22ece531344
+URL:http://www.procosom.com/feuille-pointage.php?match=8116
 END:VEVENT
 END:VCALENDAR

@@ -39,11 +39,13 @@ UID:a030bde256cdbd608b88f4cd6e172de8
 URL:http://www.procosom.com/feuille-pointage.php?match=8009
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8119
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20261008T002500Z
-SUMMARY:D: P'tite Ékip c. Coyotes Urbains
+SUMMARY:D: P'tite Ékip - 5 c. Coyotes Urbains - 2
 UID:a5d3375b93d2517d780b29e2058b61a8
+URL:http://www.procosom.com/feuille-pointage.php?match=8119
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8076

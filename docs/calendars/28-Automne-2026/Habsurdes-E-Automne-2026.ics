@@ -84,11 +84,13 @@ SUMMARY:E: Takoyaki c. Habsurdes
 UID:ce9af0c12c1b31ff57779664c4c75992
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8123
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20261008T022500Z
-SUMMARY:E: Black Mad Squirrels c. Habsurdes
+SUMMARY:E: Black Mad Squirrels - 4 c. Habsurdes - 4
 UID:83ddc4f1260fc345145bdf03c2866f39
+URL:http://www.procosom.com/feuille-pointage.php?match=8123
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

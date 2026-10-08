@@ -9,11 +9,13 @@ SUMMARY:A: Mouettes c. Sags
 UID:3da92845377e43410cec892070041608
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8120
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261008T012500Z
-SUMMARY:A: Mouettes c. TTC Club
+SUMMARY:A: Mouettes - 0 c. TTC Club - 4
 UID:a4452d278d9bf78eceba201563039e75
+URL:http://www.procosom.com/feuille-pointage.php?match=8120
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

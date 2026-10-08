@@ -16,11 +16,13 @@ SUMMARY:D: Pylons c. Trappeurs
 UID:03f5cccedfb19864c82e719fb1fd90d1
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8118
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261008T002500Z
-SUMMARY:D: Top Shotta 2.0 c. Trappeurs
+SUMMARY:D: Top Shotta 2.0 - 3 c. Trappeurs - 4
 UID:eec04dc60de239ef02cf616233512ad8
+URL:http://www.procosom.com/feuille-pointage.php?match=8118
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

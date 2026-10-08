@@ -25,11 +25,13 @@ SUMMARY:D: Trappeurs c. LumberJack
 UID:864f5fe8e7825a9954c94aed77da69ff
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8122
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261008T022500Z
-SUMMARY:D: Möder de Jötunn c. LumberJack
+SUMMARY:D: Möder de Jötunn - 6 c. LumberJack - 3
 UID:ba01ff50501ce5c7f00c855082c0497e
+URL:http://www.procosom.com/feuille-pointage.php?match=8122
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
