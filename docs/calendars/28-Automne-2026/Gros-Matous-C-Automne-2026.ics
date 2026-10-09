@@ -57,11 +57,13 @@ SUMMARY:C: Evil Sticks c. Gros Matous
 UID:c3f0f2605a4b701b041849f227f2a626
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8125
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261009T002500Z
-SUMMARY:C: Gros Matous c. Présidents
+SUMMARY:C: Gros Matous - 5 c. Présidents - 4
 UID:e901077aab2f3195dceb9998367d0783
+URL:http://www.procosom.com/feuille-pointage.php?match=8125
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

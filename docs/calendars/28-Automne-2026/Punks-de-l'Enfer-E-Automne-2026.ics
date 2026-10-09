@@ -9,11 +9,13 @@ SUMMARY:E: Invincibles c. Punks de l'Enfer
 UID:9dd702f9b4c812466ccb2c001b184429
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8128
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261009T012500Z
-SUMMARY:E: Takoyaki c. Punks de l'Enfer
+SUMMARY:E: Takoyaki - 5 c. Punks de l'Enfer - 2
 UID:32db764218b2e1421945a3ccff6f132f
+URL:http://www.procosom.com/feuille-pointage.php?match=8128
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7986

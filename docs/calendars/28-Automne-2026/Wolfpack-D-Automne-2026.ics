@@ -52,11 +52,13 @@ UID:39b2d5e290472677b5feda9d452cd87b
 URL:http://www.procosom.com/feuille-pointage.php?match=8105
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8127
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261009T012500Z
-SUMMARY:D: Punished c. Wolfpack
+SUMMARY:D: Punished - 4 c. Wolfpack - 4
 UID:5cceffc17db0ae3eb035a8bcd4a9e1b6
+URL:http://www.procosom.com/feuille-pointage.php?match=8127
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

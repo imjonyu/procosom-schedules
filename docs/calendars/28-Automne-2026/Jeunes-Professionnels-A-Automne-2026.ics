@@ -64,11 +64,13 @@ UID:83b672407302d2d02591341e5d1bc44e
 URL:http://www.procosom.com/feuille-pointage.php?match=8023
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8129
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261009T022500Z
-SUMMARY:A: Jeunes Professionnels c. Mighty Ducks
+SUMMARY:A: Jeunes Professionnels - 5 c. Mighty Ducks - 5
 UID:937ed158cf50e86e3b526fe838e7ef71
+URL:http://www.procosom.com/feuille-pointage.php?match=8129
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8043

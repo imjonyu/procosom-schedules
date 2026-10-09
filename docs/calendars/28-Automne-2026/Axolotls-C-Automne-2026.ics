@@ -9,11 +9,13 @@ SUMMARY:C: Jagrbombs c. Axolotls
 UID:9d700d41460c117dc7ac85201161f1a9
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8126
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261009T002500Z
-SUMMARY:C: Tribunal c. Axolotls
+SUMMARY:C: Tribunal - 7 c. Axolotls - 3
 UID:5d3e6199dc3ce591f5f2dc992bd00921
+URL:http://www.procosom.com/feuille-pointage.php?match=8126
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

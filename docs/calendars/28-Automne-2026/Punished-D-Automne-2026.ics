@@ -34,11 +34,13 @@ SUMMARY:D: LumberJack c. Punished
 UID:42e71af2e7318492cc9831fcbb789b25
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8127
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261009T012500Z
-SUMMARY:D: Punished c. Wolfpack
+SUMMARY:D: Punished - 4 c. Wolfpack - 4
 UID:5cceffc17db0ae3eb035a8bcd4a9e1b6
+URL:http://www.procosom.com/feuille-pointage.php?match=8127
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8080
