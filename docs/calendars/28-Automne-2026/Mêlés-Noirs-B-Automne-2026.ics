@@ -32,11 +32,13 @@ SUMMARY:B: Chuck Norris c. Mêlés Noirs
 UID:3705f4d74fccd72409ecd4a4e98477f4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8133
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261014T002500Z
-SUMMARY:B: Front de Libération du Cosom c. Mêlés Noirs
+SUMMARY:B: Front de Libération du Cosom - 1 c. Mêlés Noirs - 2
 UID:65f566695e7c02926d62a5ad8999b648
+URL:http://www.procosom.com/feuille-pointage.php?match=8133
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

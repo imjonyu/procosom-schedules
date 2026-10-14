@@ -48,11 +48,13 @@ SUMMARY:A: Barking Dogs c. Sags
 UID:f47d43adbf622b203d47248c7a3a00d6
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8136
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261014T022500Z
-SUMMARY:A: Barking Dogs c. Mouettes
+SUMMARY:A: Barking Dogs - 2 c. Mouettes - 4
 UID:c310e2262fd3bab94eea7cf50caf8969
+URL:http://www.procosom.com/feuille-pointage.php?match=8136
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7988

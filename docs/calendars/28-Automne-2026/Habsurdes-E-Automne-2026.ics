@@ -70,11 +70,13 @@ UID:7a5dacfd4a976d1c6852dfdba95660e7
 URL:http://www.procosom.com/feuille-pointage.php?match=8088
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8131
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261013T232500Z
-SUMMARY:E: Habsurdes c. Punks de l'Enfer
+SUMMARY:E: Habsurdes - 3 c. Punks de l'Enfer - 5
 UID:408b6763053612e3f1cbb34e6301beeb
+URL:http://www.procosom.com/feuille-pointage.php?match=8131
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

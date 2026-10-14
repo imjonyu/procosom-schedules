@@ -66,11 +66,13 @@ SUMMARY:D: Möder de Jötunn c. Punished
 UID:6db069956b6f728b2a9eb2c9c104d6f3
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8134
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261014T012500Z
-SUMMARY:D: Guerriers c. Möder de Jötunn
+SUMMARY:D: Guerriers - 4 c. Möder de Jötunn - 5
 UID:92d065c48ec74ce3eba64539cf70cef4
+URL:http://www.procosom.com/feuille-pointage.php?match=8134
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

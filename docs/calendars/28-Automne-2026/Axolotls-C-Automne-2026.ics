@@ -75,11 +75,13 @@ UID:54649ffb168894b63ab4e7566be3a2c1
 URL:http://www.procosom.com/feuille-pointage.php?match=8062
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8135
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261014T012500Z
-SUMMARY:C: Axolotls c. Ballebuzards
+SUMMARY:C: Axolotls - 2 c. Ballebuzards - 4
 UID:ef13de5f4d665cd082c519d50ee643c0
+URL:http://www.procosom.com/feuille-pointage.php?match=8135
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

@@ -50,11 +50,13 @@ SUMMARY:E: Grouin Grouin c. Cougars
 UID:8231b63d114574026e63da69bee6ac2c
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8132
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261014T002500Z
-SUMMARY:E: Cougars c. Black Mad Squirrels
+SUMMARY:E: Cougars - 3 c. Black Mad Squirrels - 4
 UID:3fe4dd85dc9e085208b9c735da329902
+URL:http://www.procosom.com/feuille-pointage.php?match=8132
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8047
