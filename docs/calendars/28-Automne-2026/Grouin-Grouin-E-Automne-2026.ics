@@ -2,11 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8139
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261015T002500Z
-SUMMARY:E: TDC c. Grouin Grouin
+SUMMARY:E: TDC - 3 c. Grouin Grouin - 5
 UID:893120fdeffb40d06c6a8c2b7a05f3d6
+URL:http://www.procosom.com/feuille-pointage.php?match=8139
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8008

@@ -2,11 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8142
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20261015T012500Z
-SUMMARY:D: Wolfpack c. Sauce AC
+SUMMARY:D: Wolfpack - 5 c. Sauce AC - 3
 UID:0869fd557de27eb32d894d1fba301a3d
+URL:http://www.procosom.com/feuille-pointage.php?match=8142
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
