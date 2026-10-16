@@ -64,11 +64,13 @@ UID:2abbce5d8a27090ad80f01f030d02229
 URL:http://www.procosom.com/feuille-pointage.php?match=8030
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8144
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20261015T022500Z
-SUMMARY:D: Punished c. Pylons
+SUMMARY:D: Punished - 11 c. Pylons - 4
 UID:9611c276c600690df79e25d91ec95839
+URL:http://www.procosom.com/feuille-pointage.php?match=8144
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7989

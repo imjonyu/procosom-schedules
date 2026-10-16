@@ -50,11 +50,13 @@ SUMMARY:C: CocoCrazys c. Evil Sticks
 UID:0d2f9f9d33cbae4dc93730c77ba5acd4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8137
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261014T232500Z
-SUMMARY:C: CocoCrazys c. Tribunal
+SUMMARY:C: CocoCrazys - 5 c. Tribunal - 1
 UID:7cc2d187bcfdf4c1e08ad37c025b2d79
+URL:http://www.procosom.com/feuille-pointage.php?match=8137
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8067

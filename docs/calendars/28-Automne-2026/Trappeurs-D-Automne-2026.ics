@@ -82,11 +82,13 @@ UID:fd96034d39cf67c095c721a0566dc8e8
 URL:http://www.procosom.com/feuille-pointage.php?match=8050
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8148
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261016T012500Z
-SUMMARY:D: Trappeurs c. Tinderellas
+SUMMARY:D: Trappeurs - 6 c. Tinderellas - 1
 UID:6c471e50368e90a2cab7169d9bbf5108
+URL:http://www.procosom.com/feuille-pointage.php?match=8148
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8087

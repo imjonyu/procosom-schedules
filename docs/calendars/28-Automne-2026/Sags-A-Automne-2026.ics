@@ -61,11 +61,13 @@ UID:99cee7c5160ccb009f12a52db4f10827
 URL:http://www.procosom.com/feuille-pointage.php?match=8057
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8140
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20261015T002500Z
-SUMMARY:A: Sags c. Golden Kales
+SUMMARY:A: Sags - 4 c. Golden Kales - 3
 UID:bfd904ef687e09845d509174e677d96f
+URL:http://www.procosom.com/feuille-pointage.php?match=8140
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

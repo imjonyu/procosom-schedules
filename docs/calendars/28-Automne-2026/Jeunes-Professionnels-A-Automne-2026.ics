@@ -9,11 +9,13 @@ SUMMARY:A: Jeunes Professionnels c. Chums de Palettes
 UID:d0f2cd10cee7924875e34551a02dce1f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8145
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261015T232500Z
-SUMMARY:A: TTC Club c. Jeunes Professionnels
+SUMMARY:A: TTC Club - 0 c. Jeunes Professionnels - 6
 UID:977cff5527524b81b3439cfec9c10178
+URL:http://www.procosom.com/feuille-pointage.php?match=8145
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

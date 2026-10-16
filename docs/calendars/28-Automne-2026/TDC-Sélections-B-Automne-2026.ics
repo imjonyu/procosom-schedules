@@ -11,11 +11,13 @@ UID:ae12fd0ff874cef215edb10624cf2d00
 URL:http://www.procosom.com/feuille-pointage.php?match=8081
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8149
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261016T012500Z
-SUMMARY:B: Scie-Hawks c. TDC Sélections
+SUMMARY:B: Scie-Hawks - 8 c. TDC Sélections - 10
 UID:35695dcd75d46d202885b522dec00708
+URL:http://www.procosom.com/feuille-pointage.php?match=8149
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

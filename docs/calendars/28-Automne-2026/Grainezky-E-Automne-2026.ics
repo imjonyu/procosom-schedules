@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20261120T032500Z
-SUMMARY:E: Grainezky c. Takoyaki
-UID:18b0a5d1dbf6982816ec66b5e3ab8218
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8008
 DURATION:PT1H
 LOCATION:CVM-Pal
@@ -41,6 +34,13 @@ SUMMARY:E: Black Mad Squirrels c. Grainezky
 UID:9adfe75d794f86da5bd3d4119b5d9171
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261120T032500Z
+SUMMARY:E: Grainezky c. Takoyaki
+UID:244485ae12b42f05d309ba4db693b8f5
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8025
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -59,11 +59,13 @@ UID:dab29f430c71b9b2ad57ace94ea9a006
 URL:http://www.procosom.com/feuille-pointage.php?match=8106
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8150
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261016T022500Z
-SUMMARY:E: Grainezky c. Takoyaki
+SUMMARY:E: Grainezky - 2 c. Takoyaki - 4
 UID:3fdba1e4aa255124aec9c74c62513e0f
+URL:http://www.procosom.com/feuille-pointage.php?match=8150
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

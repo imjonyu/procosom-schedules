@@ -2,11 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8142
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20261015T012500Z
-SUMMARY:D: Wolfpack c. Sauce AC
+SUMMARY:D: Wolfpack - 5 c. Sauce AC - 3
 UID:0869fd557de27eb32d894d1fba301a3d
+URL:http://www.procosom.com/feuille-pointage.php?match=8142
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
@@ -84,6 +86,13 @@ UID:7554e7fba1b7b813788425db017b1e81
 URL:http://www.procosom.com/feuille-pointage.php?match=8040
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261120T012500Z
+SUMMARY:D: Wolfpack c. Top Shotta 2.0
+UID:7fcf3f98ea34c3dea8ffffe5edeea13b
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8001
 DURATION:PT1H
 LOCATION:CVM-Pal
@@ -91,12 +100,5 @@ DTSTART:20260828T002500Z
 SUMMARY:D: Wolfpack - 6 c. LumberJack - 3
 UID:98a21a432ff0725a912885e3cb09187e
 URL:http://www.procosom.com/feuille-pointage.php?match=8001
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20261120T012500Z
-SUMMARY:D: Wolfpack c. Top Shotta 2.0
-UID:d4f29d641d41a092daf036efe9d5e6e3
 END:VEVENT
 END:VCALENDAR

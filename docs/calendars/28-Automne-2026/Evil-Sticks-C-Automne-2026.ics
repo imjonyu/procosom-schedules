@@ -20,13 +20,6 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
-DTSTART:20261120T022500Z
-SUMMARY:C: Evil Sticks c. Gros Matous
-UID:c3f0f2605a4b701b041849f227f2a626
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
 DTSTART:20261023T022500Z
 SUMMARY:C: Jagrbombs c. Evil Sticks
 UID:90a93ae7c46f67e162dbef19fe895fe1
@@ -66,6 +59,13 @@ UID:54649ffb168894b63ab4e7566be3a2c1
 URL:http://www.procosom.com/feuille-pointage.php?match=8062
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261120T022500Z
+SUMMARY:C: Evil Sticks c. Gros Matous
+UID:3ee2e6ae882e6372d85dfabefc3f4834
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8084
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -91,10 +91,12 @@ UID:78ef35c5a0dbb1d8c7f4584c2fc345d5
 URL:http://www.procosom.com/feuille-pointage.php?match=8041
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8147
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261016T002500Z
-SUMMARY:C: Evil Sticks c. Jagrbombs
+SUMMARY:C: Evil Sticks - 9 c. Jagrbombs - 3
 UID:93cb20848b524dca0647fc19fe01d160
+URL:http://www.procosom.com/feuille-pointage.php?match=8147
 END:VEVENT
 END:VCALENDAR

@@ -11,6 +11,13 @@ UID:acd1d686fbfcfa2032370e76cd47dc22
 URL:http://www.procosom.com/feuille-pointage.php?match=8033
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261120T002500Z
+SUMMARY:A: Mighty Ducks c. TTC Club
+UID:e72761abfd708487b7c7e8448d89248c
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8017
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -20,11 +27,13 @@ UID:f999ca42a8115a626cb40711b5c34999
 URL:http://www.procosom.com/feuille-pointage.php?match=8017
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8145
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261015T232500Z
-SUMMARY:A: TTC Club c. Jeunes Professionnels
+SUMMARY:A: TTC Club - 0 c. Jeunes Professionnels - 6
 UID:977cff5527524b81b3439cfec9c10178
+URL:http://www.procosom.com/feuille-pointage.php?match=8145
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8120
@@ -89,12 +98,5 @@ DTSTART:20260917T002500Z
 SUMMARY:A: TTC Club - 6 c. Golden Kales - 2
 UID:9d0c0d28bbcaf15d2356b565d63f0674
 URL:http://www.procosom.com/feuille-pointage.php?match=8055
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20261120T002500Z
-SUMMARY:A: Mighty Ducks c. TTC Club
-UID:bda2b24cdbf93634eece706e36736ce2
 END:VEVENT
 END:VCALENDAR
