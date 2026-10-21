@@ -27,11 +27,13 @@ SUMMARY:C: Evil Sticks c. Ballebuzards
 UID:90527cbb8a586e20da7493106529ba5b
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8153
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261021T002500Z
-SUMMARY:C: Ballebuzards c. Gros Matous
+SUMMARY:C: Ballebuzards - 5 c. Gros Matous - 5
 UID:7f2c3424154bf898d7bc9175507ebe2c
+URL:http://www.procosom.com/feuille-pointage.php?match=8153
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7993

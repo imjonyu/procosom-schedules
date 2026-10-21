@@ -68,11 +68,13 @@ UID:92d065c48ec74ce3eba64539cf70cef4
 URL:http://www.procosom.com/feuille-pointage.php?match=8134
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8154
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261021T002500Z
-SUMMARY:D: Top Shotta 2.0 c. Guerriers
+SUMMARY:D: Top Shotta 2.0 - 6 c. Guerriers - 0
 UID:80ca150aee8f0d59afd61c63570b2195
+URL:http://www.procosom.com/feuille-pointage.php?match=8154
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8050

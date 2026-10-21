@@ -36,11 +36,13 @@ UID:73f83475d947477dff04cd3d5415cc09
 URL:http://www.procosom.com/feuille-pointage.php?match=8026
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8156
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261021T012500Z
-SUMMARY:D: Sauce AC c. LumberJack
+SUMMARY:D: Sauce AC - 7 c. LumberJack - 3
 UID:62ce07ed254fe076cbec9f9a4866d8f2
+URL:http://www.procosom.com/feuille-pointage.php?match=8156
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

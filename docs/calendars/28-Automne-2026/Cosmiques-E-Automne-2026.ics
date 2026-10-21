@@ -47,11 +47,13 @@ UID:7a5dacfd4a976d1c6852dfdba95660e7
 URL:http://www.procosom.com/feuille-pointage.php?match=8088
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8157
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261021T022500Z
-SUMMARY:E: Grainezky c. Cosmiques
+SUMMARY:E: Grainezky - 5 c. Cosmiques - 4
 UID:2c6ba5ba1dc68c804b8ee5a4fa371649
+URL:http://www.procosom.com/feuille-pointage.php?match=8157
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

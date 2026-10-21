@@ -52,11 +52,13 @@ SUMMARY:A: Chums de Palettes c. Mouettes
 UID:ac7775daebccb4f573d250ad6cf40a17
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8152
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261020T232500Z
-SUMMARY:A: Mouettes c. Chums de Palettes
+SUMMARY:A: Mouettes - 3 c. Chums de Palettes - 1
 UID:7ea55dc8505be4da1cce3a9e03f8bbca
+URL:http://www.procosom.com/feuille-pointage.php?match=8152
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7988
