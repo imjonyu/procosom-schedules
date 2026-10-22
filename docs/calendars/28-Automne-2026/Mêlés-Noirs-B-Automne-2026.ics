@@ -41,11 +41,13 @@ UID:65f566695e7c02926d62a5ad8999b648
 URL:http://www.procosom.com/feuille-pointage.php?match=8133
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8164
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261022T022500Z
-SUMMARY:B: Front de Libération du Cosom c. Mêlés Noirs
+SUMMARY:B: Front de Libération du Cosom - 5 c. Mêlés Noirs - 3
 UID:4403292a1bc0386128779a439cc4e7bd
+URL:http://www.procosom.com/feuille-pointage.php?match=8164
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

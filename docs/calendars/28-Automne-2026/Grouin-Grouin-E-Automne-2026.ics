@@ -29,11 +29,13 @@ UID:58c88919f9030a63c59e6b7bab93c4ef
 URL:http://www.procosom.com/feuille-pointage.php?match=8089
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8160
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261022T002500Z
-SUMMARY:E: Grouin Grouin c. Gros Chefs Bandits
+SUMMARY:E: Grouin Grouin - 9 c. Gros Chefs Bandits - 1
 UID:bf0e95296dcee00efadfcd70b180b630
+URL:http://www.procosom.com/feuille-pointage.php?match=8160
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

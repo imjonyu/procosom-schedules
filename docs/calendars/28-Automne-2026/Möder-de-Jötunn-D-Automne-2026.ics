@@ -2,11 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8158
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261021T232500Z
-SUMMARY:D: Möder de Jötunn c. Coyotes Urbains
+SUMMARY:D: Möder de Jötunn - 3 c. Coyotes Urbains - 7
 UID:dacdf1387b6bb0051037b372a2f76fa6
+URL:http://www.procosom.com/feuille-pointage.php?match=8158
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8101

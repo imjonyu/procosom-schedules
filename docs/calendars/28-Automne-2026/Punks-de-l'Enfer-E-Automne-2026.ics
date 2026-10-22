@@ -86,11 +86,13 @@ SUMMARY:E: Punks de l'Enfer c. Cosmiques
 UID:3bb66c8b38991201599cda1ccc8fe8b3
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8165
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20261022T022500Z
-SUMMARY:E: Punks de l'Enfer c. Black Mad Squirrels
+SUMMARY:E: Punks de l'Enfer - 0 c. Black Mad Squirrels - 10
 UID:2258bf0a79b278ef519e4517e516a044
+URL:http://www.procosom.com/feuille-pointage.php?match=8165
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

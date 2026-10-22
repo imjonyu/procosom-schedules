@@ -2,11 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8161
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20261022T002500Z
-SUMMARY:A: Barking Dogs c. Sags
+SUMMARY:A: Barking Dogs - 3 c. Sags - 6
 UID:678c739c1c2037d050091f8568dd9ca8
+URL:http://www.procosom.com/feuille-pointage.php?match=8161
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8033

@@ -11,11 +11,13 @@ UID:a1e27a96bd4792041a593275cbfe8873
 URL:http://www.procosom.com/feuille-pointage.php?match=8051
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8162
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261022T012500Z
-SUMMARY:C: Tribunal c. Momentums
+SUMMARY:C: Tribunal - 2 c. Momentums - 5
 UID:2b8aa3196da99aba80d75d06e96923fb
+URL:http://www.procosom.com/feuille-pointage.php?match=8162
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8007

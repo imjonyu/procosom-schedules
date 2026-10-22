@@ -84,11 +84,13 @@ UID:f379ec69b5481660e43dd495d414c3eb
 URL:http://www.procosom.com/feuille-pointage.php?match=8035
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8163
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20261022T012500Z
-SUMMARY:D: P'tite Ékip c. Punished
+SUMMARY:D: P'tite Ékip - 4 c. Punished - 5
 UID:71aed28915912978ac0292a87284d6f1
+URL:http://www.procosom.com/feuille-pointage.php?match=8163
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8144
