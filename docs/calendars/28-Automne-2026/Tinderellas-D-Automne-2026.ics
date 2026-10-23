@@ -2,11 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8169
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261023T012500Z
-SUMMARY:D: Tinderellas c. Wolfpack
+SUMMARY:D: Tinderellas - 6 c. Wolfpack - 4
 UID:9c0c43c1b9b1fc1295c464704b59f651
+URL:http://www.procosom.com/feuille-pointage.php?match=8169
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

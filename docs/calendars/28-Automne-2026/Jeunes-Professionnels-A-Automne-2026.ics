@@ -18,11 +18,13 @@ UID:977cff5527524b81b3439cfec9c10178
 URL:http://www.procosom.com/feuille-pointage.php?match=8145
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8168
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261023T002500Z
-SUMMARY:A: Golden Kales c. Jeunes Professionnels
+SUMMARY:A: Golden Kales - 2 c. Jeunes Professionnels - 8
 UID:442f94dec86cabfffe744e7f163e3ce7
+URL:http://www.procosom.com/feuille-pointage.php?match=8168
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

@@ -34,11 +34,13 @@ UID:2349e2974b758b1dc8a92757b78aca7c
 URL:http://www.procosom.com/feuille-pointage.php?match=8039
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8171
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261023T022500Z
-SUMMARY:C: Jagrbombs c. Evil Sticks
+SUMMARY:C: Jagrbombs - 1 c. Evil Sticks - 4
 UID:90a93ae7c46f67e162dbef19fe895fe1
+URL:http://www.procosom.com/feuille-pointage.php?match=8171
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8083
