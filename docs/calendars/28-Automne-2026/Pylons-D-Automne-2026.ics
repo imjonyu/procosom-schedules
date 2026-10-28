@@ -25,11 +25,13 @@ UID:ac4aba1e0786b80f224bb44a400f6648
 URL:http://www.procosom.com/feuille-pointage.php?match=8065
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8178
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261028T022500Z
-SUMMARY:D: Sauce AC c. Pylons
+SUMMARY:D: Sauce AC - 6 c. Pylons - 4
 UID:24225fc9015753fd177a50b2243c8d94
+URL:http://www.procosom.com/feuille-pointage.php?match=8178
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

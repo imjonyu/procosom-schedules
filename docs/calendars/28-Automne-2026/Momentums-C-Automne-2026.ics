@@ -38,11 +38,13 @@ UID:40e0209e65a5f92055b29167a24f52f2
 URL:http://www.procosom.com/feuille-pointage.php?match=7993
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8172
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261027T232500Z
-SUMMARY:C: Présidents c. Momentums
+SUMMARY:C: Présidents - 3 c. Momentums - 8
 UID:b4cf4902051c72507a6214356990648c
+URL:http://www.procosom.com/feuille-pointage.php?match=8172
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8112

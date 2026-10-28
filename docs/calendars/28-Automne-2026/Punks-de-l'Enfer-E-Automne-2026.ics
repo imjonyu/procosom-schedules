@@ -54,11 +54,13 @@ UID:618a8040343d7086694b29786cc607e3
 URL:http://www.procosom.com/feuille-pointage.php?match=8005
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8173
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261027T232500Z
-SUMMARY:E: Punks de l'Enfer c. Cosmiques
+SUMMARY:E: Punks de l'Enfer - 5 c. Cosmiques - 3
 UID:8721c57eb30ce09c74ee22f918602b79
+URL:http://www.procosom.com/feuille-pointage.php?match=8173
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8131

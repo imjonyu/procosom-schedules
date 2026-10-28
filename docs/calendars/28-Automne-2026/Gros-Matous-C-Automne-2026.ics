@@ -36,11 +36,13 @@ UID:7f2c3424154bf898d7bc9175507ebe2c
 URL:http://www.procosom.com/feuille-pointage.php?match=8153
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8174
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261028T002500Z
-SUMMARY:C: Gros Matous c. CocoCrazys
+SUMMARY:C: Gros Matous - 2 c. CocoCrazys - 5
 UID:de6ab8af93ee13efaee991750490f647
+URL:http://www.procosom.com/feuille-pointage.php?match=8174
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8020

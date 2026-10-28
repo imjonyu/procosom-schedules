@@ -11,11 +11,13 @@ UID:4dcfdab057b903ee0ba550af76d99f81
 URL:http://www.procosom.com/feuille-pointage.php?match=8008
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8175
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261028T002500Z
-SUMMARY:E: Gros Chefs Bandits c. Grainezky
+SUMMARY:E: Gros Chefs Bandits - 3 c. Grainezky - 7
 UID:a5d031509fc338d1b7006e2cbff8ca23
+URL:http://www.procosom.com/feuille-pointage.php?match=8175
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8069
