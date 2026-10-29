@@ -45,11 +45,13 @@ UID:73f83475d947477dff04cd3d5415cc09
 URL:http://www.procosom.com/feuille-pointage.php?match=8026
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8186
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20261029T022500Z
-SUMMARY:D: Punished c. Guerriers
+SUMMARY:D: Punished - 9 c. Guerriers - 1
 UID:1975f99a40f77db8655a88d0ede4b130
+URL:http://www.procosom.com/feuille-pointage.php?match=8186
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

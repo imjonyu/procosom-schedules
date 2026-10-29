@@ -61,11 +61,13 @@ UID:80ca150aee8f0d59afd61c63570b2195
 URL:http://www.procosom.com/feuille-pointage.php?match=8154
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8181
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261029T002500Z
-SUMMARY:D: Top Shotta 2.0 c. Coyotes Urbains
+SUMMARY:D: Top Shotta 2.0 - 4 c. Coyotes Urbains - 4
 UID:33caf394a8a27688b985fbd91c78aba4
+URL:http://www.procosom.com/feuille-pointage.php?match=8181
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7989

@@ -34,11 +34,13 @@ SUMMARY:A: Golden Kales c. Mighty Ducks
 UID:9ccf7a4476cc248e0f5a93ff4ecbd873
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8182
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20261029T002500Z
-SUMMARY:A: Sags c. Mighty Ducks
+SUMMARY:A: Sags - 0 c. Mighty Ducks - 6
 UID:1ba46ed3f5b1e8b456822c6c6acc8d6d
+URL:http://www.procosom.com/feuille-pointage.php?match=8182
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8014

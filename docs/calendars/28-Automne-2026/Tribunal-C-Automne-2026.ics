@@ -70,11 +70,13 @@ SUMMARY:C: Tribunal c. Momentums
 UID:7597d0c41bad9ebee43ba87b865f9281
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8183
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261029T012500Z
-SUMMARY:C: Goats c. Tribunal
+SUMMARY:C: Goats - 1 c. Tribunal - 3
 UID:ed2460cc944bb083f89f930b2af0dbe3
+URL:http://www.procosom.com/feuille-pointage.php?match=8183
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8097

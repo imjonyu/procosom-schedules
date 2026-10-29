@@ -86,11 +86,13 @@ UID:18992b52616e2801f830fea200c88318
 URL:http://www.procosom.com/feuille-pointage.php?match=8043
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8179
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261028T232500Z
-SUMMARY:A: Jeunes Professionnels c. Barking Dogs
+SUMMARY:A: Jeunes Professionnels - 8 c. Barking Dogs - 5
 UID:82a554513a031772adafaaf983b7b5c6
+URL:http://www.procosom.com/feuille-pointage.php?match=8179
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7992

@@ -86,11 +86,13 @@ SUMMARY:A: Mouettes c. TTC Club
 UID:177fd58ae26346fba30fa19edb1cd8dc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8180
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20261028T232500Z
-SUMMARY:A: TTC Club c. Chums de Palettes
+SUMMARY:A: TTC Club - 6 c. Chums de Palettes - 2
 UID:8811b8d81b73031db43c724a78562c1e
+URL:http://www.procosom.com/feuille-pointage.php?match=8180
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8055
