@@ -36,11 +36,13 @@ UID:ba01ff50501ce5c7f00c855082c0497e
 URL:http://www.procosom.com/feuille-pointage.php?match=8122
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8187
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261029T232500Z
-SUMMARY:D: Möder de Jötunn c. P'tite Ékip
+SUMMARY:D: Möder de Jötunn - 6 c. P'tite Ékip - 3
 UID:a4a0fa90423e414c3e51c6cdc757c51e
+URL:http://www.procosom.com/feuille-pointage.php?match=8187
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8004

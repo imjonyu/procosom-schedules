@@ -52,11 +52,13 @@ UID:3bf3014f153b9cfe7eb331541ce0ece7
 URL:http://www.procosom.com/feuille-pointage.php?match=8099
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8190
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261030T012500Z
-SUMMARY:D: LumberJack c. Tinderellas
+SUMMARY:D: LumberJack - 2 c. Tinderellas - 6
 UID:9f7181fa40a86a7e68c1e3715919442a
+URL:http://www.procosom.com/feuille-pointage.php?match=8190
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8035

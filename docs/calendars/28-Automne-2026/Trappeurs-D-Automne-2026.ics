@@ -66,11 +66,13 @@ UID:2b6cdc3dfafebce6a2ad0ac12097c3aa
 URL:http://www.procosom.com/feuille-pointage.php?match=7990
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8189
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261030T002500Z
-SUMMARY:D: Wolfpack c. Trappeurs
+SUMMARY:D: Wolfpack - 3 c. Trappeurs - 4
 UID:6ed7d666a5128f418e179dd8f995d8eb
+URL:http://www.procosom.com/feuille-pointage.php?match=8189
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8050

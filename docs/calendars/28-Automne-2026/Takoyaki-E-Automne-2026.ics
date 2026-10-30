@@ -43,11 +43,13 @@ UID:6a99c8e44908f742131a0d49e6b0fcc7
 URL:http://www.procosom.com/feuille-pointage.php?match=8036
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8192
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261030T022500Z
-SUMMARY:E: Takoyaki c. TDC
+SUMMARY:E: Takoyaki - 5 c. TDC - 4
 UID:adadf7ba77831610ba50f61c2308ff4f
+URL:http://www.procosom.com/feuille-pointage.php?match=8192
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

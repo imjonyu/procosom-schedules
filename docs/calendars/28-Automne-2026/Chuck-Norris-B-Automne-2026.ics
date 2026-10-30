@@ -54,11 +54,13 @@ UID:9b90c7d9644b4dc1432cc488cddbe278
 URL:http://www.procosom.com/feuille-pointage.php?match=8146
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8188
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261030T002500Z
-SUMMARY:B: Achigans c. Chuck Norris
+SUMMARY:B: Achigans - 10 c. Chuck Norris - 3
 UID:d46ef3411cc39ffb604e56ea5d35696e
+URL:http://www.procosom.com/feuille-pointage.php?match=8188
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
