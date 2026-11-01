@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8191
-DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20261030T012500Z
-SUMMARY:C: Jagrbombs - 9 c. Axolotls - 3
-UID:9d700d41460c117dc7ac85201161f1a9
-URL:http://www.procosom.com/feuille-pointage.php?match=8191
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8126
 DURATION:PT1H
 LOCATION:CVM-Pal
@@ -102,5 +93,14 @@ DTSTART:20260930T002500Z
 SUMMARY:C: Axolotls - 3 c. CocoCrazys - 8
 UID:e946115fed14eb3b6bafba76b6af2094
 URL:http://www.procosom.com/feuille-pointage.php?match=8090
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8191
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261030T012500Z
+SUMMARY:C: Jagrbombs - 9 c. Axolotls - 3
+UID:0ab1e52d884b8d73b557e60e80a8ea85
+URL:http://www.procosom.com/feuille-pointage.php?match=8191
 END:VEVENT
 END:VCALENDAR

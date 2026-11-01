@@ -20,6 +20,15 @@ UID:9c0c43c1b9b1fc1295c464704b59f651
 URL:http://www.procosom.com/feuille-pointage.php?match=8169
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8189
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261030T002500Z
+SUMMARY:D: Wolfpack - 3 c. Trappeurs - 4
+UID:5158aab22b7dfaabfaf3287d558d4f0c
+URL:http://www.procosom.com/feuille-pointage.php?match=8189
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8076
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
@@ -70,15 +79,6 @@ DTSTART:20261009T012500Z
 SUMMARY:D: Punished - 4 c. Wolfpack - 4
 UID:5cceffc17db0ae3eb035a8bcd4a9e1b6
 URL:http://www.procosom.com/feuille-pointage.php?match=8127
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8189
-DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20261030T002500Z
-SUMMARY:D: Wolfpack - 3 c. Trappeurs - 4
-UID:6ed7d666a5128f418e179dd8f995d8eb
-URL:http://www.procosom.com/feuille-pointage.php?match=8189
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8040
