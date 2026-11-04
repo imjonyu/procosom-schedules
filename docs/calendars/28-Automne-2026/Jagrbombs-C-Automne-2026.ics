@@ -20,11 +20,13 @@ UID:0ab1e52d884b8d73b557e60e80a8ea85
 URL:http://www.procosom.com/feuille-pointage.php?match=8191
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8195
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261104T012500Z
-SUMMARY:C: Jagrbombs c. Axolotls
+SUMMARY:C: Jagrbombs - 4 c. Axolotls - 3
 UID:f7a71928fff6228d273932315373c71d
+URL:http://www.procosom.com/feuille-pointage.php?match=8195
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8039

@@ -41,11 +41,13 @@ SUMMARY:D: Guerriers c. Pylons
 UID:402a9669607d32721ed164f174a51fc8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8198
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261104T022500Z
-SUMMARY:D: Pylons c. Möder de Jötunn
+SUMMARY:D: Pylons - 6 c. Möder de Jötunn - 7
 UID:a96ccaa619c1f920c3df766ffca5c4a4
+URL:http://www.procosom.com/feuille-pointage.php?match=8198
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8110

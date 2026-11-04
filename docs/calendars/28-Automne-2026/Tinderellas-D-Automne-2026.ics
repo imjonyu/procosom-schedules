@@ -70,11 +70,13 @@ UID:f379ec69b5481660e43dd495d414c3eb
 URL:http://www.procosom.com/feuille-pointage.php?match=8035
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8197
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261104T022500Z
-SUMMARY:D: Tinderellas c. Sauce AC
+SUMMARY:D: Tinderellas - 3 c. Sauce AC - 6
 UID:60ed0f607ca205edb3b6f305295d2169
+URL:http://www.procosom.com/feuille-pointage.php?match=8197
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8072

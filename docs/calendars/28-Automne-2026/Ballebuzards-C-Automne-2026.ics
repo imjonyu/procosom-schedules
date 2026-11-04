@@ -20,11 +20,13 @@ UID:708663db0be7e66bcf81f7282cf54246
 URL:http://www.procosom.com/feuille-pointage.php?match=8071
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8196
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261104T012500Z
-SUMMARY:C: Evil Sticks c. Ballebuzards
+SUMMARY:C: Evil Sticks - 3 c. Ballebuzards - 2
 UID:90527cbb8a586e20da7493106529ba5b
+URL:http://www.procosom.com/feuille-pointage.php?match=8196
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8153

@@ -97,10 +97,12 @@ SUMMARY:E: Cosmiques c. Grouin Grouin
 UID:03a753e41a47f35fa28f0818a63c15fa
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8194
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261104T002500Z
-SUMMARY:E: Cosmiques c. Grouin Grouin
+SUMMARY:E: Cosmiques - 0 c. Grouin Grouin - 6
 UID:f5f1925e25cc6dad8d3b6aa7fd6f9f2a
+URL:http://www.procosom.com/feuille-pointage.php?match=8194
 END:VEVENT
 END:VCALENDAR
