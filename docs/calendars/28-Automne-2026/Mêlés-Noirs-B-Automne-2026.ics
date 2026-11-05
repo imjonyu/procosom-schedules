@@ -27,11 +27,13 @@ UID:774f15c4eaa9de2a01b2f9b75732f76e
 URL:http://www.procosom.com/feuille-pointage.php?match=8177
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8206
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261105T032500Z
-SUMMARY:B: Chuck Norris c. Mêlés Noirs
+SUMMARY:B: Chuck Norris - 8 c. Mêlés Noirs - 6
 UID:3705f4d74fccd72409ecd4a4e98477f4
+URL:http://www.procosom.com/feuille-pointage.php?match=8206
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8133

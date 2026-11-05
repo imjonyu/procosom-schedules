@@ -9,11 +9,13 @@ SUMMARY:E: Takoyaki c. Invincibles
 UID:f93f959175d3bf1d570431e489c29ae7
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8200
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261105T002500Z
-SUMMARY:E: Cougars c. Takoyaki
+SUMMARY:E: Cougars - 4 c. Takoyaki - 4
 UID:ea9d92dd94f623ec65e518e09cfbc75b
+URL:http://www.procosom.com/feuille-pointage.php?match=8200
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8128

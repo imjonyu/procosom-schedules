@@ -11,11 +11,13 @@ UID:58c88919f9030a63c59e6b7bab93c4ef
 URL:http://www.procosom.com/feuille-pointage.php?match=8089
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8200
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261105T002500Z
-SUMMARY:E: Cougars c. Takoyaki
+SUMMARY:E: Cougars - 4 c. Takoyaki - 4
 UID:ea9d92dd94f623ec65e518e09cfbc75b
+URL:http://www.procosom.com/feuille-pointage.php?match=8200
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7998

@@ -20,11 +20,13 @@ UID:0800e50b521c4c351220aefba78716ff
 URL:http://www.procosom.com/feuille-pointage.php?match=8016
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8205
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20261105T022500Z
-SUMMARY:D: Punished c. Coyotes Urbains
+SUMMARY:D: Punished - 4 c. Coyotes Urbains - 11
 UID:ef90387b17a1b64c249f5294a68e6866
+URL:http://www.procosom.com/feuille-pointage.php?match=8205
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

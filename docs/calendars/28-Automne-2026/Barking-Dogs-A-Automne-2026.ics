@@ -43,11 +43,13 @@ SUMMARY:A: TTC Club c. Barking Dogs
 UID:e1a490460017f0973a88304d5acee494
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8203
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20261105T012500Z
-SUMMARY:A: Barking Dogs c. Sags
+SUMMARY:A: Barking Dogs - 9 c. Sags - 3
 UID:f47d43adbf622b203d47248c7a3a00d6
+URL:http://www.procosom.com/feuille-pointage.php?match=8203
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8136

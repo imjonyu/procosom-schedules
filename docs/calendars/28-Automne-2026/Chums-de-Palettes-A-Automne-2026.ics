@@ -95,10 +95,12 @@ UID:18992b52616e2801f830fea200c88318
 URL:http://www.procosom.com/feuille-pointage.php?match=8043
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8202
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261105T012500Z
-SUMMARY:A: Mighty Ducks c. Chums de Palettes
+SUMMARY:A: Mighty Ducks - 8 c. Chums de Palettes - 1
 UID:79cc01813172108e813d693315f43932
+URL:http://www.procosom.com/feuille-pointage.php?match=8202
 END:VEVENT
 END:VCALENDAR

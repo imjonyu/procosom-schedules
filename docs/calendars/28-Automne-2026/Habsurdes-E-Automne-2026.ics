@@ -47,11 +47,13 @@ UID:d290a3b784d32b387e74205aa9d42e1d
 URL:http://www.procosom.com/feuille-pointage.php?match=7994
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8207
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20261105T032500Z
-SUMMARY:E: Black Mad Squirrels c. Habsurdes
+SUMMARY:E: Black Mad Squirrels - 3 c. Habsurdes - 4
 UID:eac775d32fd3fd030918173ae157b3a9
+URL:http://www.procosom.com/feuille-pointage.php?match=8207
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8005
