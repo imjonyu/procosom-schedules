@@ -47,11 +47,13 @@ UID:d205e663d5f7f1e963ea13c07ab5c9e0
 URL:http://www.procosom.com/feuille-pointage.php?match=7998
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8210
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261106T012500Z
-SUMMARY:E: TDC c. Grainezky
+SUMMARY:E: TDC - 4 c. Grainezky - 5
 UID:b010f80a232ddaede93bcfa22d728bca
+URL:http://www.procosom.com/feuille-pointage.php?match=8210
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8034

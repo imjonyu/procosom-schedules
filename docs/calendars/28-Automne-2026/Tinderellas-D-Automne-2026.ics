@@ -97,10 +97,12 @@ UID:6c471e50368e90a2cab7169d9bbf5108
 URL:http://www.procosom.com/feuille-pointage.php?match=8148
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8211
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261106T022500Z
-SUMMARY:D: Tinderellas c. P'tite Ékip
+SUMMARY:D: Tinderellas - 8 c. P'tite Ékip - 6
 UID:ef6d7e767a03452c49c267af17e19600
+URL:http://www.procosom.com/feuille-pointage.php?match=8211
 END:VEVENT
 END:VCALENDAR

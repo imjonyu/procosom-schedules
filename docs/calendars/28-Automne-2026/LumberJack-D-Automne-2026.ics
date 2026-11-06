@@ -11,11 +11,13 @@ UID:17a35dd20ad260640e27b4663d04f244
 URL:http://www.procosom.com/feuille-pointage.php?match=8101
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8213
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261106T032500Z
-SUMMARY:D: Trappeurs c. LumberJack
+SUMMARY:D: Trappeurs - 3 c. LumberJack - 2
 UID:864f5fe8e7825a9954c94aed77da69ff
+URL:http://www.procosom.com/feuille-pointage.php?match=8213
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8122

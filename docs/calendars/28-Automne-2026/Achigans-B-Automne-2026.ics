@@ -16,11 +16,13 @@ SUMMARY:B: TDC Sélections c. Achigans
 UID:33063bf1e24be2504bc2aa8bb5eb3b7a
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8212
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261106T022500Z
-SUMMARY:B: Achigans c. TDC Sélections
+SUMMARY:B: Achigans - 7 c. TDC Sélections - 6
 UID:ae176b9d2615fef8b83449e8d45f35d9
+URL:http://www.procosom.com/feuille-pointage.php?match=8212
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
