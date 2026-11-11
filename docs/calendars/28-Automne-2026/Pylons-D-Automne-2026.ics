@@ -2,11 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8216
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261111T012500Z
-SUMMARY:D: Tinderellas c. Pylons
+SUMMARY:D: Tinderellas - 6 c. Pylons - 8
 UID:fc46ad909191196826f0e796cfef4d1d
+URL:http://www.procosom.com/feuille-pointage.php?match=8216
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

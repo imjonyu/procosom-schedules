@@ -72,11 +72,13 @@ UID:97c6019e9036c4ec10e41d55e4c6489c
 URL:http://www.procosom.com/feuille-pointage.php?match=8038
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8217
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261111T012500Z
-SUMMARY:D: Coyotes Urbains c. Sauce AC
+SUMMARY:D: Coyotes Urbains - 2 c. Sauce AC - 7
 UID:f306cb36b377a4ea74131f2dd39ed75f
+URL:http://www.procosom.com/feuille-pointage.php?match=8217
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8181

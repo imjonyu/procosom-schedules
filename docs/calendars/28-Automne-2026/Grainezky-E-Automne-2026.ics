@@ -88,11 +88,13 @@ UID:2c6ba5ba1dc68c804b8ee5a4fa371649
 URL:http://www.procosom.com/feuille-pointage.php?match=8157
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8218
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261111T022500Z
-SUMMARY:E: Grainezky c. Invincibles
+SUMMARY:E: Grainezky - 8 c. Invincibles - 2
 UID:34b476af4b880126a19e486736e4236d
+URL:http://www.procosom.com/feuille-pointage.php?match=8218
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8114

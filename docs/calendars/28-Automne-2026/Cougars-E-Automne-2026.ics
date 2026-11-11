@@ -47,11 +47,13 @@ UID:bad149c4d5f4cdad37861060e3321b30
 URL:http://www.procosom.com/feuille-pointage.php?match=8185
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8219
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261111T022500Z
-SUMMARY:E: Grouin Grouin c. Cougars
+SUMMARY:E: Grouin Grouin - 3 c. Cougars - 0
 UID:8231b63d114574026e63da69bee6ac2c
+URL:http://www.procosom.com/feuille-pointage.php?match=8219
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8132
