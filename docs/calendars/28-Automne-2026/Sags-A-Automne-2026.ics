@@ -72,11 +72,13 @@ UID:bfd904ef687e09845d509174e677d96f
 URL:http://www.procosom.com/feuille-pointage.php?match=8140
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8223
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261112T012500Z
-SUMMARY:A: Sags c. Jeunes Professionnels
+SUMMARY:A: Sags - 5 c. Jeunes Professionnels - 7
 UID:54fc1b816769744ac7d3f1995199621c
+URL:http://www.procosom.com/feuille-pointage.php?match=8223
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8182

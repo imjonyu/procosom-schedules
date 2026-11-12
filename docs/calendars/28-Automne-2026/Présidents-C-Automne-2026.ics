@@ -81,11 +81,13 @@ UID:be3e139f12ced00d0b01a22e2e2514a0
 URL:http://www.procosom.com/feuille-pointage.php?match=8010
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8221
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261112T002500Z
-SUMMARY:C: Présidents c. CocoCrazys
+SUMMARY:C: Présidents - 1 c. CocoCrazys - 5
 UID:8643daa364e732543480e1c31a79ed40
+URL:http://www.procosom.com/feuille-pointage.php?match=8221
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

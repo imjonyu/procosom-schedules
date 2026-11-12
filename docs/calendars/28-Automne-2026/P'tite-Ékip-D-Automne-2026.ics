@@ -11,11 +11,13 @@ UID:5b158371d397c70643d27302dcf5d9f2
 URL:http://www.procosom.com/feuille-pointage.php?match=8138
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8228
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20261112T032500Z
-SUMMARY:D: Top Shotta 2.0 c. P'tite Ékip
+SUMMARY:D: Top Shotta 2.0 - 6 c. P'tite Ékip - 4
 UID:2c50fd186b7d97c21e8e00194ab602dd
+URL:http://www.procosom.com/feuille-pointage.php?match=8228
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8119

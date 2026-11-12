@@ -81,11 +81,13 @@ UID:53ba628fd4cd7713a908c67eedae4b6d
 URL:http://www.procosom.com/feuille-pointage.php?match=8184
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8226
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20261112T022500Z
-SUMMARY:B: Front de Libération du Cosom c. Golden Kales HC
+SUMMARY:B: Front de Libération du Cosom - 3 c. Golden Kales HC - 8
 UID:6b85abcbb20bae2151a42ae41e15fb1a
+URL:http://www.procosom.com/feuille-pointage.php?match=8226
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8012

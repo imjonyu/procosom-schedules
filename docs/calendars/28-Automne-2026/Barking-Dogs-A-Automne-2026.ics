@@ -36,11 +36,13 @@ UID:c4f874e2a6312774af6027322219a029
 URL:http://www.procosom.com/feuille-pointage.php?match=8085
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8222
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20261112T002500Z
-SUMMARY:A: TTC Club c. Barking Dogs
+SUMMARY:A: TTC Club - 5 c. Barking Dogs - 4
 UID:e1a490460017f0973a88304d5acee494
+URL:http://www.procosom.com/feuille-pointage.php?match=8222
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8203

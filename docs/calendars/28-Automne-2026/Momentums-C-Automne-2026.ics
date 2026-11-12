@@ -99,10 +99,12 @@ UID:6b4c9637119997bfa5fe607a55c3c274
 URL:http://www.procosom.com/feuille-pointage.php?match=8141
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8225
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261112T022500Z
-SUMMARY:C: Tribunal c. Momentums
+SUMMARY:C: Tribunal - 6 c. Momentums - 6
 UID:7597d0c41bad9ebee43ba87b865f9281
+URL:http://www.procosom.com/feuille-pointage.php?match=8225
 END:VEVENT
 END:VCALENDAR
