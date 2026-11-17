@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20261118T022500Z
-SUMMARY:E: Invincibles c. Black Mad Squirrels
-UID:d45ee15c5431f011f1719fffaf1d8373
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8068
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -59,6 +52,13 @@ DTSTART:20260903T232500Z
 SUMMARY:E: Black Mad Squirrels - 3 c. Takoyaki - 7
 UID:884fce5ad50e901ddf70e4ac6f4fc7a2
 URL:http://www.procosom.com/feuille-pointage.php?match=8019
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261118T022500Z
+SUMMARY:E: Invincibles c. Black Mad Squirrels
+UID:c5e00e66f6517c84b1206489a099fe93
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8063

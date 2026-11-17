@@ -11,6 +11,20 @@ UID:d4556ecaad82d9f9944293323d4d22a3
 URL:http://www.procosom.com/feuille-pointage.php?match=8000
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261119T022500Z
+SUMMARY:B: Golden Kales HC c. Chuck Norris
+UID:2e13b605079a9d94d10666fe8270c06e
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20261120T032500Z
+SUMMARY:B: TDC Sélections c. Chuck Norris
+UID:aac95095644aaa7ce90778473f796884
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8167
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -18,13 +32,6 @@ DTSTART:20261023T002500Z
 SUMMARY:B: Chuck Norris - 4 c. Scie-Hawks - 6
 UID:dbb80b8325046140cbd696f641801cfd
 URL:http://www.procosom.com/feuille-pointage.php?match=8167
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20261119T022500Z
-SUMMARY:B: Golden Kales HC c. Chuck Norris
-UID:c8c25e80249a676122841a251e21d060
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8075
@@ -86,13 +93,6 @@ DTSTART:20261105T032500Z
 SUMMARY:B: Chuck Norris - 8 c. Mêlés Noirs - 6
 UID:3705f4d74fccd72409ecd4a4e98477f4
 URL:http://www.procosom.com/feuille-pointage.php?match=8206
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20261113T022500Z
-SUMMARY:B: TDC Sélections c. Chuck Norris
-UID:a85d8e3f55957148f7878eb5db73133e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8024

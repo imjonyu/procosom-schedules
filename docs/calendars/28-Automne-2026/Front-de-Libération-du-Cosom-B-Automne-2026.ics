@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20261118T012500Z
-SUMMARY:B: Front de Libération du Cosom c. Scie-Hawks
-UID:fed2d9c2eb16fef8049303f58dda4cd7
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8092
 DURATION:PT1H
 LOCATION:CVM-Pal
@@ -77,6 +70,13 @@ LOCATION:CVM-Quad-#1
 DTSTART:20261126T012500Z
 SUMMARY:B: Chuck Norris c. Front de Libération du Cosom
 UID:9365c386067f605302032d4e5fe952b8
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261118T012500Z
+SUMMARY:B: Front de Libération du Cosom c. Scie-Hawks
+UID:62c7c83bf82eadecd0c1c76f66bc7ac4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8024

@@ -18,6 +18,13 @@ UID:99d80053f16b08ff44c8a3b567e22b62
 URL:http://www.procosom.com/feuille-pointage.php?match=8151
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261118T002500Z
+SUMMARY:C: Présidents c. Axolotls
+UID:e24d3f446c5d55431d52f7abfac0e32e
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8039
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -88,13 +95,6 @@ DTSTART:20261112T002500Z
 SUMMARY:C: Présidents - 1 c. CocoCrazys - 5
 UID:8643daa364e732543480e1c31a79ed40
 URL:http://www.procosom.com/feuille-pointage.php?match=8221
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20261118T002500Z
-SUMMARY:C: Présidents c. Axolotls
-UID:1c0179e6fc18c1dfa06c7e0879024217
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7995

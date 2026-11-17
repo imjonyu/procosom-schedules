@@ -11,13 +11,6 @@ UID:acd1d686fbfcfa2032370e76cd47dc22
 URL:http://www.procosom.com/feuille-pointage.php?match=8033
 END:VEVENT
 BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20261120T002500Z
-SUMMARY:A: Mighty Ducks c. TTC Club
-UID:e72761abfd708487b7c7e8448d89248c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8017
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -43,6 +36,13 @@ DTSTART:20261008T012500Z
 SUMMARY:A: Mouettes - 0 c. TTC Club - 4
 UID:a4452d278d9bf78eceba201563039e75
 URL:http://www.procosom.com/feuille-pointage.php?match=8120
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261120T002500Z
+SUMMARY:A: Mighty Ducks c. TTC Club
+UID:d5ec75ab7e1982b8230302d63045722c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8086

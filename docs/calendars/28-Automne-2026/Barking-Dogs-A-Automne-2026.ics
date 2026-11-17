@@ -11,6 +11,13 @@ UID:678c739c1c2037d050091f8568dd9ca8
 URL:http://www.procosom.com/feuille-pointage.php?match=8161
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261119T032500Z
+SUMMARY:A: Chums de Palettes c. Barking Dogs
+UID:ccfcd9f2d5af1af1b3044577c06fa05f
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8058
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -70,13 +77,6 @@ DTSTART:20260826T000500Z
 SUMMARY:A: Chums de Palettes - 4 c. Barking Dogs - 2
 UID:60b1ebc4efcadba728d3f5f0f13d2c7b
 URL:http://www.procosom.com/feuille-pointage.php?match=7988
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20261119T032500Z
-SUMMARY:A: Chums de Palettes c. Barking Dogs
-UID:3a2d274ead825901d29cb98691803140
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8023

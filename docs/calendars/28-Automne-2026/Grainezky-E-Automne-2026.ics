@@ -36,13 +36,6 @@ SUMMARY:E: Black Mad Squirrels c. Grainezky
 UID:9adfe75d794f86da5bd3d4119b5d9171
 END:VEVENT
 BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20261120T032500Z
-SUMMARY:E: Grainezky c. Takoyaki
-UID:244485ae12b42f05d309ba4db693b8f5
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8025
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -86,6 +79,13 @@ DTSTART:20261021T022500Z
 SUMMARY:E: Grainezky - 5 c. Cosmiques - 4
 UID:2c6ba5ba1dc68c804b8ee5a4fa371649
 URL:http://www.procosom.com/feuille-pointage.php?match=8157
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261120T032500Z
+SUMMARY:E: Grainezky c. Takoyaki
+UID:4c7170ca7a28528c4fc11d278163c533
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8218

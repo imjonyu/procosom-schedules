@@ -20,6 +20,13 @@ UID:32db764218b2e1421945a3ccff6f132f
 URL:http://www.procosom.com/feuille-pointage.php?match=8128
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261119T012500Z
+SUMMARY:E: Gros Chefs Bandits c. Punks de l'Enfer
+UID:3fa28b77c6ee203d88a4fdf1cd76db5f
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7986
 DURATION:PT1H
 LOCATION:CVM-Pal
@@ -99,12 +106,5 @@ DTSTART:20261022T022500Z
 SUMMARY:E: Punks de l'Enfer - 0 c. Black Mad Squirrels - 10
 UID:2258bf0a79b278ef519e4517e516a044
 URL:http://www.procosom.com/feuille-pointage.php?match=8165
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20261119T012500Z
-SUMMARY:E: Gros Chefs Bandits c. Punks de l'Enfer
-UID:057e5e73ec30365588183d935d9a1988
 END:VEVENT
 END:VCALENDAR

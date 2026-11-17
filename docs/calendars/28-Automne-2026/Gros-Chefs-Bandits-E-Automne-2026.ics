@@ -47,13 +47,6 @@ UID:3032301850c66ad6973337ec5452c234
 URL:http://www.procosom.com/feuille-pointage.php?match=8121
 END:VEVENT
 BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20261119T012500Z
-SUMMARY:E: Gros Chefs Bandits c. Punks de l'Enfer
-UID:057e5e73ec30365588183d935d9a1988
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8078
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
@@ -61,6 +54,13 @@ DTSTART:20260924T012500Z
 SUMMARY:E: Takoyaki - 6 c. Gros Chefs Bandits - 2
 UID:bdd140b3d1dfa0d6a58d84199207137a
 URL:http://www.procosom.com/feuille-pointage.php?match=8078
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261119T012500Z
+SUMMARY:E: Gros Chefs Bandits c. Punks de l'Enfer
+UID:3fa28b77c6ee203d88a4fdf1cd76db5f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7994

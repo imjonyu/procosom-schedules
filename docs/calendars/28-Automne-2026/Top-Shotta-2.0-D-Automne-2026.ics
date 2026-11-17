@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20261120T012500Z
-SUMMARY:D: Wolfpack c. Top Shotta 2.0
-UID:7fcf3f98ea34c3dea8ffffe5edeea13b
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8016
 DURATION:PT1H
 LOCATION:CVM-Pal
@@ -70,6 +63,13 @@ DTSTART:20261029T002500Z
 SUMMARY:D: Top Shotta 2.0 - 4 c. Coyotes Urbains - 4
 UID:33caf394a8a27688b985fbd91c78aba4
 URL:http://www.procosom.com/feuille-pointage.php?match=8181
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261120T012500Z
+SUMMARY:D: Wolfpack c. Top Shotta 2.0
+UID:709987d77e56369fbe2ae0cb412b3553
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7989
