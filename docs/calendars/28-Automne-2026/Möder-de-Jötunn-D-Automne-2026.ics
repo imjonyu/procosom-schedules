@@ -49,9 +49,9 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
 LOCATION:CVM-Pal
-DTSTART:20261125T022500Z
-SUMMARY:D: Sauce AC c. Möder de Jötunn
-UID:1274476c60888ab5203c602e6bbc21c9
+DTSTART:20261120T012500Z
+SUMMARY:D: Möder de Jötunn c. Punished
+UID:c627234571ca0a2142b24855da803bb3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8004
@@ -81,13 +81,6 @@ UID:92d065c48ec74ce3eba64539cf70cef4
 URL:http://www.procosom.com/feuille-pointage.php?match=8134
 END:VEVENT
 BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20261120T012500Z
-SUMMARY:D: Möder de Jötunn c. Punished
-UID:0007a3a0700bac3f6b132cb772ae2fa5
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8045
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -95,6 +88,13 @@ DTSTART:20260915T230500Z
 SUMMARY:D: Möder de Jötunn - 2 c. Top Shotta 2.0 - 5
 UID:d68ed39a2b239c98ffb4817a232da9ef
 URL:http://www.procosom.com/feuille-pointage.php?match=8045
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261125T022500Z
+SUMMARY:D: Sauce AC c. Möder de Jötunn
+UID:e721887cfb91ab3abfc1b7fb5cb7d98e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8198

@@ -2,20 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20261127T032500Z
-SUMMARY:D: Trappeurs c. Top Shotta 2.0
-UID:f09eb431f477c4a36037ca32cf7d2e15
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20261118T002500Z
-SUMMARY:D: Pylons c. Trappeurs
-UID:b50f9cbbfbbf5161ae2349b5eba7d24c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8118
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -77,6 +63,22 @@ DTSTART:20260826T010500Z
 SUMMARY:D: P'tite Ékip - 6 c. Trappeurs - 4
 UID:2b6cdc3dfafebce6a2ad0ac12097c3aa
 URL:http://www.procosom.com/feuille-pointage.php?match=7990
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261127T032500Z
+SUMMARY:D: Trappeurs c. Top Shotta 2.0
+UID:2570ac3c30fd1f087b2b31416d1d4f4f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8236
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261118T002500Z
+SUMMARY:D: Pylons - 2 c. Trappeurs - 5
+UID:ac0d9ad9e9445480f676bd0f905adab6
+URL:http://www.procosom.com/feuille-pointage.php?match=8236
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8050

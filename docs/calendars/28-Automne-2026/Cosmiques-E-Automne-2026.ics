@@ -11,11 +11,13 @@ UID:b170bed99888bf2398d8688b09048675
 URL:http://www.procosom.com/feuille-pointage.php?match=8077
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8241
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261118T032500Z
-SUMMARY:E: Cosmiques c. Grouin Grouin
-UID:eaf532f4e7deb0ad0f487df1737036e3
+SUMMARY:E: Cosmiques - 4 c. Grouin Grouin - 2
+UID:a57a1838e57d7a6155b33e64c0732fc0
+URL:http://www.procosom.com/feuille-pointage.php?match=8241
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8011

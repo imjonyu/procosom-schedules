@@ -47,13 +47,6 @@ UID:a5d3375b93d2517d780b29e2058b61a8
 URL:http://www.procosom.com/feuille-pointage.php?match=8119
 END:VEVENT
 BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20261119T012500Z
-SUMMARY:D: Coyotes Urbains c. Tinderellas
-UID:95362b631b7e933c507b139a0718f06c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8076
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
@@ -61,6 +54,13 @@ DTSTART:20260924T002500Z
 SUMMARY:D: Coyotes Urbains - 4 c. Wolfpack - 5
 UID:2eafb9f37db7ed000f9f597ed524ed8d
 URL:http://www.procosom.com/feuille-pointage.php?match=8076
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261119T012500Z
+SUMMARY:D: Coyotes Urbains c. Tinderellas
+UID:6b17da7a99cf8245392cf29ac828fb91
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8038

@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20261125T032500Z
-SUMMARY:C: CocoCrazys c. Présidents
-UID:264682ada7876bbb0d263b071210e628
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8151
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -18,13 +11,6 @@ UID:99d80053f16b08ff44c8a3b567e22b62
 URL:http://www.procosom.com/feuille-pointage.php?match=8151
 END:VEVENT
 BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20261118T002500Z
-SUMMARY:C: Présidents c. Axolotls
-UID:e24d3f446c5d55431d52f7abfac0e32e
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8039
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -32,6 +18,22 @@ DTSTART:20260910T232500Z
 SUMMARY:C: Présidents - 1 c. Jagrbombs - 3
 UID:2349e2974b758b1dc8a92757b78aca7c
 URL:http://www.procosom.com/feuille-pointage.php?match=8039
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8235
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261118T002500Z
+SUMMARY:C: Présidents - 7 c. Axolotls - 3
+UID:4037439f94721a4853f6619f18c7c1c9
+URL:http://www.procosom.com/feuille-pointage.php?match=8235
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261125T032500Z
+SUMMARY:C: CocoCrazys c. Présidents
+UID:3134c176841a3825fed97fbd31b43f0d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8172

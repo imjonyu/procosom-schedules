@@ -20,13 +20,6 @@ UID:ae12fd0ff874cef215edb10624cf2d00
 URL:http://www.procosom.com/feuille-pointage.php?match=8081
 END:VEVENT
 BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20261119T022500Z
-SUMMARY:B: Golden Kales HC c. Chuck Norris
-UID:2e13b605079a9d94d10666fe8270c06e
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8124
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -88,6 +81,13 @@ DTSTART:20261112T022500Z
 SUMMARY:B: Front de Libération du Cosom - 3 c. Golden Kales HC - 8
 UID:6b85abcbb20bae2151a42ae41e15fb1a
 URL:http://www.procosom.com/feuille-pointage.php?match=8226
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261119T022500Z
+SUMMARY:B: Golden Kales HC c. Chuck Norris
+UID:42076ea894666d329bc573906ef0e95c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8012

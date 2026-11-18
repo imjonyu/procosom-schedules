@@ -38,13 +38,6 @@ UID:2349e2974b758b1dc8a92757b78aca7c
 URL:http://www.procosom.com/feuille-pointage.php?match=8039
 END:VEVENT
 BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20261120T022500Z
-SUMMARY:C: Goats c. Jagrbombs
-UID:5156f6fad55afab56dbad9c60fd400b1
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8171
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -63,13 +56,6 @@ UID:38de70e9e3ce58366a96b11545364a39
 URL:http://www.procosom.com/feuille-pointage.php?match=8083
 END:VEVENT
 BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20261118T012500Z
-SUMMARY:C: Ballebuzards c. Jagrbombs
-UID:d91067721c98d82530e0b53debc842ae
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8006
 DURATION:PT1H
 LOCATION:CVM-Pal
@@ -77,6 +63,15 @@ DTSTART:20260901T230500Z
 SUMMARY:C: CocoCrazys - 9 c. Jagrbombs - 2
 UID:8c137613531580a39f631746780ea385
 URL:http://www.procosom.com/feuille-pointage.php?match=8006
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8237
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261118T012500Z
+SUMMARY:C: Ballebuzards - 6 c. Jagrbombs - 1
+UID:456fdc1b034596813cf7150baf40a3a5
+URL:http://www.procosom.com/feuille-pointage.php?match=8237
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8108
@@ -95,6 +90,13 @@ DTSTART:20260828T012500Z
 SUMMARY:C: Jagrbombs - 5 c. Gros Matous - 10
 UID:ebcf0beb50fed537d000ba1986ca6ea3
 URL:http://www.procosom.com/feuille-pointage.php?match=8002
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261120T022500Z
+SUMMARY:C: Goats c. Jagrbombs
+UID:9b2d70545f286db1f1164a27fd320e9f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8147

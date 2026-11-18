@@ -56,13 +56,6 @@ UID:ac4aba1e0786b80f224bb44a400f6648
 URL:http://www.procosom.com/feuille-pointage.php?match=8065
 END:VEVENT
 BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20261113T012500Z
-SUMMARY:D: Guerriers c. Wolfpack
-UID:31345916f735abe20db4844f91c23b95
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8105
 DURATION:PT1H
 LOCATION:CVM-Pal
@@ -81,6 +74,13 @@ UID:5cceffc17db0ae3eb035a8bcd4a9e1b6
 URL:http://www.procosom.com/feuille-pointage.php?match=8127
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261127T032500Z
+SUMMARY:D: Guerriers c. Wolfpack
+UID:d7a59bca3e6d0a32cb75300adcf89f19
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8040
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -94,7 +94,7 @@ DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261120T012500Z
 SUMMARY:D: Wolfpack c. Top Shotta 2.0
-UID:709987d77e56369fbe2ae0cb412b3553
+UID:739c45eb19ef086343bf18ab4ca54faa
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8001

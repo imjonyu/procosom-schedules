@@ -11,6 +11,22 @@ UID:b7075329bb150e1c257e1bcae8f726c7
 URL:http://www.procosom.com/feuille-pointage.php?match=8092
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261126T012500Z
+SUMMARY:B: Chuck Norris c. Front de Libération du Cosom
+UID:21dafde9d9050dcaa9e45e89d80d6b58
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8238
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261118T012500Z
+SUMMARY:B: Front de Libération du Cosom - 2 c. Scie-Hawks - 6
+UID:72c4600bed427857f90c0bf164458c24
+URL:http://www.procosom.com/feuille-pointage.php?match=8238
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8075
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -63,20 +79,6 @@ DTSTART:20261112T022500Z
 SUMMARY:B: Front de Libération du Cosom - 3 c. Golden Kales HC - 8
 UID:6b85abcbb20bae2151a42ae41e15fb1a
 URL:http://www.procosom.com/feuille-pointage.php?match=8226
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20261126T012500Z
-SUMMARY:B: Chuck Norris c. Front de Libération du Cosom
-UID:9365c386067f605302032d4e5fe952b8
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20261118T012500Z
-SUMMARY:B: Front de Libération du Cosom c. Scie-Hawks
-UID:62c7c83bf82eadecd0c1c76f66bc7ac4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8024

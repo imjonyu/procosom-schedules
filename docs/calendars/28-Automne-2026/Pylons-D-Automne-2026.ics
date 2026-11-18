@@ -11,13 +11,6 @@ UID:fc46ad909191196826f0e796cfef4d1d
 URL:http://www.procosom.com/feuille-pointage.php?match=8216
 END:VEVENT
 BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20261118T002500Z
-SUMMARY:D: Pylons c. Trappeurs
-UID:b50f9cbbfbbf5161ae2349b5eba7d24c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8065
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -34,13 +27,6 @@ DTSTART:20261028T022500Z
 SUMMARY:D: Sauce AC - 6 c. Pylons - 4
 UID:24225fc9015753fd177a50b2243c8d94
 URL:http://www.procosom.com/feuille-pointage.php?match=8178
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20261125T002500Z
-SUMMARY:D: Guerriers c. Pylons
-UID:402a9669607d32721ed164f174a51fc8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8198
@@ -79,6 +65,15 @@ UID:9611c276c600690df79e25d91ec95839
 URL:http://www.procosom.com/feuille-pointage.php?match=8144
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8236
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261118T002500Z
+SUMMARY:D: Pylons - 2 c. Trappeurs - 5
+UID:ac0d9ad9e9445480f676bd0f905adab6
+URL:http://www.procosom.com/feuille-pointage.php?match=8236
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7989
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -86,6 +81,13 @@ DTSTART:20260826T010500Z
 SUMMARY:D: Top Shotta 2.0 - 7 c. Pylons - 4
 UID:477e624e57e588bf6c7f21810739abda
 URL:http://www.procosom.com/feuille-pointage.php?match=7989
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261125T002500Z
+SUMMARY:D: Guerriers c. Pylons
+UID:e6cbc23c8d3a190ba96d0df3c3c1cdd0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8066

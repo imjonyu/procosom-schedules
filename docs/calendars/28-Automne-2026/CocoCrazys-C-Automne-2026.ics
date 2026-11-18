@@ -11,13 +11,6 @@ UID:a1e27a96bd4792041a593275cbfe8873
 URL:http://www.procosom.com/feuille-pointage.php?match=8051
 END:VEVENT
 BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20261125T032500Z
-SUMMARY:C: CocoCrazys c. Présidents
-UID:264682ada7876bbb0d263b071210e628
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7996
 DURATION:PT1H
 LOCATION:CVM-Pal
@@ -25,6 +18,13 @@ DTSTART:20260827T012500Z
 SUMMARY:C: Goats - 0 c. CocoCrazys - 5
 UID:3e426ce61bfc5af517f0721813d672f8
 URL:http://www.procosom.com/feuille-pointage.php?match=7996
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261125T032500Z
+SUMMARY:C: CocoCrazys c. Présidents
+UID:3134c176841a3825fed97fbd31b43f0d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8174
@@ -63,13 +63,6 @@ UID:a57d48aa9ada53192e1fddd8dae24c03
 URL:http://www.procosom.com/feuille-pointage.php?match=8067
 END:VEVENT
 BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20261118T022500Z
-SUMMARY:C: CocoCrazys c. Evil Sticks
-UID:dcdfa34d007c102c37b5d2a70e82d0e9
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8151
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -104,5 +97,14 @@ DTSTART:20260930T002500Z
 SUMMARY:C: Axolotls - 3 c. CocoCrazys - 8
 UID:e946115fed14eb3b6bafba76b6af2094
 URL:http://www.procosom.com/feuille-pointage.php?match=8090
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8239
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261118T022500Z
+SUMMARY:C: CocoCrazys - 3 c. Evil Sticks - 2
+UID:85b76407c334e73755e5de3519b205eb
+URL:http://www.procosom.com/feuille-pointage.php?match=8239
 END:VEVENT
 END:VCALENDAR

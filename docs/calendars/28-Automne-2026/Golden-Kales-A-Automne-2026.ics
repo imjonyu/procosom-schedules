@@ -20,20 +20,6 @@ UID:3b49ad3a06ad3a7a234d2098bda20f9f
 URL:http://www.procosom.com/feuille-pointage.php?match=8104
 END:VEVENT
 BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20261113T012500Z
-SUMMARY:A: Golden Kales c. Mighty Ducks
-UID:9ccf7a4476cc248e0f5a93ff4ecbd873
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20261119T032500Z
-SUMMARY:A: Golden Kales c. Mouettes
-UID:f2e72489e903c17437c3da8662687400
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8168
 DURATION:PT1H
 LOCATION:CVM-Pal
@@ -45,9 +31,9 @@ END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
 LOCATION:CVM-Pal
-DTSTART:20261127T012500Z
-SUMMARY:A: Barking Dogs c. Golden Kales
-UID:e638420fcc5a9edb1349068e93383656
+DTSTART:20261126T032500Z
+SUMMARY:A: Golden Kales c. Mighty Ducks
+UID:68ea0d80639106d82bd8644fc85725bc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8140
@@ -77,6 +63,13 @@ UID:8fee6cb50df447c537a69d8e19c80300
 URL:http://www.procosom.com/feuille-pointage.php?match=7999
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261127T012500Z
+SUMMARY:A: Barking Dogs c. Golden Kales
+UID:63fbf34a67983479311cb0b6c924d19d
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8042
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -93,6 +86,13 @@ DTSTART:20261106T012500Z
 SUMMARY:A: Jeunes Professionnels - 5 c. Golden Kales - 3
 UID:cb8a57749452efc34ec022bfb48bb8d4
 URL:http://www.procosom.com/feuille-pointage.php?match=8209
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261119T032500Z
+SUMMARY:A: Golden Kales c. Mouettes
+UID:a5f22037ef2784bb6a1a9c0bc8bf8ca9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8055

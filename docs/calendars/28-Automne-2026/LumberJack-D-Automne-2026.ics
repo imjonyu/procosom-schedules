@@ -33,7 +33,7 @@ DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261127T012500Z
 SUMMARY:D: LumberJack c. Punished
-UID:42e71af2e7318492cc9831fcbb789b25
+UID:ffbf17565e61cb787216abdffdb1354f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8156
@@ -81,6 +81,13 @@ UID:d906773f388bb9b41bf350ee653dd145
 URL:http://www.procosom.com/feuille-pointage.php?match=8220
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261126T032500Z
+SUMMARY:D: P'tite Ékip c. LumberJack
+UID:65b45165c84244080b6b9a20e90ec0b9
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8052
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -88,13 +95,6 @@ DTSTART:20260916T232500Z
 SUMMARY:D: LumberJack - 4 c. Coyotes Urbains - 6
 UID:86d0431abb6e590dced93cb032ea4e0d
 URL:http://www.procosom.com/feuille-pointage.php?match=8052
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20261126T032500Z
-SUMMARY:D: P'tite Ékip c. LumberJack
-UID:ee5e6c64d322463f74e50d325c920e8c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8001

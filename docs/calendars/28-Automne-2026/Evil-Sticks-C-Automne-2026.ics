@@ -15,7 +15,7 @@ DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261120T022500Z
 SUMMARY:C: Evil Sticks c. Gros Matous
-UID:6ac6b213e564982acc980715de9e0f25
+UID:64faf5c764ffe4a2a8d094194bddd13b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8196
@@ -25,6 +25,13 @@ DTSTART:20261104T012500Z
 SUMMARY:C: Evil Sticks - 3 c. Ballebuzards - 2
 UID:90527cbb8a586e20da7493106529ba5b
 URL:http://www.procosom.com/feuille-pointage.php?match=8196
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261125T032500Z
+SUMMARY:C: Ballebuzards c. Evil Sticks
+UID:0258f8e1ebe356e2568f6d959a5d1069
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8171
@@ -43,13 +50,6 @@ DTSTART:20260904T002500Z
 SUMMARY:C: Gros Matous - 5 c. Evil Sticks - 4
 UID:a541ac4b117a2a944d3bd92826850d52
 URL:http://www.procosom.com/feuille-pointage.php?match=8020
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20261113T022500Z
-SUMMARY:C: Ballebuzards c. Evil Sticks
-UID:40ad8b19e841a7e5640766a269c72d04
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8112
@@ -79,11 +79,13 @@ UID:81265b9c705e2f5c9088658154b89c11
 URL:http://www.procosom.com/feuille-pointage.php?match=8084
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8239
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261118T022500Z
-SUMMARY:C: CocoCrazys c. Evil Sticks
-UID:dcdfa34d007c102c37b5d2a70e82d0e9
+SUMMARY:C: CocoCrazys - 3 c. Evil Sticks - 2
+UID:85b76407c334e73755e5de3519b205eb
+URL:http://www.procosom.com/feuille-pointage.php?match=8239
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8041

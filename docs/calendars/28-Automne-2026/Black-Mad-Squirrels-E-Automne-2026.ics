@@ -2,6 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8240
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261118T022500Z
+SUMMARY:E: Invincibles - 2 c. Black Mad Squirrels - 6
+UID:024cf658cc8d8be6b1aa86adf6d7f299
+URL:http://www.procosom.com/feuille-pointage.php?match=8240
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261125T022500Z
+SUMMARY:E: Black Mad Squirrels c. Grainezky
+UID:2e59d98e7e1d69f70e7d592c70101d1f
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8068
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -9,13 +25,6 @@ DTSTART:20260923T000500Z
 SUMMARY:E: Grouin Grouin - 6 c. Black Mad Squirrels - 4
 UID:c5f70087ae3b1832c0ff537433e3993e
 URL:http://www.procosom.com/feuille-pointage.php?match=8068
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20261125T022500Z
-SUMMARY:E: Black Mad Squirrels c. Grainezky
-UID:9adfe75d794f86da5bd3d4119b5d9171
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8207
@@ -52,13 +61,6 @@ DTSTART:20260903T232500Z
 SUMMARY:E: Black Mad Squirrels - 3 c. Takoyaki - 7
 UID:884fce5ad50e901ddf70e4ac6f4fc7a2
 URL:http://www.procosom.com/feuille-pointage.php?match=8019
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20261118T022500Z
-SUMMARY:E: Invincibles c. Black Mad Squirrels
-UID:c5e00e66f6517c84b1206489a099fe93
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8063

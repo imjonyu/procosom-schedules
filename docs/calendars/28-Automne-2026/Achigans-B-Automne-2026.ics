@@ -2,20 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20261125T012500Z
-SUMMARY:B: Mêlés Noirs c. Achigans
-UID:dfb99028c6c3da911bc3549c2e508dea
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20261127T022500Z
-SUMMARY:B: TDC Sélections c. Achigans
-UID:33063bf1e24be2504bc2aa8bb5eb3b7a
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8212
 DURATION:PT1H
 LOCATION:CVM-Pal
@@ -26,10 +12,10 @@ URL:http://www.procosom.com/feuille-pointage.php?match=8212
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20261113T002500Z
-SUMMARY:B: Scie-Hawks c. Achigans
-UID:357bf28d9f1f4c29d208e6d1071b47ef
+LOCATION:CVM-Pal
+DTSTART:20261125T012500Z
+SUMMARY:B: Mêlés Noirs c. Achigans
+UID:37501dbedde8e75bb584fdfeb9efe749
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8103
@@ -39,6 +25,13 @@ DTSTART:20261001T232500Z
 SUMMARY:B: Golden Kales HC - 6 c. Achigans - 5
 UID:08c7d84749bd44916889325caf42be33
 URL:http://www.procosom.com/feuille-pointage.php?match=8103
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261127T022500Z
+SUMMARY:B: TDC Sélections c. Achigans
+UID:70eca75a07bb41bbc62abc9eb12f7930
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8003
@@ -84,6 +77,13 @@ DTSTART:20260909T232500Z
 SUMMARY:B: Mêlés Noirs - 2 c. Achigans - 6
 UID:5e84b97682bf0ea7eefa94be6653e2f4
 URL:http://www.procosom.com/feuille-pointage.php?match=8032
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261120T032500Z
+SUMMARY:B: Scie-Hawks c. Achigans
+UID:f5580e5961382ca350f6f8bf367c9386
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8074

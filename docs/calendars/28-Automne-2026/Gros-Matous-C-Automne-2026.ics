@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20261120T022500Z
-SUMMARY:C: Evil Sticks c. Gros Matous
-UID:6ac6b213e564982acc980715de9e0f25
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8049
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -25,6 +18,13 @@ DTSTART:20261105T022500Z
 SUMMARY:C: Gros Matous - 3 c. Goats - 2
 UID:5ad884641ddea0d1460e2e1d0e5bc406
 URL:http://www.procosom.com/feuille-pointage.php?match=8204
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261120T022500Z
+SUMMARY:C: Evil Sticks c. Gros Matous
+UID:64faf5c764ffe4a2a8d094194bddd13b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8070
@@ -63,6 +63,13 @@ UID:a541ac4b117a2a944d3bd92826850d52
 URL:http://www.procosom.com/feuille-pointage.php?match=8020
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261126T022500Z
+SUMMARY:C: Momentums c. Gros Matous
+UID:9d3bcdcb4bdab6194b9d10af1f3fb49f
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8125
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -70,13 +77,6 @@ DTSTART:20261009T002500Z
 SUMMARY:C: Gros Matous - 5 c. Présidents - 4
 UID:e901077aab2f3195dceb9998367d0783
 URL:http://www.procosom.com/feuille-pointage.php?match=8125
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20261126T022500Z
-SUMMARY:C: Momentums c. Gros Matous
-UID:8dbe9e3feaf7a5fb6ef5dd8336224618
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8031

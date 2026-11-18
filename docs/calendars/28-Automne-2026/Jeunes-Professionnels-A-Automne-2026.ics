@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20261127T002500Z
-SUMMARY:A: Jeunes Professionnels c. Chums de Palettes
-UID:d0f2cd10cee7924875e34551a02dce1f
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8145
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -43,6 +36,13 @@ DTSTART:20260925T022500Z
 SUMMARY:A: TTC Club - 4 c. Jeunes Professionnels - 4
 UID:473382c59ba95196672bd74b5b602071
 URL:http://www.procosom.com/feuille-pointage.php?match=8086
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261127T002500Z
+SUMMARY:A: Jeunes Professionnels c. Chums de Palettes
+UID:02754e9000db0dda0f8ed257f6fb13fa
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8209

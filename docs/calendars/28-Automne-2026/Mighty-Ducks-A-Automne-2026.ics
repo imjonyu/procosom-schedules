@@ -20,20 +20,6 @@ UID:d7b8950d37dcb13bf761ea36e84f251d
 URL:http://www.procosom.com/feuille-pointage.php?match=8058
 END:VEVENT
 BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20261113T012500Z
-SUMMARY:A: Golden Kales c. Mighty Ducks
-UID:9ccf7a4476cc248e0f5a93ff4ecbd873
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20261120T002500Z
-SUMMARY:A: Mighty Ducks c. TTC Club
-UID:d5ec75ab7e1982b8230302d63045722c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8182
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
@@ -70,6 +56,13 @@ UID:caafc59456701e8bb40d1611d16f558c
 URL:http://www.procosom.com/feuille-pointage.php?match=8042
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261126T032500Z
+SUMMARY:A: Golden Kales c. Mighty Ducks
+UID:68ea0d80639106d82bd8644fc85725bc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8079
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -95,6 +88,13 @@ DTSTART:20261105T012500Z
 SUMMARY:A: Mighty Ducks - 8 c. Chums de Palettes - 1
 UID:79cc01813172108e813d693315f43932
 URL:http://www.procosom.com/feuille-pointage.php?match=8202
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261120T002500Z
+SUMMARY:A: Mighty Ducks c. TTC Club
+UID:de47a50a2bf75c6ede0d99e9cc3ed7b8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7992

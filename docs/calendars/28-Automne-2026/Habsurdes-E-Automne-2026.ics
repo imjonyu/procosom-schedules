@@ -11,13 +11,6 @@ UID:9a66be28eb1481251ef0c6671502369c
 URL:http://www.procosom.com/feuille-pointage.php?match=8056
 END:VEVENT
 BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20261119T022500Z
-SUMMARY:E: Habsurdes c. TDC
-UID:74d5b8a94bdbdf7fa604eca8f0c3ffa6
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8029
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -25,6 +18,13 @@ DTSTART:20260909T010500Z
 SUMMARY:E: Habsurdes - 7 c. Invincibles - 3
 UID:5b2b9444b86c0e8cf901f21606c2a605
 URL:http://www.procosom.com/feuille-pointage.php?match=8029
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261119T022500Z
+SUMMARY:E: Habsurdes c. TDC
+UID:fa4422a1b32e5c3c6e6064af6b2b5228
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8069
@@ -72,6 +72,13 @@ UID:618a8040343d7086694b29786cc607e3
 URL:http://www.procosom.com/feuille-pointage.php?match=8005
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261126T002500Z
+SUMMARY:E: Takoyaki c. Habsurdes
+UID:fb00409afda90d91ae5b64bcfa2fdfda
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8088
 DURATION:PT1H
 LOCATION:CVM-Pal
@@ -88,13 +95,6 @@ DTSTART:20261013T232500Z
 SUMMARY:E: Habsurdes - 3 c. Punks de l'Enfer - 5
 UID:408b6763053612e3f1cbb34e6301beeb
 URL:http://www.procosom.com/feuille-pointage.php?match=8131
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20261126T002500Z
-SUMMARY:E: Takoyaki c. Habsurdes
-UID:ce9af0c12c1b31ff57779664c4c75992
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8123

@@ -2,6 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261119T012500Z
+SUMMARY:E: Gros Chefs Bandits c. Punks de l'Enfer
+UID:1d270278ab280e18af048c8a1ce35bd0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8199
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -18,13 +25,6 @@ DTSTART:20261009T012500Z
 SUMMARY:E: Takoyaki - 5 c. Punks de l'Enfer - 2
 UID:32db764218b2e1421945a3ccff6f132f
 URL:http://www.procosom.com/feuille-pointage.php?match=8128
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20261119T012500Z
-SUMMARY:E: Gros Chefs Bandits c. Punks de l'Enfer
-UID:3fa28b77c6ee203d88a4fdf1cd76db5f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7986

@@ -74,13 +74,6 @@ UID:9c268e5ee4c7421e0c683bda0a0e0480
 URL:http://www.procosom.com/feuille-pointage.php?match=8064
 END:VEVENT
 BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20261120T032500Z
-SUMMARY:E: Grainezky c. Takoyaki
-UID:4c7170ca7a28528c4fc11d278163c533
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8019
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -91,16 +84,25 @@ URL:http://www.procosom.com/feuille-pointage.php?match=8019
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261126T002500Z
+SUMMARY:E: Takoyaki c. Habsurdes
+UID:fb00409afda90d91ae5b64bcfa2fdfda
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8234
+DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261118T032500Z
-SUMMARY:E: Takoyaki c. Invincibles
-UID:77065435c5de533d184a5c1a21eb2595
+SUMMARY:E: Takoyaki - 10 c. Invincibles - 2
+UID:0f3af054537deea2e47af1dd70c3b900
+URL:http://www.procosom.com/feuille-pointage.php?match=8234
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
-DTSTART:20261126T002500Z
-SUMMARY:E: Takoyaki c. Habsurdes
-UID:ce9af0c12c1b31ff57779664c4c75992
+DTSTART:20261120T032500Z
+SUMMARY:E: Grainezky c. Takoyaki
+UID:8995bb66c75cfd3834391365016224ce
 END:VEVENT
 END:VCALENDAR
