@@ -45,11 +45,13 @@ UID:65f566695e7c02926d62a5ad8999b648
 URL:http://www.procosom.com/feuille-pointage.php?match=8133
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8242
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261119T002500Z
-SUMMARY:B: Mêlés Noirs c. TDC Sélections
+SUMMARY:B: Mêlés Noirs - 8 c. TDC Sélections - 3
 UID:47df4a7426ec0590926c5e9b43be020c
+URL:http://www.procosom.com/feuille-pointage.php?match=8242
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8164

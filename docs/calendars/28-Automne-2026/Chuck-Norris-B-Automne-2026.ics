@@ -61,11 +61,13 @@ UID:9b90c7d9644b4dc1432cc488cddbe278
 URL:http://www.procosom.com/feuille-pointage.php?match=8146
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8245
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261119T022500Z
-SUMMARY:B: Golden Kales HC c. Chuck Norris
+SUMMARY:B: Golden Kales HC - 4 c. Chuck Norris - 0
 UID:42076ea894666d329bc573906ef0e95c
+URL:http://www.procosom.com/feuille-pointage.php?match=8245
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8188

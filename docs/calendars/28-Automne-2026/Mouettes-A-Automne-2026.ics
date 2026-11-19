@@ -81,11 +81,13 @@ UID:beb0a69e1c4d3dfa5278d2e7aed68547
 URL:http://www.procosom.com/feuille-pointage.php?match=8054
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8247
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261119T032500Z
-SUMMARY:A: Golden Kales c. Mouettes
+SUMMARY:A: Golden Kales - 0 c. Mouettes - 10
 UID:a5f22037ef2784bb6a1a9c0bc8bf8ca9
+URL:http://www.procosom.com/feuille-pointage.php?match=8247
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8079

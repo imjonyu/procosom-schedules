@@ -20,11 +20,13 @@ UID:fc46ad909191196826f0e796cfef4d1d
 URL:http://www.procosom.com/feuille-pointage.php?match=8216
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8243
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261119T012500Z
-SUMMARY:D: Coyotes Urbains c. Tinderellas
+SUMMARY:D: Coyotes Urbains - 11 c. Tinderellas - 2
 UID:6b17da7a99cf8245392cf29ac828fb91
+URL:http://www.procosom.com/feuille-pointage.php?match=8243
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8113

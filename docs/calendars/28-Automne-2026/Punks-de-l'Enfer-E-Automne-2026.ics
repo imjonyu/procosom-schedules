@@ -2,11 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8244
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261119T012500Z
-SUMMARY:E: Gros Chefs Bandits c. Punks de l'Enfer
+SUMMARY:E: Gros Chefs Bandits - 2 c. Punks de l'Enfer - 4
 UID:1d270278ab280e18af048c8a1ce35bd0
+URL:http://www.procosom.com/feuille-pointage.php?match=8244
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8199

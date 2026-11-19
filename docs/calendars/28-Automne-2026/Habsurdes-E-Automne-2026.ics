@@ -20,11 +20,13 @@ UID:5b2b9444b86c0e8cf901f21606c2a605
 URL:http://www.procosom.com/feuille-pointage.php?match=8029
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8246
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261119T022500Z
-SUMMARY:E: Habsurdes c. TDC
+SUMMARY:E: Habsurdes - 5 c. TDC - 3
 UID:fa4422a1b32e5c3c6e6064af6b2b5228
+URL:http://www.procosom.com/feuille-pointage.php?match=8246
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8069

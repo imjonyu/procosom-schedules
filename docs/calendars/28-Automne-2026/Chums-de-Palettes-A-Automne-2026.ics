@@ -29,11 +29,13 @@ UID:3b49ad3a06ad3a7a234d2098bda20f9f
 URL:http://www.procosom.com/feuille-pointage.php?match=8104
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8248
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261119T032500Z
-SUMMARY:A: Chums de Palettes c. Barking Dogs
+SUMMARY:A: Chums de Palettes - 4 c. Barking Dogs - 3
 UID:189ec85034aed17e09554dbe3870627c
+URL:http://www.procosom.com/feuille-pointage.php?match=8248
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8057
