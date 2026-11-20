@@ -99,10 +99,12 @@ UID:0f3af054537deea2e47af1dd70c3b900
 URL:http://www.procosom.com/feuille-pointage.php?match=8234
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8254
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261120T032500Z
-SUMMARY:E: Grainezky c. Takoyaki
+SUMMARY:E: Grainezky - 7 c. Takoyaki - 3
 UID:8995bb66c75cfd3834391365016224ce
+URL:http://www.procosom.com/feuille-pointage.php?match=8254
 END:VEVENT
 END:VCALENDAR

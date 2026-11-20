@@ -20,11 +20,13 @@ UID:5ad884641ddea0d1460e2e1d0e5bc406
 URL:http://www.procosom.com/feuille-pointage.php?match=8204
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8252
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261120T022500Z
-SUMMARY:C: Evil Sticks c. Gros Matous
+SUMMARY:C: Evil Sticks - 4 c. Gros Matous - 7
 UID:64faf5c764ffe4a2a8d094194bddd13b
+URL:http://www.procosom.com/feuille-pointage.php?match=8252
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8070

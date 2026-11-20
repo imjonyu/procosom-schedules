@@ -20,11 +20,13 @@ UID:35695dcd75d46d202885b522dec00708
 URL:http://www.procosom.com/feuille-pointage.php?match=8149
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8232
 DURATION:PT1H
-LOCATION:CVM-Quad-#3
+LOCATION:CVM-Pal
 DTSTART:20261120T032500Z
-SUMMARY:B: TDC Sélections c. Chuck Norris
-UID:3985e647ed236740b2a0b56f97f4c834
+SUMMARY:B: TDC Sélections - 3 c. Chuck Norris - 9
+UID:b8c2fa2b818bdd4a19fb7b82f37f039d
+URL:http://www.procosom.com/feuille-pointage.php?match=8232
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8212

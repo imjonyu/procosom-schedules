@@ -101,10 +101,12 @@ UID:9d0c0d28bbcaf15d2356b565d63f0674
 URL:http://www.procosom.com/feuille-pointage.php?match=8055
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8249
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261120T002500Z
-SUMMARY:A: Mighty Ducks c. TTC Club
+SUMMARY:A: Mighty Ducks - 10 c. TTC Club - 1
 UID:de47a50a2bf75c6ede0d99e9cc3ed7b8
+URL:http://www.procosom.com/feuille-pointage.php?match=8249
 END:VEVENT
 END:VCALENDAR

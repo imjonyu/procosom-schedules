@@ -29,11 +29,13 @@ UID:ef90387b17a1b64c249f5294a68e6866
 URL:http://www.procosom.com/feuille-pointage.php?match=8205
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8251
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261120T012500Z
-SUMMARY:D: Möder de Jötunn c. Punished
+SUMMARY:D: Möder de Jötunn - 2 c. Punished - 8
 UID:c627234571ca0a2142b24855da803bb3
+URL:http://www.procosom.com/feuille-pointage.php?match=8251
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H

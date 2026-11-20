@@ -92,11 +92,13 @@ UID:ebcf0beb50fed537d000ba1986ca6ea3
 URL:http://www.procosom.com/feuille-pointage.php?match=8002
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8253
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261120T022500Z
-SUMMARY:C: Goats c. Jagrbombs
+SUMMARY:C: Goats - 5 c. Jagrbombs - 4
 UID:9b2d70545f286db1f1164a27fd320e9f
+URL:http://www.procosom.com/feuille-pointage.php?match=8253
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8147

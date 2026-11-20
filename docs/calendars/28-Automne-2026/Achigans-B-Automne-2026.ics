@@ -2,6 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8229
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20261120T032500Z
+SUMMARY:B: Scie-Hawks - 3 c. Achigans - 7
+UID:fd935f4f97f09b1e58c45ed4b18043d6
+URL:http://www.procosom.com/feuille-pointage.php?match=8229
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8212
 DURATION:PT1H
 LOCATION:CVM-Pal
@@ -77,13 +86,6 @@ DTSTART:20260909T232500Z
 SUMMARY:B: Mêlés Noirs - 2 c. Achigans - 6
 UID:5e84b97682bf0ea7eefa94be6653e2f4
 URL:http://www.procosom.com/feuille-pointage.php?match=8032
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20261120T032500Z
-SUMMARY:B: Scie-Hawks c. Achigans
-UID:f5580e5961382ca350f6f8bf367c9386
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8074

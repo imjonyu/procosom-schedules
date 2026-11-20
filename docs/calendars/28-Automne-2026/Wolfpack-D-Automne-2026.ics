@@ -90,11 +90,13 @@ UID:7554e7fba1b7b813788425db017b1e81
 URL:http://www.procosom.com/feuille-pointage.php?match=8040
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8250
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261120T012500Z
-SUMMARY:D: Wolfpack c. Top Shotta 2.0
+SUMMARY:D: Wolfpack - 3 c. Top Shotta 2.0 - 7
 UID:739c45eb19ef086343bf18ab4ca54faa
+URL:http://www.procosom.com/feuille-pointage.php?match=8250
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8001

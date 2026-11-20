@@ -29,6 +29,15 @@ UID:774f15c4eaa9de2a01b2f9b75732f76e
 URL:http://www.procosom.com/feuille-pointage.php?match=8177
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8229
+DURATION:PT1H
+LOCATION:CVM-Quad-#3
+DTSTART:20261120T032500Z
+SUMMARY:B: Scie-Hawks - 3 c. Achigans - 7
+UID:fd935f4f97f09b1e58c45ed4b18043d6
+URL:http://www.procosom.com/feuille-pointage.php?match=8229
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8092
 DURATION:PT1H
 LOCATION:CVM-Pal
@@ -90,13 +99,6 @@ DTSTART:20261106T002500Z
 SUMMARY:B: Scie-Hawks - 4 c. Golden Kales HC - 4
 UID:9dd2faedca4658abc901080bc80889ce
 URL:http://www.procosom.com/feuille-pointage.php?match=8208
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20261120T032500Z
-SUMMARY:B: Scie-Hawks c. Achigans
-UID:f5580e5961382ca350f6f8bf367c9386
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8074
