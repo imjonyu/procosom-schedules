@@ -83,13 +83,6 @@ UID:477e624e57e588bf6c7f21810739abda
 URL:http://www.procosom.com/feuille-pointage.php?match=7989
 END:VEVENT
 BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20261125T002500Z
-SUMMARY:D: Guerriers c. Pylons
-UID:e6cbc23c8d3a190ba96d0df3c3c1cdd0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8066
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -97,6 +90,13 @@ DTSTART:20260922T230500Z
 SUMMARY:D: Pylons - 8 c. P'tite Ékip - 4
 UID:0c78be8c8361caaebd57adacdad88043
 URL:http://www.procosom.com/feuille-pointage.php?match=8066
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261125T002500Z
+SUMMARY:D: Guerriers c. Pylons
+UID:215d02c590c0b2cd669c8c4746e13824
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8095

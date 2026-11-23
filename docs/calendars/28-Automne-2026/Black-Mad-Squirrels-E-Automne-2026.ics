@@ -11,13 +11,6 @@ UID:024cf658cc8d8be6b1aa86adf6d7f299
 URL:http://www.procosom.com/feuille-pointage.php?match=8240
 END:VEVENT
 BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20261125T022500Z
-SUMMARY:E: Black Mad Squirrels c. Grainezky
-UID:2e59d98e7e1d69f70e7d592c70101d1f
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8068
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -25,6 +18,13 @@ DTSTART:20260923T000500Z
 SUMMARY:E: Grouin Grouin - 6 c. Black Mad Squirrels - 4
 UID:c5f70087ae3b1832c0ff537433e3993e
 URL:http://www.procosom.com/feuille-pointage.php?match=8068
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261125T022500Z
+SUMMARY:E: Black Mad Squirrels c. Grainezky
+UID:88fdb400bb8755439cce6ad67dca6b25
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8207

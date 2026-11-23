@@ -83,13 +83,6 @@ UID:60ed0f607ca205edb3b6f305295d2169
 URL:http://www.procosom.com/feuille-pointage.php?match=8197
 END:VEVENT
 BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20261125T022500Z
-SUMMARY:D: Sauce AC c. Möder de Jötunn
-UID:e721887cfb91ab3abfc1b7fb5cb7d98e
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8073
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -106,5 +99,12 @@ DTSTART:20260929T232500Z
 SUMMARY:D: Trappeurs - 5 c. Sauce AC - 4
 UID:7bceda69d09804ef4a96ca80692de10b
 URL:http://www.procosom.com/feuille-pointage.php?match=8087
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261125T022500Z
+SUMMARY:D: Sauce AC c. Möder de Jötunn
+UID:bef5f5bdf36fa2fa19a4517eb11a5f90
 END:VEVENT
 END:VCALENDAR

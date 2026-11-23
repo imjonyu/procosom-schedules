@@ -11,13 +11,6 @@ UID:4dcfdab057b903ee0ba550af76d99f81
 URL:http://www.procosom.com/feuille-pointage.php?match=8008
 END:VEVENT
 BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20261125T022500Z
-SUMMARY:E: Black Mad Squirrels c. Grainezky
-UID:2e59d98e7e1d69f70e7d592c70101d1f
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8175
 DURATION:PT1H
 LOCATION:CVM-Pal
@@ -25,6 +18,13 @@ DTSTART:20261028T002500Z
 SUMMARY:E: Gros Chefs Bandits - 3 c. Grainezky - 7
 UID:a5d031509fc338d1b7006e2cbff8ca23
 URL:http://www.procosom.com/feuille-pointage.php?match=8175
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261125T022500Z
+SUMMARY:E: Black Mad Squirrels c. Grainezky
+UID:88fdb400bb8755439cce6ad67dca6b25
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8069

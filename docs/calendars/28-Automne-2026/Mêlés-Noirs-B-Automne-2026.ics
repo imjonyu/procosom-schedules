@@ -20,6 +20,13 @@ UID:774f15c4eaa9de2a01b2f9b75732f76e
 URL:http://www.procosom.com/feuille-pointage.php?match=8177
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261125T012500Z
+SUMMARY:B: Mêlés Noirs c. Achigans
+UID:dfa3ed2bccbd29ebc8fc036be75ba084
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8206
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -27,13 +34,6 @@ DTSTART:20261105T032500Z
 SUMMARY:B: Chuck Norris - 8 c. Mêlés Noirs - 6
 UID:3705f4d74fccd72409ecd4a4e98477f4
 URL:http://www.procosom.com/feuille-pointage.php?match=8206
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20261125T012500Z
-SUMMARY:B: Mêlés Noirs c. Achigans
-UID:37501dbedde8e75bb584fdfeb9efe749
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8133

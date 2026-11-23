@@ -11,6 +11,13 @@ UID:fd935f4f97f09b1e58c45ed4b18043d6
 URL:http://www.procosom.com/feuille-pointage.php?match=8229
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261125T012500Z
+SUMMARY:B: Mêlés Noirs c. Achigans
+UID:dfa3ed2bccbd29ebc8fc036be75ba084
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8212
 DURATION:PT1H
 LOCATION:CVM-Pal
@@ -18,13 +25,6 @@ DTSTART:20261106T022500Z
 SUMMARY:B: Achigans - 7 c. TDC Sélections - 6
 UID:ae176b9d2615fef8b83449e8d45f35d9
 URL:http://www.procosom.com/feuille-pointage.php?match=8212
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20261125T012500Z
-SUMMARY:B: Mêlés Noirs c. Achigans
-UID:37501dbedde8e75bb584fdfeb9efe749
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8103

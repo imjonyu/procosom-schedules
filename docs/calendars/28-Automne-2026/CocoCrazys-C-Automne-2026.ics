@@ -20,13 +20,6 @@ UID:3e426ce61bfc5af517f0721813d672f8
 URL:http://www.procosom.com/feuille-pointage.php?match=7996
 END:VEVENT
 BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20261125T032500Z
-SUMMARY:C: CocoCrazys c. Présidents
-UID:3134c176841a3825fed97fbd31b43f0d
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8174
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -43,6 +36,13 @@ DTSTART:20260901T230500Z
 SUMMARY:C: CocoCrazys - 9 c. Jagrbombs - 2
 UID:8c137613531580a39f631746780ea385
 URL:http://www.procosom.com/feuille-pointage.php?match=8006
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261125T032500Z
+SUMMARY:C: CocoCrazys c. Présidents
+UID:981c99ea3931b36dcdf7b9a6f4b565cd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8137

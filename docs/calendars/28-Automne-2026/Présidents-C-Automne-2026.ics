@@ -29,13 +29,6 @@ UID:4037439f94721a4853f6619f18c7c1c9
 URL:http://www.procosom.com/feuille-pointage.php?match=8235
 END:VEVENT
 BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Quad-#1
-DTSTART:20261125T032500Z
-SUMMARY:C: CocoCrazys c. Présidents
-UID:3134c176841a3825fed97fbd31b43f0d
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8172
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -88,6 +81,13 @@ DTSTART:20260902T010500Z
 SUMMARY:C: Présidents - 3 c. Goats - 4
 UID:be3e139f12ced00d0b01a22e2e2514a0
 URL:http://www.procosom.com/feuille-pointage.php?match=8010
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261125T032500Z
+SUMMARY:C: CocoCrazys c. Présidents
+UID:981c99ea3931b36dcdf7b9a6f4b565cd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8221
