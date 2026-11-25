@@ -20,11 +20,13 @@ UID:a5d031509fc338d1b7006e2cbff8ca23
 URL:http://www.procosom.com/feuille-pointage.php?match=8175
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8259
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261125T022500Z
-SUMMARY:E: Black Mad Squirrels c. Grainezky
+SUMMARY:E: Black Mad Squirrels - 4 c. Grainezky - 3
 UID:88fdb400bb8755439cce6ad67dca6b25
+URL:http://www.procosom.com/feuille-pointage.php?match=8259
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8069

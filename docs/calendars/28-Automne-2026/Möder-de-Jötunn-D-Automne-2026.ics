@@ -83,11 +83,13 @@ UID:92d065c48ec74ce3eba64539cf70cef4
 URL:http://www.procosom.com/feuille-pointage.php?match=8134
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8260
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261125T022500Z
-SUMMARY:D: Sauce AC c. Möder de Jötunn
+SUMMARY:D: Sauce AC - 7 c. Möder de Jötunn - 2
 UID:bef5f5bdf36fa2fa19a4517eb11a5f90
+URL:http://www.procosom.com/feuille-pointage.php?match=8260
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8045

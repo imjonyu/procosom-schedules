@@ -2,11 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8233
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261125T032500Z
-SUMMARY:C: Ballebuzards c. Evil Sticks
+SUMMARY:C: Ballebuzards - 6 c. Evil Sticks - 3
 UID:7a880f7cd945dfa32fedba8e73fa1ea4
+URL:http://www.procosom.com/feuille-pointage.php?match=8233
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8015

@@ -92,11 +92,13 @@ UID:792e5033c3763f95963c9aac7e1bf611
 URL:http://www.procosom.com/feuille-pointage.php?match=7985
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8256
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261125T002500Z
-SUMMARY:A: Mouettes c. Sags
+SUMMARY:A: Mouettes - 7 c. Sags - 6
 UID:44d9e60843736d17dd1bf74b6ff977dd
+URL:http://www.procosom.com/feuille-pointage.php?match=8256
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8203

@@ -20,11 +20,13 @@ UID:774f15c4eaa9de2a01b2f9b75732f76e
 URL:http://www.procosom.com/feuille-pointage.php?match=8177
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8258
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261125T012500Z
-SUMMARY:B: Mêlés Noirs c. Achigans
+SUMMARY:B: Mêlés Noirs - 4 c. Achigans - 3
 UID:dfa3ed2bccbd29ebc8fc036be75ba084
+URL:http://www.procosom.com/feuille-pointage.php?match=8258
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8206
