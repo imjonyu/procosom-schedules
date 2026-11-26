@@ -83,6 +83,13 @@ UID:6aef144618f8457fd57fa9cb610bf383
 URL:http://www.procosom.com/feuille-pointage.php?match=8155
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261202T022500Z
+SUMMARY:Séries: E: Cougars c. Gros Chefs Bandits
+UID:deb7fc004210912de7bf5d68d88848da
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8028
 DURATION:PT1H
 LOCATION:CVM-Pal

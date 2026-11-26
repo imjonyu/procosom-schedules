@@ -74,11 +74,13 @@ UID:618a8040343d7086694b29786cc607e3
 URL:http://www.procosom.com/feuille-pointage.php?match=8005
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8262
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261126T002500Z
-SUMMARY:E: Takoyaki c. Habsurdes
+SUMMARY:E: Takoyaki - 8 c. Habsurdes - 5
 UID:fb00409afda90d91ae5b64bcfa2fdfda
+URL:http://www.procosom.com/feuille-pointage.php?match=8262
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8088
@@ -97,6 +99,13 @@ DTSTART:20261013T232500Z
 SUMMARY:E: Habsurdes - 3 c. Punks de l'Enfer - 5
 UID:408b6763053612e3f1cbb34e6301beeb
 URL:http://www.procosom.com/feuille-pointage.php?match=8131
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261204T032500Z
+SUMMARY:Séries: E: Black Mad Squirrels c. Habsurdes
+UID:0ba2413692490d0a257ed99094f30459
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8123

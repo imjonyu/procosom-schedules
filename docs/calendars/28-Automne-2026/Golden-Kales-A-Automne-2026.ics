@@ -29,11 +29,13 @@ UID:442f94dec86cabfffe744e7f163e3ce7
 URL:http://www.procosom.com/feuille-pointage.php?match=8168
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8231
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261126T032500Z
-SUMMARY:A: Golden Kales c. Mighty Ducks
+SUMMARY:A: Golden Kales - 4 c. Mighty Ducks - 5
 UID:68ea0d80639106d82bd8644fc85725bc
+URL:http://www.procosom.com/feuille-pointage.php?match=8231
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8140

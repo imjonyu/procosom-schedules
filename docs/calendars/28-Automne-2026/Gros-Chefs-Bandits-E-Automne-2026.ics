@@ -74,11 +74,20 @@ UID:d290a3b784d32b387e74205aa9d42e1d
 URL:http://www.procosom.com/feuille-pointage.php?match=7994
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8266
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261126T022500Z
-SUMMARY:E: TDC c. Gros Chefs Bandits
+SUMMARY:E: TDC - 6 c. Gros Chefs Bandits - 3
 UID:b561d8c343d59329d0153b7879390ab0
+URL:http://www.procosom.com/feuille-pointage.php?match=8266
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261202T022500Z
+SUMMARY:Séries: E: Cougars c. Gros Chefs Bandits
+UID:deb7fc004210912de7bf5d68d88848da
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8028

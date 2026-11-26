@@ -74,11 +74,13 @@ UID:068c08450838140ce886c3c91e88b6c4
 URL:http://www.procosom.com/feuille-pointage.php?match=8034
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8266
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261126T022500Z
-SUMMARY:E: TDC c. Gros Chefs Bandits
+SUMMARY:E: TDC - 6 c. Gros Chefs Bandits - 3
 UID:b561d8c343d59329d0153b7879390ab0
+URL:http://www.procosom.com/feuille-pointage.php?match=8266
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8082
@@ -97,6 +99,13 @@ DTSTART:20260918T012500Z
 SUMMARY:E: Black Mad Squirrels - 12 c. TDC - 3
 UID:c1d2cd631114987952fbdb78489bb9b0
 URL:http://www.procosom.com/feuille-pointage.php?match=8063
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261203T012500Z
+SUMMARY:Séries: E: Punks de l'Enfer c. TDC
+UID:a18b68c9645a3935821d082dbbcb53d1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8098

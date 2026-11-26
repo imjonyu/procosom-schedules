@@ -83,11 +83,13 @@ UID:884fce5ad50e901ddf70e4ac6f4fc7a2
 URL:http://www.procosom.com/feuille-pointage.php?match=8019
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8262
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261126T002500Z
-SUMMARY:E: Takoyaki c. Habsurdes
+SUMMARY:E: Takoyaki - 8 c. Habsurdes - 5
 UID:fb00409afda90d91ae5b64bcfa2fdfda
+URL:http://www.procosom.com/feuille-pointage.php?match=8262
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8234

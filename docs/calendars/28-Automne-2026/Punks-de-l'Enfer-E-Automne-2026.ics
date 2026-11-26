@@ -101,6 +101,13 @@ UID:3bb66c8b38991201599cda1ccc8fe8b3
 URL:http://www.procosom.com/feuille-pointage.php?match=8214
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261203T012500Z
+SUMMARY:Séries: E: Punks de l'Enfer c. TDC
+UID:a18b68c9645a3935821d082dbbcb53d1
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8165
 DURATION:PT1H
 LOCATION:CVM-Quad-#3

@@ -83,11 +83,13 @@ UID:71aed28915912978ac0292a87284d6f1
 URL:http://www.procosom.com/feuille-pointage.php?match=8163
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8267
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261126T032500Z
-SUMMARY:D: P'tite Ékip c. LumberJack
+SUMMARY:D: P'tite Ékip - 6 c. LumberJack - 4
 UID:65b45165c84244080b6b9a20e90ec0b9
+URL:http://www.procosom.com/feuille-pointage.php?match=8267
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8066

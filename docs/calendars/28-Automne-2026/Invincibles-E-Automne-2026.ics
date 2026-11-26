@@ -83,6 +83,13 @@ UID:6aef144618f8457fd57fa9cb610bf383
 URL:http://www.procosom.com/feuille-pointage.php?match=8155
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261202T022500Z
+SUMMARY:Séries: E: Cosmiques c. Invincibles
+UID:1c6ecf65ba07ac87e909f7cb5f92fb32
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8234
 DURATION:PT1H
 LOCATION:CVM-Pal
