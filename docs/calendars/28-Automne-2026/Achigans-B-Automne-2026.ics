@@ -38,13 +38,6 @@ UID:08c7d84749bd44916889325caf42be33
 URL:http://www.procosom.com/feuille-pointage.php?match=8103
 END:VEVENT
 BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20261127T022500Z
-SUMMARY:B: TDC Sélections c. Achigans
-UID:70eca75a07bb41bbc62abc9eb12f7930
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8003
 DURATION:PT1H
 LOCATION:CVM-Pal
@@ -79,6 +72,15 @@ DTSTART:20261030T002500Z
 SUMMARY:B: Achigans - 10 c. Chuck Norris - 3
 UID:d46ef3411cc39ffb604e56ea5d35696e
 URL:http://www.procosom.com/feuille-pointage.php?match=8188
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8272
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261127T022500Z
+SUMMARY:B: TDC Sélections - 4 c. Achigans - 3
+UID:185dbc940c1bd52165d29626d209c84d
+URL:http://www.procosom.com/feuille-pointage.php?match=8272
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8032

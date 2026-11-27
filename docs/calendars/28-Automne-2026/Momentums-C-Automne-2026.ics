@@ -101,6 +101,13 @@ UID:6b4c9637119997bfa5fe607a55c3c274
 URL:http://www.procosom.com/feuille-pointage.php?match=8141
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261202T012500Z
+SUMMARY:Séries: C: Ballebuzards c. Momentums
+UID:a8f9e0f0185934f500e235101cc6e1b1
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8225
 DURATION:PT1H
 LOCATION:CVM-Quad-#1

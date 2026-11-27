@@ -20,6 +20,13 @@ UID:442f94dec86cabfffe744e7f163e3ce7
 URL:http://www.procosom.com/feuille-pointage.php?match=8168
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261204T012500Z
+SUMMARY:Séries: A: Jeunes Professionnels c. TTC Club
+UID:25d97c58107763cea71facb4b1b2e807
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8223
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -38,11 +45,13 @@ UID:473382c59ba95196672bd74b5b602071
 URL:http://www.procosom.com/feuille-pointage.php?match=8086
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8268
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261127T002500Z
-SUMMARY:A: Jeunes Professionnels c. Chums de Palettes
+SUMMARY:A: Jeunes Professionnels - 10 c. Chums de Palettes - 4
 UID:02754e9000db0dda0f8ed257f6fb13fa
+URL:http://www.procosom.com/feuille-pointage.php?match=8268
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8209

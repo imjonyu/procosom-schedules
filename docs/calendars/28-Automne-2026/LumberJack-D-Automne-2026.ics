@@ -29,11 +29,13 @@ UID:ba01ff50501ce5c7f00c855082c0497e
 URL:http://www.procosom.com/feuille-pointage.php?match=8122
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8269
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261127T012500Z
-SUMMARY:D: LumberJack c. Punished
+SUMMARY:D: LumberJack - 8 c. Punished - 9
 UID:ffbf17565e61cb787216abdffdb1354f
+URL:http://www.procosom.com/feuille-pointage.php?match=8269
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8156
@@ -97,6 +99,13 @@ DTSTART:20260916T232500Z
 SUMMARY:D: LumberJack - 4 c. Coyotes Urbains - 6
 UID:86d0431abb6e590dced93cb032ea4e0d
 URL:http://www.procosom.com/feuille-pointage.php?match=8052
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261203T032500Z
+SUMMARY:Séries: D: Top Shotta 2.0 c. LumberJack
+UID:bfb87d7b3a5199d24de994d5a0e13a7e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8001

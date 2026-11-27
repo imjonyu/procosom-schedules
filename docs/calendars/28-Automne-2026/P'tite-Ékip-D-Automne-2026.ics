@@ -92,6 +92,13 @@ UID:65b45165c84244080b6b9a20e90ec0b9
 URL:http://www.procosom.com/feuille-pointage.php?match=8267
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261202T032500Z
+SUMMARY:Séries: D: P'tite Ékip c. Guerriers
+UID:2fcfe83285ba7a8571d7b5f616f10ddd
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8066
 DURATION:PT1H
 LOCATION:CVM-Quad-#1

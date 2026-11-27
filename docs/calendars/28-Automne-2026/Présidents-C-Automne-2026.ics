@@ -101,6 +101,13 @@ UID:8643daa364e732543480e1c31a79ed40
 URL:http://www.procosom.com/feuille-pointage.php?match=8221
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261202T012500Z
+SUMMARY:Séries: C: Présidents c. Axolotls
+UID:01b037a8bcd6a7a05c588f42d2700848
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7995
 DURATION:PT1H
 LOCATION:CVM-Quad-#1

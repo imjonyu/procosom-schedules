@@ -47,6 +47,13 @@ UID:08c7d84749bd44916889325caf42be33
 URL:http://www.procosom.com/feuille-pointage.php?match=8103
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261203T002500Z
+SUMMARY:Séries: B: Golden Kales HC c. TDC Sélections
+UID:3b9358fe88be38c0a5361fff4f8c14ca
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8166
 DURATION:PT1H
 LOCATION:CVM-Quad-#1

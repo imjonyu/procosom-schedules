@@ -75,10 +75,10 @@ URL:http://www.procosom.com/feuille-pointage.php?match=7988
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20261127T012500Z
-SUMMARY:A: Barking Dogs c. Golden Kales
-UID:63fbf34a67983479311cb0b6c924d19d
+LOCATION:CVM-Quad-#1
+DTSTART:20261202T002500Z
+SUMMARY:Séries: A: Mouettes c. Barking Dogs
+UID:5acd519f022fb6a75733ffb152e886d4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8023
@@ -97,6 +97,15 @@ DTSTART:20260930T012500Z
 SUMMARY:A: Barking Dogs - 5 c. Mouettes - 6
 UID:7c5ccc5c40e5a34bcff7efa84be7c209
 URL:http://www.procosom.com/feuille-pointage.php?match=8094
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8270
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261127T012500Z
+SUMMARY:A: Barking Dogs - 3 c. Golden Kales - 5
+UID:450c2d1f74b4a21c0d593991c00bfa1e
+URL:http://www.procosom.com/feuille-pointage.php?match=8270
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8179

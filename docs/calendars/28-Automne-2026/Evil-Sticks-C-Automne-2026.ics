@@ -74,6 +74,13 @@ UID:54649ffb168894b63ab4e7566be3a2c1
 URL:http://www.procosom.com/feuille-pointage.php?match=8062
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261204T022500Z
+SUMMARY:Séries: C: Goats c. Evil Sticks
+UID:7cbaa064963ee40a23a0cc3eaa72a387
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8084
 DURATION:PT1H
 LOCATION:CVM-Quad-#1

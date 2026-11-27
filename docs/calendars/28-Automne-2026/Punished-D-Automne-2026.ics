@@ -38,11 +38,13 @@ UID:c627234571ca0a2142b24855da803bb3
 URL:http://www.procosom.com/feuille-pointage.php?match=8251
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8269
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261127T012500Z
-SUMMARY:D: LumberJack c. Punished
+SUMMARY:D: LumberJack - 8 c. Punished - 9
 UID:ffbf17565e61cb787216abdffdb1354f
+URL:http://www.procosom.com/feuille-pointage.php?match=8269
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8127
@@ -76,7 +78,7 @@ DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8186
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20261029T022500Z
-SUMMARY:D: Punished - 9 c. Guerriers - 1
+SUMMARY:D: Punished - 8 c. Guerriers - 1
 UID:1975f99a40f77db8655a88d0ede4b130
 URL:http://www.procosom.com/feuille-pointage.php?match=8186
 END:VEVENT

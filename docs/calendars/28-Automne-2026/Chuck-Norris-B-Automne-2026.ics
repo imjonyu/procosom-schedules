@@ -109,4 +109,11 @@ SUMMARY:B: Chuck Norris - 8 c. Front de Libération du Cosom - 1
 UID:777c95a9b151b265e083ebef06511d5b
 URL:http://www.procosom.com/feuille-pointage.php?match=8024
 END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261203T022500Z
+SUMMARY:Séries: B: Chuck Norris c. Mêlés Noirs
+UID:85b2a98c757769db0cf14cc08394ab3a
+END:VEVENT
 END:VCALENDAR

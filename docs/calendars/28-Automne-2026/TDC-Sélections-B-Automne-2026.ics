@@ -48,10 +48,10 @@ URL:http://www.procosom.com/feuille-pointage.php?match=8242
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20261127T022500Z
-SUMMARY:B: TDC Sélections c. Achigans
-UID:70eca75a07bb41bbc62abc9eb12f7930
+LOCATION:CVM-Quad-#1
+DTSTART:20261203T002500Z
+SUMMARY:Séries: B: Golden Kales HC c. TDC Sélections
+UID:3b9358fe88be38c0a5361fff4f8c14ca
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8018
@@ -79,6 +79,15 @@ DTSTART:20261022T232500Z
 SUMMARY:B: TDC Sélections - 7 c. Golden Kales HC - 4
 UID:ec20c81ad6fc5e29ee29cd8950d1aabb
 URL:http://www.procosom.com/feuille-pointage.php?match=8166
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8272
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261127T022500Z
+SUMMARY:B: TDC Sélections - 4 c. Achigans - 3
+UID:185dbc940c1bd52165d29626d209c84d
+URL:http://www.procosom.com/feuille-pointage.php?match=8272
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8037

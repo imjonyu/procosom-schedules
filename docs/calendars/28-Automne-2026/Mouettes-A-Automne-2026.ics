@@ -109,4 +109,11 @@ SUMMARY:A: Mouettes - 7 c. Sags - 6
 UID:44d9e60843736d17dd1bf74b6ff977dd
 URL:http://www.procosom.com/feuille-pointage.php?match=8256
 END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261202T002500Z
+SUMMARY:Séries: A: Mouettes c. Barking Dogs
+UID:5acd519f022fb6a75733ffb152e886d4
+END:VEVENT
 END:VCALENDAR

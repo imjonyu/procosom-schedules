@@ -38,20 +38,22 @@ UID:73f83475d947477dff04cd3d5415cc09
 URL:http://www.procosom.com/feuille-pointage.php?match=8026
 END:VEVENT
 BEGIN:VEVENT
-DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20261127T032500Z
-SUMMARY:D: Guerriers c. Wolfpack
-UID:d7a59bca3e6d0a32cb75300adcf89f19
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8186
 DURATION:PT1H
 LOCATION:CVM-Quad-#3
 DTSTART:20261029T022500Z
-SUMMARY:D: Punished - 9 c. Guerriers - 1
+SUMMARY:D: Punished - 8 c. Guerriers - 1
 UID:1975f99a40f77db8655a88d0ede4b130
 URL:http://www.procosom.com/feuille-pointage.php?match=8186
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8230
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261127T032500Z
+SUMMARY:D: Guerriers - 2 c. Wolfpack - 5
+UID:22b36893129e8be6172c8c6333aae67f
+URL:http://www.procosom.com/feuille-pointage.php?match=8230
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8220
@@ -79,6 +81,13 @@ DTSTART:20261021T002500Z
 SUMMARY:D: Top Shotta 2.0 - 6 c. Guerriers - 0
 UID:80ca150aee8f0d59afd61c63570b2195
 URL:http://www.procosom.com/feuille-pointage.php?match=8154
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261202T032500Z
+SUMMARY:Séries: D: P'tite Ékip c. Guerriers
+UID:2fcfe83285ba7a8571d7b5f616f10ddd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8050

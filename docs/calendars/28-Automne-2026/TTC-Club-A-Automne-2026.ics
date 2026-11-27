@@ -38,6 +38,13 @@ UID:a4452d278d9bf78eceba201563039e75
 URL:http://www.procosom.com/feuille-pointage.php?match=8120
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261204T012500Z
+SUMMARY:Séries: A: Jeunes Professionnels c. TTC Club
+UID:25d97c58107763cea71facb4b1b2e807
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8086
 DURATION:PT1H
 LOCATION:CVM-Quad-#1

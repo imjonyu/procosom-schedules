@@ -56,6 +56,13 @@ UID:c627234571ca0a2142b24855da803bb3
 URL:http://www.procosom.com/feuille-pointage.php?match=8251
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261203T032500Z
+SUMMARY:Séries: D: Wolfpack c. Möder de Jötunn
+UID:7598c0f7f7666518beb12d44ff4d5e97
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8004
 DURATION:PT1H
 LOCATION:CVM-Quad-#1

@@ -56,6 +56,13 @@ UID:ac4aba1e0786b80f224bb44a400f6648
 URL:http://www.procosom.com/feuille-pointage.php?match=8065
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261203T032500Z
+SUMMARY:Séries: D: Wolfpack c. Möder de Jötunn
+UID:7598c0f7f7666518beb12d44ff4d5e97
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8105
 DURATION:PT1H
 LOCATION:CVM-Pal
@@ -74,11 +81,13 @@ UID:5cceffc17db0ae3eb035a8bcd4a9e1b6
 URL:http://www.procosom.com/feuille-pointage.php?match=8127
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8230
 DURATION:PT1H
 LOCATION:CVM-Pal
 DTSTART:20261127T032500Z
-SUMMARY:D: Guerriers c. Wolfpack
-UID:d7a59bca3e6d0a32cb75300adcf89f19
+SUMMARY:D: Guerriers - 2 c. Wolfpack - 5
+UID:22b36893129e8be6172c8c6333aae67f
+URL:http://www.procosom.com/feuille-pointage.php?match=8230
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8040

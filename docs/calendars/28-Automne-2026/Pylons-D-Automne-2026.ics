@@ -29,6 +29,13 @@ UID:24225fc9015753fd177a50b2243c8d94
 URL:http://www.procosom.com/feuille-pointage.php?match=8178
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261202T032500Z
+SUMMARY:Séries: D: Tinderellas c. Pylons
+UID:0f3d3466e537d3c89f90582211f02c5e
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8198
 DURATION:PT1H
 LOCATION:CVM-Pal

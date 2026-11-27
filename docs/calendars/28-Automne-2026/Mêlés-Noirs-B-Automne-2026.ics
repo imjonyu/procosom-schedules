@@ -101,6 +101,13 @@ UID:5e84b97682bf0ea7eefa94be6653e2f4
 URL:http://www.procosom.com/feuille-pointage.php?match=8032
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261203T022500Z
+SUMMARY:Séries: B: Chuck Norris c. Mêlés Noirs
+UID:85b2a98c757769db0cf14cc08394ab3a
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8096
 DURATION:PT1H
 LOCATION:CVM-Quad-#3

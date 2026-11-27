@@ -83,11 +83,13 @@ UID:456fdc1b034596813cf7150baf40a3a5
 URL:http://www.procosom.com/feuille-pointage.php?match=8237
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8271
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261127T022500Z
-SUMMARY:C: Axolotls c. Ballebuzards
+SUMMARY:C: Axolotls - 5 c. Ballebuzards - 4
 UID:6123e833769f8e92e0927b7520c59a3d
+URL:http://www.procosom.com/feuille-pointage.php?match=8271
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8108
@@ -106,5 +108,12 @@ DTSTART:20261006T232500Z
 SUMMARY:C: Ballebuzards - 2 c. CocoCrazys - 2
 UID:83bad0db3dbc1689d72a6a0c6ebd8c97
 URL:http://www.procosom.com/feuille-pointage.php?match=8109
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Quad-#1
+DTSTART:20261202T012500Z
+SUMMARY:Séries: C: Ballebuzards c. Momentums
+UID:a8f9e0f0185934f500e235101cc6e1b1
 END:VEVENT
 END:VCALENDAR

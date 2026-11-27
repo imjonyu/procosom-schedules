@@ -74,11 +74,13 @@ UID:33caf394a8a27688b985fbd91c78aba4
 URL:http://www.procosom.com/feuille-pointage.php?match=8181
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8273
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261127T032500Z
-SUMMARY:D: Trappeurs c. Top Shotta 2.0
+SUMMARY:D: Trappeurs - 3 c. Top Shotta 2.0 - 4
 UID:2570ac3c30fd1f087b2b31416d1d4f4f
+URL:http://www.procosom.com/feuille-pointage.php?match=8273
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=7989
@@ -88,6 +90,13 @@ DTSTART:20260826T010500Z
 SUMMARY:D: Top Shotta 2.0 - 7 c. Pylons - 4
 UID:477e624e57e588bf6c7f21810739abda
 URL:http://www.procosom.com/feuille-pointage.php?match=7989
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261203T032500Z
+SUMMARY:Séries: D: Top Shotta 2.0 c. LumberJack
+UID:bfb87d7b3a5199d24de994d5a0e13a7e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8045

@@ -65,11 +65,13 @@ UID:2b6cdc3dfafebce6a2ad0ac12097c3aa
 URL:http://www.procosom.com/feuille-pointage.php?match=7990
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8273
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261127T032500Z
-SUMMARY:D: Trappeurs c. Top Shotta 2.0
+SUMMARY:D: Trappeurs - 3 c. Top Shotta 2.0 - 4
 UID:2570ac3c30fd1f087b2b31416d1d4f4f
+URL:http://www.procosom.com/feuille-pointage.php?match=8273
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8236

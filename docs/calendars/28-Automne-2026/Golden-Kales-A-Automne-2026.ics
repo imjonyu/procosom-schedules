@@ -66,10 +66,10 @@ URL:http://www.procosom.com/feuille-pointage.php?match=7999
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
-LOCATION:CVM-Pal
-DTSTART:20261127T012500Z
-SUMMARY:A: Barking Dogs c. Golden Kales
-UID:63fbf34a67983479311cb0b6c924d19d
+LOCATION:CVM-Quad-#1
+DTSTART:20261204T012500Z
+SUMMARY:Séries: A: Mighty Ducks c. Golden Kales
+UID:19fcce2cb85843503f6fa573333c82d5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8042
@@ -106,5 +106,14 @@ DTSTART:20260917T002500Z
 SUMMARY:A: TTC Club - 6 c. Golden Kales - 2
 UID:9d0c0d28bbcaf15d2356b565d63f0674
 URL:http://www.procosom.com/feuille-pointage.php?match=8055
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8270
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261127T012500Z
+SUMMARY:A: Barking Dogs - 3 c. Golden Kales - 5
+UID:450c2d1f74b4a21c0d593991c00bfa1e
+URL:http://www.procosom.com/feuille-pointage.php?match=8270
 END:VEVENT
 END:VCALENDAR

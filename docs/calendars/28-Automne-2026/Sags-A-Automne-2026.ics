@@ -11,6 +11,13 @@ UID:678c739c1c2037d050091f8568dd9ca8
 URL:http://www.procosom.com/feuille-pointage.php?match=8161
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261202T002500Z
+SUMMARY:Séries: A: Sags c. Chums de Palettes
+UID:1dd29d102d7cb917ea0929e65772af44
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8033
 DURATION:PT1H
 LOCATION:CVM-Quad-#1

@@ -2,6 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DURATION:PT1H
+LOCATION:CVM-Pal
+DTSTART:20261202T002500Z
+SUMMARY:Séries: A: Sags c. Chums de Palettes
+UID:1dd29d102d7cb917ea0929e65772af44
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8115
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
@@ -83,11 +90,13 @@ UID:8811b8d81b73031db43c724a78562c1e
 URL:http://www.procosom.com/feuille-pointage.php?match=8180
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8268
 DURATION:PT1H
 LOCATION:CVM-Quad-#1
 DTSTART:20261127T002500Z
-SUMMARY:A: Jeunes Professionnels c. Chums de Palettes
+SUMMARY:A: Jeunes Professionnels - 10 c. Chums de Palettes - 4
 UID:02754e9000db0dda0f8ed257f6fb13fa
+URL:http://www.procosom.com/feuille-pointage.php?match=8268
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.procosom.com/feuille-pointage.php?match=8043
